@@ -21,3 +21,175 @@ body {
 img{
     max-width:100%;
 }
+
+/* ====== layout + calendar (student version, spotify dark) ====== */
+
+.topbar{
+  padding: 16px;
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.brand h1{
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.muted{
+  color: rgba(255,255,255,0.7);
+  font-size: 13px;
+}
+
+.nav{
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.nav button{
+  background: var(--grey);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: var(--text-white);
+  padding: 8px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.nav button:hover{
+  border-color: rgba(255,255,255,0.25);
+}
+
+.nav button:active{
+  transform: scale(0.98);
+}
+
+.monthLabel{
+  min-width: 120px;
+  text-align: center;
+  font-weight: 600;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: var(--grey);
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+.layout{
+  padding: 16px;
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 16px;
+}
+
+.calendarCard, .sideCard{
+  background: var(--grey);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 14px;
+  padding: 12px;
+}
+
+.dow{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.7);
+}
+
+.dow > div{
+  padding: 8px 10px;
+  border-radius: 10px;
+  text-align: center;
+  background: rgba(0,0,0,0.18);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+}
+
+.day{
+  background: rgba(0,0,0,0.20);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 10px;
+  min-height: 74px;
+  color: var(--text-white);
+  cursor: pointer;
+  text-align: left;
+  transition: 0.15s;
+}
+
+.day:hover{
+  border-color: rgba(255,255,255,0.22);
+}
+
+.day:disabled{
+  opacity: 0.35;
+  cursor: default;
+}
+
+.day .num{
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.day--today{
+  border-color: var(--spotify-green);
+  box-shadow: 0 0 0 1px rgba(29,185,84,0.35);
+}
+
+.day--selected{
+  border-color: rgba(255,255,255,0.45);
+}
+
+.sideTitle{
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+.results{
+  margin-top: 10px;
+}
+
+.release{
+  background: rgba(0,0,0,0.22);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+.release__title{
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.release__meta{
+  color: rgba(255,255,255,0.7);
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+
+.release__link{
+  color: var(--spotify-green);
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.release__link:hover{
+  text-decoration: underline;
+}
+
+@media (max-width: 900px){
+  .layout{
+    grid-template-columns: 1fr;
+  }
+}
