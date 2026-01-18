@@ -5,6 +5,40 @@
   <title>New Releases Calendar</title>
   <link rel="stylesheet" href="style.css">
 </head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Spotify – New Releases</h1>
+      <p class="muted">Calendar view (7-column grid) + navigation</p>
+    </div>
+
+    <div class="nav">
+      <button id="prevMonth" type="button" aria-label="Previous month">←</button>
+      <div class="monthLabel" id="monthLabel">YYYY-MM</div>
+      <button id="nextMonth" type="button" aria-label="Next month">→</button>
+      <button id="todayBtn" type="button">Today</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="calendarCard">
+      <div class="dow" aria-hidden="true">
+        <div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div><div>Sun</div>
+      </div>
+
+      <div id="calendarGrid" class="grid" role="grid" aria-label="Calendar grid"></div>
+    </section>
+
+    <aside class="sideCard">
+      <h2 class="sideTitle">Releases (selected day)</h2>
+      <p class="muted" id="selectedDayLabel">Pick a day in the calendar.</p>
+
+      <div id="spotify-data" class="results">
+        Loading...
+      </div>
+    </aside>
+  </main>
+
 
 <body>
 
