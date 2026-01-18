@@ -1,1 +1,8 @@
+:root {
+    --spotify-green: #1DB954;
+    --bg-black: #121212;
+    --grey: #181818;
+    --text-white: #FFFFFF;
 
+    --main-font: 'Inter', sans-serif;
+}
