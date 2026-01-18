@@ -6,3 +6,18 @@
 
     --main-font: 'Inter', sans-serif;
 }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: var(--bg-black);
+    color: var(--text-white);
+    font-family: var(--main-font);
+    line-height: 1.6;
+}
+
+img{
+    max-width:100%;
+}
