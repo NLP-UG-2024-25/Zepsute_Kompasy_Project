@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 :root {
     --spotify-green: #1DB954;
     --bg-black: #121212;
     --grey: #181818;
     --text-white: #FFFFFF;
 
-    --main-font: 'Inter', sans-serif;
+    --main-font: 'Montserrat', sans-serif;
 }
 * {
     margin: 0;
@@ -57,11 +58,14 @@ img{
   padding: 8px 10px;
   border-radius: 10px;
   cursor: pointer;
-  transition: 0.15s;
+  transition: all 0.2s ease;
 }
 
 .nav button:hover{
   border-color: rgba(255,255,255,0.25);
+  background: var(--spotify-green);
+  color: black;
+  transform: scale(1.05);
 }
 
 .nav button:active{
@@ -86,10 +90,11 @@ img{
 }
 
 .calendarCard, .sideCard{
-  background: var(--grey);
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 14px;
-  padding: 12px;
+  background: rgba(24, 24, 24, 0.75); 
+  backdrop-filter: blur(12px);       
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
 }
 
 .dow{
@@ -124,7 +129,7 @@ img{
   color: var(--text-white);
   cursor: pointer;
   text-align: left;
-  transition: 0.15s;
+  transition: all 0.2s ease;
 }
 
 .day:hover{
@@ -148,6 +153,11 @@ img{
 
 .day--selected{
   border-color: rgba(255,255,255,0.45);
+}
+.day:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-2px); 
+  border-color: var(--spotify-green);
 }
 
 .sideTitle{
