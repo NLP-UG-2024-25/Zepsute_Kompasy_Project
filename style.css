@@ -4,6 +4,9 @@
     --bg-black: #121212;
     --grey: #181818;
     --text-white: #FFFFFF;
+    --surface: rgba(17,24,39,.72);
+   --surface2: rgba(15,23,42,.70);
+   --border: rgba(255,255,255,.10);
 
     --main-font: 'Montserrat', sans-serif;
 }
@@ -94,17 +97,37 @@ img{
 
 .layout{
   padding: 16px;
-  display: grid;
   grid-template-columns: 1.2fr 0.8fr;
-  gap: 16px;
+  width: min(1100px, 92%);
+  margin: 14px auto 28px;
+
+  display: flex;
+  gap: 14px;
+  align-items: stretch;
 }
 
 .calendarCard, .sideCard{
-  background: rgba(24, 24, 24, 0.75); 
-  backdrop-filter: blur(12px);       
+  background: var(--surface);
+  backdrop-filter: blur(10px);       
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.1);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.calendarCard{
+  flex: 2 1 680px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sideCard{
+  flex: 1 1 340px;
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .dow{
