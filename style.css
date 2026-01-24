@@ -213,3 +213,25 @@ img{
     grid-template-columns: 1fr;
   }
 }
+
+.day__dot {
+  width: 6px;
+  height: 6px;
+  background-color: var(--spotify-green);
+  border-radius: 50%;
+  margin-top: 4px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-black);
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
