@@ -1,0 +1,20 @@
+# Dockerfile for mobile browser testing
+# Uses Node.js serve with mobile-optimized settings
+# Access from mobile device on same network or use browser DevTools mobile emulation
+
+FROM node:alpine
+
+# Install serve globally
+RUN npm install -g serve
+
+WORKDIR /app
+
+# Expose port 3000 (default for serve)
+EXPOSE 3000
+
+# Run serve with:
+# -s: Single page application mode
+# -l: Listen on port 3000
+# -n: No clipboard (works better in containers)
+# --cors: Enable CORS for mobile device access
+CMD ["serve", "-s", ".", "-l", "3000", "-n", "--cors"]

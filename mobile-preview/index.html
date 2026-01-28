@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Preview - SoundCalendar</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+
+    h1 {
+      color: #fff;
+      margin-bottom: 10px;
+      font-size: 1.5rem;
+    }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .controls button {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.2s;
+      background: #4a4a6a;
+      color: #fff;
+    }
+
+    .controls button:hover {
+      background: #6a6a8a;
+    }
+
+    .controls button.active {
+      background: #0f4c75;
+    }
+
+    .phone-frame {
+      background: #1a1a1a;
+      border-radius: 40px;
+      padding: 12px;
+      box-shadow:
+        0 0 0 3px #2a2a2a,
+        0 20px 60px rgba(0,0,0,0.5),
+        inset 0 0 20px rgba(255,255,255,0.05);
+      position: relative;
+    }
+
+    .phone-frame::before {
+      content: '';
+      position: absolute;
+      top: 18px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80px;
+      height: 6px;
+      background: #2a2a2a;
+      border-radius: 3px;
+    }
+
+    .screen {
+      border-radius: 30px;
+      overflow: hidden;
+      background: #000;
+    }
+
+    iframe {
+      border: none;
+      display: block;
+    }
+
+    .info {
+      color: #888;
+      margin-top: 15px;
+      font-size: 14px;
+      text-align: center;
+    }
+
+    .refresh-btn {
+      margin-top: 10px;
+      padding: 10px 20px;
+      background: #0f4c75;
+      color: #fff;
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .refresh-btn:hover {
+      background: #1a6ca8;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mobile Device Preview</h1>
+
+  <div class="controls">
+    <button onclick="setDevice('iphone-se')" id="btn-iphone-se">iPhone SE</button>
+    <button onclick="setDevice('iphone-14')" id="btn-iphone-14" class="active">iPhone 14</button>
+    <button onclick="setDevice('iphone-14-pro-max')" id="btn-iphone-14-pro-max">iPhone 14 Pro Max</button>
+    <button onclick="setDevice('pixel-7')" id="btn-pixel-7">Pixel 7</button>
+    <button onclick="setDevice('galaxy-s23')" id="btn-galaxy-s23">Galaxy S23</button>
+    <button onclick="setDevice('ipad-mini')" id="btn-ipad-mini">iPad Mini</button>
+  </div>
+
+  <div class="phone-frame" id="phone-frame">
+    <div class="screen" id="screen">
+      <iframe id="preview" src="/app/"></iframe>
+    </div>
+  </div>
+
+  <p class="info" id="info">iPhone 14 - 390 x 844</p>
+
+  <button class="refresh-btn" onclick="refreshPreview()">Refresh Preview</button>
+
+  <script>
+    const devices = {
+      'iphone-se': { width: 375, height: 667, name: 'iPhone SE' },
+      'iphone-14': { width: 390, height: 844, name: 'iPhone 14' },
+      'iphone-14-pro-max': { width: 430, height: 932, name: 'iPhone 14 Pro Max' },
+      'pixel-7': { width: 412, height: 915, name: 'Pixel 7' },
+      'galaxy-s23': { width: 360, height: 780, name: 'Galaxy S23' },
+      'ipad-mini': { width: 744, height: 1133, name: 'iPad Mini' }
+    };
+
+    let currentDevice = 'iphone-14';
+
+    function setDevice(device) {
+      currentDevice = device;
+      const d = devices[device];
+      const iframe = document.getElementById('preview');
+      const screen = document.getElementById('screen');
+      const info = document.getElementById('info');
+
+      // Scale down if too large for viewport
+      const maxHeight = window.innerHeight - 200;
+      const scale = d.height > maxHeight ? maxHeight / d.height : 1;
+
+      iframe.style.width = d.width + 'px';
+      iframe.style.height = d.height + 'px';
+
+      if (scale < 1) {
+        screen.style.transform = `scale(${scale})`;
+        screen.style.transformOrigin = 'top center';
+      } else {
+        screen.style.transform = 'none';
+      }
+
+      info.textContent = `${d.name} - ${d.width} x ${d.height}`;
+
+      // Update active button
+      document.querySelectorAll('.controls button').forEach(btn => btn.classList.remove('active'));
+      document.getElementById('btn-' + device).classList.add('active');
+
+      refreshPreview();
+    }
+
+    function refreshPreview() {
+      const iframe = document.getElementById('preview');
+      iframe.src = iframe.src;
+    }
+
+    // Initialize
+    setDevice(currentDevice);
+  </script>
+</body>
+</html>
