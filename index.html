@@ -65,6 +65,25 @@
     </section>
 
     <aside class="sideCard" aria-label="Releases panel">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
+        <h2 class="sideTitle">Releases</h2>
+        <div class="nav">
+           <button class="pillBtn small">Day</button>
+           <button class="pillBtn small" style="background:transparent">Week</button>
+        </div>
+      </div>
+    
+      <input type="text" placeholder="Search artist / album..." 
+             style="width:100%; background:rgba(0,0,0,0.2); border:1px solid rgba(255,255,255,0.1); padding:10px; border-radius:8px; color:white; margin-bottom:15px;">
+    
+      <div style="margin-bottom:15px;">
+        <p class="muted small" style="margin-bottom:8px; font-weight:bold;">TYPE</p>
+        <label style="display:block; font-size:13px;"><input type="checkbox" checked> Albums</label>
+        <label style="display:block; font-size:13px;"><input type="checkbox" checked> Singles</label>
+      </div>
+      
+      <div id="releasesList" class="results">
+        </div>
       <div>
         <h2 class="sideTitle">Releases</h2>
         <p class="muted" id="selectedDay">Pick a day in the calendar.</p>

@@ -385,3 +385,61 @@ body, .calendarCard, .sideCard, .day, .release, .toggle, .chip, .monthLabel{
     font-size: 0.8rem;
     margin-top: auto;      
 }
+
+.search-input {
+  width: 100%;
+  background: #282828;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-family: var(--font);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--spotify-green);
+}
+
+.filter-group {
+  margin-bottom: 24px;
+}
+
+.filter-group-title {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+}
+
+.filter-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.filter-item input[type="checkbox"] {
+  accent-color: var(--spotify-green); /* Zielony kolor checkboxa */
+  width: 16px;
+  height: 16px;
+}
+
+.day__dots-container {
+  display: flex;
+  gap: 4px;
+  margin-top: auto;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--spotify-green);
+}
+.dot--high { box-shadow: 0 0 8px var(--spotify-green); }
