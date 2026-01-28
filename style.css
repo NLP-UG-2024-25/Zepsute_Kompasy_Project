@@ -136,6 +136,51 @@ body{
   border-radius: 14px;
   background: rgba(0,0,0,.28);
   border: 1px solid rgba(255,255,255,0.12);
+  cursor: pointer;
+  transition: all 0.18s ease;
+  font-family: var(--font);
+  font-size: 14px;
+  color: var(--text);
+}
+.monthLabel:hover{
+  border-color: var(--spotify-green);
+  background: rgba(29,185,84,0.15);
+}
+
+.dateInput{
+  background: var(--grey);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: var(--text);
+  padding: 10px 14px;
+  border-radius: 14px;
+  font-family: var(--font);
+  font-size: 14px;
+  cursor: pointer;
+  transition: all .18s ease;
+}
+.dateInput:hover{
+  border-color: rgba(255,255,255,.24);
+  background: rgba(29,185,84,.15);
+}
+.dateInput:focus{
+  outline: none;
+  border-color: var(--spotify-green);
+  box-shadow: 0 0 0 2px rgba(29,185,84,.25);
+}
+/* Style the date picker icon */
+.dateInput::-webkit-calendar-picker-indicator{
+  filter: invert(1);
+  cursor: pointer;
+}
+
+.theme-light .dateInput{
+  background: #FFFFFF;
+  border: 1px solid rgba(11,16,32,.14);
+  box-shadow: 0 8px 24px rgba(11,16,32,.08);
+  color: #0B1020;
+}
+.theme-light .dateInput::-webkit-calendar-picker-indicator{
+  filter: none;
 }
 
 
@@ -268,31 +313,206 @@ body{
 .release__meta{ color: rgba(255,255,255,0.7); font-size: 12px; }
 
 
+/* Month/Year Picker Modal */
+.modal-overlay{
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+}
+.modal-overlay.active{
+  display: flex;
+}
+.modal-content{
+  background: var(--grey);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 20px;
+  padding: 24px;
+  min-width: 280px;
+  max-width: 90vw;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+.modal-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.modal-year{
+  font-size: 24px;
+  font-weight: 900;
+}
+.modal-nav-btn{
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.15);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: all 0.2s;
+}
+.modal-nav-btn:hover{
+  background: var(--spotify-green);
+  color: #000;
+}
+.month-grid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.month-btn{
+  background: rgba(0,0,0,0.2);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: var(--text);
+  padding: 14px 8px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+.month-btn:hover{
+  background: rgba(29,185,84,0.2);
+  border-color: var(--spotify-green);
+}
+.month-btn.active{
+  background: var(--spotify-green);
+  color: #000;
+  border-color: var(--spotify-green);
+}
+.modal-close-btn{
+  width: 100%;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.15);
+  color: var(--text);
+  padding: 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+.modal-close-btn:hover{
+  background: rgba(255,255,255,0.2);
+}
+
+.theme-light .modal-content{
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+.theme-light .month-btn{
+  background: rgba(0,0,0,0.05);
+  border: 1px solid rgba(0,0,0,0.1);
+  color: #0B1020;
+}
+.theme-light .modal-nav-btn,
+.theme-light .modal-close-btn{
+  background: rgba(0,0,0,0.05);
+  border: 1px solid rgba(0,0,0,0.1);
+  color: #0B1020;
+}
+
 @media (max-width: 900px){
   .topbar{ flex-direction: column; align-items: stretch; gap: 12px; }
-  .topActions{ justify-content: flex-start; }
-  .layout{ flex-direction: column; width: min(1140px, 96%); padding: 12px; }
-  .calendarCard, .sideCard{ width: 100%; flex: 1 1 auto; }
-  .monthLabel{ min-width: 0; width: 100%; }
+  .topActions{ justify-content: flex-start; width: 100%; }
+  .layout{ flex-direction: column; width: 100%; padding: 8px; margin: 8px auto; }
+  .calendarCard, .sideCard{ width: 100%; flex: 1 1 auto; min-width: 0; }
+
+  .nav{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .monthLabel{
+    min-width: 0;
+    flex: 1 1 auto;
+    padding: 8px 10px;
+    font-size: 13px;
+  }
+
+  .iconBtn{
+    width: 38px;
+    height: 38px;
+    font-size: 14px;
+  }
+
+  .pillBtn{
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .dateInput{
+    padding: 8px 10px;
+    font-size: 12px;
+    flex: 0 0 auto;
+  }
+
   .grid, .dow {
-    gap: 4px; 
+    gap: 3px;
   }
 
   .day {
-    padding: 5px;
-    min-height: 60px; 
+    padding: 4px;
+    min-height: 50px;
     border-radius: 8px;
   }
 
   .day .num {
-    font-size: 11px; 
+    font-size: 11px;
+  }
+
+  .day__dot{
+    width: 4px;
+    height: 4px;
+    margin-top: 4px;
   }
 
   .legend {
-    justify-content: center; 
+    display: none;
+  }
+
+  .calendarHeader{
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .calendarCard, .sideCard{
+    padding: 12px;
+  }
+
+  .dow > div{
+    padding: 6px 2px;
     font-size: 10px;
   }
 
+  .brand{
+    gap: 8px;
+  }
+
+  .logo{
+    width: 36px;
+    height: 36px;
+  }
+
+  .title{
+    font-size: 18px;
+  }
+
+  .toggle{
+    padding: 8px 10px;
+  }
 }
 
 .theme-light{
