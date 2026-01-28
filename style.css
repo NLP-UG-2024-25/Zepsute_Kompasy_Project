@@ -381,3 +381,13 @@ body{
 
 body, .calendarCard, .sideCard, .day, .release, .toggle, .chip, .monthLabel{
   transition: background-color .25s ease, color .25s ease, box-shadow .25s ease, border-color .25s ease; }
+
+  .footer {
+    background-color: #121212; 
+    color: #b3b3b3;           
+    padding: 20px 0;
+    text-align: center;
+    border-top: 1px solid #282828; 
+    font-size: 0.8rem;
+    margin-top: auto;      
+}
