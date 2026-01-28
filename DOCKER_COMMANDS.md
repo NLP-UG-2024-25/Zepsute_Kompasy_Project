@@ -436,3 +436,79 @@ podman run -d --name soundcalendar-mobile-preview -p 3000:80 -v "%cd%":/usr/shar
 | `nginx-mobile-preview.conf` | nginx config for mobile preview |
 | `mobile-preview/index.html` | Phone frame UI with device selector |
 | `docker-compose.mobile-emulator.yml` | Android emulator setup |
+
+---
+
+## Troubleshooting
+
+### 403 Forbidden Error
+
+This happens when volume mounts become stale (e.g., after podman machine restart).
+
+**Fix - Linux / Mac:**
+```bash
+podman rm -f soundcalendar-mobile-preview
+podman run -d --name soundcalendar-mobile-preview -p 3000:80 \
+  -v "$(pwd)":/usr/share/nginx/app:ro \
+  -v "$(pwd)/mobile-preview":/usr/share/nginx/preview:ro \
+  soundcalendar-mobile-preview
+```
+
+**Fix - Windows PowerShell:**
+```powershell
+podman rm -f soundcalendar-mobile-preview
+podman run -d --name soundcalendar-mobile-preview -p 3000:80 `
+  -v "${PWD}:/usr/share/nginx/app:ro" `
+  -v "${PWD}/mobile-preview:/usr/share/nginx/preview:ro" `
+  soundcalendar-mobile-preview
+```
+
+**Fix - Windows CMD:**
+```cmd
+podman rm -f soundcalendar-mobile-preview
+podman run -d --name soundcalendar-mobile-preview -p 3000:80 -v "%cd%":/usr/share/nginx/app:ro -v "%cd%/mobile-preview":/usr/share/nginx/preview:ro soundcalendar-mobile-preview
+```
+
+### Container name already in use
+
+```
+Error: container name "soundcalendar-mobile-preview" is already in use
+```
+
+**Fix:**
+```bash
+podman rm -f soundcalendar-mobile-preview
+```
+
+### Port already in use
+
+```
+Error: bind: address already in use
+```
+
+**Fix:**
+```bash
+# Find what's using the port
+lsof -i :3000        # Linux/Mac
+netstat -ano | findstr :3000   # Windows
+
+# Kill the container using that port
+podman rm -f soundcalendar-mobile-preview
+```
+
+### Podman machine not running (macOS/Windows)
+
+```
+Error: cannot connect to Podman
+```
+
+**Fix:**
+```bash
+podman machine start
+```
+
+### Changes not showing after refresh
+
+1. Click "Refresh Preview" button in the mobile preview UI
+2. If still not working, hard refresh browser: `Cmd+Shift+R` (Mac) or `Ctrl+Shift+R` (Windows/Linux)
+3. If still not working, recreate the container (see 403 fix above)
