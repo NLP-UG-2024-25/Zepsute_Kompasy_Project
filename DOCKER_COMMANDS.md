@@ -4,6 +4,152 @@ All containers support hot-reload: edit your code, then refresh the browser to s
 
 ---
 
+## Prerequisites: Install Podman or Docker
+
+### Windows
+
+**Option A: Podman (Recommended)**
+```powershell
+# Install via winget
+winget install RedHat.Podman
+
+# Or download installer from: https://github.com/containers/podman/releases
+
+# After installation, initialize and start the Podman machine
+podman machine init
+podman machine start
+
+# Verify installation
+podman --version
+```
+
+**Option B: Docker Desktop**
+```powershell
+# Install via winget
+winget install Docker.DockerDesktop
+
+# Or download from: https://www.docker.com/products/docker-desktop/
+
+# Start Docker Desktop from Start Menu, then verify
+docker --version
+```
+
+### macOS
+
+**Option A: Podman (Recommended)**
+```bash
+# Install via Homebrew
+brew install podman
+
+# Initialize and start the Podman machine
+podman machine init
+podman machine start
+
+# Verify installation
+podman --version
+
+# Optional: Install podman-compose for docker-compose compatibility
+brew install podman-compose
+```
+
+**Option B: Docker Desktop**
+```bash
+# Install via Homebrew
+brew install --cask docker
+
+# Or download from: https://www.docker.com/products/docker-desktop/
+
+# Start Docker Desktop from Applications, then verify
+docker --version
+```
+
+### Linux (Ubuntu/Debian)
+
+**Option A: Podman**
+```bash
+# Ubuntu 20.10+ / Debian 11+
+sudo apt update
+sudo apt install -y podman
+
+# For older versions, add the repository first:
+# sudo apt install -y software-properties-common
+# sudo add-apt-repository -y ppa:projectatomic/ppa
+# sudo apt update
+# sudo apt install -y podman
+
+# Verify installation
+podman --version
+
+# Optional: Install podman-compose
+sudo apt install -y podman-compose
+# Or via pip: pip install podman-compose
+```
+
+**Option B: Docker**
+```bash
+# Install Docker
+sudo apt update
+sudo apt install -y docker.io docker-compose
+
+# Add your user to docker group (logout/login required)
+sudo usermod -aG docker $USER
+
+# Start Docker service
+sudo systemctl start docker
+sudo systemctl enable docker
+
+# Verify installation
+docker --version
+```
+
+### Linux (Fedora/RHEL/CentOS)
+
+**Podman (pre-installed on Fedora)**
+```bash
+# Fedora (usually pre-installed)
+sudo dnf install -y podman podman-compose
+
+# RHEL/CentOS 8+
+sudo dnf install -y podman podman-compose
+
+# Verify
+podman --version
+```
+
+---
+
+## Starting Podman/Docker
+
+### Podman (macOS/Windows)
+```bash
+# Check machine status
+podman machine list
+
+# Start the machine (required before running containers)
+podman machine start
+
+# Stop the machine when done
+podman machine stop
+```
+
+### Docker (Linux)
+```bash
+# Start Docker service
+sudo systemctl start docker
+
+# Check status
+sudo systemctl status docker
+
+# Stop Docker service
+sudo systemctl stop docker
+```
+
+### Docker Desktop (macOS/Windows)
+- Start Docker Desktop application from Start Menu (Windows) or Applications (macOS)
+- Wait for the whale icon in system tray to show "Docker Desktop is running"
+
+---
+
 ## Option 1: Desktop Browser Container (port 8080)
 
 ### Build
