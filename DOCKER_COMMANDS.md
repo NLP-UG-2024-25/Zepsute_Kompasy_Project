@@ -249,25 +249,77 @@ podman-compose -f docker-compose.mobile-emulator.yml down
 
 ## Container Management
 
+### List containers
+```bash
+# List running containers
+podman ps
+
+# List all containers (including stopped)
+podman ps -a
+```
+
 ### Stop containers
 ```bash
+# Stop one container
+podman stop soundcalendar-mobile-preview
+
+# Stop multiple containers
 podman stop soundcalendar-desktop soundcalendar-mobile-preview
+
+# Stop all running containers
+podman stop -a
 ```
 
 ### Remove containers
 ```bash
+# Remove stopped container
+podman rm soundcalendar-mobile-preview
+
+# Remove multiple containers
 podman rm soundcalendar-desktop soundcalendar-mobile-preview
+
+# Force remove (stop + remove in one command)
+podman rm -f soundcalendar-mobile-preview
+
+# Force remove all project containers
+podman rm -f soundcalendar-desktop soundcalendar-mobile-preview
 ```
 
-### Force remove (stop + remove)
+### Remove old container before starting new one
+If you get error: `container name already in use`, run:
+
+**Linux / Mac:**
 ```bash
-podman rm -f soundcalendar-desktop soundcalendar-mobile-preview
+podman rm -f soundcalendar-mobile-preview
+```
+
+**Windows PowerShell / CMD:**
+```powershell
+podman rm -f soundcalendar-mobile-preview
+```
+
+### Clean up everything (containers + images)
+```bash
+# Remove all stopped containers
+podman container prune
+
+# Remove all unused images
+podman image prune
+
+# Remove everything (containers, images, volumes, networks)
+podman system prune -a
 ```
 
 ### View logs
 ```bash
-podman logs soundcalendar-desktop
+# View logs
 podman logs soundcalendar-mobile-preview
+
+# Follow logs in real-time
+podman logs -f soundcalendar-mobile-preview
+
+# Show last 50 lines
+podman logs --tail 50 soundcalendar-mobile-preview
 ```
 
 ### Restart container
@@ -275,14 +327,9 @@ podman logs soundcalendar-mobile-preview
 podman restart soundcalendar-mobile-preview
 ```
 
-### List running containers
+### Enter container shell (for debugging)
 ```bash
-podman ps
-```
-
-### List all containers (including stopped)
-```bash
-podman ps -a
+podman exec -it soundcalendar-mobile-preview sh
 ```
 
 ---
