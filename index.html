@@ -35,9 +35,10 @@
 
       <nav class="nav" aria-label="Calendar navigation">
         <button id="prevMonth" class="iconBtn" type="button" aria-label="Previous month">←</button>
-        <div class="monthLabel" id="monthLabel">YYYY-MM</div>
+        <button class="monthLabel" id="monthLabel" type="button" title="Click to select month/year">YYYY-MM</button>
         <button id="nextMonth" class="iconBtn" type="button" aria-label="Next month">→</button>
         <button id="todayBtn" class="pillBtn" type="button">Today</button>
+        <input type="date" id="dateInput" class="dateInput" title="Jump to date">
       </nav>
     </div>
   </header>
@@ -95,9 +96,20 @@
 
 <footer class="footer">
   <p>© 2026 Spotify SoundCalendar Project • <a href="#">Terms</a></p>
-</footer> 
+</footer>
 
-
+<!-- Month/Year Picker Modal -->
+<div class="modal-overlay" id="monthPickerModal">
+  <div class="modal-content">
+    <div class="modal-header">
+      <button class="modal-nav-btn" id="prevYearBtn" type="button">←</button>
+      <span class="modal-year" id="modalYear">2026</span>
+      <button class="modal-nav-btn" id="nextYearBtn" type="button">→</button>
+    </div>
+    <div class="month-grid" id="monthGrid"></div>
+    <button class="modal-close-btn" id="closeModalBtn" type="button">Cancel</button>
+  </div>
+</div>
 
   <script src="app.js"></script>
 
