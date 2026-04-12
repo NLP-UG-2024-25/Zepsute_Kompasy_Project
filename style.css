@@ -593,16 +593,20 @@ body{
   background: #FFFFFF;
   border: 1px solid rgba(11,16,32,.14);
   box-shadow: var(--shadow-soft);
+  padding-left: 14px;
+  gap: 12px;
 }
 
 .theme-light .toggle__dot{
   background: var(--spotify-green);
   border-color: rgba(29,185,84,.6);
+  transform: translateX(2px);
 }
 
 .theme-light .toggle__label{
   color: rgba(11,16,32,.82);
 }
+
 
 .theme-light .iconBtn,
 .theme-light .pillBtn,
