@@ -1,0 +1,35 @@
+# Docker Compose for Android Emulator with noVNC web access
+# Access the Android screen via web browser at http://localhost:6080
+#
+# Requirements:
+# - At least 4GB RAM allocated to Docker/Podman
+# - Linux: KVM support recommended (much faster)
+# - Mac/Windows: Works but slower (no KVM)
+
+services:
+  # Web server for your app (so Android can access it)
+  web:
+    image: nginx:alpine
+    volumes:
+      - .:/usr/share/nginx/html:ro
+    networks:
+      - android-net
+
+  # Android Emulator with noVNC web interface
+  android:
+    image: budtmo/docker-android:emulator_14.0
+    privileged: true
+    environment:
+      - EMULATOR_DEVICE=Samsung Galaxy S10
+      - WEB_VNC=true
+      - DATAPARTITION=4g
+    ports:
+      - "6080:6080"    # noVNC web interface
+    networks:
+      - android-net
+    depends_on:
+      - web
+
+networks:
+  android-net:
+    driver: bridge

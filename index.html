@@ -5,7 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SoundCalendar</title>
   <meta name="description" content="SoundCalendar is a modern calendar for tracking upcoming music releases." />
-  
+  <link rel="stylesheet" href="style.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+  <link rel="manifest" href="./site.webmanifest">
 </head>
 
 <body>
@@ -31,9 +35,10 @@
 
       <nav class="nav" aria-label="Calendar navigation">
         <button id="prevMonth" class="iconBtn" type="button" aria-label="Previous month">←</button>
-        <div class="monthLabel" id="monthLabel">YYYY-MM</div>
+        <button class="monthLabel" id="monthLabel" type="button" title="Click to select month/year">YYYY-MM</button>
         <button id="nextMonth" class="iconBtn" type="button" aria-label="Next month">→</button>
         <button id="todayBtn" class="pillBtn" type="button">Today</button>
+        <input type="date" id="dateInput" class="dateInput" title="Jump to date">
       </nav>
     </div>
   </header>
@@ -61,6 +66,25 @@
     </section>
 
     <aside class="sideCard" aria-label="Releases panel">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
+        <h2 class="sideTitle">Releases</h2>
+        <div class="nav">
+           <button class="pillBtn small">Day</button>
+           <button class="pillBtn small" style="background:transparent">Week</button>
+        </div>
+      </div>
+    
+      <input type="text" placeholder="Search artist / album..." 
+             style="width:100%; background:rgba(0,0,0,0.2); border:1px solid rgba(255,255,255,0.1); padding:10px; border-radius:8px; color:white; margin-bottom:15px;">
+    
+      <div style="margin-bottom:15px;">
+        <p class="muted small" style="margin-bottom:8px; font-weight:bold;">TYPE</p>
+        <label style="display:block; font-size:13px;"><input type="checkbox" checked> Albums</label>
+        <label style="display:block; font-size:13px;"><input type="checkbox" checked> Singles</label>
+      </div>
+      
+      <div id="releasesList" class="results">
+        </div>
       <div>
         <h2 class="sideTitle">Releases</h2>
         <p class="muted" id="selectedDay">Pick a day in the calendar.</p>
@@ -72,9 +96,20 @@
 
 <footer class="footer">
   <p>© 2026 Spotify SoundCalendar Project • <a href="#">Terms</a></p>
-</footer> 
+</footer>
 
-
+<!-- Month/Year Picker Modal -->
+<div class="modal-overlay" id="monthPickerModal">
+  <div class="modal-content">
+    <div class="modal-header">
+      <button class="modal-nav-btn" id="prevYearBtn" type="button">←</button>
+      <span class="modal-year" id="modalYear">2026</span>
+      <button class="modal-nav-btn" id="nextYearBtn" type="button">→</button>
+    </div>
+    <div class="month-grid" id="monthGrid"></div>
+    <button class="modal-close-btn" id="closeModalBtn" type="button">Cancel</button>
+  </div>
+</div>
 
   <script src="app.js"></script>
 
