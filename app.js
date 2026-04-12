@@ -441,3 +441,26 @@ document.addEventListener("DOMContentLoaded", () => {
     apply(next);
   });
 })();
+const chips = document.querySelectorAll(".chip");
+let selectedGenre = "all";
+
+chips.forEach(chip => {
+  chip.addEventListener("click", () => {
+    selectedGenre = chip.dataset.genre;
+    filterReleases();
+  });
+});
+
+function filterReleases() {
+  const releases = document.querySelectorAll(".release");
+
+  releases.forEach(release => {
+    const genre = release.dataset.genre;
+
+    if (selectedGenre === "all" || genre === selectedGenre) {
+      release.style.display = "block";
+    } else {
+      release.style.display = "none";
+    }
+  });
+}
