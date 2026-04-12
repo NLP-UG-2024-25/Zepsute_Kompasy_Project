@@ -683,24 +683,3 @@ body, .calendarCard, .sideCard, .day, .release, .toggle, .chip, .monthLabel{
 }
 .dot--high { box-shadow: 0 0 8px var(--spotify-green); }
 
-.day .num {
-  font-weight: 800;
-  font-size: 1.1rem;
-  position: absolute;
-  top: 10px;
-  left: 10px;
-}
-
-.day--today {
-  border: 2px solid var(--spotify-green);
-}
-
-.day--today::after {
-  content: 'TODAY';
-  font-size: 8px;
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  color: var(--spotify-green);
-  font-weight: 900;
-}
