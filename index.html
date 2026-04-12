@@ -66,40 +66,46 @@
     </section>
 
     <aside class="sideCard" aria-label="Releases panel">
-      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
-        <h2 class="sideTitle">Releases</h2>
-        <div class="nav">
-           <button class="pillBtn small">Day</button>
-           <button class="pillBtn small" style="background:transparent">Week</button>
-        </div>
-      </div>
-    
-      <input type="text" placeholder="Search artist / album..." 
-             style="width:100%; background:rgba(0,0,0,0.2); border:1px solid rgba(255,255,255,0.1); padding:10px; border-radius:8px; color:white; margin-bottom:15px;">
-      <div id="genreFilters" style="margin-bottom:15px;">
-  <p class="muted small" style="margin-bottom:8px; font-weight:bold;">GENRE</p>
+  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
+    <div>
+      <h2 class="sideTitle">Releases</h2>
+      <p class="muted" id="selectedDay" style="font-size: 11px;">Pick a day in the calendar.</p>
+    </div>
+    <div class="nav">
+       <button class="pillBtn small">Day</button>
+       <button class="pillBtn small" style="background:transparent">Week</button>
+    </div>
+  </div>
 
-  <button class="chip" data-genre="all">All</button>
-  <button class="chip" data-genre="rock">Rock</button>
-  <button class="chip" data-genre="pop">Pop</button>
-  <button class="chip" data-genre="hiphop">Hip-Hop</button>
-</div>
-    
-      <div style="margin-bottom:15px;">
-        <p class="muted small" style="margin-bottom:8px; font-weight:bold;">TYPE</p>
-        <label style="display:block; font-size:13px;"><input type="checkbox" checked> Albums</label>
-        <label style="display:block; font-size:13px;"><input type="checkbox" checked> Singles</label>
-      </div>
-      
-      <div id="releasesList" class="results">
-        </div>
-      <div>
-        <h2 class="sideTitle">Releases</h2>
-        <p class="muted" id="selectedDay">Pick a day in the calendar.</p>
-      </div>
+  <input type="text" id="searchInput" placeholder="Search artist / album..." 
+         style="width:100%; background:rgba(0,0,0,0.2); border:1px solid rgba(255,255,255,0.1); padding:10px; border-radius:8px; color:white; margin-bottom:15px;">
 
-      <div id="releasesList" class="results"></div>
-    </aside>
+  <div id="genreFilters" style="margin-bottom:15px;">
+    <p class="muted small" style="margin-bottom:8px; font-weight:bold;">GENRE</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      <button class="chip active" data-genre="all">All</button>
+      <button class="chip" data-genre="rock">Rock</button>
+      <button class="chip" data-genre="pop">Pop</button>
+      <button class="chip" data-genre="hiphop">Hip-Hop</button>
+    </div>
+  </div>
+
+  <div style="margin-bottom:15px;">
+    <p class="muted small" style="margin-bottom:8px; font-weight:bold;">TYPE</p>
+    <label style="display:block; font-size:13px; cursor: pointer;">
+      <input type="checkbox" id="filterAlbums" checked> Albums
+    </label>
+    <label style="display:block; font-size:13px; cursor: pointer;">
+      <input type="checkbox" id="filterSingles" checked> Singles
+    </label>
+  </div>
+  
+  <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.05); margin-bottom: 15px;">
+
+  <div id="releasesList" class="results">
+     </div>
+</aside>
+    
   </main>
 
 <footer class="footer">
