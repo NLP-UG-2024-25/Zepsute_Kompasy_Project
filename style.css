@@ -516,6 +516,7 @@ body{
   .toggle {
     min-width: auto;
     padding: 8px 12px;
+    align-self: flex-start;
   }
 }
 
