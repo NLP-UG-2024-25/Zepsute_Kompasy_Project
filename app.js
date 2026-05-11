@@ -76,7 +76,7 @@ function updateMonthLabel() {
     el.monthLabel.textContent = `${monthNames[currentView.month]} ${currentView.year}`;
   }
 
-  // Update selectors if they exist
+  
   if (el.monthSelect) {
     el.monthSelect.value = currentView.month;
   }
@@ -89,7 +89,7 @@ function selectDateOnCalendar(dateStr) {
   // Remove previous selection
   [...el.grid.querySelectorAll(".day")].forEach(b => b.classList.remove("day--selected"));
 
-  // Find and select the matching day
+  
   [...el.grid.querySelectorAll(".day")].forEach(b => {
     const num = b.querySelector(".num")?.textContent;
     if (!num) return;
@@ -116,11 +116,11 @@ function goToDate(dateStr) {
   if (month < 0 || month > 11) return;
   if (day < 1 || day > 31) return;
 
-  // Update view to the date's month/year
+  
   currentView.year = year;
   currentView.month = month;
 
-  // Render the month and select the date
+ 
   renderMonth();
   selectDateOnCalendar(dateStr);
 }
@@ -138,7 +138,7 @@ function renderMonth(){
 
   updateMonthLabel();
 
-  // empty cells before first day
+ 
   for (let i = 0; i < startDay; i++){
     const empty = document.createElement("button");
     empty.className = "day day--empty";
@@ -170,7 +170,7 @@ function renderMonth(){
     btn.addEventListener("click", () => {
       selectDateOnCalendar(dateStr);
 
-      // Update date input if exists
+     
       if (el.dateInput) {
         el.dateInput.value = dateStr;
       }
@@ -261,7 +261,7 @@ function setupDateInput() {
       }
     });
 
-    // Also handle Enter key
+   
     el.dateInput.addEventListener("keypress", (e) => {
       if (e.key === "Enter") {
         const value = e.target.value;
@@ -300,7 +300,7 @@ function setupMonthYearSelectors() {
   }
 }
 
-// ===== Month/Year Picker Modal =====
+
 let modalYear = new Date().getFullYear();
 const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -331,7 +331,7 @@ function renderMonthPicker() {
       btn.className = 'month-btn';
       btn.textContent = name;
 
-      // Highlight current selection
+     
       if (modalYear === currentView.year && index === currentView.month) {
         btn.classList.add('active');
       }
@@ -384,7 +384,7 @@ function setupMonthPicker() {
     });
   }
 
-  // Close modal when clicking overlay
+  
   if (modal && !modal.dataset.bound) {
     modal.dataset.bound = '1';
     modal.addEventListener('click', (e) => {
@@ -414,7 +414,7 @@ document.addEventListener("DOMContentLoaded", () => {
   render();
 });
 
-// ===== Theme toggle (Dark/Light) =====
+
 (function () {
   const btn = document.getElementById("themeToggle");
   const label = document.getElementById("themeLabel");
@@ -464,3 +464,82 @@ function filterReleases() {
     }
   });
 }
+
+/* ===== SPOTIFY API INTEGRATION ===== */
+
+const SPOTIFY_CLIENT_ID = '757dea5ea5144a889195f250612b9e36';
+const SPOTIFY_CLIENT_SECRET = '40729c78827f4fca8a2fe35930a171ae';
+
+let spotifyAccessToken = null;
+let spotifyReleasesCache = [];
+
+
+async function fetchSpotifyToken() {
+  const result = await fetch('https://accounts.spotify.com/api/token', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded',
+      
+      'Authorization': 'Basic ' + btoa(SPOTIFY_CLIENT_ID + ':' + SPOTIFY_CLIENT_SECRET)
+    },
+    body: 'grant_type=client_credentials'
+  });
+  
+  const data = await result.json();
+  spotifyAccessToken = data.access_token;
+  return data.access_token;
+}
+
+
+async function fetchSpotifyReleases() {
+  if (!spotifyAccessToken) {
+    await fetchSpotifyToken();
+  }
+
+ 
+  const result = await fetch('https://api.spotify.com/v1/browse/new-releases?limit=50', {
+    method: 'GET',
+    headers: { 'Authorization': 'Bearer ' + spotifyAccessToken }
+  });
+  
+  const data = await result.json();
+
+  
+  if (data.albums && data.albums.items) {
+    spotifyReleasesCache = data.albums.items.map(album => ({
+      title: album.name,
+      artist: album.artists.map(a => a.name).join(', '), 
+      type: album.album_type.charAt(0).toUpperCase() + album.album_type.slice(1), 
+      release_date: album.release_date 
+    }));
+  }
+}
+
+
+const originalGetDemoReleases = getDemoReleases; 
+
+window.getDemoReleases = function(date) {
+  if (!date) return [];
+
+  
+  const matchingReleases = spotifyReleasesCache.filter(r => r.release_date === date);
+
+  
+  if (matchingReleases.length > 0) {
+    return matchingReleases;
+  }
+
+  
+  return originalGetDemoReleases(date); 
+};
+
+
+document.addEventListener("DOMContentLoaded", async () => {
+  try {
+    await fetchSpotifyReleases();
+   
+    render(); 
+  } catch (error) {
+    console.error("Błąd podczas integracji ze Spotify:", error);
+  }
+});
