@@ -4,6 +4,7 @@ let currentView = {
   year: new Date().getFullYear(),
   month: new Date().getMonth() // 0–11
 };
+let releasesData = {}; // { "2026-05-23": [ {title, artist, type, ...}, ... ] }
 
 const el = {
   grid: document.getElementById("calendarGrid"),
@@ -24,13 +25,26 @@ function setText(node, text){
 }
 
 
-function getDemoReleases(date){
+function getReleases(date) {
   if (!date) return [];
-  return [
-    { title: "New Album", artist: "Demo Artist", type: "Album" },
-    { title: "Fresh Single", artist: "Another Artist", type: "Single" },
-    { title: "EP Drop", artist: "SoundCalendar", type: "EP" },
-  ];
+  return releasesData[date] || [];
+}
+
+async function loadReleases() {
+  try {
+    const res = await fetch('data/releases.json');
+    if (!res.ok) return;
+    const json = await res.json();
+    releasesData = json.by_date || {};
+    if (el.lastUpdated && json.fetched_at) {
+      const d = new Date(json.fetched_at);
+      setText(el.lastUpdated, d.toLocaleDateString() + ' ' + d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }));
+    }
+    renderMonth();
+    render();
+  } catch (e) {
+    // No data file yet — keep empty state
+  }
 }
 
 function render(){
@@ -47,7 +61,7 @@ function render(){
     return;
   }
 
-  const releases = getDemoReleases(selectedDate);
+  const releases = getReleases(selectedDate);
 
   if (!releases.length){
     el.releasesList.innerHTML = `
@@ -61,10 +75,40 @@ function render(){
   releases.forEach(r => {
     const div = document.createElement("div");
     div.className = "release";
-    div.innerHTML = `
-      <div class="release__title">${r.title}</div>
-      <div class="release__meta">${r.artist} • ${r.type}</div>
-    `;
+    div.dataset.genre = r.type || "album";
+
+    if (r.image) {
+      const img = document.createElement("img");
+      img.src = r.image;
+      img.alt = "";
+      img.className = "release__img";
+      div.appendChild(img);
+    }
+
+    const body = document.createElement("div");
+    body.className = "release__body";
+
+    const title = document.createElement("div");
+    title.className = "release__title";
+    title.textContent = r.title;
+    body.appendChild(title);
+
+    const meta = document.createElement("div");
+    meta.className = "release__meta";
+    meta.textContent = `${r.artist} • ${r.type}${r.total_tracks ? ' • ' + r.total_tracks + ' tracks' : ''}`;
+    body.appendChild(meta);
+
+    if (r.url) {
+      const link = document.createElement("a");
+      link.href = r.url;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.className = "release__link";
+      link.textContent = "Open in Spotify";
+      body.appendChild(link);
+    }
+
+    div.appendChild(body);
     el.releasesList.appendChild(div);
   });
 }
@@ -151,13 +195,28 @@ function renderMonth(){
 
   for (let d = 1; d <= daysInMonth; d++){
     const dateStr = `${currentView.year}-${pad2(currentView.month + 1)}-${pad2(d)}`;
+    const dayReleases = releasesData[dateStr] || [];
+    const count = dayReleases.length;
 
     const btn = document.createElement("button");
     btn.className = "day";
-    btn.innerHTML = `
-      <div class="num">${d}</div>
-      <div class="day__dot"></div>
-    `;
+
+    const numDiv = document.createElement("div");
+    numDiv.className = "num";
+    numDiv.textContent = d;
+    btn.appendChild(numDiv);
+
+    if (count > 0) {
+      const dotsDiv = document.createElement("div");
+      dotsDiv.className = "day__dots-container";
+      const dotCount = count <= 3 ? 1 : count <= 10 ? 2 : 3;
+      for (let i = 0; i < dotCount; i++) {
+        const dot = document.createElement("span");
+        dot.className = "dot" + (dotCount === 3 ? " dot--high" : "");
+        dotsDiv.appendChild(dot);
+      }
+      btn.appendChild(dotsDiv);
+    }
 
     if (dateStr === todayStr){
       btn.classList.add("day--today");
@@ -407,11 +466,11 @@ function maybeBuildSimpleCalendar(){
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  const now = new Date();
-  setText(el.lastUpdated, now.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }));
+  setText(el.lastUpdated, "Loading...");
 
   maybeBuildSimpleCalendar();
   render();
+  loadReleases();
 });
 
 
