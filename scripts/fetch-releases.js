@@ -143,11 +143,14 @@ async function main() {
     // No existing file
   }
 
-  // Merge new releases into existing data
+  // Merge new releases into existing data (update genres for existing entries)
   for (const r of releases) {
     const date = r.release_date;
     if (!existing.by_date[date]) existing.by_date[date] = [];
-    if (!existing.by_date[date].find(e => e.id === r.id)) {
+    const existingEntry = existing.by_date[date].find(e => e.id === r.id);
+    if (existingEntry) {
+      existingEntry.genres = r.genres;
+    } else {
       existing.by_date[date].push(r);
     }
   }

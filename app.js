@@ -536,7 +536,7 @@ function applyFilters() {
     let visible = true;
 
     if (selectedType !== "all" && type !== selectedType) visible = false;
-    if (selectedGenre !== "all" && !genres.includes(selectedGenre)) visible = false;
+    if (selectedGenre !== "all" && genres.length > 0 && !genres.includes(selectedGenre)) visible = false;
 
     release.style.display = visible ? "flex" : "none";
   });
