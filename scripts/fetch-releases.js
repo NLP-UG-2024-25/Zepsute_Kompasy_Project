@@ -19,7 +19,7 @@ async function getAccessToken() {
   return data.access_token;
 }
 
-async function searchAlbums(token, query, offset = 0, limit = 50) {
+async function searchAlbums(token, query, offset = 0, limit = 10) {
   const params = new URLSearchParams({
     q: query,
     type: 'album',
@@ -69,8 +69,8 @@ async function main() {
 
   for (const query of queries) {
     let offset = 0;
-    for (let page = 0; page < 3; page++) {
-      const data = await searchAlbums(token, query, offset, 50);
+    for (let page = 0; page < 5; page++) {
+      const data = await searchAlbums(token, query, offset, 10);
       const albums = data.albums;
 
       for (const album of albums.items) {
@@ -93,7 +93,7 @@ async function main() {
       }
 
       if (!albums.next) break;
-      offset += 50;
+      offset += 10;
     }
   }
 
