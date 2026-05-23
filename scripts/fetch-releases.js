@@ -19,6 +19,21 @@ async function getAccessToken() {
   return data.access_token;
 }
 
+async function getArtistGenres(token, artistIds) {
+  const ids = artistIds.join(',');
+  const res = await fetch(
+    `https://api.spotify.com/v1/artists?ids=${ids}`,
+    { headers: { 'Authorization': `Bearer ${token}` } }
+  );
+  if (!res.ok) return {};
+  const data = await res.json();
+  const map = {};
+  for (const artist of data.artists) {
+    if (artist) map[artist.id] = artist.genres || [];
+  }
+  return map;
+}
+
 async function searchAlbums(token, query, offset = 0, limit = 10) {
   const params = new URLSearchParams({
     q: query,
@@ -82,11 +97,13 @@ async function main() {
               id: album.id,
               title: album.name,
               artist: album.artists.map(a => a.name).join(', '),
+              artist_ids: album.artists.map(a => a.id),
               type: album.album_type,
               release_date: rd,
               image: album.images[1]?.url || album.images[0]?.url || null,
               url: album.external_urls.spotify,
-              total_tracks: album.total_tracks
+              total_tracks: album.total_tracks,
+              genres: []
             });
           }
         }
@@ -96,6 +113,23 @@ async function main() {
       offset += 10;
     }
   }
+
+  // Fetch genres from artist endpoints (batch up to 50 IDs per request)
+  const allArtistIds = [...new Set(releases.flatMap(r => r.artist_ids))];
+  const genreMap = {};
+  for (let i = 0; i < allArtistIds.length; i += 50) {
+    const batch = allArtistIds.slice(i, i + 50);
+    const batchGenres = await getArtistGenres(token, batch);
+    Object.assign(genreMap, batchGenres);
+  }
+
+  for (const r of releases) {
+    const genres = [...new Set(r.artist_ids.flatMap(id => genreMap[id] || []))];
+    r.genres = genres;
+    delete r.artist_ids;
+  }
+
+  console.log(`Fetched genres for ${allArtistIds.length} artists`);
 
   const outPath = path.join(__dirname, '..', 'data', 'releases.json');
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
