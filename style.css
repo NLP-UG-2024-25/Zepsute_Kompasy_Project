@@ -335,6 +335,7 @@ body{
 .release__body{ min-width: 0; }
 .release__title{ font-weight: 900; margin-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .release__meta{ color: rgba(255,255,255,0.7); font-size: 12px; }
+.theme-light .release .release__meta{ color: rgba(11,16,32,.6); }
 .release__link{
   display: inline-block;
   margin-top: 4px;

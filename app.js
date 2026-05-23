@@ -75,7 +75,8 @@ function render(){
   releases.forEach(r => {
     const div = document.createElement("div");
     div.className = "release";
-    div.dataset.genre = r.type || "album";
+    div.dataset.type = r.type || "album";
+    div.dataset.genres = (r.genres || []).join(',').toLowerCase();
 
     if (r.image) {
       const img = document.createElement("img");
@@ -501,45 +502,41 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 })();
 let selectedType = "all";
+let selectedGenre = "all";
 
 function setupFilters() {
-  const chips = document.querySelectorAll("#genreFilters .chip");
-  const filterAlbums = document.getElementById("filterAlbums");
-  const filterSingles = document.getElementById("filterSingles");
+  const genreChips = document.querySelectorAll("#genreChips .chip");
+  const typeChips = document.querySelectorAll("#typeChips .chip");
 
-  chips.forEach(chip => {
+  genreChips.forEach(chip => {
     chip.addEventListener("click", () => {
-      chips.forEach(c => c.classList.remove("active"));
+      genreChips.forEach(c => c.classList.remove("active"));
       chip.classList.add("active");
-      selectedType = chip.dataset.genre;
+      selectedGenre = chip.dataset.genre;
       applyFilters();
     });
   });
 
-  if (filterAlbums) {
-    filterAlbums.addEventListener("change", applyFilters);
-  }
-  if (filterSingles) {
-    filterSingles.addEventListener("change", applyFilters);
-  }
+  typeChips.forEach(chip => {
+    chip.addEventListener("click", () => {
+      typeChips.forEach(c => c.classList.remove("active"));
+      chip.classList.add("active");
+      selectedType = chip.dataset.type;
+      applyFilters();
+    });
+  });
 }
 
 function applyFilters() {
-  const filterAlbums = document.getElementById("filterAlbums");
-  const filterSingles = document.getElementById("filterSingles");
-  const showAlbums = filterAlbums ? filterAlbums.checked : true;
-  const showSingles = filterSingles ? filterSingles.checked : true;
-
   const releases = document.querySelectorAll(".release");
 
   releases.forEach(release => {
-    const type = release.dataset.genre;
+    const type = release.dataset.type;
+    const genres = release.dataset.genres || "";
     let visible = true;
 
-    if (type === "album" && !showAlbums) visible = false;
-    if (type === "single" && !showSingles) visible = false;
-
     if (selectedType !== "all" && type !== selectedType) visible = false;
+    if (selectedGenre !== "all" && !genres.includes(selectedGenre)) visible = false;
 
     release.style.display = visible ? "flex" : "none";
   });
