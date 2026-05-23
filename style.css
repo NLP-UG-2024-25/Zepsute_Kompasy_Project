@@ -640,6 +640,20 @@ body{
   box-shadow: var(--shadow-soft);
   color: #0B1020;
 }
+.theme-light .release__title{
+  color: #0B1020;
+}
+.theme-light .release__meta{
+  color: rgba(11,16,32,.65);
+}
+.theme-light .emptyState{
+  color: rgba(11,16,32,.6);
+}
+.theme-light #searchInput{
+  background: rgba(0,0,0,.04);
+  border: 1px solid rgba(11,16,32,.14);
+  color: #0B1020;
+}
 
 body, .calendarCard, .sideCard, .day, .release, .toggle, .chip, .monthLabel{
   transition: background-color .25s ease, color .25s ease, box-shadow .25s ease, border-color .25s ease; }

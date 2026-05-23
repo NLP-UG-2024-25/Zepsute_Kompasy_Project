@@ -500,27 +500,50 @@ document.addEventListener("DOMContentLoaded", () => {
     apply(next);
   });
 })();
-const chips = document.querySelectorAll(".chip");
-let selectedGenre = "all";
+let selectedType = "all";
 
-chips.forEach(chip => {
-  chip.addEventListener("click", () => {
-    selectedGenre = chip.dataset.genre;
-    filterReleases();
+function setupFilters() {
+  const chips = document.querySelectorAll("#genreFilters .chip");
+  const filterAlbums = document.getElementById("filterAlbums");
+  const filterSingles = document.getElementById("filterSingles");
+
+  chips.forEach(chip => {
+    chip.addEventListener("click", () => {
+      chips.forEach(c => c.classList.remove("active"));
+      chip.classList.add("active");
+      selectedType = chip.dataset.genre;
+      applyFilters();
+    });
   });
-});
 
-function filterReleases() {
+  if (filterAlbums) {
+    filterAlbums.addEventListener("change", applyFilters);
+  }
+  if (filterSingles) {
+    filterSingles.addEventListener("change", applyFilters);
+  }
+}
+
+function applyFilters() {
+  const filterAlbums = document.getElementById("filterAlbums");
+  const filterSingles = document.getElementById("filterSingles");
+  const showAlbums = filterAlbums ? filterAlbums.checked : true;
+  const showSingles = filterSingles ? filterSingles.checked : true;
+
   const releases = document.querySelectorAll(".release");
 
   releases.forEach(release => {
-    const genre = release.dataset.genre;
+    const type = release.dataset.genre;
+    let visible = true;
 
-    if (selectedGenre === "all" || genre === selectedGenre) {
-      release.style.display = "block";
-    } else {
-      release.style.display = "none";
-    }
+    if (type === "album" && !showAlbums) visible = false;
+    if (type === "single" && !showSingles) visible = false;
+
+    if (selectedType !== "all" && type !== selectedType) visible = false;
+
+    release.style.display = visible ? "flex" : "none";
   });
 }
+
+document.addEventListener("DOMContentLoaded", setupFilters);
 
