@@ -19,14 +19,33 @@ async function getAccessToken() {
   return data.access_token;
 }
 
-async function fetchNewReleases(token, offset = 0, limit = 50) {
+async function searchAlbums(token, query, offset = 0, limit = 50) {
+  const params = new URLSearchParams({
+    q: query,
+    type: 'album',
+    limit: String(limit),
+    offset: String(offset)
+  });
+
   const res = await fetch(
-    `https://api.spotify.com/v1/browse/new-releases?limit=${limit}&offset=${offset}`,
+    `https://api.spotify.com/v1/search?${params}`,
     { headers: { 'Authorization': `Bearer ${token}` } }
   );
 
-  if (!res.ok) throw new Error(`API request failed: ${res.status}`);
+  if (!res.ok) throw new Error(`Search request failed: ${res.status} ${await res.text()}`);
   return res.json();
+}
+
+function getDateRange() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = now.getMonth();
+
+  const start = new Date(year, month, 1);
+  const end = new Date(year, month + 1, 0);
+
+  const fmt = d => d.toISOString().split('T')[0];
+  return { start: fmt(start), end: fmt(end) };
 }
 
 async function main() {
@@ -36,34 +55,48 @@ async function main() {
   }
 
   const token = await getAccessToken();
+  console.log('Got access token');
+
+  const { start, end } = getDateRange();
+  console.log(`Fetching releases for ${start} to ${end}`);
 
   const releases = [];
-  let offset = 0;
-  const limit = 50;
+  const queries = [
+    `tag:new year:${start.slice(0,4)}`,
+    'tag:new',
+    'tag:hipster',
+  ];
 
-  // Fetch up to 200 releases (4 pages)
-  for (let page = 0; page < 4; page++) {
-    const data = await fetchNewReleases(token, offset, limit);
-    const albums = data.albums;
+  for (const query of queries) {
+    let offset = 0;
+    for (let page = 0; page < 3; page++) {
+      const data = await searchAlbums(token, query, offset, 50);
+      const albums = data.albums;
 
-    for (const album of albums.items) {
-      releases.push({
-        id: album.id,
-        title: album.name,
-        artist: album.artists.map(a => a.name).join(', '),
-        type: album.album_type,
-        release_date: album.release_date,
-        image: album.images[1]?.url || album.images[0]?.url || null,
-        url: album.external_urls.spotify,
-        total_tracks: album.total_tracks
-      });
+      for (const album of albums.items) {
+        if (!album) continue;
+        const rd = album.release_date;
+        if (rd >= start && rd <= end) {
+          if (!releases.find(r => r.id === album.id)) {
+            releases.push({
+              id: album.id,
+              title: album.name,
+              artist: album.artists.map(a => a.name).join(', '),
+              type: album.album_type,
+              release_date: rd,
+              image: album.images[1]?.url || album.images[0]?.url || null,
+              url: album.external_urls.spotify,
+              total_tracks: album.total_tracks
+            });
+          }
+        }
+      }
+
+      if (!albums.next) break;
+      offset += 50;
     }
-
-    if (!albums.next) break;
-    offset += limit;
   }
 
-  // Group by release_date
   const grouped = {};
   for (const r of releases) {
     const date = r.release_date;
