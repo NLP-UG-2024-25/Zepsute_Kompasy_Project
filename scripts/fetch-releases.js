@@ -97,24 +97,41 @@ async function main() {
     }
   }
 
-  const grouped = {};
+  const outPath = path.join(__dirname, '..', 'data', 'releases.json');
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
+
+  let existing = { by_date: {} };
+  try {
+    const raw = fs.readFileSync(outPath, 'utf8');
+    existing = JSON.parse(raw);
+    if (!existing.by_date) existing.by_date = {};
+  } catch (e) {
+    // No existing file
+  }
+
+  // Merge new releases into existing data
   for (const r of releases) {
     const date = r.release_date;
-    if (!grouped[date]) grouped[date] = [];
-    grouped[date].push(r);
+    if (!existing.by_date[date]) existing.by_date[date] = [];
+    if (!existing.by_date[date].find(e => e.id === r.id)) {
+      existing.by_date[date].push(r);
+    }
+  }
+
+  let total = 0;
+  for (const date of Object.keys(existing.by_date)) {
+    total += existing.by_date[date].length;
   }
 
   const output = {
     fetched_at: new Date().toISOString(),
-    total: releases.length,
-    by_date: grouped
+    total,
+    by_date: existing.by_date
   };
 
-  const outPath = path.join(__dirname, '..', 'data', 'releases.json');
-  fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, JSON.stringify(output, null, 2));
 
-  console.log(`Fetched ${releases.length} releases across ${Object.keys(grouped).length} dates`);
+  console.log(`Added ${releases.length} new releases. Total: ${total} across ${Object.keys(existing.by_date).length} dates`);
 }
 
 main().catch(err => {
