@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-23T18:32:04.383Z",
-  "total": 52,
+  "fetched_at": "2026-05-24T08:29:00.142Z",
+  "total": 59,
   "by_date": {
     "2026-05-15": [
       {
@@ -366,6 +366,39 @@
         "url": "https://open.spotify.com/album/6nfZDHF7uK7uBrZ3dSCpVQ",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6bnEJwaVhSw4PiSGZ9b4nn",
+        "title": "Majboor - Mashup",
+        "artist": "Sheheryar Rehan, Zoha Waseem",
+        "type": "single",
+        "release_date": "2026-05-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f9b656c635af0bfde4a0c25",
+        "url": "https://open.spotify.com/album/6bnEJwaVhSw4PiSGZ9b4nn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XjkSJoPjLKSbXvX5Kd2dq",
+        "title": "Sri Radhe ( From \"Krishna Aur Chitthi\")",
+        "artist": "Sonu Nigam, Ravina Thhakur",
+        "type": "single",
+        "release_date": "2026-05-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02171822af01a08884ddf887ff",
+        "url": "https://open.spotify.com/album/3XjkSJoPjLKSbXvX5Kd2dq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hdCdMilsHmDcRed463A3t",
+        "title": "Rapirea din Serai (Live)",
+        "artist": "Leo de la Rosiori",
+        "type": "single",
+        "release_date": "2026-05-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad48884ab7df4ba9d0fad9de",
+        "url": "https://open.spotify.com/album/6hdCdMilsHmDcRed463A3t",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-23": [
@@ -575,6 +608,54 @@
         "release_date": "2026-05-23",
         "image": "https://i.scdn.co/image/ab67616d00001e0232a7f2181f5ea81e1013afd4",
         "url": "https://open.spotify.com/album/5zDjd1KSHnyk8IfR42nx98",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-24": [
+      {
+        "id": "1x2upE4s9Yf7eYK1EYccx9",
+        "title": "habangbuhay pansamantala",
+        "artist": "Maki",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252921fb0e3c4cc51c2503ded",
+        "url": "https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jj2gcyRc5WKA5sH7vYVi1",
+        "title": "耀眼 (《耀眼》电视剧同名主题曲)",
+        "artist": "刘宇宁",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028838b74d18bd73f909acce3c",
+        "url": "https://open.spotify.com/album/7jj2gcyRc5WKA5sH7vYVi1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6K7lfHSLvIT9QgrmQkbjZ3",
+        "title": "Літо",
+        "artist": "DJ KAIFAR, Amaya Roma",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2c8b4ebc9a5d949f2379c6d",
+        "url": "https://open.spotify.com/album/6K7lfHSLvIT9QgrmQkbjZ3",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-19": [
+      {
+        "id": "68t9jbSuzLzR15Qz1bCPDw",
+        "title": "VOR",
+        "artist": "davidfr",
+        "type": "single",
+        "release_date": "2026-05-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e145bd13275dd0bd3e83a10",
+        "url": "https://open.spotify.com/album/68t9jbSuzLzR15Qz1bCPDw",
         "total_tracks": 1,
         "genres": []
       }
