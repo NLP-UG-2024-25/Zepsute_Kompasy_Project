@@ -113,6 +113,7 @@ function render(){
     div.appendChild(body);
     el.releasesList.appendChild(div);
   });
+  applyFilters();
 }
 
 function updateMonthLabel() {
@@ -502,6 +503,7 @@ document.addEventListener("DOMContentLoaded", () => {
     apply(next);
   });
 })();
+
 let selectedType = "all";
 let selectedGenre = "all";
 
@@ -526,9 +528,11 @@ function setupFilters() {
       applyFilters();
     });
   });
-}
 
-let selectedType = "all";
+  if (el.searchInput) {
+    el.searchInput.addEventListener("input", applyFilters);
+  }
+}
 
 function applyFilters() {
   const releases = document.querySelectorAll(".release");
@@ -536,19 +540,17 @@ function applyFilters() {
 
   releases.forEach(release => {
     const type = release.dataset.type;
+    const genres = release.dataset.genres || "";
     let visible = true;
 
-    if (selectedType !== "all" && type !== selectedType) {
-      visible = false;
-    }
-    
+    if (selectedType !== "all" && type !== selectedType) visible = false;
+        
     if (searchQuery !== "") {
       const titleElement = release.querySelector('.release__title');
       const metaElement = release.querySelector('.release__meta');
       
       const titleText = titleElement ? titleElement.textContent.toLowerCase() : "";
       const metaText = metaElement ? metaElement.textContent.toLowerCase() : "";
-      
       if (!titleText.includes(searchQuery) && !metaText.includes(searchQuery)) {
         visible = false;
       }
@@ -558,29 +560,8 @@ function applyFilters() {
   });
 }
 
-function setupFilters() {
-  if (el.searchInput) {
-    el.searchInput.addEventListener("input", applyFilters);
-  }
-}
+document.addEventListener("DOMContentLoaded", setupFilters);
 
-function initTypeFilters() {
-  const chips = document.querySelectorAll(".chip");
-
-  chips.forEach(chip => {
-    chip.addEventListener("click", () => {
-      // Manage the active class on the chips visually
-      chips.forEach(c => c.classList.remove("active"));
-      chip.classList.add("active");
-
-      selectedType = chip.dataset.type;
-      applyFilters();
-    });
-  });
-}
-
-initTypeFilters();
-setupFilters();
 
 document.addEventListener("DOMContentLoaded", setupFilters);
 
