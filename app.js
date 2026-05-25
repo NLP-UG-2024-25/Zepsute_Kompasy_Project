@@ -15,6 +15,7 @@ const el = {
   dateInput: document.getElementById("dateInput"),
   monthSelect: document.getElementById("monthSelect"),
   yearSelect: document.getElementById("yearSelect"),
+  searchInput: document.getElementById("searchInput")
 };
 
 
@@ -529,17 +530,35 @@ function setupFilters() {
 
 function applyFilters() {
   const releases = document.querySelectorAll(".release");
+  const searchQuery = el.searchInput ? el.searchInput.value.toLowerCase().trim() : "";
 
   releases.forEach(release => {
     const type = release.dataset.type;
     const genres = release.dataset.genres || "";
     let visible = true;
 
+    // Filtrowanie po typie
     if (selectedType !== "all" && type !== selectedType) visible = false;
-    if (selectedGenre !== "all" && genres.length > 0 && !genres.includes(selectedGenre)) visible = false;
+    
+    if (searchQuery !== "") {
+      const titleElement = release.querySelector('.release__title');
+      const metaElement = release.querySelector('.release__meta');
+      
+      const titleText = titleElement ? titleElement.textContent.toLowerCase() : "";
+      const metaText = metaElement ? metaElement.textContent.toLowerCase() : "";
+      if (!titleText.includes(searchQuery) && !metaText.includes(searchQuery)) {
+        visible = false;
+      }
+    }
 
     release.style.display = visible ? "flex" : "none";
   });
+}
+
+function setupFilters() {
+  if (el.searchInput) {
+    el.searchInput.addEventListener("input", applyFilters);
+  }
 }
 
 document.addEventListener("DOMContentLoaded", setupFilters);
