@@ -537,7 +537,6 @@ function applyFilters() {
     const genres = release.dataset.genres || "";
     let visible = true;
 
-    // Filtrowanie po typie
     if (selectedType !== "all" && type !== selectedType) visible = false;
     
     if (searchQuery !== "") {
