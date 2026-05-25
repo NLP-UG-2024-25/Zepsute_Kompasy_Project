@@ -210,9 +210,6 @@ body{
     min-width: 350px;
 }
 
-.sideCard .nav {
-    display: none !important;
-}
 .calendarHeader{ display:flex; justify-content:space-between; gap: 12px; align-items:flex-start; flex-wrap:wrap; }
 
 .sectionTitle{
