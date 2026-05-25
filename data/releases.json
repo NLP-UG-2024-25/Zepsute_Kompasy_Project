@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-24T08:29:00.142Z",
-  "total": 59,
+  "fetched_at": "2026-05-25T10:05:31.600Z",
+  "total": 95,
   "by_date": {
     "2026-05-15": [
       {
@@ -67,6 +67,28 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02bb0ef065b3eecc5f1c9ab26b",
         "url": "https://open.spotify.com/album/57od8OD4RYQiCe9jKKiUCW",
         "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "0w31mbjD6bT4eckeQFWDt3",
+        "title": "Dr*gs R Bad",
+        "artist": "LUCKI",
+        "type": "album",
+        "release_date": "2026-05-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265fc93b5c819602262be24d4",
+        "url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "5qUp79PAejWMSXh0l04Zy9",
+        "title": "BELOVED: ACT II",
+        "artist": "GIVĒON",
+        "type": "album",
+        "release_date": "2026-05-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240804dba7b99de3125438c71",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9",
+        "total_tracks": 19,
         "genres": []
       }
     ],
@@ -399,6 +421,17 @@
         "url": "https://open.spotify.com/album/6hdCdMilsHmDcRed463A3t",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5xDfjX4jwqezEfiRzFwHCs",
+        "title": "Be By You",
+        "artist": "Luke Combs",
+        "type": "single",
+        "release_date": "2026-05-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214f1e73e3ff3a0f4a6801fad",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-23": [
@@ -610,6 +643,83 @@
         "url": "https://open.spotify.com/album/5zDjd1KSHnyk8IfR42nx98",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3pt4EU9m5H5krP5JgIo3jg",
+        "title": "Vennela Thunaka (From \"Mareechika\")",
+        "artist": "Ilaiyaraaja, Reema, Lakshmi Bhupala",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8369115c04a970a2b181fa6",
+        "url": "https://open.spotify.com/album/3pt4EU9m5H5krP5JgIo3jg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "742CzMg7nWRm2ClrwEgUGu",
+        "title": "BOOMPALA (Remixes)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e027aaa5b2fbdb39ab055ae3e49",
+        "url": "https://open.spotify.com/album/742CzMg7nWRm2ClrwEgUGu",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "6mWpQgxrYAxpz5VGN5AQjV",
+        "title": "Hellallallo (From \"Peddi\") [TELUGU]",
+        "artist": "A.R. Rahman, Rakshita Suresh, Anantha Sreeram",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246e6e6a2774e87430e6a5f5c",
+        "url": "https://open.spotify.com/album/6mWpQgxrYAxpz5VGN5AQjV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XkVajdR0hZr3vWbV0CCjm",
+        "title": "Hellallallo (From \"Peddi\") [HINDI]",
+        "artist": "A.R. Rahman, Heer, Raqueeb Alam",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffe7a9dfd802baa9956e3035",
+        "url": "https://open.spotify.com/album/4XkVajdR0hZr3vWbV0CCjm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2pFADLJunl7Bsc82xeCG4a",
+        "title": "Hellallallo (From \"Peddi\") [KANNADA]",
+        "artist": "A.R. Rahman, Rakshita Suresh, Varadaraj Chikkaballapura",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc84a5340aa5e782fcb8f97a",
+        "url": "https://open.spotify.com/album/2pFADLJunl7Bsc82xeCG4a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5sMQ1ZZeZwI7vaTMffJjEA",
+        "title": "Hellallallo (From \"Peddi\") [MALAYALAM]",
+        "artist": "A.R. Rahman, Amritha Suresh, Siju Thuravoor",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02571f90f55fbf7a22b679952f",
+        "url": "https://open.spotify.com/album/5sMQ1ZZeZwI7vaTMffJjEA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3cd0Aqy1aCtehh54uSqY7m",
+        "title": "Hellallallo (From \"Peddi\") [TAMIL]",
+        "artist": "A.R. Rahman, Andrea Jeremiah, Rakshita Suresh, Kavinger Snekan",
+        "type": "single",
+        "release_date": "2026-05-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f670bd7c30dcdd643c9023a7",
+        "url": "https://open.spotify.com/album/3cd0Aqy1aCtehh54uSqY7m",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-24": [
@@ -645,6 +755,138 @@
         "url": "https://open.spotify.com/album/6K7lfHSLvIT9QgrmQkbjZ3",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "019rSfzOBKzc6pxxd6f2v7",
+        "title": "Felous Baba",
+        "artist": "Ahmed Saad, DYSTINCT, Orange",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f704d40269f1abeec84da1d1",
+        "url": "https://open.spotify.com/album/019rSfzOBKzc6pxxd6f2v7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YyOwxYRBrWdfDqBtps1RL",
+        "title": "are you mad at me?",
+        "artist": "Bella Kay",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029acadf17682248999961bc0a",
+        "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "56gDPVpY2eebVpwePbfzH1",
+        "title": "AS YOU KNOW",
+        "artist": "ZIAD ZAZA, TURK, KUKII",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240393b648385166704589ff2",
+        "url": "https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KhulL89ZB118WVHfgCSm4",
+        "title": "Gặp Lại",
+        "artist": "Binz",
+        "type": "album",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02113b4bb24fa0898ce579d19c",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "43SLx62IuvqO2AO0S4RZZx",
+        "title": "BRILIANTU'",
+        "artist": "CERCEL",
+        "type": "album",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243e3445db0114b4f3155c7ef",
+        "url": "https://open.spotify.com/album/43SLx62IuvqO2AO0S4RZZx",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "0pGIn5QKIxbvTpgNZEnBeo",
+        "title": "Es dziedāšu koncertā",
+        "artist": "Tutas Lietas",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1a6f8237810bb079165090b",
+        "url": "https://open.spotify.com/album/0pGIn5QKIxbvTpgNZEnBeo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FRx4tBKbBa8rNCN28On0J",
+        "title": "Cu Cine Umbli Tu, Sistem Deep",
+        "artist": "Dj Magic Romania",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254af277096a3be1c6008bddd",
+        "url": "https://open.spotify.com/album/1FRx4tBKbBa8rNCN28On0J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5HP1Fh8PEBAaaPE9LkYjBd",
+        "title": "To Miki",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac6824ea87b2448d9f06a8dc",
+        "url": "https://open.spotify.com/album/5HP1Fh8PEBAaaPE9LkYjBd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03wtrkVwgZWuxNNunpe5xe",
+        "title": "البعبع لما يحضر تخاف ( اشهدو هما اللى بيفخدو )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7b4e500027911b639f88353",
+        "url": "https://open.spotify.com/album/03wtrkVwgZWuxNNunpe5xe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Hhe8L8f32yf0n4ka3Bv1E",
+        "title": "Pustite me da ga vidim",
+        "artist": "Ceca, Jelena Tomasevic",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027eb0ce8aec2b5b311e185358",
+        "url": "https://open.spotify.com/album/1Hhe8L8f32yf0n4ka3Bv1E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7r7I8Q35x3RSE8n2aRKrKI",
+        "title": "Jartari Tohar Bahin Raja Ji",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c9ba8d45f73e6746676aaa0",
+        "url": "https://open.spotify.com/album/7r7I8Q35x3RSE8n2aRKrKI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5jP9rrWRO75GVKQO2K1fVu",
+        "title": "دي المره الكام",
+        "artist": "Youssif Elashry",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b743dc00a24e6b255a03447e",
+        "url": "https://open.spotify.com/album/5jP9rrWRO75GVKQO2K1fVu",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-19": [
@@ -656,6 +898,162 @@
         "release_date": "2026-05-19",
         "image": "https://i.scdn.co/image/ab67616d00001e023e145bd13275dd0bd3e83a10",
         "url": "https://open.spotify.com/album/68t9jbSuzLzR15Qz1bCPDw",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-25": [
+      {
+        "id": "2sc5mcCEfmeKSjBxziE6Uz",
+        "title": "Farsans händer",
+        "artist": "Thomas Stenström",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e552c334cea76d01cd6004c5",
+        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vOkEojNFQVazhwbsOborf",
+        "title": "Kala Kala Til",
+        "artist": "Javed Ali",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa0f362d512b994393de2394",
+        "url": "https://open.spotify.com/album/2vOkEojNFQVazhwbsOborf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3wvvmj8MaqUq8TBdrOfWh1",
+        "title": "Indonesia Tanah Airku",
+        "artist": "Eno, Net",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c560f780fcb2ccf7f6d2236d",
+        "url": "https://open.spotify.com/album/3wvvmj8MaqUq8TBdrOfWh1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nBP68DZ939p3ABOWKF6OM",
+        "title": "Forte",
+        "artist": "nayt",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9545e9e7975dea7359c720b",
+        "url": "https://open.spotify.com/album/1nBP68DZ939p3ABOWKF6OM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Svw33datvwMuXzLUlFUyY",
+        "title": "UFC",
+        "artist": "Dimoff, BEZIM MAN",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021633935f96324e2f576d96d7",
+        "url": "https://open.spotify.com/album/0Svw33datvwMuXzLUlFUyY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "75hJprktMQH4gn3lhgtemt",
+        "title": "BOOMPALA (LE SSERAFIM Packages)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2161be573b19d8c58ced7ec",
+        "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6gKxrbKdtQwOoQjUQ0yD6j",
+        "title": "Ten Thirty Lovey Dovey",
+        "artist": "BIG Naughty",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfacfac6520b221bed7ff198",
+        "url": "https://open.spotify.com/album/6gKxrbKdtQwOoQjUQ0yD6j",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4PB6aycigqBRdscNVKK8en",
+        "title": "Futur Uliedi",
+        "artist": "The Travellers",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8e3bbc440ee2c851fe37468",
+        "url": "https://open.spotify.com/album/4PB6aycigqBRdscNVKK8en",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nOGP3a6nNcdO55clsmklu",
+        "title": "Dosao sam kao gost",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b1e1685f02bc9ea285c3f29",
+        "url": "https://open.spotify.com/album/1nOGP3a6nNcdO55clsmklu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HqHEjxUZNDawQxu4fX7XT",
+        "title": "Garmi Me Sate Na Piyawa",
+        "artist": "Shilpi Raj, Prakash Barud",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027be44fa481b83ed88637260c",
+        "url": "https://open.spotify.com/album/1HqHEjxUZNDawQxu4fX7XT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0lK0sPxu6nb2EXIRTYszV7",
+        "title": "Urban, Night, Cyber, Vol. 8",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8e9115aa2d4f8d6e50d0303",
+        "url": "https://open.spotify.com/album/0lK0sPxu6nb2EXIRTYszV7",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3Iv9fmqz51lW4CcAIM5YXs",
+        "title": "\"'The Secret Garden: Classical Works by Bach, Mozart & more\"",
+        "artist": "Johann Sebastian Bach, Ludwig van Beethoven, George Frideric Handel, Johannes Brahms, Antonio Vivaldi, Pyotr Ilyich Tchaikovsky, Franz Schubert, Frédéric Chopin, Franz Liszt, Robert Schumann",
+        "type": "album",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029417dbf008b54a37c969ed1f",
+        "url": "https://open.spotify.com/album/3Iv9fmqz51lW4CcAIM5YXs",
+        "total_tracks": 78,
+        "genres": []
+      },
+      {
+        "id": "6VE54Zlj7crL2olvqxjvMf",
+        "title": "Machucou O Coração",
+        "artist": "Mc Dkziin, Matheuszin DJ",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205e403e78e0c942137269271",
+        "url": "https://open.spotify.com/album/6VE54Zlj7crL2olvqxjvMf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4KKeOGaafGqmPnNV9Od0fK",
+        "title": "Chapada Certa",
+        "artist": "Mc Dkziin, MC ANNINO, Brenninho VJ, tal do dias",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac1d50bf3c7bf19145f29ec8",
+        "url": "https://open.spotify.com/album/4KKeOGaafGqmPnNV9Od0fK",
         "total_tracks": 1,
         "genres": []
       }
