@@ -528,16 +528,19 @@ function setupFilters() {
   });
 }
 
+let selectedType = "all";
+
 function applyFilters() {
   const releases = document.querySelectorAll(".release");
   const searchQuery = el.searchInput ? el.searchInput.value.toLowerCase().trim() : "";
 
   releases.forEach(release => {
     const type = release.dataset.type;
-    const genres = release.dataset.genres || "";
     let visible = true;
 
-    if (selectedType !== "all" && type !== selectedType) visible = false;
+    if (selectedType !== "all" && type !== selectedType) {
+      visible = false;
+    }
     
     if (searchQuery !== "") {
       const titleElement = release.querySelector('.release__title');
@@ -545,6 +548,7 @@ function applyFilters() {
       
       const titleText = titleElement ? titleElement.textContent.toLowerCase() : "";
       const metaText = metaElement ? metaElement.textContent.toLowerCase() : "";
+      
       if (!titleText.includes(searchQuery) && !metaText.includes(searchQuery)) {
         visible = false;
       }
@@ -559,41 +563,24 @@ function setupFilters() {
     el.searchInput.addEventListener("input", applyFilters);
   }
 }
-function initTypeFilters() {
-  let selectedType = "all";
 
+function initTypeFilters() {
   const chips = document.querySelectorAll(".chip");
-  const releases = document.querySelectorAll(".release");
 
   chips.forEach(chip => {
     chip.addEventListener("click", () => {
-
-      
+      // Manage the active class on the chips visually
       chips.forEach(c => c.classList.remove("active"));
       chip.classList.add("active");
 
-      
       selectedType = chip.dataset.type;
-
-       
-      releases.forEach(release => {
-        const releaseType = release.dataset.type;
-
-        if (
-          selectedType === "all" ||
-          releaseType === selectedType
-        ) {
-          release.style.display = "";
-        } else {
-          release.style.display = "none";
-        }
-      });
-
+      applyFilters();
     });
   });
 }
 
-
 initTypeFilters();
+setupFilters();
+
 document.addEventListener("DOMContentLoaded", setupFilters);
 
