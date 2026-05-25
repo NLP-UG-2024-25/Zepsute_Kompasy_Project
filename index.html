@@ -71,7 +71,7 @@
       <h2 class="sideTitle">Releases</h2>
       <p class="muted" id="selectedDay" style="font-size: 11px;">Pick a day in the calendar.</p>
     </div>
-    <div class="nav">
+    <div class="nav" style="display:none;">
        <button class="pillBtn small">Day</button>
        <button class="pillBtn small" style="background:transparent">Week</button>
     </div>
@@ -80,7 +80,7 @@
   <input type="text" id="searchInput" placeholder="Search artist / album..." 
          style="width:100%; background:rgba(0,0,0,0.2); border:1px solid rgba(255,255,255,0.1); padding:10px; border-radius:8px; color:white; margin-bottom:15px;">
 
-  <div id="genreFilters" style="margin-bottom:15px;">
+  <div id="genreFilters" style="margin-bottom:15px; display: none;">
     <p class="muted small" style="margin-bottom:8px; font-weight:bold;">GENRE</p>
     <div id="genreChips" style="display: flex; flex-wrap: wrap; gap: 5px;">
       <button class="chip active" data-genre="all">All</button>
