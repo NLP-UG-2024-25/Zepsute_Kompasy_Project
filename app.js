@@ -559,6 +559,41 @@ function setupFilters() {
     el.searchInput.addEventListener("input", applyFilters);
   }
 }
+function initTypeFilters() {
+  let selectedType = "all";
 
+  const chips = document.querySelectorAll(".chip");
+  const releases = document.querySelectorAll(".release");
+
+  chips.forEach(chip => {
+    chip.addEventListener("click", () => {
+
+      
+      chips.forEach(c => c.classList.remove("active"));
+      chip.classList.add("active");
+
+      
+      selectedType = chip.dataset.type;
+
+       
+      releases.forEach(release => {
+        const releaseType = release.dataset.type;
+
+        if (
+          selectedType === "all" ||
+          releaseType === selectedType
+        ) {
+          release.style.display = "";
+        } else {
+          release.style.display = "none";
+        }
+      });
+
+    });
+  });
+}
+
+
+initTypeFilters();
 document.addEventListener("DOMContentLoaded", setupFilters);
 
