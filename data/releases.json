@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-25T10:05:31.600Z",
-  "total": 95,
+  "fetched_at": "2026-05-26T09:56:25.312Z",
+  "total": 120,
   "by_date": {
     "2026-05-15": [
       {
@@ -887,6 +887,39 @@
         "url": "https://open.spotify.com/album/5jP9rrWRO75GVKQO2K1fVu",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6RbXda157cFemzXML8r0Kj",
+        "title": "Тихо зникаю",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214360d4102280714f4f88c94",
+        "url": "https://open.spotify.com/album/6RbXda157cFemzXML8r0Kj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3BnX8DPBDL9lG8fDeKm12y",
+        "title": "Ти вже пішла",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dff0d4087cca9e38c3393b77",
+        "url": "https://open.spotify.com/album/3BnX8DPBDL9lG8fDeKm12y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aBrAet6TUCcy11fa37Ba7",
+        "title": "Pidän sinusta",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f949d291f245526c10155ee",
+        "url": "https://open.spotify.com/album/4aBrAet6TUCcy11fa37Ba7",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-19": [
@@ -1054,6 +1087,250 @@
         "release_date": "2026-05-25",
         "image": "https://i.scdn.co/image/ab67616d00001e02ac1d50bf3c7bf19145f29ec8",
         "url": "https://open.spotify.com/album/4KKeOGaafGqmPnNV9Od0fK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Iw9bC7inK0hBmaxNscaOF",
+        "title": "امي تدعيلي",
+        "artist": "Mohamed AlSalim",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e022cc882d0f7b764a3e5e76922",
+        "url": "https://open.spotify.com/album/5Iw9bC7inK0hBmaxNscaOF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5egbzLLz1wkI3IczCE1HPg",
+        "title": "Purane Din (The Good Old Day) - Live at Melbourne",
+        "artist": "Satinder Sartaaj",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8b5f85e3d8f603b57a53e17",
+        "url": "https://open.spotify.com/album/5egbzLLz1wkI3IczCE1HPg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32kd4g7m4ZBpoaOL5Wuowm",
+        "title": "the cure (performance video)",
+        "artist": "Olivia Rodrigo",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c28e2b399521fa266c571c4d",
+        "url": "https://open.spotify.com/album/32kd4g7m4ZBpoaOL5Wuowm",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4m3g6yCxmXxz31OTmgLefR",
+        "title": "ไม่เคยได้ลา (Original Soundtrack From \"เทอม 4\")",
+        "artist": "Three Man Down",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0e1221774bfc0236707f6d3",
+        "url": "https://open.spotify.com/album/4m3g6yCxmXxz31OTmgLefR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pNlmw45O4fBwbUfe10aM8",
+        "title": "سر وجعنا",
+        "artist": "Rahma Mohsen, NORDO",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a1b631ca8e0f1bed073754f",
+        "url": "https://open.spotify.com/album/1pNlmw45O4fBwbUfe10aM8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vnTC7xUl6bqfZ18BpB5od",
+        "title": "Kapitál",
+        "artist": "Robin Zoot",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277c12fa5d0394e842dbec3c4",
+        "url": "https://open.spotify.com/album/2vnTC7xUl6bqfZ18BpB5od",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6kCXNTI1ssjhzbKhdut4nA",
+        "title": "Four Seasons - Winter",
+        "artist": "BSW",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a833092477b8999d8eff3fd",
+        "url": "https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6p9ieBIjSX9GCVZElCjNe0",
+        "title": "كلها مستنظره عيزني ارجع ورا",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021832c60d7fcd3cf37bb18604",
+        "url": "https://open.spotify.com/album/6p9ieBIjSX9GCVZElCjNe0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2pdqY6uB2Zr9sWHbsZzOBd",
+        "title": "Stumilowy las",
+        "artist": "Igo",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fcab198dbfb76b943fcc996",
+        "url": "https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0v7us2KpvvfQV6IP1zwUDp",
+        "title": "EMELEM A TÉTET",
+        "artist": "ANUBII$, Beton.Hofi, Co Lee",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf85975cfb644e943e0a25a3",
+        "url": "https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cMjTRrxwAfM74MfiA3ijB",
+        "title": "Engage the Enemy",
+        "artist": "NikHawk",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02918d57f18b5f45f975b0d0da",
+        "url": "https://open.spotify.com/album/7cMjTRrxwAfM74MfiA3ijB",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-26": [
+      {
+        "id": "169JfihSNvwtcCLsdQNWcX",
+        "title": "TUSS!",
+        "artist": "Pirlo, Michael Flores, Conep, Be Gang",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e029502cf3659756fc9cdcaa358",
+        "url": "https://open.spotify.com/album/169JfihSNvwtcCLsdQNWcX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3rpO1L7WvEFCrt1StiqaEy",
+        "title": "MOR 6FM",
+        "artist": "Mor",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02464ef299a4fdfd05342e9642",
+        "url": "https://open.spotify.com/album/3rpO1L7WvEFCrt1StiqaEy",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1LtHnthpbLNJd0yMpBGLGS",
+        "title": "Ek Din Title Track Club Mix by Trosk",
+        "artist": "Arijit Singh, Ram Sampath, Irshad Kamil, Trosk",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b337b8ef05f4dfa9d8c5743",
+        "url": "https://open.spotify.com/album/1LtHnthpbLNJd0yMpBGLGS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4SX2FQRobz19rzI4Dexzym",
+        "title": "Cine te sună",
+        "artist": "Lazy Ed, Gya",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e029999777c66139d2f23f28bc3",
+        "url": "https://open.spotify.com/album/4SX2FQRobz19rzI4Dexzym",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "063z3lJRT7mHRPdzrWZZKQ",
+        "title": "Tiwi Tiwi (Live Session)",
+        "artist": "Jey One, Mapa Negro",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02239ac71b73641160026277c0",
+        "url": "https://open.spotify.com/album/063z3lJRT7mHRPdzrWZZKQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6TS1PnY4We1Qe4isLSo3lC",
+        "title": "Азарт 2",
+        "artist": "NORD DIVISION, Slavik Cherep",
+        "type": "album",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216c6444f8f9f0b4903901b08",
+        "url": "https://open.spotify.com/album/6TS1PnY4We1Qe4isLSo3lC",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5vuTObOzZkKNT5J4Sd64WG",
+        "title": "yan",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4963a7f5876e23e0d97a93d",
+        "url": "https://open.spotify.com/album/5vuTObOzZkKNT5J4Sd64WG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2hBfsUu1yE7ljiW0JV4guo",
+        "title": "Eternity's Etiquette",
+        "artist": "Hatsune Miku, Thea Strand",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213a4fd93d4692ed174ebb99c",
+        "url": "https://open.spotify.com/album/2hBfsUu1yE7ljiW0JV4guo",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1PVBdGWi7gj9wufi5vXLca",
+        "title": "Automotivo Novinha do Rabetão",
+        "artist": "MC Nito, DJ CLEBER",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292f69696c710a12418692a6d",
+        "url": "https://open.spotify.com/album/1PVBdGWi7gj9wufi5vXLca",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5w8aMCp3rPO8uHU7HJElrS",
+        "title": "IGUAL TRUQUE DE MESTRE",
+        "artist": "MC Nito, 7sete7, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02472066dae379a06441e7b06d",
+        "url": "https://open.spotify.com/album/5w8aMCp3rPO8uHU7HJElrS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2oHAzxe2SsfjL1TpYfsG6M",
+        "title": "Manda Mensagem",
+        "artist": "Mc Dkziin, Prod Gloto, MC Vine7",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4b61a85d24097a6746f4755",
+        "url": "https://open.spotify.com/album/2oHAzxe2SsfjL1TpYfsG6M",
         "total_tracks": 1,
         "genres": []
       }
