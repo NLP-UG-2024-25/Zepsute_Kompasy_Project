@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-26T09:56:25.312Z",
-  "total": 120,
+  "fetched_at": "2026-05-27T09:47:39.557Z",
+  "total": 152,
   "by_date": {
     "2026-05-15": [
       {
@@ -1210,6 +1210,105 @@
         "url": "https://open.spotify.com/album/7cMjTRrxwAfM74MfiA3ijB",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5UDscrlkAJfJPEGiKUdt3u",
+        "title": "Tujhko (From “Cocktail 2”)",
+        "artist": "Pritam, Arijit Singh, Sunidhi Chauhan, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b70e6ef0759aac7d134de3f",
+        "url": "https://open.spotify.com/album/5UDscrlkAJfJPEGiKUdt3u",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1vGPhssD6pgClSK6Yui0jo",
+        "title": "Karuppu (Original Motion Picture Soundtrack)",
+        "artist": "Sai Abhyankkar",
+        "type": "album",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296692a4abb1d828ca444db71",
+        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "0AZ7BJiF1zTIOrw21OYrxB",
+        "title": "Bahareya",
+        "artist": "Mohamed Hamaki, Sherine",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265bc885e72014eaf0978438d",
+        "url": "https://open.spotify.com/album/0AZ7BJiF1zTIOrw21OYrxB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pbPFxI7ZBKxWkkl3YoZAC",
+        "title": "ع البحر معلى التربو",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029324f716a9ee91d29d1fee82",
+        "url": "https://open.spotify.com/album/4pbPFxI7ZBKxWkkl3YoZAC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Kby42knoOCLCwzhxkl62p",
+        "title": "Anh Vội Quên (H2O Remix)",
+        "artist": "H2O Remix",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a52f4e187e2132711aa9b9b1",
+        "url": "https://open.spotify.com/album/5Kby42knoOCLCwzhxkl62p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5C4ZjsZbMdwQi8Y3fzvtGG",
+        "title": "BAL MASQUE",
+        "artist": "Abyusif",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3ad30dab7137304ee54c529",
+        "url": "https://open.spotify.com/album/5C4ZjsZbMdwQi8Y3fzvtGG",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "34fVHE11vKgGnabhXNTirh",
+        "title": "مفيش حد حمل انتدابي",
+        "artist": "Eslam Kabonga, Bedo El Negm",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b9488585d45d832854e108c",
+        "url": "https://open.spotify.com/album/34fVHE11vKgGnabhXNTirh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LWxfkNaO2sz7k4Ch9y9A9",
+        "title": "Din me Na Milab Rate Khatir",
+        "artist": "Shilpi Raj, Rohit Lal Yadav",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a2033f0d6b33b7efe90f733",
+        "url": "https://open.spotify.com/album/2LWxfkNaO2sz7k4Ch9y9A9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6r1W2H5kNuOBeYbagoCk4q",
+        "title": "Kuldne rand (Official Audio)",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201ae984441c0a74bee101394",
+        "url": "https://open.spotify.com/album/6r1W2H5kNuOBeYbagoCk4q",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-26": [
@@ -1332,6 +1431,261 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02b4b61a85d24097a6746f4755",
         "url": "https://open.spotify.com/album/2oHAzxe2SsfjL1TpYfsG6M",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ybKWN5Ak1M3x0AOirxdaH",
+        "title": "The Sun Will Never Settle",
+        "artist": "Kingfishr",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c5d30b6a176e31da32e98a5",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21wUGopWJBRxEOyqZQiDjK",
+        "title": "REKLAMACJA'47: CD2",
+        "artist": "OKI",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235eaa84c70e32e5aba980bc3",
+        "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2umOhDRcDnG5uQTdyLARKe",
+        "title": "خواطر",
+        "artist": "Rashed Al-Majed",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f603c87262ee0708fdf7f77d",
+        "url": "https://open.spotify.com/album/2umOhDRcDnG5uQTdyLARKe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Y9Msm0bmC9yVFaoL6l3d8",
+        "title": "El Ein El Hamra",
+        "artist": "Reda El Bahrawy",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02733f585fec576cb8d4a5dada",
+        "url": "https://open.spotify.com/album/3Y9Msm0bmC9yVFaoL6l3d8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WMwYM4vb3CMuHukp2dICM",
+        "title": "خصوماتي كتيرة ( الكيس يجر في ست كياس )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b81acd07d27fe8d27963fa7",
+        "url": "https://open.spotify.com/album/1WMwYM4vb3CMuHukp2dICM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7010wOpELM3WYiVm01fc9I",
+        "title": "Dostaneš všechno",
+        "artist": "Mirai",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7c0117d355d7bb823ec3d7d",
+        "url": "https://open.spotify.com/album/7010wOpELM3WYiVm01fc9I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oAJ3jwxFc0GaQemn52KAu",
+        "title": "Jeena Dil Se (From \"Jeena Dil Se\")",
+        "artist": "Javed Ali, Amardeep Rana, Prashant Ingole",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eaded64d21c45043df92eed1",
+        "url": "https://open.spotify.com/album/1oAJ3jwxFc0GaQemn52KAu",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-27": [
+      {
+        "id": "0vG0z8SOB9isXBCYigVOFN",
+        "title": "LUCID DREAM",
+        "artist": "IVE",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a412fcafee88d753e06d042f",
+        "url": "https://open.spotify.com/album/0vG0z8SOB9isXBCYigVOFN",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4ANRVMnwUmE27fbXVpqfvE",
+        "title": "Smugglers & Scholars (feat. Killer Mike)",
+        "artist": "KNEECAP",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e353a6af7bd0d2b54e5bcd10",
+        "url": "https://open.spotify.com/album/4ANRVMnwUmE27fbXVpqfvE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1k87ExIwHzjPCq4Js8BZWu",
+        "title": "クライマックス",
+        "artist": "SUPER BEAVER",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d47c0713e1bf901139a7f69",
+        "url": "https://open.spotify.com/album/1k87ExIwHzjPCq4Js8BZWu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1aHP1cXuU6iaBQxUlVVDGS",
+        "title": "MANDALINA",
+        "artist": "Motive, Jefe",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02816bca9c1a1dbbb2f09b10d6",
+        "url": "https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "30RguCsfXn3rPo6u1ggUPF",
+        "title": "Pricaj mi, pricaj",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02440d275db24d3a73acdeaf97",
+        "url": "https://open.spotify.com/album/30RguCsfXn3rPo6u1ggUPF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1YzaYcqieg8UA13VvY7r3S",
+        "title": "Tańczę",
+        "artist": "Męskie Granie Orkiestra, Igor Herbut, Zalia, Vito Bambino",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d1b15cc5abc8a010bb0ef6d",
+        "url": "https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37UN13u0Jj5CEZuHAojQWr",
+        "title": "LOVE BEAT",
+        "artist": "Kana Nishino",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02162783a39bfea84f4b87aab3",
+        "url": "https://open.spotify.com/album/37UN13u0Jj5CEZuHAojQWr",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7yVyBWeBiyfaUgXefZJVpC",
+        "title": "On Our Own",
+        "artist": "D’MASIV",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209b7fffb7477ee59f883bbbb",
+        "url": "https://open.spotify.com/album/7yVyBWeBiyfaUgXefZJVpC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4RUpaidMztR2N0VgRnMjJ1",
+        "title": "仮のまま定着したような愛情で",
+        "artist": "Creep Hyp",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7731ba7841ed1132441a313",
+        "url": "https://open.spotify.com/album/4RUpaidMztR2N0VgRnMjJ1",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7LWwu6FWhSRgpcb26pwLxo",
+        "title": "Faço Fumaça",
+        "artist": "Mc Paiva ZS, Mc J9, MC Lemos, J. Books",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f81276c6f68163df98dc627",
+        "url": "https://open.spotify.com/album/7LWwu6FWhSRgpcb26pwLxo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0k0j0snSLp7WFX2opKPPFf",
+        "title": "GIPSY $TAR (Studio Session #14)",
+        "artist": "RAVA, SEEK TV",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e69023c8a08fc23d823360f",
+        "url": "https://open.spotify.com/album/0k0j0snSLp7WFX2opKPPFf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wndavus4UbuGYKwRv8p6N",
+        "title": "La Mane Qader",
+        "artist": "Sabah Mahmod",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029eb7ed38cb1710085e90280d",
+        "url": "https://open.spotify.com/album/4wndavus4UbuGYKwRv8p6N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "36Dj2tBdpcPPgxruT8BAbO",
+        "title": "kimagure",
+        "artist": "Vaundy",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4dcebfddc3036dfbda416aa",
+        "url": "https://open.spotify.com/album/36Dj2tBdpcPPgxruT8BAbO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2jE0K3sXDhqkzaDXm3kcEm",
+        "title": "Ordinary, Extraordinary",
+        "artist": "Ghostly Kisses",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef9539399b545f7e8fa1ce1c",
+        "url": "https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0nB5NXinUisJ4InaJiFD8Q",
+        "title": "Mega Xoxotada",
+        "artist": "Mc Pedrinho, Mc Danny, Mc Rd, DJ Ping Pong",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d894e1dd65b6eabf856302d1",
+        "url": "https://open.spotify.com/album/0nB5NXinUisJ4InaJiFD8Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1CF8SBNSIhm1vtzhSlcwxJ",
+        "title": "15 - Live Edition(NIPPON BUDOKAN ～承認欲求爆発～)",
+        "artist": "tuki.",
+        "type": "album",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2ea3b4f0d3f0a9f957297a6",
+        "url": "https://open.spotify.com/album/1CF8SBNSIhm1vtzhSlcwxJ",
+        "total_tracks": 13,
         "genres": []
       }
     ]
