@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-27T09:47:39.557Z",
-  "total": 152,
+  "fetched_at": "2026-05-28T10:00:57.071Z",
+  "total": 182,
   "by_date": {
     "2026-05-15": [
       {
@@ -1509,6 +1509,28 @@
         "url": "https://open.spotify.com/album/1oAJ3jwxFc0GaQemn52KAu",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3lbWubjfpt3GqThUtqrNPe",
+        "title": "Kairat Nurtas",
+        "artist": "Kairat Nurtas",
+        "type": "album",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a333ed5f61f6b5260807881",
+        "url": "https://open.spotify.com/album/3lbWubjfpt3GqThUtqrNPe",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "0M7bXR6Rm3NwoMWnzWhHXY",
+        "title": "Kui aeg on küps (Official Audio)",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281e591f869038c85cce7bad8",
+        "url": "https://open.spotify.com/album/0M7bXR6Rm3NwoMWnzWhHXY",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-27": [
@@ -1686,6 +1708,318 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a2ea3b4f0d3f0a9f957297a6",
         "url": "https://open.spotify.com/album/1CF8SBNSIhm1vtzhSlcwxJ",
         "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "7CjWK8660IdZ4cwDHVY8oe",
+        "title": "El Princinómetro",
+        "artist": "José José",
+        "type": "compilation",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029cc7382f4f9c88d095c6056e",
+        "url": "https://open.spotify.com/album/7CjWK8660IdZ4cwDHVY8oe",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "727sWTkDYJa8EcqR7uLrt2",
+        "title": "ATL",
+        "artist": "La Mano 1.9, Gazo, La Rvfleuze",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028aaf780aa1288b4ea0d320f2",
+        "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FMYkJfkAwAqRofPkQD8Fg",
+        "title": "OCTAVIO MESA",
+        "artist": "GeezyDee, Blessd, Prodmonja",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227d7352932d000b19d415535",
+        "url": "https://open.spotify.com/album/0FMYkJfkAwAqRofPkQD8Fg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5fjXzkdSY0mjnNIvS1uMmY",
+        "title": "Ecoar 3",
+        "artist": "Gabriela Rocha",
+        "type": "album",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d33abe7d93559b832f5d5339",
+        "url": "https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "6to7pfCKsalcpJ7jd3hUhS",
+        "title": "Caravaggio",
+        "artist": "DELLAFUENTE",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0f1741e7b2604c181b0056d",
+        "url": "https://open.spotify.com/album/6to7pfCKsalcpJ7jd3hUhS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2mVkUrVG6xBbS0esN1Ofk9",
+        "title": "Dunali",
+        "artist": "Masoom Sharma, Ashu Twinkle",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e027beb8a9e674fed45aad3fb9d",
+        "url": "https://open.spotify.com/album/2mVkUrVG6xBbS0esN1Ofk9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iK9MxhrNXLNKbHKPX3djr",
+        "title": "Quiero Verte Feliz",
+        "artist": "La K'onga, Silvestre Dangond, Big One",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f569d36455b6fc5ce685c9e8",
+        "url": "https://open.spotify.com/album/7iK9MxhrNXLNKbHKPX3djr",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-28": [
+      {
+        "id": "4KsLRrdsmskz2N1nlFrACQ",
+        "title": "UNA NA MAS",
+        "artist": "Myke Towers",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02427721b78a96d1b442407453",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0s4JFcE6CZhp4Bmq2VAfhU",
+        "title": "Samjho Na (2Am Version)",
+        "artist": "Aditya Rikhari",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023da65357406451a226b4f2c4",
+        "url": "https://open.spotify.com/album/0s4JFcE6CZhp4Bmq2VAfhU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2QMsZZVq3ucWt4mnkPQYdX",
+        "title": "Sertanejo Série A (Ao Vivo Em Goiânia)",
+        "artist": "Maiara & Maraisa, Naiara Azevedo, Fred & Fabrício",
+        "type": "album",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b62b10b062d77151bde2b3c",
+        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "42xIr4vHShxAWnsIFmmG0N",
+        "title": "Rels B - Spotify Live Room",
+        "artist": "Rels B",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b8d5ec6b4d5e1d47aca698b",
+        "url": "https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "51rt3lCHmtHGirKCUzE5jH",
+        "title": "Jigga My Nigga",
+        "artist": "JAŸ-Z, Ruff Ryders",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d898bad22569f31b64a0eff",
+        "url": "https://open.spotify.com/album/51rt3lCHmtHGirKCUzE5jH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7L7mQJGSbFFu9HEwHiQ1os",
+        "title": "男人怎可以",
+        "artist": "MC 張天賦",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d8398df99f547657e0a6ddf",
+        "url": "https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2CTm35u9x6Tk5mXZHhwmvs",
+        "title": "teka lang",
+        "artist": "TJ Monterde",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2e31214c14608cff79acb6e",
+        "url": "https://open.spotify.com/album/2CTm35u9x6Tk5mXZHhwmvs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XltBvxCXSpOoajBoviwfU",
+        "title": "Ta Carente Quer Um Date",
+        "artist": "Mc Lele JP, MC LUUKY, DJ Hyago",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcf8bc2781702b21520cbce0",
+        "url": "https://open.spotify.com/album/5XltBvxCXSpOoajBoviwfU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ItQQ47qAd62ArT9ALiISJ",
+        "title": "Wyliczanka",
+        "artist": "Cypis, Funky Beatz, Ba'langa",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed2a72a3404cbdf0598c63fa",
+        "url": "https://open.spotify.com/album/0ItQQ47qAd62ArT9ALiISJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6tIHJY9T1bcLuEZxXAxvWe",
+        "title": "Só Tem Princesa",
+        "artist": "Boladin 211, MC BLACK DA PENHA",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276a83547f30ae56aa026aac9",
+        "url": "https://open.spotify.com/album/6tIHJY9T1bcLuEZxXAxvWe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3xYXgsxvVMSPxMDgTCoxqD",
+        "title": "Bloom",
+        "artist": "fellow fellow, Aheye 4EVE",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02349b1dc2b8cd8e1e1a21a8c1",
+        "url": "https://open.spotify.com/album/3xYXgsxvVMSPxMDgTCoxqD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HUTGa6crjBp3EiSdJl2qj",
+        "title": "EGW",
+        "artist": "DIFF, Sanko, Spize",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02193116680ad7e303925035f2",
+        "url": "https://open.spotify.com/album/2HUTGa6crjBp3EiSdJl2qj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ockMrcXulKV0aUPXcsgUt",
+        "title": "Passat",
+        "artist": "Denis Ramniceanu",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023120694090e2fa20702f4666",
+        "url": "https://open.spotify.com/album/6ockMrcXulKV0aUPXcsgUt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4IVPMTooQHTQb1h2mS22NQ",
+        "title": "Easy",
+        "artist": "Karim Osama, El Waili",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f793382eb7a3b4ab837eba4",
+        "url": "https://open.spotify.com/album/4IVPMTooQHTQb1h2mS22NQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1JLnvM8FVDS8C3H0MxQToy",
+        "title": "CHCĘ WIĘCEJ",
+        "artist": "Fukaj, Livka, ENKLAWA",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02999852931a96d2739c4b3181",
+        "url": "https://open.spotify.com/album/1JLnvM8FVDS8C3H0MxQToy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wh7zeEoFAU8StR8TyZl9j",
+        "title": "Ve Maahi - Arijit Singh & Asees Kaur Vocals Only",
+        "artist": "Arijit Singh, Asees Kaur",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f06d384a7be3ca8dca360225",
+        "url": "https://open.spotify.com/album/4wh7zeEoFAU8StR8TyZl9j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26R30prhxm1bgA3fHuzqKz",
+        "title": "ARAGORN",
+        "artist": "Immune, Misk",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226897c46ec9cf1e2d655ff1a",
+        "url": "https://open.spotify.com/album/26R30prhxm1bgA3fHuzqKz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "70iTAgRuJ9D8nIAkVQYrIC",
+        "title": "SEN (Live at Almaty, 2026)",
+        "artist": "Aikyn Tolepbergen",
+        "type": "album",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d984aa7a4ad3ba831c570ba",
+        "url": "https://open.spotify.com/album/70iTAgRuJ9D8nIAkVQYrIC",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "4nTDJDQYvw7pzXVojgpsI8",
+        "title": "Nooduitgang",
+        "artist": "Metejoor",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d2f21e1d56199f95d357288",
+        "url": "https://open.spotify.com/album/4nTDJDQYvw7pzXVojgpsI8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YWzR0zdC3THIYLPjKVY4K",
+        "title": "Loco",
+        "artist": "Ude Af Kontrol",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc16fc67bcc1384924123930",
+        "url": "https://open.spotify.com/album/2YWzR0zdC3THIYLPjKVY4K",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-05-31": [
+      {
+        "id": "3XGGoKnrX9ic4xu44hrqyW",
+        "title": "Deu Rolo No Barretão (Verão) - Vol. 02 [Ao Vivo]",
+        "artist": "Guilherme & Benuto",
+        "type": "album",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bedb9e39ee45979ce68b8449",
+        "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW",
+        "total_tracks": 15,
         "genres": []
       }
     ]
