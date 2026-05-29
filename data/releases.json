@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-28T10:00:57.071Z",
-  "total": 182,
+  "fetched_at": "2026-05-29T09:54:13.969Z",
+  "total": 230,
   "by_date": {
     "2026-05-15": [
       {
@@ -1531,6 +1531,17 @@
         "url": "https://open.spotify.com/album/0M7bXR6Rm3NwoMWnzWhHXY",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0SJw8IrXrFCXB0JEDHOG7x",
+        "title": "Здравствуй, любимый город (DVINA BEATS remix)",
+        "artist": "man_on_line_68",
+        "type": "single",
+        "release_date": "2026-05-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263766e0c2c98f663b5249d41",
+        "url": "https://open.spotify.com/album/0SJw8IrXrFCXB0JEDHOG7x",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-27": [
@@ -1786,6 +1797,17 @@
         "url": "https://open.spotify.com/album/7iK9MxhrNXLNKbHKPX3djr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2cQ7V3VYdJL1MXh7NS7oEe",
+        "title": "Mundial 2026",
+        "artist": "Millonario",
+        "type": "single",
+        "release_date": "2026-05-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffd265645e8129d93454b4eb",
+        "url": "https://open.spotify.com/album/2cQ7V3VYdJL1MXh7NS7oEe",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-28": [
@@ -2008,6 +2030,105 @@
         "url": "https://open.spotify.com/album/2YWzR0zdC3THIYLPjKVY4K",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "18ZBkv7H9aGiDhHVWeuuKv",
+        "title": "ACOMODO",
+        "artist": "Tito Double P",
+        "type": "album",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028cd8ee17cdc2cabc79d172b3",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "5NPLmlTys2atPbydfgLKke",
+        "title": "Con dolor",
+        "artist": "Grupo Frontera",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f21dbff1625e517c6176aff7",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4MsP9iWrITXsRXgW1ebsyy",
+        "title": "Nunca Voy a Morir",
+        "artist": "Omar Camacho",
+        "type": "album",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286626ffe26c2d2c68e8956b7",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "51ZB7xmzN8RVLJfCeXJmOH",
+        "title": "GANAS REMIX",
+        "artist": "Kris R., Ryan Castro, De La Rose, Cris MJ",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e026eaa8ee99ef7941ab191afed",
+        "url": "https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1g4gOThJ1Go0FCkj8gLgWQ",
+        "title": "La Voz Favorita",
+        "artist": "Jay Wheeler",
+        "type": "album",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b34c3e20b00861260419e080",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "66uYOoKTzYSaPr319MyZ2K",
+        "title": "ELLAELLA",
+        "artist": "SAIKO, Zion, Yapi",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e029637457eec922174f0375bcf",
+        "url": "https://open.spotify.com/album/66uYOoKTzYSaPr319MyZ2K",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Gd6CT4X9vYwc2DqaHy09g",
+        "title": "Te Perdono",
+        "artist": "Tiago PZK",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4fba2181bf22fee6c582b59",
+        "url": "https://open.spotify.com/album/0Gd6CT4X9vYwc2DqaHy09g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "36ocXZA5Xnny4cdKULKoFF",
+        "title": "Come My Way",
+        "artist": "Sơn Tùng M-TP, Tyga",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233611054891dd00dd8c86fa4",
+        "url": "https://open.spotify.com/album/36ocXZA5Xnny4cdKULKoFF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "51CHARUGKwnEGeitlu53fx",
+        "title": "Aarzu (with Asim Azhar)",
+        "artist": "Asim Azhar, Noor, Khan, Madhurxo",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223163367c297997eaa635b66",
+        "url": "https://open.spotify.com/album/51CHARUGKwnEGeitlu53fx",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-31": [
@@ -2020,6 +2141,415 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02bedb9e39ee45979ce68b8449",
         "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW",
         "total_tracks": 15,
+        "genres": []
+      }
+    ],
+    "2026-05-29": [
+      {
+        "id": "1x159B5VzbDWAGBik5cr1z",
+        "title": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b622d42c30697e1e1414343c",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2IrLgCHorjIvyYuZXiMY2e",
+        "title": "Game Time (FIFA World Cup 2026™)",
+        "artist": "Future, Tyla, FIFA Sound",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225b27f38b25c29225c8ccf92",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2BapCwo23b6AFgqS8Wbl6B",
+        "title": "I'm Jiggy (Lost Tapes 2022)",
+        "artist": "Tory Lanez",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5031ce3f3c772cca71e17d2",
+        "url": "https://open.spotify.com/album/2BapCwo23b6AFgqS8Wbl6B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3wubGME5AKWj1s1lZGlrCA",
+        "title": "Can You Be Mine",
+        "artist": "Timbaland, Justin Blau",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce453231450c924d2904e936",
+        "url": "https://open.spotify.com/album/3wubGME5AKWj1s1lZGlrCA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07x7ZKJ5gf3wK3O4lbKKHY",
+        "title": "Here (with Sierra Ferrell) [Apple Music Sessions]",
+        "artist": "Mumford & Sons",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a64ae279f65f317af26f07fd",
+        "url": "https://open.spotify.com/album/07x7ZKJ5gf3wK3O4lbKKHY",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6x96TThjrzrliOth9NrXIq",
+        "title": "BORONDO (5020 RCRDS SESSIONS)",
+        "artist": "Beéle",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db76657a05be6f70d8c813d0",
+        "url": "https://open.spotify.com/album/6x96TThjrzrliOth9NrXIq",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "1eV5vEnNJ7vH3OqiOszd4M",
+        "title": "alone with you",
+        "artist": "LONOWN, Baby Jane",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a35f49570a90507ed75b504",
+        "url": "https://open.spotify.com/album/1eV5vEnNJ7vH3OqiOszd4M",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3YAJhdX0oklx3Hxyrdll5V",
+        "title": "Sad Girls",
+        "artist": "Bebe Rexha, David Guetta",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d103ab0e25dfd1dbd4535602",
+        "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2QhsqBj5eOk6Mfg2f92DKW",
+        "title": "Still No Good",
+        "artist": "KALEO",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a61330ce475f8498bfc2d59f",
+        "url": "https://open.spotify.com/album/2QhsqBj5eOk6Mfg2f92DKW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7lEc1BEhoOFtDgKA3aZyIt",
+        "title": "Salvame Hoy (feat. Gabito Ballesteros)",
+        "artist": "Jennifer Lopez, David Guetta, Gabito Ballesteros",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d75d599f147a563ee37c373e",
+        "url": "https://open.spotify.com/album/7lEc1BEhoOFtDgKA3aZyIt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JlIAgb2Wef3CMsq3Jf7JS",
+        "title": "Don't Lose Your Head",
+        "artist": "Tiësto, Olivia Sebastianelli",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e026cd02ce2d197efc0a9ec0a6e",
+        "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2bQGNDGMaTLf9JGIvFJ5rG",
+        "title": "Euphoria: Season 3 (HBO Original Series Soundtrack)",
+        "artist": "Hans Zimmer",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1acec363d868a68683c3527",
+        "url": "https://open.spotify.com/album/2bQGNDGMaTLf9JGIvFJ5rG",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "79vtgsdBED0GbYTgojKZvz",
+        "title": "Love Tonight",
+        "artist": "BUNT.",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a314fdf0bbcb7234e9fba25f",
+        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2GxfOiZVUUKshhA0t08WxV",
+        "title": "Vivir Sin Aire Tour",
+        "artist": "Maná",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7140c6bb06fef5a1a7c26ff",
+        "url": "https://open.spotify.com/album/2GxfOiZVUUKshhA0t08WxV",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "6sTGPeQccQvmDiOIxJLZyD",
+        "title": "COSMIC OPERA ACT II",
+        "artist": "Labrinth",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203ff3483fd8a100e5ee5040c",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "4ZEEq0Ha1r1hotCGAHhAig",
+        "title": "I Wonder If You Know",
+        "artist": "Alok, SOMETHING ELSE",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e11efa8b7dccc95c8c38f82d",
+        "url": "https://open.spotify.com/album/4ZEEq0Ha1r1hotCGAHhAig",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3vcfSqFi7hCJUqXhnGtmnQ",
+        "title": "Ron Y Coco",
+        "artist": "HUGEL, Barbara Doza, Flagrant Drvms",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02078de946a2080cd8e128098a",
+        "url": "https://open.spotify.com/album/3vcfSqFi7hCJUqXhnGtmnQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3UkflGwsmBLQSNagVbdto1",
+        "title": "I Giorni (Live at the Royal Albert Hall)",
+        "artist": "Ludovico Einaudi",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230e50e04b9b2372eecf23092",
+        "url": "https://open.spotify.com/album/3UkflGwsmBLQSNagVbdto1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6PAbskGOiEfKlxa7u0xqbq",
+        "title": "La Yerba y Los Cigarros",
+        "artist": "Ezzy R, El mejor de Marte, MATARY BONE",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c221c6085b3a453e3149f0ff",
+        "url": "https://open.spotify.com/album/6PAbskGOiEfKlxa7u0xqbq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6fspaDyMcjzchq2Y2dF3cU",
+        "title": "011025 (En Vivo)",
+        "artist": "Zoé",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295010b3375a4a99d80dc2da4",
+        "url": "https://open.spotify.com/album/6fspaDyMcjzchq2Y2dF3cU",
+        "total_tracks": 27,
+        "genres": []
+      },
+      {
+        "id": "1HKaZdOadRfquf0hGyDjBZ",
+        "title": "What You Want (SG Lewis Remix)",
+        "artist": "Angèle, SG Lewis",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e028de7c6334a7c5af137739ed7",
+        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7GNI6jmeP6Zu4LmyLisoE6",
+        "title": "ポルターガイスト",
+        "artist": "natori",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae29a01c2c4e2ae888307bdc",
+        "url": "https://open.spotify.com/album/7GNI6jmeP6Zu4LmyLisoE6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3cR2qRqYSeOiLIPPEokaXg",
+        "title": "Elumelu",
+        "artist": "Young Jonn",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b2fda0d48eb15f81c15b0b6",
+        "url": "https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2UVzZp1KbLN60RvxiGR5aF",
+        "title": "Friend Of Mine (Scream Riddim)",
+        "artist": "Vybz Kartel",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218e18d8beede73918ca27c79",
+        "url": "https://open.spotify.com/album/2UVzZp1KbLN60RvxiGR5aF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NccNdznw705uZ4sfQ7FRY",
+        "title": "Elevate (SOTA Remix)",
+        "artist": "Sub Focus, SOTA",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e0437b657e5595f10af5db5",
+        "url": "https://open.spotify.com/album/2NccNdznw705uZ4sfQ7FRY",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2nmBHfCeiDDKdZ9nm3nqW5",
+        "title": "Queliz Forever",
+        "artist": "Luis Brown",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027311d8c9411e2ee2453694ef",
+        "url": "https://open.spotify.com/album/2nmBHfCeiDDKdZ9nm3nqW5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25bcL2bu8qT4NawjYaqow9",
+        "title": "Кошка",
+        "artist": "Lida",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fd8faa369883affc270e745",
+        "url": "https://open.spotify.com/album/25bcL2bu8qT4NawjYaqow9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6V8vpu5MiLkOSLifAGfe2f",
+        "title": "BORN WINNER",
+        "artist": "AP Dhillon, FRVRFRIDAY, Joe Gez, Canada Soccer",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02724db198d0fbc0805e7f7e55",
+        "url": "https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3297WTdhKEtKDa629GFO3m",
+        "title": "Ringer Om Natten",
+        "artist": "Christopher",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f062359fe78b4996db75b8d",
+        "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5gOtkYrLpwEvTRGDi0gcct",
+        "title": "100 Degrees",
+        "artist": "Karencici",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ef8aff7dbb457b55fba69aa",
+        "url": "https://open.spotify.com/album/5gOtkYrLpwEvTRGDi0gcct",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "30cAXP9iph7hbTDn0pvNy2",
+        "title": "заставь меня плакать",
+        "artist": "CUPSIZE",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abb0bfd72610d1133dda60c1",
+        "url": "https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "6KJ6pdb94ioS93Uv1SGwKq",
+        "title": "A glimpse of then",
+        "artist": "Bomarz",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02886a79a0f869373960518fdc",
+        "url": "https://open.spotify.com/album/6KJ6pdb94ioS93Uv1SGwKq",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "6djL2cVXQE5YjG24bTGrQ1",
+        "title": "Tomorrow is Never Promised",
+        "artist": "Pilavakisx",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e022cf9e645a7c7bdede4aad4b3",
+        "url": "https://open.spotify.com/album/6djL2cVXQE5YjG24bTGrQ1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Qb2vsEISTYWcNLncGxQ5B",
+        "title": "100% Agnos Kypriakos Villos",
+        "artist": "Zivanished",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e023560f2dd981430a46b0d1f08",
+        "url": "https://open.spotify.com/album/6Qb2vsEISTYWcNLncGxQ5B",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3MJG1kqoh97R0wXABdU6ce",
+        "title": "girly pop",
+        "artist": "matho",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02464461c1f730af71b6edd5eb",
+        "url": "https://open.spotify.com/album/3MJG1kqoh97R0wXABdU6ce",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zUoB66FGKFawr58BL5QaR",
+        "title": "ZagtMah",
+        "artist": "ABITAPIC",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261859a0c1ead59138869f835",
+        "url": "https://open.spotify.com/album/3zUoB66FGKFawr58BL5QaR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0mmJP0udO9LdyvYOR3WGvl",
+        "title": "Aconite",
+        "artist": "XTRX",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f00c026263b5d9e5eab8d408",
+        "url": "https://open.spotify.com/album/0mmJP0udO9LdyvYOR3WGvl",
+        "total_tracks": 4,
         "genres": []
       }
     ]
