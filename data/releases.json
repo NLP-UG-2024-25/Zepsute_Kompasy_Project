@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-29T09:54:13.969Z",
-  "total": 230,
+  "fetched_at": "2026-05-30T08:27:48.666Z",
+  "total": 242,
   "by_date": {
     "2026-05-15": [
       {
@@ -2129,6 +2129,39 @@
         "url": "https://open.spotify.com/album/51CHARUGKwnEGeitlu53fx",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7yhSopY4yZx3OEmMQKwHjU",
+        "title": "Se Sinta Em Casa",
+        "artist": "Mc Livinho, Mc Lele JP, Mc Don Juan, DJ GORDINHO DA VF",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024fc3421557203c0d89effc97",
+        "url": "https://open.spotify.com/album/7yhSopY4yZx3OEmMQKwHjU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6v7hoRerV60laxfdrzgNOi",
+        "title": "Só Se For Sozinho",
+        "artist": "Jorge & Mateus",
+        "type": "single",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0204366350f0a9f173f826617c",
+        "url": "https://open.spotify.com/album/6v7hoRerV60laxfdrzgNOi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39rIF14j86GiVg5CnwCwil",
+        "title": "Cê Tá Doido em Campo (Ao Vivo)",
+        "artist": "Panda, Humberto & Ronaldo, Ícaro e Gilmar, MJ Records",
+        "type": "album",
+        "release_date": "2026-05-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1fa7e79c7db747ae6f927de",
+        "url": "https://open.spotify.com/album/39rIF14j86GiVg5CnwCwil",
+        "total_tracks": 23,
+        "genres": []
       }
     ],
     "2026-05-31": [
@@ -2550,6 +2583,107 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02f00c026263b5d9e5eab8d408",
         "url": "https://open.spotify.com/album/0mmJP0udO9LdyvYOR3WGvl",
         "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4lKjNZk2p5M7EHqIQsWnuM",
+        "title": "FUNK IGNOTO",
+        "artist": "h6itam, LXZVA, LUNVREN",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f058af29a85a5b73445f3879",
+        "url": "https://open.spotify.com/album/4lKjNZk2p5M7EHqIQsWnuM",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1578ziuezJpNODpDNk1oYK",
+        "title": "Adiós Que Te Vaya Bien (Remasterizadas)",
+        "artist": "Los Rehenes",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d273c04e63f0bc782db5260",
+        "url": "https://open.spotify.com/album/1578ziuezJpNODpDNk1oYK",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "0bhaJ44DncKoSe8hUR1BV0",
+        "title": "Рок-н-роллер",
+        "artist": "Платина, Aarne",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e026a1103591831e5e808e1ba0a",
+        "url": "https://open.spotify.com/album/0bhaJ44DncKoSe8hUR1BV0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7trDU7CB4aBMg8G2nHY2FA",
+        "title": "Pretty Girls",
+        "artist": "Kai Angel",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c169d9bfdac8c958b0e97c77",
+        "url": "https://open.spotify.com/album/7trDU7CB4aBMg8G2nHY2FA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48kN66gNmZ5ARVy9O9p0ct",
+        "title": "Bxckwood Dreams",
+        "artist": "dabbackwood",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221352fd3dcbfe70a3b39f150",
+        "url": "https://open.spotify.com/album/48kN66gNmZ5ARVy9O9p0ct",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0ud6sAhCCaB5i038rkzwSi",
+        "title": "Мутки (Afro House Remix)",
+        "artist": "Zivert, ЯН ДИЛАН",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6e21c885298194bf0fc2a93",
+        "url": "https://open.spotify.com/album/0ud6sAhCCaB5i038rkzwSi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2hU94vx40MplynPDuXqFiA",
+        "title": "Жизнь",
+        "artist": "Whole Lotta Swag",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e025aac6cb651274277012c4a48",
+        "url": "https://open.spotify.com/album/2hU94vx40MplynPDuXqFiA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0os5noLQiyho1W3BEG9nja",
+        "title": "A Distant Tomorrow",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e571402ffa197d9081bdd36",
+        "url": "https://open.spotify.com/album/0os5noLQiyho1W3BEG9nja",
+        "total_tracks": 3,
+        "genres": []
+      }
+    ],
+    "2026-05-30": [
+      {
+        "id": "2YeDCeh8f2Mp8EocR2AByR",
+        "title": "Bird Can Fly",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e022883cee695231aa99811e260",
+        "url": "https://open.spotify.com/album/2YeDCeh8f2Mp8EocR2AByR",
+        "total_tracks": 3,
         "genres": []
       }
     ]
