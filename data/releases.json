@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-30T08:27:48.666Z",
-  "total": 242,
+  "fetched_at": "2026-05-31T08:44:59.595Z",
+  "total": 288,
   "by_date": {
     "2026-05-15": [
       {
@@ -2175,6 +2175,72 @@
         "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW",
         "total_tracks": 15,
         "genres": []
+      },
+      {
+        "id": "4kocDm2s6496GxeRt66bbH",
+        "title": "מה שקשה להגיד",
+        "artist": "Itay Levi, כל מה שעוזר",
+        "type": "single",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c7cd4e54d141fa9aa4e04ec",
+        "url": "https://open.spotify.com/album/4kocDm2s6496GxeRt66bbH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6HkYBP5PJ5Wfy3eKnGLEoP",
+        "title": "Mở Lòng Vì Ai x Em Thua Cô Ta",
+        "artist": "MeMe Media",
+        "type": "album",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e027939b808e6fb2ec5718ff111",
+        "url": "https://open.spotify.com/album/6HkYBP5PJ5Wfy3eKnGLEoP",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "63nK8wjS8fWTfzm3XvgZQJ",
+        "title": "CELEBRATION (Supergirl ver.)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f977e9e4337d8ae7698d0541",
+        "url": "https://open.spotify.com/album/63nK8wjS8fWTfzm3XvgZQJ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "17RDAMSpqH7PktSBV8Xjpv",
+        "title": "Kinetic Karma",
+        "artist": "Hatsune Miku, Klara Haugen",
+        "type": "single",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a1f4036cbf962a2f73c456e",
+        "url": "https://open.spotify.com/album/17RDAMSpqH7PktSBV8Xjpv",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "58R0r3LQD1l7HM61G1nbaG",
+        "title": "\"Soft Sunlight: Classical for Spring\"",
+        "artist": "Wolfgang Amadeus Mozart, Ludwig van Beethoven, Antonio Vivaldi, Johann Sebastian Bach, George Frideric Handel, Frédéric Chopin, Franz Schubert, Claude Debussy, Pyotr Ilyich Tchaikovsky, Johannes Brahms",
+        "type": "album",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5f5549a3bb287b422b62c54",
+        "url": "https://open.spotify.com/album/58R0r3LQD1l7HM61G1nbaG",
+        "total_tracks": 80,
+        "genres": []
+      },
+      {
+        "id": "6NM25UjFAmG5di3a4akv8M",
+        "title": "Filha da Dona Maria",
+        "artist": "Yuri Redicopa, MC BF, DJ Jotta7",
+        "type": "single",
+        "release_date": "2026-05-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b062dcf5941e7e6f050e5b5",
+        "url": "https://open.spotify.com/album/6NM25UjFAmG5di3a4akv8M",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-05-29": [
@@ -2672,6 +2738,215 @@
         "url": "https://open.spotify.com/album/0os5noLQiyho1W3BEG9nja",
         "total_tracks": 3,
         "genres": []
+      },
+      {
+        "id": "42b71Pe6e44mkpU7MuWqJi",
+        "title": "Legendary Lovers (Save Me) (feat. Chief Keef)",
+        "artist": "Katy Perry, Chief Keef",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c827bd6a21bdc619af71fc2c",
+        "url": "https://open.spotify.com/album/42b71Pe6e44mkpU7MuWqJi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4neW9ijoeGdVXZ29QOvoo3",
+        "title": "Boki Fans (Explicit)",
+        "artist": "Luigi 21 Plus",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027eb0ca1a7ce5435ed8dc05a3",
+        "url": "https://open.spotify.com/album/4neW9ijoeGdVXZ29QOvoo3",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0be0wiajNlpPqwKzLarCfZ",
+        "title": "GOAT Song (From \"Mollywood Times\")",
+        "artist": "Jakes Bejoy, Adhri Joe, Tribemama Marykali",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e029774fecc434fdd946ef08d15",
+        "url": "https://open.spotify.com/album/0be0wiajNlpPqwKzLarCfZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3i1BO80EHj72s5kULmoiji",
+        "title": "Promene",
+        "artist": "Voyage",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e6656bb5ff9db67ea96a0d2",
+        "url": "https://open.spotify.com/album/3i1BO80EHj72s5kULmoiji",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "7v3EosXU86nuE9Z8BZXc1O",
+        "title": "Big Mama",
+        "artist": "Latto",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac0082972ead22b89eaa7cb3",
+        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "7tMjXcLExvJMahLYkPjSCu",
+        "title": "Nopți și zile",
+        "artist": "Costi, Leo de la Rosiori, Andrei Banuta",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa243ef8586958b084caadf8",
+        "url": "https://open.spotify.com/album/7tMjXcLExvJMahLYkPjSCu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "517YiqpjVOJnbd3Znp6awe",
+        "title": "Big Mama",
+        "artist": "Latto",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f7a458248be554c792ef851",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "2YSx52WRNoGQRyfbdG69IQ",
+        "title": "Si Las Miradas Mataran",
+        "artist": "La Arrolladora Banda El Limón De Rene Camacho",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275e21d226ecf36017183ae8e",
+        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "6Cad6AY4NNSALyJLxpFwIZ",
+        "title": "Eu To Progredindo",
+        "artist": "MC Leozinho ZS, MC RN do Capão, Dj Yuri Pedrada",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02549142f7359820b3a154bb55",
+        "url": "https://open.spotify.com/album/6Cad6AY4NNSALyJLxpFwIZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45FGdrgxJsLqREGTn50WlF",
+        "title": "عايزنها دمار طب قبلو ( انا لسه بقول سلامو عليكو )",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c18cfd071c9bcb665050696",
+        "url": "https://open.spotify.com/album/45FGdrgxJsLqREGTn50WlF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MJHLIDJJz2iWwOgWD5iaa",
+        "title": "Anh Sẽ Đến Khi Em Cần",
+        "artist": "Duongg",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b542f0177a4d33c6477c3275",
+        "url": "https://open.spotify.com/album/7MJHLIDJJz2iWwOgWD5iaa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6b8er5tkwaQON5YFErrOHC",
+        "title": "Anh Nợ Em (Original Soundtrack From \"Ốc Mượn Hồn\")",
+        "artist": "Lâm Bảo Ngọc, Nguyen Van Chung",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02853ffb7e130b085cee12d9c0",
+        "url": "https://open.spotify.com/album/6b8er5tkwaQON5YFErrOHC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OQeuQ6BPWLvjG0So5dHOz",
+        "title": "Antes da Cavucação",
+        "artist": "MC Nito, DJ Isaac Vieira, Club Marconex Records",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020fab16a22632fac5728f52d2",
+        "url": "https://open.spotify.com/album/0OQeuQ6BPWLvjG0So5dHOz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dpHiEUQJxkn3g7xBuN8Ac",
+        "title": "A Vida É Um Jogo",
+        "artist": "MC Vine7, MC RN do Capão, Mc Robs, DJ Biel Bolado",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c171b8a81a699052be474a2",
+        "url": "https://open.spotify.com/album/4dpHiEUQJxkn3g7xBuN8Ac",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6K7XWEsB0r3QcdB7sFChVJ",
+        "title": "هنا او هنا سبع زى مانا ( اجزاء وشك دى تشدها )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb81d97ee5229441707100d8",
+        "url": "https://open.spotify.com/album/6K7XWEsB0r3QcdB7sFChVJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0odX49iv0KOaH51w5mLrPe",
+        "title": "TWEAKING",
+        "artist": "Ντέιβ",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027803d2ff398580629270c62f",
+        "url": "https://open.spotify.com/album/0odX49iv0KOaH51w5mLrPe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1asyGEqYEgDf3d4EJIwLJt",
+        "title": "Sind ootan alati (Official Audio)",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298ebfdf63e57ce82311f092d",
+        "url": "https://open.spotify.com/album/1asyGEqYEgDf3d4EJIwLJt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "109a9TeaSxUYbl8d7SEzSf",
+        "title": "Kas julgen tulla (Official Audio)",
+        "artist": "Ardi",
+        "type": "single",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffa3679e4b7614176f812ed9",
+        "url": "https://open.spotify.com/album/109a9TeaSxUYbl8d7SEzSf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0TcS4GiHeh1wVTL9p6pSKh",
+        "title": "Áhrifavaldur",
+        "artist": "GEMIL",
+        "type": "album",
+        "release_date": "2026-05-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb07d954ed947c55f0bdef74",
+        "url": "https://open.spotify.com/album/0TcS4GiHeh1wVTL9p6pSKh",
+        "total_tracks": 7,
+        "genres": []
       }
     ],
     "2026-05-30": [
@@ -2684,6 +2959,237 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022883cee695231aa99811e260",
         "url": "https://open.spotify.com/album/2YeDCeh8f2Mp8EocR2AByR",
         "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7k2A9qMr82mAYwZhJf0cIZ",
+        "title": "Romantic Classics Hits",
+        "artist": "Pritam, Sachin-Jigar, Sachet-Parampara",
+        "type": "compilation",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02502f15f91cceb6545291c3f7",
+        "url": "https://open.spotify.com/album/7k2A9qMr82mAYwZhJf0cIZ",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4hmOz6d6PYpPIXbIJozPft",
+        "title": "Soulful Hits",
+        "artist": "Arijit Singh, Pritam, Amit Trivedi",
+        "type": "compilation",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce648fd755a80cb5caa0571a",
+        "url": "https://open.spotify.com/album/4hmOz6d6PYpPIXbIJozPft",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "77Dlfp3iJUT6bsQS5x4tld",
+        "title": "Streets Is Watching",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292431d4d794c95d7648ef2ec",
+        "url": "https://open.spotify.com/album/77Dlfp3iJUT6bsQS5x4tld",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0aca5PNEUdLkS5RuLQx1US",
+        "title": "Timeless Love Songs",
+        "artist": "Sunidhi Chauhan, Jonita Gandhi, Udit Narayan, Shreya Ghoshal",
+        "type": "compilation",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b07f05b2c677061a6bd4ea00",
+        "url": "https://open.spotify.com/album/0aca5PNEUdLkS5RuLQx1US",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0gZlrtCfrMDUg74b3VunKy",
+        "title": "Marathi Devotional Songs",
+        "artist": "Shankar Mahadevan, Avadhoot Gandhi, Rohan Pradhan",
+        "type": "compilation",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02231b8e750a5c81afd196c71c",
+        "url": "https://open.spotify.com/album/0gZlrtCfrMDUg74b3VunKy",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1db9C3mmWtqBAKlcrlXtna",
+        "title": "Paris Saint-Germain",
+        "artist": "Niro",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e026126ac06d01850a63db88afd",
+        "url": "https://open.spotify.com/album/1db9C3mmWtqBAKlcrlXtna",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0xRtVCLv1ed3neXdr1PQKk",
+        "title": "BUMAWI KA NA LANG",
+        "artist": "Nateman, Guddhist Gunatita",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e022cb7c06281cfdc4b7e7b30c2",
+        "url": "https://open.spotify.com/album/0xRtVCLv1ed3neXdr1PQKk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "593rxma67Ty9uuRx4FjSpd",
+        "title": "I AM WHAT I AM",
+        "artist": "隊長",
+        "type": "album",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d11f9b26aa361bd142ee131",
+        "url": "https://open.spotify.com/album/593rxma67Ty9uuRx4FjSpd",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4hsWyMlXeJ630GzsOq5cpg",
+        "title": "Terasa sa pogledom na zid (DJ Neba Remix)",
+        "artist": "Ana Nikolić, Dj Neba",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9e0bfdb29081fca65aea178",
+        "url": "https://open.spotify.com/album/4hsWyMlXeJ630GzsOq5cpg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0UnHxPVmQTKq2ZyQkl9d3y",
+        "title": "Bari uaqytsha",
+        "artist": "Жугунусов Мирас",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245341b04d37efcd252f703eb",
+        "url": "https://open.spotify.com/album/0UnHxPVmQTKq2ZyQkl9d3y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6VioEsOGLZlfveutyY89Yc",
+        "title": "Kiskece",
+        "artist": "DESH, Young Fly",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218934469e74b29b8a84b0321",
+        "url": "https://open.spotify.com/album/6VioEsOGLZlfveutyY89Yc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vcf6p3cX0lgeRQxDV6Drt",
+        "title": "Bamse : Vicky Vargs underbara sommarlov",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e023292f6f3c322a147b1e51de8",
+        "url": "https://open.spotify.com/album/2vcf6p3cX0lgeRQxDV6Drt",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "14Luxa73Fr3lsQZ0QnSECQ",
+        "title": "Keep Going (Ao vivo)",
+        "artist": "L7NNON, Papatinho, Orquestra Novo Traço",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac555bcc29d239726b265968",
+        "url": "https://open.spotify.com/album/14Luxa73Fr3lsQZ0QnSECQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2mFu3IvXj05ulnjwuysTzM",
+        "title": "Faça Valer (Ao vivo)",
+        "artist": "L7NNON, Papatinho, Orquestra Novo Traço",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d244cfe798f86924bf142ac",
+        "url": "https://open.spotify.com/album/2mFu3IvXj05ulnjwuysTzM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4O9Layr0Qk10iuxTNE7nRY",
+        "title": "Barbie de Arabia",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4d48fe19845197293a2788a",
+        "url": "https://open.spotify.com/album/4O9Layr0Qk10iuxTNE7nRY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4UJKrtjvu11iIZp9CHQ6wa",
+        "title": "ดั่งใจฝัน (daydream) [Ost. ภพเธอ Love Upon a Time Series]",
+        "artist": "BOWKYLION",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02584987b65c01f7d09ecfbda0",
+        "url": "https://open.spotify.com/album/4UJKrtjvu11iIZp9CHQ6wa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2wCX35GwCTWpH0OsISbiZD",
+        "title": "Sem Amor",
+        "artist": "Mc Dkziin, Prod Gloto",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1ee748a4f9644262f418a1a",
+        "url": "https://open.spotify.com/album/2wCX35GwCTWpH0OsISbiZD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3RvsHbi3nHCbiEUDWY2Jwn",
+        "title": "Soltera",
+        "artist": "Herederos Para Vos",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e020030cb513c23ece36fb8e2ef",
+        "url": "https://open.spotify.com/album/3RvsHbi3nHCbiEUDWY2Jwn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Ia45EzI4zwrwbJTXoDLPL",
+        "title": "Rose-Quartz Revenge",
+        "artist": "Hatsune Miku, Alva Karldatter",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02771ef79c749043cebdf9213e",
+        "url": "https://open.spotify.com/album/1Ia45EzI4zwrwbJTXoDLPL",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3ZxhmDR7q2xEnbXU2uHR34",
+        "title": "Aonde Tu Brota, Eu Maceto",
+        "artist": "MC Nito, Mc CL, DJ Vitinho Acerola, PP Hits",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da58c957cbcd6201984d4b3a",
+        "url": "https://open.spotify.com/album/3ZxhmDR7q2xEnbXU2uHR34",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1wnQhNX0ok3X6iKE4ubjsK",
+        "title": "Parabéns Put4",
+        "artist": "Yuri Redicopa, BemBilly",
+        "type": "single",
+        "release_date": "2026-05-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7b57db562f0bdd7136fefa8",
+        "url": "https://open.spotify.com/album/1wnQhNX0ok3X6iKE4ubjsK",
+        "total_tracks": 1,
         "genres": []
       }
     ]
