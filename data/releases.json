@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-31T08:44:59.595Z",
-  "total": 288,
+  "fetched_at": "2026-06-01T10:04:31.349Z",
+  "total": 313,
   "by_date": {
     "2026-05-15": [
       {
@@ -3189,6 +3189,283 @@
         "release_date": "2026-05-30",
         "image": "https://i.scdn.co/image/ab67616d00001e02e7b57db562f0bdd7136fefa8",
         "url": "https://open.spotify.com/album/1wnQhNX0ok3X6iKE4ubjsK",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-01": [
+      {
+        "id": "6zB4xGirvaWlm32pZV0qTl",
+        "title": "Go: Apex And Beyond",
+        "artist": "The Chemical Brothers",
+        "type": "album",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6ad98e0f219dd02bd607bf6",
+        "url": "https://open.spotify.com/album/6zB4xGirvaWlm32pZV0qTl",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "5pbdiVN2mS6KeoEWo6e5u9",
+        "title": "LeoRD Live: Charly Woop",
+        "artist": "Leo RD, Charly Woop, h1ddenxx",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224839f97138e0f1d481fcb54",
+        "url": "https://open.spotify.com/album/5pbdiVN2mS6KeoEWo6e5u9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2auiyLVltlb4Bl5KhcfHyJ",
+        "title": "ZELENUYU",
+        "artist": "HELLBLADE",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfe77ab4a30cb3a9da8e1174",
+        "url": "https://open.spotify.com/album/2auiyLVltlb4Bl5KhcfHyJ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "17iQfXZ94JzBphhe3giJPR",
+        "title": "S.Saraswathi - Tamil (Original Motion Picture Soundtrack)",
+        "artist": "Thaman S, Karthik Netha",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02593ee313c2a486dd6ac4e988",
+        "url": "https://open.spotify.com/album/17iQfXZ94JzBphhe3giJPR",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7qVhEle039axj53PoJS85r",
+        "title": "Juda Tavo Rankos",
+        "artist": "Jovani, ELZY",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3b989723416d13df9ddef54",
+        "url": "https://open.spotify.com/album/7qVhEle039axj53PoJS85r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NOVlhjP1eEwh5Xh9mx1ic",
+        "title": "שמחה",
+        "artist": "בן צור",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e029261cb9e2ccba305ab6ce891",
+        "url": "https://open.spotify.com/album/4NOVlhjP1eEwh5Xh9mx1ic",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1DN0VZVbSPyKxcNzZZc5GE",
+        "title": "完全無欠",
+        "artist": "B'z",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e021afa0929a254c30da268b107",
+        "url": "https://open.spotify.com/album/1DN0VZVbSPyKxcNzZZc5GE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74SMpoQhvqz8Y8mdixnzVg",
+        "title": "Hay 3liya w 3la zahri",
+        "artist": "Cheba Warda",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275bb6f34a026893ba0868a54",
+        "url": "https://open.spotify.com/album/74SMpoQhvqz8Y8mdixnzVg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7rzgocTqGLtoIFM4UDWRQt",
+        "title": "Ilaiyaraaja's Symphony Number 1 - Valiant",
+        "artist": "Ilaiyaraaja",
+        "type": "album",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231598bc5e02b336342ad4918",
+        "url": "https://open.spotify.com/album/7rzgocTqGLtoIFM4UDWRQt",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0eM6Vr6x1Acuj9cqfpg5nk",
+        "title": "Carona Da Minha X6",
+        "artist": "DJ BOY, Mc Robs, Mc Dkziin",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4efcf16cd5b65804a6884aa",
+        "url": "https://open.spotify.com/album/0eM6Vr6x1Acuj9cqfpg5nk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Ms8YCAXjDFwICEdVlbs5I",
+        "title": "Destinée Supremacy",
+        "artist": "Aya Nakamura",
+        "type": "album",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dbb006b3112161891aa75203",
+        "url": "https://open.spotify.com/album/7Ms8YCAXjDFwICEdVlbs5I",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "52YntAn9aLG2Nt9Hlc8HRR",
+        "title": "The New Wave (Instrumental)",
+        "artist": "Snoop Dogg",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245375fd5b6c522384d4553f2",
+        "url": "https://open.spotify.com/album/52YntAn9aLG2Nt9Hlc8HRR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5KWbS4tCJzQtk4Fg8yPVtC",
+        "title": "Toreador",
+        "artist": "Mario , Connect-R",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02130cd73336041b71164b1b84",
+        "url": "https://open.spotify.com/album/5KWbS4tCJzQtk4Fg8yPVtC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "54KpMvL8QLEQLlCVbC4gyV",
+        "title": "BIG MAC",
+        "artist": "Ewa Farna",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a88c15863b2c7be07d12b97",
+        "url": "https://open.spotify.com/album/54KpMvL8QLEQLlCVbC4gyV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6yDnyoiTfNhlzT3PigNzpL",
+        "title": "Obriši mi solze",
+        "artist": "Modrijani",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1ddba25dc8c9540003e42a4",
+        "url": "https://open.spotify.com/album/6yDnyoiTfNhlzT3PigNzpL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7AYhPoEZeIWzEa5XAxpDMr",
+        "title": "Welit m3a roch antim",
+        "artist": "Abdou Gambetta",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f183c2dc369e7a54c6834dd",
+        "url": "https://open.spotify.com/album/7AYhPoEZeIWzEa5XAxpDMr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ZtGyBKdQDLs8O4oTsg2LL",
+        "title": "Kur ir tā jūra?",
+        "artist": "Prāta Vētra, Mesa",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d03ec7aeb09ee4bd51fc5c28",
+        "url": "https://open.spotify.com/album/4ZtGyBKdQDLs8O4oTsg2LL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3j3X0Sd5F5xTRydBSG19VI",
+        "title": "Siddha Bhajo",
+        "artist": "Shreya Ghoshal",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d881b3a5747f1651cbf5e3e",
+        "url": "https://open.spotify.com/album/3j3X0Sd5F5xTRydBSG19VI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JtaD17TVhtEJ8GwZ908EJ",
+        "title": "O Re Kanhaiya",
+        "artist": "Kumaar, Dipessh Kashyap",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1d5d285e0823727a8b7fb0a",
+        "url": "https://open.spotify.com/album/0JtaD17TVhtEJ8GwZ908EJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ivVkbMHQ1fi3DwnGXXjjX",
+        "title": "Urso Panda",
+        "artist": "Panda e Os Caricas",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe5859b1e8060942581d37b1",
+        "url": "https://open.spotify.com/album/1ivVkbMHQ1fi3DwnGXXjjX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7hJGpaahlUiwD5tfYymlSa",
+        "title": "Gangster",
+        "artist": "Shilpi Raj, Sargam Samrat",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219438be02251c18b26e38fb6",
+        "url": "https://open.spotify.com/album/7hJGpaahlUiwD5tfYymlSa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4U3rMcsMqPoS2iGDaEczZ6",
+        "title": "LEMONADE (Zedd Remix)",
+        "artist": "aespa",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e024668bbbedcf5e5ca5f81e3cb",
+        "url": "https://open.spotify.com/album/4U3rMcsMqPoS2iGDaEczZ6",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3WRYsaNr0FWBVdppSTMv8N",
+        "title": "Blade-Work Ballet",
+        "artist": "Hatsune Miku, Ada Lund",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c53b6f2da97258fa3e3e2be3",
+        "url": "https://open.spotify.com/album/3WRYsaNr0FWBVdppSTMv8N",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4qgygqirxnoisCkp0uOvea",
+        "title": "Laikiya UP Ke",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a93e70f3fd4ce5cad032a9f2",
+        "url": "https://open.spotify.com/album/4qgygqirxnoisCkp0uOvea",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2fvHwFb27Cve088ZtTztXZ",
+        "title": "Í sól og sumaryl (strípað)",
+        "artist": "Teitur Magnússon",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ae931aee00b595d24967294",
+        "url": "https://open.spotify.com/album/2fvHwFb27Cve088ZtTztXZ",
         "total_tracks": 1,
         "genres": []
       }
