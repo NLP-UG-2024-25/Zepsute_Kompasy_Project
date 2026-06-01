@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-01T10:04:31.349Z",
-  "total": 313,
+  "fetched_at": "2026-06-01T11:33:28.952Z",
+  "total": 316,
   "by_date": {
     "2026-05-15": [
       {
@@ -3466,6 +3466,39 @@
         "release_date": "2026-06-01",
         "image": "https://i.scdn.co/image/ab67616d00001e026ae931aee00b595d24967294",
         "url": "https://open.spotify.com/album/2fvHwFb27Cve088ZtTztXZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48PtXRvU1QftIOtSlIgeDs",
+        "title": "MONTAGEM VIRALIZADA",
+        "artist": "Mc Gw, MC Nito, Dj Binho Alvarenga, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b620a0a0d4403758992ff70",
+        "url": "https://open.spotify.com/album/48PtXRvU1QftIOtSlIgeDs",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "77PttJix7PR0F4rkU2R0fJ",
+        "title": "TOMA SUA FDP X SENTA COM TODO AMOR",
+        "artist": "Mc Gw, DJ VTEZIN ZS, DJ Vini da ZS",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c072a759cdbbd0bf253d6d07",
+        "url": "https://open.spotify.com/album/77PttJix7PR0F4rkU2R0fJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RUh7ga0H39HmqYEMXOJ0a",
+        "title": "CAMISA DA SELEÇÃO",
+        "artist": "Mc Gw, MC Ngo, MC OLIVER CR, DJ VH",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e023029807a26982a6a58116172",
+        "url": "https://open.spotify.com/album/6RUh7ga0H39HmqYEMXOJ0a",
         "total_tracks": 1,
         "genres": []
       }
