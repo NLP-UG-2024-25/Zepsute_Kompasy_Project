@@ -244,17 +244,38 @@ body{
   border-radius: 999px;
 }
 
-.dots{ display:inline-flex; gap:4px; align-items:center; }
+
+.dots{ 
+  display: inline-flex; 
+  gap: 4px; 
+  align-items: center; 
+}
+
 
 .dots::before, .dots::after{
-  content:"";
-  width:6px; height:6px; border-radius:50%;
+  content: "";
+  width: 6px; 
+  height: 6px; 
+  border-radius: 50%;
   background: var(--spotify-green);
   opacity: .9;
 }
 
-.dots--1::after{ display:none; }
-.dots--3::before{ box-shadow: 10px 0 0 var(--spotify-green); }
+
+.dots--1::after{ 
+  display: none; 
+}
+
+
+.dots--2{
+  
+}
+
+
+.dots--3::before { 
+  box-shadow: 10px 0 0 var(--spotify-green); 
+  margin-right: 10px; 
+}
 
 
 .dow{
