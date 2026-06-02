@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-01T11:33:28.952Z",
-  "total": 316,
+  "fetched_at": "2026-06-02T10:23:20.486Z",
+  "total": 333,
   "by_date": {
     "2026-05-15": [
       {
@@ -3499,6 +3499,195 @@
         "release_date": "2026-06-01",
         "image": "https://i.scdn.co/image/ab67616d00001e023029807a26982a6a58116172",
         "url": "https://open.spotify.com/album/6RUh7ga0H39HmqYEMXOJ0a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FBGTJ45yOUim9ZyZWH2Vo",
+        "title": "100 MILLE",
+        "artist": "Alonzo",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02068856f0eef2e4abeca6110c",
+        "url": "https://open.spotify.com/album/0FBGTJ45yOUim9ZyZWH2Vo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2TCLyaRFod3jKbZmQuSwID",
+        "title": "4 da Manhã",
+        "artist": "Yuri Redicopa, mc helen 013, Dj Ramos, DJ 7W",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298b97cdac7ec87762b33f23d",
+        "url": "https://open.spotify.com/album/2TCLyaRFod3jKbZmQuSwID",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3tApaYXtzn73SZm4dcNycF",
+        "title": "BODY",
+        "artist": "AEYH, 333skelmortem",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a995dbd85a0ff656ddc14db9",
+        "url": "https://open.spotify.com/album/3tApaYXtzn73SZm4dcNycF",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-02": [
+      {
+        "id": "3iEX72gAetxli7H5h9ZHa4",
+        "title": "Ek Anokhi Dulhan Saavi",
+        "artist": "Shashwat Sachdev, Ravi Inder Sheen, Harpreet Singh, Dub Sharma",
+        "type": "album",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297886950adf94302621ad3fc",
+        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2ixEDJ0Jwreek2cnrSCQPB",
+        "title": "Sarıl Bana",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02119e7bbe55cd1ff5217e6d4d",
+        "url": "https://open.spotify.com/album/2ixEDJ0Jwreek2cnrSCQPB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0HTupJldb1Sfmf3YUfC0LP",
+        "title": "Day dream",
+        "artist": "Sung Si Kyung",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02583596c54f3c1a51b476651d",
+        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2eMnoLVOlAOLkh7MAHblHN",
+        "title": "Vai Chegar Sua Liberdade",
+        "artist": "Mc Don Juan, MC Ryan SP, Mc Alan JR, Pedro Lotto",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293a854460ff0f7999f3ee25a",
+        "url": "https://open.spotify.com/album/2eMnoLVOlAOLkh7MAHblHN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5PUAeaKKbJ49kjOZ9TwQx8",
+        "title": "สัมผัสรัก (Touch my heart) [From \"วาดฝันวันวิวาห์\"]",
+        "artist": "BOWKYLION",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f16f4e3e6f2c943885b9e0a1",
+        "url": "https://open.spotify.com/album/5PUAeaKKbJ49kjOZ9TwQx8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cWUN2wDXCv3mpRlCuNZ7Q",
+        "title": "很久很久",
+        "artist": "WeiBird",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b353e5f36fdbacb9189d2b60",
+        "url": "https://open.spotify.com/album/7cWUN2wDXCv3mpRlCuNZ7Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4PJFX827tZBu3NsSagezdb",
+        "title": "Tere Naam Ka Peg",
+        "artist": "Masoom Sharma",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275e077ecd1e59083339ee7b7",
+        "url": "https://open.spotify.com/album/4PJFX827tZBu3NsSagezdb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hUh8sWk2paBnzkxKktlzj",
+        "title": "Quien Lo Va a Saber (Live Session)",
+        "artist": "Jey One, Mapa Negro",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221bc771b164a4d589947345d",
+        "url": "https://open.spotify.com/album/0hUh8sWk2paBnzkxKktlzj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yiNkGUiKHKzupfUny6ewO",
+        "title": "Ready",
+        "artist": "حمو المرشدي, El Tango",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258341d773a50c31058dc7eea",
+        "url": "https://open.spotify.com/album/3yiNkGUiKHKzupfUny6ewO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MbbEn81jsN6J1beTlljY0",
+        "title": "Tu zini mani no galvas",
+        "artist": "Musiqq, TIKASHA SAKAMA",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b38cf510cff2b4f459b8a744",
+        "url": "https://open.spotify.com/album/5MbbEn81jsN6J1beTlljY0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0TItT4bohhhEaTAfobBLpX",
+        "title": "LEMONADE (Marlon Hoffstadt Remix)",
+        "artist": "aespa",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c35a7a680c4e23306f1305b",
+        "url": "https://open.spotify.com/album/0TItT4bohhhEaTAfobBLpX",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3u7Y7fRK5IVoWFWMv0TuCr",
+        "title": "Urban, Night, Cyber, Vol. 10",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b1b80ae511d5e523c0432b0",
+        "url": "https://open.spotify.com/album/3u7Y7fRK5IVoWFWMv0TuCr",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2BqopciFDxSZoVSwxGgML3",
+        "title": "Miss Independent",
+        "artist": "Van Zee",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a3e2958cc5a35774541d0c2",
+        "url": "https://open.spotify.com/album/2BqopciFDxSZoVSwxGgML3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6pEimucntBQJO2OFvExG4g",
+        "title": "PISEIRO HYPERPOP 2",
+        "artist": "Yuri Redicopa, Mc Delux, DJ Negritto",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c3aae2892a4b850912c1190",
+        "url": "https://open.spotify.com/album/6pEimucntBQJO2OFvExG4g",
         "total_tracks": 1,
         "genres": []
       }
