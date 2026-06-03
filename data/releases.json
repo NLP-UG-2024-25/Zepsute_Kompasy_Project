@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-02T10:23:20.486Z",
-  "total": 333,
+  "fetched_at": "2026-06-03T10:58:45.071Z",
+  "total": 375,
   "by_date": {
     "2026-05-15": [
       {
@@ -3534,6 +3534,116 @@
         "url": "https://open.spotify.com/album/3tApaYXtzn73SZm4dcNycF",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3fv8OyR9optht1R8q7ReFk",
+        "title": "Nano",
+        "artist": "TUL8TE, Saint Levant",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02281e4b2361521e07d6ea65da",
+        "url": "https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5U67EVsjOsnt2QUfxi49yO",
+        "title": "Emaindhi Emaindhi (From \"Sing Geetham\")",
+        "artist": "Devi Sri Prasad",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e028687cc40100b86ffce824afa",
+        "url": "https://open.spotify.com/album/5U67EVsjOsnt2QUfxi49yO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5m5ldBiCmpD809b578qzCA",
+        "title": "Punha Punha (From \"Tumbadchi Manjula\")",
+        "artist": "Hariharan, Nidhi Hegde, Saurabh Bhalerao, Manoj Yadav",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3ee6f03e62994e0e62c08e8",
+        "url": "https://open.spotify.com/album/5m5ldBiCmpD809b578qzCA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5NWLtVhLGrvhI5wsxomlGM",
+        "title": "Tumhe Kitna Pyaar Karte Lofi Flip",
+        "artist": "Arijit Singh, Mithoon, Manoj Muntashir, IAMPRATHEEK",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c38c0199bb96bda83d12c9da",
+        "url": "https://open.spotify.com/album/5NWLtVhLGrvhI5wsxomlGM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "78vBqtV0zN5JKWPTBVbGid",
+        "title": "Run Run River (Angels Above Me)",
+        "artist": "David Guetta, Alok, Stick Figure",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201ad8d5182f0d768a09580ec",
+        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47ClQFdVAgjdrtm02FTLor",
+        "title": "Siempre Me Buscabas (En Vivo Jockey Club Asunción)",
+        "artist": "Lalo Y Los Descalzos",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dda40cfa5c5b9908ba16ae6e",
+        "url": "https://open.spotify.com/album/47ClQFdVAgjdrtm02FTLor",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1QIn3RrbGAHZSQDaOx9y8u",
+        "title": "O Igo Illondu Manaside (Lofi Mix)",
+        "artist": "K. J. Yesudas, K. S. Chithra, Dj Hari Surat",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02410ad15f60c60dcee6c32415",
+        "url": "https://open.spotify.com/album/1QIn3RrbGAHZSQDaOx9y8u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41xoXYYBYwY2UZSzwJj30f",
+        "title": "NE IMPACAM",
+        "artist": "Berechet",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d209fe17d5ac4c84f63547d",
+        "url": "https://open.spotify.com/album/41xoXYYBYwY2UZSzwJj30f",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1eAswI54NoI3qf5HeDSfqU",
+        "title": "Hilawa Na Kamariya",
+        "artist": "Shilpi Raj, Shibu Sargam",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0272df6bcd9b3e2f590acfdead",
+        "url": "https://open.spotify.com/album/1eAswI54NoI3qf5HeDSfqU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SSNWA6PmuPENRD8GW1etk",
+        "title": "Kamar Damage Karba Ka",
+        "artist": "Shilpi Raj, Aayush Upadhyay",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6e588d0759b996ef17af1fe",
+        "url": "https://open.spotify.com/album/0SSNWA6PmuPENRD8GW1etk",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-02": [
@@ -3688,6 +3798,360 @@
         "release_date": "2026-06-02",
         "image": "https://i.scdn.co/image/ab67616d00001e029c3aae2892a4b850912c1190",
         "url": "https://open.spotify.com/album/6pEimucntBQJO2OFvExG4g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7bukWWwRd94p8xLUyNXhVs",
+        "title": "אופוריה",
+        "artist": "נדב חנציס",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254c09c52bf24727a71ab7716",
+        "url": "https://open.spotify.com/album/7bukWWwRd94p8xLUyNXhVs",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "79ffKOg9PSwNHghrRMjSz3",
+        "title": "Beck e Sexo",
+        "artist": "MC GP, DU'L, Vulgo FK, DJ Glenner",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b183eb0bd34fad42b23f2a5c",
+        "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46l0nGmfwZCAGonJajsACp",
+        "title": "Nhấc Máy",
+        "artist": "Noo Phước Thịnh",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7c30c6658e7866305a076b3",
+        "url": "https://open.spotify.com/album/46l0nGmfwZCAGonJajsACp",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6OHOOiHJptzGMOFMhzJUzt",
+        "title": "LE MARATHON CONTINUE",
+        "artist": "Guy2Bezbar",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ceeadf5af10f8693db56acee",
+        "url": "https://open.spotify.com/album/6OHOOiHJptzGMOFMhzJUzt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1hQlniy8wmKNnSgPV66hNL",
+        "title": "Dejémoslo Así",
+        "artist": "DesaKTa2, Candu DomÍnguez",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e026984929fbd4db80553c7ebd5",
+        "url": "https://open.spotify.com/album/1hQlniy8wmKNnSgPV66hNL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6sHbgjzwcnZJToZ1IMKp3D",
+        "title": "تم ازالة السحر امشى ( موڤ اون مين انتى وهي )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e022ec5f7df997c2c339715d72e",
+        "url": "https://open.spotify.com/album/6sHbgjzwcnZJToZ1IMKp3D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YFwLFTyQe2gLpIA4pBZRU",
+        "title": "In Between Seasons",
+        "artist": "N.Flying",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e020bc81a8128d97fcf6999e4a8",
+        "url": "https://open.spotify.com/album/2YFwLFTyQe2gLpIA4pBZRU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hAuKc1G7603LCzoBbvcVq",
+        "title": "Луна",
+        "artist": "MONA, Lubo Kirov",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3f5d237a8b09e773f881172",
+        "url": "https://open.spotify.com/album/6hAuKc1G7603LCzoBbvcVq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ZeK6q3OhUX3F9lpOKS9Nh",
+        "title": "Понтика",
+        "artist": "scarlet",
+        "type": "album",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6f8dbca26ba66cec149ab19",
+        "url": "https://open.spotify.com/album/0ZeK6q3OhUX3F9lpOKS9Nh",
+        "total_tracks": 10,
+        "genres": []
+      }
+    ],
+    "2026-06-03": [
+      {
+        "id": "1ND6tGCzJKjBigJfnBSEQl",
+        "title": "Save My Love",
+        "artist": "Kygo, Khalid, Gryffin",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3fda91459250241b88b48e6",
+        "url": "https://open.spotify.com/album/1ND6tGCzJKjBigJfnBSEQl",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4YkA8MnqY14HDjulbI6si7",
+        "title": "FKU",
+        "artist": "Nicky Jam",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfcaab44b90318136d48685e",
+        "url": "https://open.spotify.com/album/4YkA8MnqY14HDjulbI6si7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6l4WefLj0rzKsHc2sNgkwG",
+        "title": "na błysk",
+        "artist": "Dawid Podsiadło",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da29fb43ef7952835d2dc37d",
+        "url": "https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5pP0HXpkSzVxuJlxOsEXlm",
+        "title": "ARD",
+        "artist": "Motive, M Lisa",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa117119536ea4bd61d5c26a",
+        "url": "https://open.spotify.com/album/5pP0HXpkSzVxuJlxOsEXlm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2TveqlDNG094vaUnAaEqs5",
+        "title": "映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』オリジナル・サウンドトラック",
+        "artist": "SUPER BEAVER, 河野圭",
+        "type": "album",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e021527e5d9a842c8aca9a041a5",
+        "url": "https://open.spotify.com/album/2TveqlDNG094vaUnAaEqs5",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "25nTBXaDsT4UIzJr0vInT7",
+        "title": "Dum Maaro Dum (Remix)",
+        "artist": "Asha Bhosle, MadStarBase",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d9f48d560127e0b18e409ac",
+        "url": "https://open.spotify.com/album/25nTBXaDsT4UIzJr0vInT7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fOLLbo7zPyERAslaMoimm",
+        "title": "Debí Regalarte Flores",
+        "artist": "The La Planta, La Casa de la Cumbia",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef57a48cd97de1f53fd1ac7d",
+        "url": "https://open.spotify.com/album/1fOLLbo7zPyERAslaMoimm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YMJMEiT7hO0ggUXoxPVA4",
+        "title": "PUBLIC ENEMY",
+        "artist": "Hamza",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02743df9153c0ea2d80e6b8900",
+        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2WAx5Ugj9NA9hnMsLBi34q",
+        "title": "De zomer van Oya Lélé",
+        "artist": "K3",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f55ef1cdd1c2e0727c9ac73",
+        "url": "https://open.spotify.com/album/2WAx5Ugj9NA9hnMsLBi34q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5CrGCx8NwnkfYlqJv7DXXE",
+        "title": "Det ligger nåt i luften",
+        "artist": "Bolaget",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026bf097658403c946fc00a79c",
+        "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "36kPX5dqZG1J3LNhRxynA6",
+        "title": "Cântă lăutare",
+        "artist": "Lele, Manele VTM",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c0c35bf7f1a0328e781e920",
+        "url": "https://open.spotify.com/album/36kPX5dqZG1J3LNhRxynA6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3l5lUdW9irl17bE7z9H4wN",
+        "title": "Сам",
+        "artist": "DJAANY",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02546acc9d15e7b4820add9398",
+        "url": "https://open.spotify.com/album/3l5lUdW9irl17bE7z9H4wN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0oK2V9Usv4i8KANBDwnU6l",
+        "title": "Jokiam Žemėlapio Kampe",
+        "artist": "Giedrė",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daab80e99831149db741cd3a",
+        "url": "https://open.spotify.com/album/0oK2V9Usv4i8KANBDwnU6l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qJBrzTPy3RHpgo1vCTiNx",
+        "title": "شيلوها",
+        "artist": "DEE PRODUCTION, LOZY",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293f89bb0d0ed6734ca46e127",
+        "url": "https://open.spotify.com/album/0qJBrzTPy3RHpgo1vCTiNx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MJtawrLieH5Eld2KEIPbH",
+        "title": "آي دلم",
+        "artist": "DEE PRODUCTION, Moss",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be7bc97b041b6a87a6edd39c",
+        "url": "https://open.spotify.com/album/7MJtawrLieH5Eld2KEIPbH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7qNT11CTxM0sOtKFcHGJFS",
+        "title": "Вези мене лайба",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02780613dd6d43022bdd86dc2c",
+        "url": "https://open.spotify.com/album/7qNT11CTxM0sOtKFcHGJFS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pGZ3d7bRbANWgo0Q9o4Ud",
+        "title": "METE E FODE",
+        "artist": "MC Nito, DJ BM PROD",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02467b208bff4920f38178200e",
+        "url": "https://open.spotify.com/album/4pGZ3d7bRbANWgo0Q9o4Ud",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3QHkQAMj6XjHelwO3bGhI6",
+        "title": "Syagal",
+        "artist": "ZENE THE ZILLA",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029204ec30086f9ca5199958e3",
+        "url": "https://open.spotify.com/album/3QHkQAMj6XjHelwO3bGhI6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YHHv85wrAaYJxndaqJtz4",
+        "title": "Baby Come Hold Me Tight",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e020381023b213aff0267e56955",
+        "url": "https://open.spotify.com/album/3YHHv85wrAaYJxndaqJtz4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5I7YDsDKw8W4ebAnG1qBBx",
+        "title": "Breakdown",
+        "artist": "Jay Smart Fire",
+        "type": "album",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e025fdf15334b4294a36205cde4",
+        "url": "https://open.spotify.com/album/5I7YDsDKw8W4ebAnG1qBBx",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "2iBCNiOVdS8jRajCbF5lKS",
+        "title": "Moonlight Wrapped Around You",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229b9677cc9b7e55514369cc0",
+        "url": "https://open.spotify.com/album/2iBCNiOVdS8jRajCbF5lKS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4DU6rXs5xb0OyFkJb9U5Zn",
+        "title": "Complication",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02294d7b11707ec2fa6300c3f1",
+        "url": "https://open.spotify.com/album/4DU6rXs5xb0OyFkJb9U5Zn",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5xCiUIbFHm8AGxYAkfp71U",
+        "title": "Dawn Drips Velve",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214f5c80ffa13b3b7000569af",
+        "url": "https://open.spotify.com/album/5xCiUIbFHm8AGxYAkfp71U",
         "total_tracks": 1,
         "genres": []
       }
