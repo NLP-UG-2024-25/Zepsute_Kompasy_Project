@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-03T10:58:45.071Z",
-  "total": 375,
+  "fetched_at": "2026-06-04T09:55:39.762Z",
+  "total": 413,
   "by_date": {
     "2026-05-15": [
       {
@@ -3899,6 +3899,72 @@
         "url": "https://open.spotify.com/album/0ZeK6q3OhUX3F9lpOKS9Nh",
         "total_tracks": 10,
         "genres": []
+      },
+      {
+        "id": "3fFujYH65ePSgh9Q6jKMhq",
+        "title": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
+        "artist": "A.R. Rahman, Irshad Kamil, Mohit Chauhan",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a7d07c0349bbfeb5565273f",
+        "url": "https://open.spotify.com/album/3fFujYH65ePSgh9Q6jKMhq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0fx3WwPlp0NZyooVVIlkzT",
+        "title": "خاطينا الخيانة",
+        "artist": "Cheb Hichem TGV, Himo 4k",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b4e5f2164ad275ec504de15",
+        "url": "https://open.spotify.com/album/0fx3WwPlp0NZyooVVIlkzT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4CR5jsdIlVulZOVb6vy3vI",
+        "title": "ความรักที่ว่างเปล่า",
+        "artist": "KRK",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02059af4a08b52be7e6094167c",
+        "url": "https://open.spotify.com/album/4CR5jsdIlVulZOVb6vy3vI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6pXtQwEQUzXglcA1CTeazl",
+        "title": "We are one (WC 26)",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d349ef01a9e7f6ead11f62d8",
+        "url": "https://open.spotify.com/album/6pXtQwEQUzXglcA1CTeazl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Jm4nGUHOTSBLFYmPoxyMe",
+        "title": "nahktagi",
+        "artist": "kalleriino",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb24b80985373a7362522e75",
+        "url": "https://open.spotify.com/album/6Jm4nGUHOTSBLFYmPoxyMe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0mJyhkTKxW8JTKV6ZvZZxe",
+        "title": "Pühapäev",
+        "artist": "V1skus",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236c7a6e6a60cca5a4fe55eb7",
+        "url": "https://open.spotify.com/album/0mJyhkTKxW8JTKV6ZvZZxe",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-03": [
@@ -4152,6 +4218,360 @@
         "release_date": "2026-06-03",
         "image": "https://i.scdn.co/image/ab67616d00001e0214f5c80ffa13b3b7000569af",
         "url": "https://open.spotify.com/album/5xCiUIbFHm8AGxYAkfp71U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7EG3id1xZ0TeLEVybwzDJ0",
+        "title": "BOOMPALA (Champions Remix)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1ffe2d7424517a9ff1f7d3a",
+        "url": "https://open.spotify.com/album/7EG3id1xZ0TeLEVybwzDJ0",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "09bNV1IxTmUHM7GMN1B0hM",
+        "title": "Treat You Better (Live From New York)",
+        "artist": "Shawn Mendes",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e021faff499e452b76274492e80",
+        "url": "https://open.spotify.com/album/09bNV1IxTmUHM7GMN1B0hM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1CYL2ax6oRaqHhKZNrsAJU",
+        "title": "THE HYPE ALBUM",
+        "artist": "Ahmed Saad",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a8519a68dec5203325b1a30",
+        "url": "https://open.spotify.com/album/1CYL2ax6oRaqHhKZNrsAJU",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "64qnJgdIAEpXF0xo5X7GNO",
+        "title": "ילדי השטח",
+        "artist": "פאר טסי",
+        "type": "album",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029082ee157d6ebb855ffb24ca",
+        "url": "https://open.spotify.com/album/64qnJgdIAEpXF0xo5X7GNO",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5yKZ5lUbDpzquTI4Vnvykz",
+        "title": "Hermanito",
+        "artist": "Dowel King",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8cb77b83b8a934c6c5a7030",
+        "url": "https://open.spotify.com/album/5yKZ5lUbDpzquTI4Vnvykz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2glMszqN7y3WLtzpLi7tHw",
+        "title": "A Sorte Me Espera",
+        "artist": "MC Marks, TOKIODK, DU4RT",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b08e3936101dde7b0500c79b",
+        "url": "https://open.spotify.com/album/2glMszqN7y3WLtzpLi7tHw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Y88xMNdS7OGRzdEYgEg4H",
+        "title": "Nta Mon Bebe",
+        "artist": "Cheba Souad",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b160f21becffe63d47f4e0c2",
+        "url": "https://open.spotify.com/album/4Y88xMNdS7OGRzdEYgEg4H",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4OcYBZ9h21z4AwSCwPq9oF",
+        "title": "milujou mě nenávidět",
+        "artist": "Yzomandias",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d089770d654428e5a3c4c822",
+        "url": "https://open.spotify.com/album/4OcYBZ9h21z4AwSCwPq9oF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4CfkyZxJq23DQmISPY8Oix",
+        "title": "Pro Player",
+        "artist": "DIAMOND MQT",
+        "type": "single",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cedde72196d58d823bdd0c2",
+        "url": "https://open.spotify.com/album/4CfkyZxJq23DQmISPY8Oix",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5KBvsXWRadRRmWxUPYAnSZ",
+        "title": "Litaland (Önnur útgáfa)",
+        "artist": "Leikhópurinn Lotta",
+        "type": "album",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02016ce8b0ca37812076e669d6",
+        "url": "https://open.spotify.com/album/5KBvsXWRadRRmWxUPYAnSZ",
+        "total_tracks": 8,
+        "genres": []
+      }
+    ],
+    "2026-06-04": [
+      {
+        "id": "5g361z9jtvPA5yFePaGslY",
+        "title": "Goodas Anthem",
+        "artist": "Popcaan",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b09c8eb1981641a38d9eec9",
+        "url": "https://open.spotify.com/album/5g361z9jtvPA5yFePaGslY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2o1e8BoHEPBDL7aQK984RW",
+        "title": "Terrorismo",
+        "artist": "Megadivo Produce, Patruyero Fresh",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b9b3b9d57363a0f10cb02224",
+        "url": "https://open.spotify.com/album/2o1e8BoHEPBDL7aQK984RW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vsC9dUGjHLVQatGnuEgPZ",
+        "title": "Together We Are Free",
+        "artist": "Vintage Culture, Eddie Thoneick, Kyozo",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b8a640d4e26fc14ce53c701",
+        "url": "https://open.spotify.com/album/2vsC9dUGjHLVQatGnuEgPZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2CCna0QTtaOVDjFvobTZeO",
+        "title": "AUTORITÀ",
+        "artist": "Geolier",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d5cf75f7c49628406fe56fc",
+        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0lXKgkyTOHomzlnzXQL2rV",
+        "title": "Nabz Nabz - Female Version (From \"Bharat Bhhagya Viddhaata\")",
+        "artist": "Shreya Ghoshal, Aman Pant, Manoj Tapadia",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211c5cb3731e1f5e0624febc6",
+        "url": "https://open.spotify.com/album/0lXKgkyTOHomzlnzXQL2rV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "28ALxVRUdNihRKgM6bDOUg",
+        "title": "Vida De Rua",
+        "artist": "MC LUUKY, Mc Livinho, DJ Dael",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258fa2352aa9684f30303b715",
+        "url": "https://open.spotify.com/album/28ALxVRUdNihRKgM6bDOUg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Z2YbEAw8oclEAVe49LD3x",
+        "title": "กอดความทรงจำ (Embrace)",
+        "artist": "WANYAi",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e023476e17e0f411e60af2969e2",
+        "url": "https://open.spotify.com/album/0Z2YbEAw8oclEAVe49LD3x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6KWEGrmwfzFgoKSTrKvGD6",
+        "title": "คนๆนี้เป็นของคุณ",
+        "artist": "No One Else",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b40f1f2c6615a96a36ce9e9",
+        "url": "https://open.spotify.com/album/6KWEGrmwfzFgoKSTrKvGD6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "11Ias7M7dmH937dU1Pwis9",
+        "title": "Adios",
+        "artist": "Majki, Diho, Funky Beatz",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02644383641abf2fbd21b0d39c",
+        "url": "https://open.spotify.com/album/11Ias7M7dmH937dU1Pwis9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "42UV6DVfKOoorj1txSh98W",
+        "title": "SET DO WESLEY ALEMÅO 3 (feat. MC Marks, Mc Kelvinho & MC Meno K)",
+        "artist": "DJ DAVI DOGDOG, Mc IG, Mc Kadu, Mc Don Juan",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250544ff3f0cadcab661e1bc3",
+        "url": "https://open.spotify.com/album/42UV6DVfKOoorj1txSh98W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63f14Sc4RYcRZx0Wjc6NGJ",
+        "title": "Se Usa Si Se Saca",
+        "artist": "Bayron Fire, Z Jocker",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a3a25850abc4592502d4e742",
+        "url": "https://open.spotify.com/album/63f14Sc4RYcRZx0Wjc6NGJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3h3eT3Av8uq8ZMjERMYwe0",
+        "title": "PERSON",
+        "artist": "Likeboss",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e05a602a466be6c6178af45c",
+        "url": "https://open.spotify.com/album/3h3eT3Av8uq8ZMjERMYwe0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "185M917GoWcMBs9IHsqWy6",
+        "title": "Sem Preocupação",
+        "artist": "MC Vine7, DJ Gu",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ece57f18651218d2def40acb",
+        "url": "https://open.spotify.com/album/185M917GoWcMBs9IHsqWy6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0N4o3rivZtf4zr7iKqXKWi",
+        "title": "Muevete",
+        "artist": "La Deskarga",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d853961436207b1c7fedd19",
+        "url": "https://open.spotify.com/album/0N4o3rivZtf4zr7iKqXKWi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3IL5f8Od2EiHR7wR7VCWzz",
+        "title": "EP LIVE KOŠICE",
+        "artist": "I.M.T. Smile, Kali",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02692c791c1c6712d02ca9a5c2",
+        "url": "https://open.spotify.com/album/3IL5f8Od2EiHR7wR7VCWzz",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3wm67ADQZhnNyUGXOTwGrN",
+        "title": "JOHN CENA",
+        "artist": "Bandata Na Ruba, MOMO RECORDS",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02446ad05bfae8f50a598dc175",
+        "url": "https://open.spotify.com/album/3wm67ADQZhnNyUGXOTwGrN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qZ5F2EizTXNg5z92qnWnu",
+        "title": "Body to body",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec114158dd23db936d4a0ffa",
+        "url": "https://open.spotify.com/album/0qZ5F2EizTXNg5z92qnWnu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BAMKAo6bghAAKZehCzLkm",
+        "title": "Collision Of Silhouettes",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02deb9792092b7d17d5f7d700d",
+        "url": "https://open.spotify.com/album/5BAMKAo6bghAAKZehCzLkm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5QQaByq2Y65XF1hE2Ii8UH",
+        "title": "Sugar Vibe",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c06fd640036349a78e8a5307",
+        "url": "https://open.spotify.com/album/5QQaByq2Y65XF1hE2Ii8UH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BHcwrxZ6sx3JIllI02R76",
+        "title": "Vanity Eclipse Protocol",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02715192634e5349acdc377036",
+        "url": "https://open.spotify.com/album/7BHcwrxZ6sx3JIllI02R76",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1AZHTjL5GioME77mOPbhRY",
+        "title": "Omo you fine die",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c5c64bfd34b32f7e136549b",
+        "url": "https://open.spotify.com/album/1AZHTjL5GioME77mOPbhRY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jEPe8SOu62K4JpTEfH73H",
+        "title": "Solar Static Bloom",
+        "artist": "Jay Smart Fire",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02981d601b12bb2782875c1956",
+        "url": "https://open.spotify.com/album/7jEPe8SOu62K4JpTEfH73H",
         "total_tracks": 1,
         "genres": []
       }
