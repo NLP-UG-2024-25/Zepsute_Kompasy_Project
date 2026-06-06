@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-05T09:49:20.536Z",
-  "total": 465,
+  "fetched_at": "2026-06-06T08:32:52.522Z",
+  "total": 480,
   "by_date": {
     "2026-05-15": [
       {
@@ -4706,6 +4706,61 @@
         "url": "https://open.spotify.com/album/1V68tZSzj2UgvubXpGeFlN",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5xiwCNC26RvgfwElNmIJoL",
+        "title": "Piss In The Wind (Deluxe)",
+        "artist": "Joji",
+        "type": "album",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "4ucSUsp76lCWljONFM5Ok2",
+        "title": "Marghazhi Poove - Remix",
+        "artist": "A.R. Rahman, Vairamuthu, Shobha Shankar",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e023df63237206159a00300358c",
+        "url": "https://open.spotify.com/album/4ucSUsp76lCWljONFM5Ok2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yr8S95Ig8NCJuQJd3URn9",
+        "title": "Live Concert",
+        "artist": "Dalvin La Melodia",
+        "type": "album",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02860626675a07074e6ab8e581",
+        "url": "https://open.spotify.com/album/0yr8S95Ig8NCJuQJd3URn9",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6YF0HI89HHjLt7rFz2NscB",
+        "title": "ARTE",
+        "artist": "Luis Brown, Lalo DiCaprio, El Benyamin Récords LLC",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a06f09429d19e63fcb83b6f",
+        "url": "https://open.spotify.com/album/6YF0HI89HHjLt7rFz2NscB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02o5Ay4nprHhUODx9OAGgc",
+        "title": "Skýjaborg",
+        "artist": "Ásgeir",
+        "type": "single",
+        "release_date": "2026-06-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e62eb81e5b2a3defe7718c89",
+        "url": "https://open.spotify.com/album/02o5Ay4nprHhUODx9OAGgc",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-05": [
@@ -5146,6 +5201,118 @@
         "release_date": "2026-06-05",
         "image": "https://i.scdn.co/image/ab67616d00001e0235f6b823e1293611a2fc5220",
         "url": "https://open.spotify.com/album/5PbGTT3oOZx5JlaLJF3hZP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2JQsSLQppsbJmZGWD1MDAW",
+        "title": "GUAO",
+        "artist": "Arcángel, FANTA ROSARIO, Hades66, DJ Luian",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a8bb3193917a4d3eaa46a7a",
+        "url": "https://open.spotify.com/album/2JQsSLQppsbJmZGWD1MDAW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YDQTAnUD2x4FopQWdAX9l",
+        "title": "Drop The Lo",
+        "artist": "Bryson Tiller",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e020200204f69cfe13d3db4f749",
+        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2jj53cwpJux093uqKbi6Ml",
+        "title": "Misery",
+        "artist": "UdieNnx",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02180110f9a4cc6982c16a544d",
+        "url": "https://open.spotify.com/album/2jj53cwpJux093uqKbi6Ml",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5pYUwZlijJaJy19kAcRTi0",
+        "title": "Take Me (To The Moon)",
+        "artist": "Ian Asher, D A N N Y",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264bb7d8be3e9d9f69310edfb",
+        "url": "https://open.spotify.com/album/5pYUwZlijJaJy19kAcRTi0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7anngn8mK0Cts37n5ZairD",
+        "title": "So Devine",
+        "artist": "Popcaan, Anju Blaxx",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c977d28fdf91c7936526451f",
+        "url": "https://open.spotify.com/album/7anngn8mK0Cts37n5ZairD",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3kdDQxglL8c1lqOKD8JNwT",
+        "title": "Sammaouny",
+        "artist": "Mohamed Hamaki",
+        "type": "album",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d91aac830633632384c37096",
+        "url": "https://open.spotify.com/album/3kdDQxglL8c1lqOKD8JNwT",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "2UdmgSlTRrfR3nKVtzaCZ4",
+        "title": "Võõrad Öös",
+        "artist": "5UP",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022da2952a5ea3c92503053a5d",
+        "url": "https://open.spotify.com/album/2UdmgSlTRrfR3nKVtzaCZ4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2VQlPrURp1M4Yqz9eWWC37",
+        "title": "ülejääk",
+        "artist": "taim",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bd13c08abcd7ee1db546215",
+        "url": "https://open.spotify.com/album/2VQlPrURp1M4Yqz9eWWC37",
+        "total_tracks": 4,
+        "genres": []
+      }
+    ],
+    "2026-06-06": [
+      {
+        "id": "2AjWHkv76563UmmMQ2BgpB",
+        "title": "Jawani Iraqi",
+        "artist": "Yo Yo Honey Singh, Simar Kaur, Rawme Hooda",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2f4dd78d1717998e68027dc",
+        "url": "https://open.spotify.com/album/2AjWHkv76563UmmMQ2BgpB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4SOHwKWrszkIGS7UFQVMJe",
+        "title": "dumb boyfriend",
+        "artist": "blxnty",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02193869e76c9aaffc75bf451d",
+        "url": "https://open.spotify.com/album/4SOHwKWrszkIGS7UFQVMJe",
         "total_tracks": 1,
         "genres": []
       }
