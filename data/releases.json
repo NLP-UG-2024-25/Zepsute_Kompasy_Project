@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-06T08:32:52.522Z",
-  "total": 480,
+  "fetched_at": "2026-06-07T08:55:27.628Z",
+  "total": 521,
   "by_date": {
     "2026-05-15": [
       {
@@ -4374,6 +4374,17 @@
         "url": "https://open.spotify.com/album/6rzxM8S3Rz6Ls81frp5l0e",
         "total_tracks": 10,
         "genres": []
+      },
+      {
+        "id": "0nqsPuGO0iEl4MRWwjhWF2",
+        "title": "Do That Again",
+        "artist": "Malcolm Todd",
+        "type": "album",
+        "release_date": "2026-06-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ad1bfc5a6102f8e926a8c5f",
+        "url": "https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2",
+        "total_tracks": 13,
+        "genres": []
       }
     ],
     "2026-06-04": [
@@ -5291,6 +5302,215 @@
         "url": "https://open.spotify.com/album/2VQlPrURp1M4Yqz9eWWC37",
         "total_tracks": 4,
         "genres": []
+      },
+      {
+        "id": "74Kcu6iYVUrwUwbl3B4rnF",
+        "title": "Zone (feat. Poppy Baskcomb) [Extended Mix]",
+        "artist": "MK, Poppy Baskcomb",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f04bd6e000ffad7808291bd",
+        "url": "https://open.spotify.com/album/74Kcu6iYVUrwUwbl3B4rnF",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "64VxwAPWWh51aU5UPUtlOW",
+        "title": "No Te Me Sorprenda",
+        "artist": "Ezzy R, Malcom Produce",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a05929df1fbd3aa0a4d7bf69",
+        "url": "https://open.spotify.com/album/64VxwAPWWh51aU5UPUtlOW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ZLIShtR6Fjs4nTWFpBUB6",
+        "title": "I Knew It, I Knew You",
+        "artist": "Taylor Swift",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a35a1d4983e2b4fd0094f910",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TV20ouePm2YUPAMSj4C0n",
+        "title": "AYAYAY",
+        "artist": "Sfera Ebbasta, DYSTINCT",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253942b2114b943472cc99c83",
+        "url": "https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Q5vGPgqxTKgbhajp8UeUz",
+        "title": "Soul Of Lenin (From \"Lenin\")",
+        "artist": "Thaman S, Kumara Vagdevi, Kalyan Chakravarthy",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac5c5afe08c0f2833f797764",
+        "url": "https://open.spotify.com/album/6Q5vGPgqxTKgbhajp8UeUz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4JmvqvZu9dqXxxs0b5DVQU",
+        "title": "Mollywood Times (Original Motion Picture Soundtrack)",
+        "artist": "Jakes Bejoy",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1fb662ab0b25cf97eb490c6",
+        "url": "https://open.spotify.com/album/4JmvqvZu9dqXxxs0b5DVQU",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6fCFwlXkGXKg8xVR0jvo8z",
+        "title": "Yok Yok Ki",
+        "artist": "Yıldız Tilbe",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230ebbe66bf195c9d66fd9ad1",
+        "url": "https://open.spotify.com/album/6fCFwlXkGXKg8xVR0jvo8z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hAhPO7vXFWJx15BWQG7GG",
+        "title": "Картечница",
+        "artist": "DJ Damyan",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e024dbf564b7a26c085783ee97d",
+        "url": "https://open.spotify.com/album/4hAhPO7vXFWJx15BWQG7GG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04WyjSDGJAD9E1ALwyAGJ0",
+        "title": "GUAO",
+        "artist": "Arcángel, FANTA ROSARIO, Tommy Blanco, VEI HABACHE",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e028947b2d7c7ee18469c7d038f",
+        "url": "https://open.spotify.com/album/04WyjSDGJAD9E1ALwyAGJ0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nwt7N84RFyKv1QpTbNnDF",
+        "title": "Me Mareo",
+        "artist": "Juanjo Morgade, ONE PLAY",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6cc18e834494f643ddfc3b8",
+        "url": "https://open.spotify.com/album/1nwt7N84RFyKv1QpTbNnDF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Ny5XDVEwc5Uk0gqqWebqu",
+        "title": "LA NOI E CEARTA (JERK RMX)",
+        "artist": "Berechet, CERCEL, sadboi club",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227bca572ec4b7db1cd0c8a9d",
+        "url": "https://open.spotify.com/album/0Ny5XDVEwc5Uk0gqqWebqu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6WSzspbY7MNjnJZSiMDAHx",
+        "title": "Minora",
+        "artist": "Dani Mocanu, Lil E",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02774badabc65decf02f77dc0b",
+        "url": "https://open.spotify.com/album/6WSzspbY7MNjnJZSiMDAHx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7E3e5DA6v13J0hL9mPPwR1",
+        "title": "BOOMPALA (feat. SANTOS BRAVOS)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e026948dbc453c434c3b9d799f4",
+        "url": "https://open.spotify.com/album/7E3e5DA6v13J0hL9mPPwR1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7Au4sHIY9GC4ilnAwj3jVX",
+        "title": "Oh Chet (feat. Travis Scott)",
+        "artist": "Jey One",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c38be3b2a9e3eee85db55cab",
+        "url": "https://open.spotify.com/album/7Au4sHIY9GC4ilnAwj3jVX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0impFPGfWnwLOb7RejpXad",
+        "title": "Tere Tere",
+        "artist": "Jey One",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02815ffde55e87f5aa12e9b2c9",
+        "url": "https://open.spotify.com/album/0impFPGfWnwLOb7RejpXad",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40MOCLYirWzt7AnhVJGxGE",
+        "title": "Jagmag Jagmag Jhilmil Jhilmil (From \"Governor\")",
+        "artist": "Amit Trivedi, Javed Akhtar, Shashwat Singh",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b2985d794a363d99e1b2760",
+        "url": "https://open.spotify.com/album/40MOCLYirWzt7AnhVJGxGE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5h6lWulkc5CU5QP8oSbpYw",
+        "title": "الاوفر سايس استايلاتي ( انا لولا مش عايز حوارات )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac555fa403a306b11e664382",
+        "url": "https://open.spotify.com/album/5h6lWulkc5CU5QP8oSbpYw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3IKW2jLFBTUGEIwJha62vD",
+        "title": "Do That Again",
+        "artist": "Malcolm Todd",
+        "type": "album",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1cac678024bb37d83ab012c",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "17IPdY5Q76yYTHNAQ3DaNr",
+        "title": "SAULE SPĪD",
+        "artist": "Saxons, sivmoneyy",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e19011e5361740e018b2344b",
+        "url": "https://open.spotify.com/album/17IPdY5Q76yYTHNAQ3DaNr",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-06": [
@@ -5314,6 +5534,239 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02193869e76c9aaffc75bf451d",
         "url": "https://open.spotify.com/album/4SOHwKWrszkIGS7UFQVMJe",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RORI0RqNTsK9nDp3sDzXi",
+        "title": "toidaidot",
+        "artist": "GREY D",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ece4a0b54a4fd5f5877c9472",
+        "url": "https://open.spotify.com/album/5RORI0RqNTsK9nDp3sDzXi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6CzEMhWjHD07shMNn1tGqV",
+        "title": "6CARAT2",
+        "artist": "P6ICK",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227b2d2d00a48f95040a4fcc7",
+        "url": "https://open.spotify.com/album/6CzEMhWjHD07shMNn1tGqV",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4zPMinIKXb6vlokpPJEIia",
+        "title": "Sen",
+        "artist": "Mebrure",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286b62e5db265d6fb8cb75fb3",
+        "url": "https://open.spotify.com/album/4zPMinIKXb6vlokpPJEIia",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0dsefIHkO1BuDbN8pYWtdx",
+        "title": "Bạn Trai Của Em",
+        "artist": "Minh Huy",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecc7046add0f2de57ef85e58",
+        "url": "https://open.spotify.com/album/0dsefIHkO1BuDbN8pYWtdx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0o68m1VUHQMB5zzlmCiXki",
+        "title": "四海共长歌",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2d5c51e63e31ec052acfa4a",
+        "url": "https://open.spotify.com/album/0o68m1VUHQMB5zzlmCiXki",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hdUhuMvZq1sMfGQcCQAQU",
+        "title": "Ondu Oorali (Lo Fi)",
+        "artist": "Shankar Mahadevan, VDJ Fly",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e024751070945102a60f956ee3b",
+        "url": "https://open.spotify.com/album/3hdUhuMvZq1sMfGQcCQAQU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Lsy5tDypmHTC84erT6T4Y",
+        "title": "Fac Senzatie",
+        "artist": "Luis Gabriel",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02801e06d2e385d2ca25d815c3",
+        "url": "https://open.spotify.com/album/2Lsy5tDypmHTC84erT6T4Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7uUATKsV75SimzWO8f53Ei",
+        "title": "Shaadi Se Party Tak",
+        "artist": "Amit Trivedi, Neha Kakkar, Diljit Dosanjh",
+        "type": "compilation",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5d931c8edc82f4d46091721",
+        "url": "https://open.spotify.com/album/7uUATKsV75SimzWO8f53Ei",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0YY0CJ32dGo4MnykIxfg2i",
+        "title": "Republik Fufufafa",
+        "artist": "Slank",
+        "type": "album",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d6bbcd39c6eb22e202b6937",
+        "url": "https://open.spotify.com/album/0YY0CJ32dGo4MnykIxfg2i",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3rE2Ld4MUL4wV06kEdZW4V",
+        "title": "BOOMPALA (feat. GURU RANDHAWA)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224fece64145dc72079e5edea",
+        "url": "https://open.spotify.com/album/3rE2Ld4MUL4wV06kEdZW4V",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2dJiUR6FGNp7aE72hgkJNr",
+        "title": "Kẹo Bốn Mùa",
+        "artist": "Juky San",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207cb72bbd33f7aaf5341150b",
+        "url": "https://open.spotify.com/album/2dJiUR6FGNp7aE72hgkJNr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79KzQg04MnLI3rUnjdUewF",
+        "title": "Ice baby",
+        "artist": "DJ KAIFAR, Amaya Roma",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9ab6742a241854e9c6f348f",
+        "url": "https://open.spotify.com/album/79KzQg04MnLI3rUnjdUewF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2n8lIPeaM6v58gbZnQTPE8",
+        "title": "Mozart: London Sketchbook & Other Works",
+        "artist": "Wolfgang Amadeus Mozart, Giuseppe Bruno",
+        "type": "album",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd6e1826f433132509e35ff3",
+        "url": "https://open.spotify.com/album/2n8lIPeaM6v58gbZnQTPE8",
+        "total_tracks": 58,
+        "genres": []
+      },
+      {
+        "id": "0MfTqEZpTvSKccAZiN1pxY",
+        "title": "\"'Lock In\": Classical Piano",
+        "artist": "Wolfgang Amadeus Mozart, Ludwig van Beethoven, Franz Schubert, Frédéric Chopin, Robert Schumann, Johann Sebastian Bach, Pyotr Ilyich Tchaikovsky, Franz Liszt, Claude Debussy, Maurice Ravel",
+        "type": "album",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238e9b5ce2df9cd8f22258941",
+        "url": "https://open.spotify.com/album/0MfTqEZpTvSKccAZiN1pxY",
+        "total_tracks": 80,
+        "genres": []
+      },
+      {
+        "id": "0VWETLGKrrt6tSYjEuIJXp",
+        "title": "Perpetuum",
+        "artist": "ORBITAL 365",
+        "type": "single",
+        "release_date": "2026-06-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3c5fda11cacab5bc3b65896",
+        "url": "https://open.spotify.com/album/0VWETLGKrrt6tSYjEuIJXp",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-07": [
+      {
+        "id": "4M7ABL0D4vu6fhVZrLswDO",
+        "title": "Bollywood Dance Dhamaka",
+        "artist": "Tanishk Bagchi, Thaman S, Vishal-Shekhar",
+        "type": "compilation",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db5acf4a8d65d10d078731f4",
+        "url": "https://open.spotify.com/album/4M7ABL0D4vu6fhVZrLswDO",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6nlYULEgLb8ddMaNPDFlnn",
+        "title": "اهلا صحاب الكيف",
+        "artist": "Magdy El Zahar",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e865b175d93b5ef31fe86b73",
+        "url": "https://open.spotify.com/album/6nlYULEgLb8ddMaNPDFlnn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vAgsgu8NelsgU3PQ3Ig68",
+        "title": "Urban, Night, Cyber, Vol. 11",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe05fc5807cfaba4801397e2",
+        "url": "https://open.spotify.com/album/3vAgsgu8NelsgU3PQ3Ig68",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "5fusnRadak4O6Pf8vPt47D",
+        "title": "SENTA SUA CAVALA",
+        "artist": "MC Nito, Dj Binho Alvarenga, 7sete7, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2eba10041e8da3c6e426f40",
+        "url": "https://open.spotify.com/album/5fusnRadak4O6Pf8vPt47D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08jXdk26ynjG3Oy8mvcSp9",
+        "title": "Viis hitti",
+        "artist": "kiki",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d15c6eea37da2caf988c6b75",
+        "url": "https://open.spotify.com/album/08jXdk26ynjG3Oy8mvcSp9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Iru0YccCkNAGFiPSTE7LE",
+        "title": "poet (Deluxe)",
+        "artist": "FTR$",
+        "type": "album",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a864c0877999ef2faafc615b",
+        "url": "https://open.spotify.com/album/4Iru0YccCkNAGFiPSTE7LE",
+        "total_tracks": 32,
         "genres": []
       }
     ]
