@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-07T08:55:27.628Z",
-  "total": 521,
+  "fetched_at": "2026-06-08T10:53:37.809Z",
+  "total": 557,
   "by_date": {
     "2026-05-15": [
       {
@@ -5767,6 +5767,404 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a864c0877999ef2faafc615b",
         "url": "https://open.spotify.com/album/4Iru0YccCkNAGFiPSTE7LE",
         "total_tracks": 32,
+        "genres": []
+      },
+      {
+        "id": "1HtopWawvBBKDt5og5zncI",
+        "title": "Anh Đợi Em Này",
+        "artist": "Thanh Hưng",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4577bf51324d2f8c2988f77",
+        "url": "https://open.spotify.com/album/1HtopWawvBBKDt5og5zncI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79CA7SCD7jk1ComDkxGsq7",
+        "title": "انا شيك ونزيه لبسي براندات ( الاولي حذرت )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e020046ea955b523220847c130d",
+        "url": "https://open.spotify.com/album/79CA7SCD7jk1ComDkxGsq7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ehzcRt3WcUNR1xnnnbBQg",
+        "title": "Johnny's Tape (Snippet)",
+        "artist": "Bonez MC",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f42a04cc79d59598641c895",
+        "url": "https://open.spotify.com/album/3ehzcRt3WcUNR1xnnnbBQg",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-08": [
+      {
+        "id": "1RfTiMJKewnui3lbTtCpad",
+        "title": "HOME",
+        "artist": "BOYNEXTDOOR",
+        "type": "album",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d7b9ba3a4a1e7aa5acbec20",
+        "url": "https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3gj1oioRcgNBVymg68QUpn",
+        "title": "Uruguayo Hasta Las Venas",
+        "artist": "The La Planta, Los Fatales, Doña Bastarda",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287af26a5093e4c502903a069",
+        "url": "https://open.spotify.com/album/3gj1oioRcgNBVymg68QUpn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6huYtEFzy9x6gSEvMwdi4A",
+        "title": "Ti Thelo Ego Me Sena",
+        "artist": "Giorgos Sabanis",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6a444de04f04542d1dbc464",
+        "url": "https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Rxv0qkwgJIKjfD8GhTi1I",
+        "title": "Diyare Ishq Main Apna Maqam Paida Kar (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029cb5322b85d937b362ef09d2",
+        "url": "https://open.spotify.com/album/5Rxv0qkwgJIKjfD8GhTi1I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5502SATBli96usSxqs1DLf",
+        "title": "TACA MOUNJARO",
+        "artist": "Mc IG, TrapLaudo, Mc Thales 4M, MC Nego Micha",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5b74d021606d2ea8a25527a",
+        "url": "https://open.spotify.com/album/5502SATBli96usSxqs1DLf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xZcep5azEozE5BpjnEN0o",
+        "title": "Birdy Fly",
+        "artist": "Vicky Chen",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023eaf2b2940d0d95118173aef",
+        "url": "https://open.spotify.com/album/2xZcep5azEozE5BpjnEN0o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4jFritgZBQ4qAxUaN193VX",
+        "title": "BUSINESS",
+        "artist": "YungKapa, Corteo",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5835fb4fe1f142bd1016846",
+        "url": "https://open.spotify.com/album/4jFritgZBQ4qAxUaN193VX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jCW4IcYicSoNJzyRdJQSk",
+        "title": "BUBBI",
+        "artist": "Bubbi Morthens",
+        "type": "album",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e021eb74854dbeb940f7fc32727",
+        "url": "https://open.spotify.com/album/7jCW4IcYicSoNJzyRdJQSk",
+        "total_tracks": 57,
+        "genres": []
+      },
+      {
+        "id": "2KiMyHuf4NDqnM7GhGysBC",
+        "title": "SUGAR HONEY ICE TEA",
+        "artist": "BABYMONSTER",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02365e11a819dd404520d288e1",
+        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5a79je8bI8sS1OslJTIHkT",
+        "title": "Yeh Fitoor Mera - Arijit Singh Vocals Only",
+        "artist": "Arijit Singh, Amit Trivedi",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ccfbeb5cad6dcf203feeb91",
+        "url": "https://open.spotify.com/album/5a79je8bI8sS1OslJTIHkT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6U6ebZYEvx9jhaQ7grcDM3",
+        "title": "Hot Hits Bollywood",
+        "artist": "Arijit Singh, Sachin-Jigar, Pritam",
+        "type": "compilation",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02772598f1cdfec49373e7201c",
+        "url": "https://open.spotify.com/album/6U6ebZYEvx9jhaQ7grcDM3",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6bHVy1mam12Sg7izOG2VL9",
+        "title": "Þúsund fleiri ár",
+        "artist": "Emmsjé Gauti, KK",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff0e91ff5db5f01012bb38c7",
+        "url": "https://open.spotify.com/album/6bHVy1mam12Sg7izOG2VL9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ArcAZ824nDh744VaKOB1r",
+        "title": "HAHAHA 2",
+        "artist": "CHEKKIS, HermesHermes, SKEZ",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b9b107c161d7aff7c2349b0f",
+        "url": "https://open.spotify.com/album/0ArcAZ824nDh744VaKOB1r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1kZUaYrUcqP3pySy9eW4TX",
+        "title": "Dhire Dhire Ho Babu",
+        "artist": "Shilpi Raj, Jp Yadav",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02982b4f6dfe6f79767111d9dc",
+        "url": "https://open.spotify.com/album/1kZUaYrUcqP3pySy9eW4TX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40Q9FWQShPI9ZvHaiXZKD1",
+        "title": "Mijaji Saiyan",
+        "artist": "Shilpi Raj, Vinay Vinayak, Ajit Mandal",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c36e4ef918d620d4e5ee51c1",
+        "url": "https://open.spotify.com/album/40Q9FWQShPI9ZvHaiXZKD1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Vi40ZhEh7oTEpBuJJoFNE",
+        "title": "Matty Supreme",
+        "artist": "CA$HANOVA BULHAR",
+        "type": "album",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027080784567a3d8d43f76299b",
+        "url": "https://open.spotify.com/album/4Vi40ZhEh7oTEpBuJJoFNE",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "3qT4yLE74fCYAHzrFPF5kc",
+        "title": "Black Hole Ballet",
+        "artist": "Hatsune Miku, Alva Karldatter",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8d10434bd687e14be7ed881",
+        "url": "https://open.spotify.com/album/3qT4yLE74fCYAHzrFPF5kc",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4Gx9qpxuAWuFigXWLTgrpm",
+        "title": "MangaLarga",
+        "artist": "MC Nito, MC Abel JS, AG031, Dj Ph Da Vp",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02294a81f8608c09c28d7de2a7",
+        "url": "https://open.spotify.com/album/4Gx9qpxuAWuFigXWLTgrpm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2aMd3V1UYyo52hnsL624Xt",
+        "title": "Uma Dose de Hipnose",
+        "artist": "MC Nito, MC Lucks, DJ Isaac Vieira, Club Marconex Records",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028248d967e7214f508ba168d1",
+        "url": "https://open.spotify.com/album/2aMd3V1UYyo52hnsL624Xt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2XMNno3QWt90RadEiTLqik",
+        "title": "Onda Espacial (Versions)",
+        "artist": "Yuri Redicopa, WenHard",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e329299c4e2256acfae13186",
+        "url": "https://open.spotify.com/album/2XMNno3QWt90RadEiTLqik",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7vcUmWZuC0spPnnGxSMo3q",
+        "title": "Montagem Jezabel (Versions)",
+        "artist": "Yuri Redicopa, WenHard",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028dc168b134caccb1c06402f1",
+        "url": "https://open.spotify.com/album/7vcUmWZuC0spPnnGxSMo3q",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2IW7UAJi9aIGLCEWEg2mnH",
+        "title": "Poziv",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e0d8e6a77b087a2b77641ac",
+        "url": "https://open.spotify.com/album/2IW7UAJi9aIGLCEWEg2mnH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ujmPN5RxvuykSJxmtBS2k",
+        "title": "Nocas kuca casti",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8d272cfdbab86c203650558",
+        "url": "https://open.spotify.com/album/7ujmPN5RxvuykSJxmtBS2k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5oncnMofSyKuk1Fgo1uO9C",
+        "title": "Bruka",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb3c1df5806e4c34b06ebfc8",
+        "url": "https://open.spotify.com/album/5oncnMofSyKuk1Fgo1uO9C",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19h0MBRrv51ETaM19TNKyj",
+        "title": "Doktor",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f620c1c6162b2f03ec46bf0",
+        "url": "https://open.spotify.com/album/19h0MBRrv51ETaM19TNKyj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3nMxzxk1BSpNX9qSu8MeUl",
+        "title": "Maskarada",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffb2d8aa3dedc7d15c609ddc",
+        "url": "https://open.spotify.com/album/3nMxzxk1BSpNX9qSu8MeUl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kURKeYfo816hiDcKTM1Oo",
+        "title": "Rodjen sa greskom",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e021165fbc263cfa78f52960b33",
+        "url": "https://open.spotify.com/album/7kURKeYfo816hiDcKTM1Oo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26rRSGL5r05IKpKBK1tm11",
+        "title": "Vreteno",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e39f4ae74ef046ecef6c028",
+        "url": "https://open.spotify.com/album/26rRSGL5r05IKpKBK1tm11",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6kAqJK9HEj4q1U0QlGdHZm",
+        "title": "Kad bi bio ranjen",
+        "artist": "Ceca, Dejan Petrovic",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e0b1f416bc23fe0ba6c9a1a",
+        "url": "https://open.spotify.com/album/6kAqJK9HEj4q1U0QlGdHZm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5u0A7bz0y906rW6gvQaayE",
+        "title": "Licis na mog oca",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e2b86b57240a02e33b2aeb9",
+        "url": "https://open.spotify.com/album/5u0A7bz0y906rW6gvQaayE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2v02wbyuBvwKpKVoSvrrib",
+        "title": "Decenija",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb53b6f2c761ce9b60cb2c7b",
+        "url": "https://open.spotify.com/album/2v02wbyuBvwKpKVoSvrrib",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cU1QHsfNoYCfzDmISbLMF",
+        "title": "Nagovori",
+        "artist": "Ceca, Dejan Petrovic",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230d217698f059a83ae403487",
+        "url": "https://open.spotify.com/album/7cU1QHsfNoYCfzDmISbLMF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DGrgBF8lljqK0vYb4xTQc",
+        "title": "dirtydoug",
+        "artist": "MIRELL",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18e4be9b621e7701e8f9c2d",
+        "url": "https://open.spotify.com/album/1DGrgBF8lljqK0vYb4xTQc",
+        "total_tracks": 1,
         "genres": []
       }
     ]
