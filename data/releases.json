@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-08T10:53:37.809Z",
-  "total": 557,
+  "fetched_at": "2026-06-09T09:42:27.921Z",
+  "total": 583,
   "by_date": {
     "2026-05-15": [
       {
@@ -5801,6 +5801,28 @@
         "url": "https://open.spotify.com/album/3ehzcRt3WcUNR1xnnnbBQg",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2jer6xuxU78uzGg9jKopGN",
+        "title": "Ąžuolas (HIM)",
+        "artist": "Furytto",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cebee85b706c997cf755419f",
+        "url": "https://open.spotify.com/album/2jer6xuxU78uzGg9jKopGN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39MM74qgyiFMvVDZJxwp6v",
+        "title": "На струнах любви (DVINA BEATS remix)",
+        "artist": "man_on_line_68",
+        "type": "single",
+        "release_date": "2026-06-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02651c55db215f717c5574cd4e",
+        "url": "https://open.spotify.com/album/39MM74qgyiFMvVDZJxwp6v",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-08": [
@@ -6164,6 +6186,272 @@
         "release_date": "2026-06-08",
         "image": "https://i.scdn.co/image/ab67616d00001e02b18e4be9b621e7701e8f9c2d",
         "url": "https://open.spotify.com/album/1DGrgBF8lljqK0vYb4xTQc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1puQqv9qihELn7SC1Y7OgD",
+        "title": "بفرحك وانت تزعلني",
+        "artist": "Ramy Sabry",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02581d4a77da703b54d441f1ce",
+        "url": "https://open.spotify.com/album/1puQqv9qihELn7SC1Y7OgD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "465lhGCRsrEUFKo2BLXeYl",
+        "title": "לופ שלא נגמר",
+        "artist": "Eden Ben Zaken",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb6f8a53db68377a91a213e2",
+        "url": "https://open.spotify.com/album/465lhGCRsrEUFKo2BLXeYl",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1zZMrpkzai37lGSrxgw5a8",
+        "title": "A Pesar De Ti y De Mi",
+        "artist": "Mon Laferte",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dffabe353ff0e65931f609bb",
+        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0y5HaBFyPtFrLwMAYYLSs6",
+        "title": "Soft Relaxing Piano",
+        "artist": "Wolfgang Amadeus Mozart, Frédéric Chopin, Johann Sebastian Bach, Ludwig van Beethoven, Claude Debussy, Alexander Scriabin, Domenico Scarlatti, Edvard Grieg, Erik Satie, Felix Mendelssohn",
+        "type": "album",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027fc09176c08c0fed68507ee8",
+        "url": "https://open.spotify.com/album/0y5HaBFyPtFrLwMAYYLSs6",
+        "total_tracks": 60,
+        "genres": []
+      },
+      {
+        "id": "7uglJNzVCPTtWoCoMeysYO",
+        "title": "Minha Favela",
+        "artist": "Dj Yuri Pedrada, MC Bruno MS",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cee521f10bdae43543e93ad1",
+        "url": "https://open.spotify.com/album/7uglJNzVCPTtWoCoMeysYO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7b0IgeQsv81fenJwQ6DNpc",
+        "title": "GEMINI SEASON",
+        "artist": "Kanye West, Ye",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e024864b69b7aff79e082e62233",
+        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-09": [
+      {
+        "id": "2oicuHNjHTWWhPuQr7mtuW",
+        "title": "Built This Country",
+        "artist": "Zion",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028524aa4610a5f4932607df4f",
+        "url": "https://open.spotify.com/album/2oicuHNjHTWWhPuQr7mtuW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3NgmJkMAml7ChvTVwFdw7m",
+        "title": "Лекомпо",
+        "artist": "MAYOT",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e43357586d67293833b48a0d",
+        "url": "https://open.spotify.com/album/3NgmJkMAml7ChvTVwFdw7m",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2tbamcNG4xK0jKrd1lSzXX",
+        "title": "Woh",
+        "artist": "Murtaza Qizilbash",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262c8d061a3dcd44587f3cc26",
+        "url": "https://open.spotify.com/album/2tbamcNG4xK0jKrd1lSzXX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6N6d32REL5sGP4p01xflLr",
+        "title": "PALOMA",
+        "artist": "RACK, MENJU, Oge",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff2033ac2e2a0385fec7b572",
+        "url": "https://open.spotify.com/album/6N6d32REL5sGP4p01xflLr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0oiZvK1FRK9kHFBKO2OHQo",
+        "title": "Fixxxer (Remastered)",
+        "artist": "Metallica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02053da6e28968e50f2870e95d",
+        "url": "https://open.spotify.com/album/0oiZvK1FRK9kHFBKO2OHQo",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "5z3eUeqMCfp3PlrVIgDeMg",
+        "title": "Pode Pah",
+        "artist": "MC Rick, Dj Yuri Pedrada",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e029162daa0cd4eb570a197b321",
+        "url": "https://open.spotify.com/album/5z3eUeqMCfp3PlrVIgDeMg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1dB83DBgTNvl804T74NckN",
+        "title": "Detalhes",
+        "artist": "DU'L, DJ Kaio Mix",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02910e705e992868ee6a6a73ce",
+        "url": "https://open.spotify.com/album/1dB83DBgTNvl804T74NckN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0QUxTf39aTkqy9AECLp3CC",
+        "title": "A Rua é Nois",
+        "artist": "MC Vine7, Mc Digo STC, MC Fabrin, DJ Biel Bolado",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02caaa718b9bf5ec223474fdcd",
+        "url": "https://open.spotify.com/album/0QUxTf39aTkqy9AECLp3CC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YigcdplpByZr46Epkoatw",
+        "title": "Carreira Solo (RLK F)",
+        "artist": "MC Fr da Norte",
+        "type": "album",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02828e16fc0fdf7b62eec079b7",
+        "url": "https://open.spotify.com/album/2YigcdplpByZr46Epkoatw",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "2iQ0pJxbPhHQ8crEKdIAya",
+        "title": "Bo Bo Bo (Live Session)",
+        "artist": "Jey One, Mapa Negro",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd43eec3d0b337fde3fe3735",
+        "url": "https://open.spotify.com/album/2iQ0pJxbPhHQ8crEKdIAya",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xWnR4cJ7H7slDpS0eoXf3",
+        "title": "VOLVÍ",
+        "artist": "Pushi",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e2a27b2ebdd80ad31a76de4",
+        "url": "https://open.spotify.com/album/2xWnR4cJ7H7slDpS0eoXf3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Ion88Xrddq7NrMjzSHYb3",
+        "title": "Tu Falte De Querer / La Gata Bajo La Lluvia (En Vivo en C Art Media)",
+        "artist": "La Juntada De Los Artistas, Candu DomÍnguez",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e024955b0272e879d2967424aa3",
+        "url": "https://open.spotify.com/album/6Ion88Xrddq7NrMjzSHYb3",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5XNRipnQc3YZ627vtb6v2W",
+        "title": "Mahabbatym",
+        "artist": "Aidyn Zhumakhan",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028bef5b8ef93aa8ce3cf1ea46",
+        "url": "https://open.spotify.com/album/5XNRipnQc3YZ627vtb6v2W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3UuQcv6n0XNk54Z4KANxlo",
+        "title": "А може я колись змінюсь",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ec4ac315afb9006ce06c191",
+        "url": "https://open.spotify.com/album/3UuQcv6n0XNk54Z4KANxlo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ypxgtKBG8PVHJs6UaWdRj",
+        "title": "Nóis é Professor",
+        "artist": "Dj Yuri Pedrada, MC Menor da VG",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dbaa52b8894758452ce8194",
+        "url": "https://open.spotify.com/album/0ypxgtKBG8PVHJs6UaWdRj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0oQ2xBjiJuDOiGLY4fAwO8",
+        "title": "E Se Pa Que Essa Mina É Louca",
+        "artist": "Yuri Redicopa, Dj Canela, Granfino Produções",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d43eca5ea75ed5eaecf56369",
+        "url": "https://open.spotify.com/album/0oQ2xBjiJuDOiGLY4fAwO8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CDNiYkquHvNGiRJuFx0Vn",
+        "title": "Transante",
+        "artist": "Yuri Redicopa, Maax Deejay",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cfd0da694f07390f83444079",
+        "url": "https://open.spotify.com/album/7CDNiYkquHvNGiRJuFx0Vn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ClepHsSLPWdUHlM57GPS2",
+        "title": "Digital Echoes",
+        "artist": "Pilavakisx",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce8511c3345c54f59f9a067",
+        "url": "https://open.spotify.com/album/0ClepHsSLPWdUHlM57GPS2",
         "total_tracks": 1,
         "genres": []
       }
