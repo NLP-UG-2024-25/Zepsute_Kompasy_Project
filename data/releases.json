@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-09T09:42:27.921Z",
-  "total": 583,
+  "fetched_at": "2026-06-10T09:59:33.395Z",
+  "total": 620,
   "by_date": {
     "2026-05-15": [
       {
@@ -6254,6 +6254,127 @@
         "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6mSnUqwvTG7rCR7Eukrp1P",
+        "title": "Dilli Ki Garmi",
+        "artist": "Himesh Reshammiya, Sameer Anjaan, Kedrock, Sakshi Holkar",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d045fc007e02ef47ba02d8e5",
+        "url": "https://open.spotify.com/album/6mSnUqwvTG7rCR7Eukrp1P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63ptIHrnzm51WHc8I86fa0",
+        "title": "Ori Jeevuda (From \"Sing Geetham\")",
+        "artist": "Devi Sri Prasad, Sreemani, Shankarr Babu Kandukoori",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc03839367ec341a6c8dc47c",
+        "url": "https://open.spotify.com/album/63ptIHrnzm51WHc8I86fa0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0vKubTLDJglB9UwVbH1ZEL",
+        "title": "Guzaarishein (Piano Version)",
+        "artist": "Samar Jafri",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029be89a30f74f8c4286a27768",
+        "url": "https://open.spotify.com/album/0vKubTLDJglB9UwVbH1ZEL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2L4lltMd6PTYItpNOgoSht",
+        "title": "Ayesh Al Hob ( London )",
+        "artist": "Husam Al Rassam",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c40e2add61cdcb77c9f2523e",
+        "url": "https://open.spotify.com/album/2L4lltMd6PTYItpNOgoSht",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5KNgRiBZbWuscmyNl98C1c",
+        "title": "Anh Chẳng Thể (ACONG Remix)",
+        "artist": "MeMe Media, ACONG",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224a3b3a254e803552492da8f",
+        "url": "https://open.spotify.com/album/5KNgRiBZbWuscmyNl98C1c",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6nn5IQjqSlLhAFQDsum0bR",
+        "title": "El Diablo (En Vivo En La Trastienda)",
+        "artist": "LA NUEVA ESCUELA",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275fe2d6ab95b51daef85f94f",
+        "url": "https://open.spotify.com/album/6nn5IQjqSlLhAFQDsum0bR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3x6Y9wjSdMNMfb9keVM439",
+        "title": "Baygın",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02353fbcbf54f12b3d7b9e4829",
+        "url": "https://open.spotify.com/album/3x6Y9wjSdMNMfb9keVM439",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5WeztqxKLKT9OwGhiFcXse",
+        "title": "Florin salam si Puisor dela Medias (Simt Rautate)",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02560ca527b0293c65579204e2",
+        "url": "https://open.spotify.com/album/5WeztqxKLKT9OwGhiFcXse",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1X6uRNR02uozcIGRs839bc",
+        "title": "Te Amo",
+        "artist": "Peregrinos del Amor",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a3c9f9821439dfc59859c7e",
+        "url": "https://open.spotify.com/album/1X6uRNR02uozcIGRs839bc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DLZznM7mbpkDBGC7cdb2g",
+        "title": "Griselda Blanco",
+        "artist": "Mgl Ach0",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df806616498a04898f9f8899",
+        "url": "https://open.spotify.com/album/1DLZznM7mbpkDBGC7cdb2g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7EirnbgV00Y1T5giTkS6Ni",
+        "title": "Ewlenin",
+        "artist": "Kummissjoni Żgħażagħ Werqisti",
+        "type": "single",
+        "release_date": "2026-06-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a44c7afe1cbf0b3b82152741",
+        "url": "https://open.spotify.com/album/7EirnbgV00Y1T5giTkS6Ni",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-09": [
@@ -6452,6 +6573,294 @@
         "release_date": "2026-06-09",
         "image": "https://i.scdn.co/image/ab67616d00001e021ce8511c3345c54f59f9a067",
         "url": "https://open.spotify.com/album/0ClepHsSLPWdUHlM57GPS2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25FBGuSUJGy0HBKQrGUmvC",
+        "title": "Titular",
+        "artist": "Lenin Ramírez, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02118af6e8d7be728505fda5e6",
+        "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0cDLsjLV9hxW29US8f5kQ3",
+        "title": "Me Hace Falta",
+        "artist": "Dalex, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d799eb915b15899b3b25c717",
+        "url": "https://open.spotify.com/album/0cDLsjLV9hxW29US8f5kQ3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WpA0A87299Ldss7Q98Y99",
+        "title": "La Vida Es Así",
+        "artist": "Ñejo, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e1675fb8024c3bd1cd616e9",
+        "url": "https://open.spotify.com/album/1WpA0A87299Ldss7Q98Y99",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2GNQ27qiUc3P8umT1mnpQu",
+        "title": "Librame Señor",
+        "artist": "Nanpa Básico, Tu Musica, Ronaldinho Gaúcho",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027929b6192d31e21f1985cb36",
+        "url": "https://open.spotify.com/album/2GNQ27qiUc3P8umT1mnpQu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DpOpfxdXPeYtFzc9sinTH",
+        "title": "Lead",
+        "artist": "Sean Paul, Banx & Ranx, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224e0e2c552064ce305d47c1c",
+        "url": "https://open.spotify.com/album/0DpOpfxdXPeYtFzc9sinTH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3v8x6v41kK5H5oGtlASjrt",
+        "title": "Pampatar",
+        "artist": "Micro TDH, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b050d6f5b310c463bc2e3e40",
+        "url": "https://open.spotify.com/album/3v8x6v41kK5H5oGtlASjrt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "387CT8lvgmByO2UXU3AssE",
+        "title": "Que Pasa",
+        "artist": "Hades66, Ovi, LA M RECORDS, Slick La Mina",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e023187a8dfc702950ea882d27b",
+        "url": "https://open.spotify.com/album/387CT8lvgmByO2UXU3AssE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "64ll449oZ7J5jALe02jpWL",
+        "title": "Niza",
+        "artist": "Millonario, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b45207d26f9841d08183c1b",
+        "url": "https://open.spotify.com/album/64ll449oZ7J5jALe02jpWL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00xkSQsevsIdzCVcWg5l9I",
+        "title": "La Magia",
+        "artist": "Ke Personajes, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234cd9e6c82cbc11e1ff53bad",
+        "url": "https://open.spotify.com/album/00xkSQsevsIdzCVcWg5l9I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1lyzDtBjavrrgcddwWoo0W",
+        "title": "Golaço",
+        "artist": "Léo Foguete, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d48bc3bd37390cf7508c30a3",
+        "url": "https://open.spotify.com/album/1lyzDtBjavrrgcddwWoo0W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BbSnoHh80yVxRwurBap8D",
+        "title": "Até Quando",
+        "artist": "Natanzinho Lima, Ronaldinho Gaúcho, Tu Musica",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e024554f143b453ab99ac49921f",
+        "url": "https://open.spotify.com/album/5BbSnoHh80yVxRwurBap8D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4GyIj6BONwmG2mXqcc2Xvg",
+        "title": "MÙA Ủ TÊ",
+        "artist": "Juky San",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4e5eef73a763c804f1f6a31",
+        "url": "https://open.spotify.com/album/4GyIj6BONwmG2mXqcc2Xvg",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2A4ZAowCxQUsQPha5JVwyH",
+        "title": "انا الزعيم ( بقولك ايه يا منفسن )",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1370448279412ea17d809d3",
+        "url": "https://open.spotify.com/album/2A4ZAowCxQUsQPha5JVwyH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "53jVY39Tnmk3BmTII41qfZ",
+        "title": "Sos un Botón",
+        "artist": "DesaKTa2, Dany Lescano y Su Flor de Piedra",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02910889478b2bb1d632820fad",
+        "url": "https://open.spotify.com/album/53jVY39Tnmk3BmTII41qfZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "54WYcDL8p5R956kN2GEhsJ",
+        "title": "خلاويص بقي وخلاص كده ( كحك عيد اي اللي اكل منو )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c13ca20956bf0fb93dbd9342",
+        "url": "https://open.spotify.com/album/54WYcDL8p5R956kN2GEhsJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yP4bhZ9FDynHQ6ijyjcYx",
+        "title": "Sashimi",
+        "artist": "Gino Mella, Marcianeke",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264afb8dad31fb5f1c2e011cd",
+        "url": "https://open.spotify.com/album/0yP4bhZ9FDynHQ6ijyjcYx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7tNvyky9aZqqqOIIMPfTSH",
+        "title": "NEM ÉRI MEG",
+        "artist": "KKevin, T. Danny",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259b27fc09231d359e9288c11",
+        "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-10": [
+      {
+        "id": "3PqtzHAXNQ3ngmN2WugT8T",
+        "title": "Lae Dooba - Sunidhi Chauhan Vocals Only",
+        "artist": "Sunidhi Chauhan, Rochak Kohli",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adaf1574d3a20883efa496e0",
+        "url": "https://open.spotify.com/album/3PqtzHAXNQ3ngmN2WugT8T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ZNIOssJvzA0ywHKjAY2Dc",
+        "title": "Veera Soora (Slap House Remix)",
+        "artist": "Yuvan Shankar Raja, Future Frequencies",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02393d45d687832381b7f93f60",
+        "url": "https://open.spotify.com/album/6ZNIOssJvzA0ywHKjAY2Dc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2u1mW5SDeme12fo6ty3z8N",
+        "title": "La vida te da sorpr3sas",
+        "artist": "DELLAFUENTE, 3NOC",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7202dfd9d779bc21b0dfee0",
+        "url": "https://open.spotify.com/album/2u1mW5SDeme12fo6ty3z8N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0XE3PFWYxFVowo50Sm5S03",
+        "title": "Thimizeis Kati Apo Ellada",
+        "artist": "Katerina Lioliou",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e614f02a61a22ff5fb6f585a",
+        "url": "https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2UbHqag7t6LblO4MSuTGbA",
+        "title": "Os Mlk Pé Na Porta",
+        "artist": "DJ BOY, MC Vine7",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a218075122494d108de6ec3a",
+        "url": "https://open.spotify.com/album/2UbHqag7t6LblO4MSuTGbA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7lcCztMrNWSXhZwaIL1LXp",
+        "title": "Mirror Mirror / STAR! (feat. Hatsune Miku)",
+        "artist": "YENA",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249ef766ab360346000f60e50",
+        "url": "https://open.spotify.com/album/7lcCztMrNWSXhZwaIL1LXp",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1oNVWwYHIiBq2q0vnuFxao",
+        "title": "Karma (Montevideo Music Sessions)",
+        "artist": "Angela Leiva",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e026144f2cc9b14ce6a12d9320c",
+        "url": "https://open.spotify.com/album/1oNVWwYHIiBq2q0vnuFxao",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Q4ddJky3ZihDx2IbODfIU",
+        "title": "FÍLAÐA",
+        "artist": "Daniil, Jón Jónsson",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf477f907f8811abb199a378",
+        "url": "https://open.spotify.com/album/1Q4ddJky3ZihDx2IbODfIU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7drVe6iJxjyYsVGHJR9lLA",
+        "title": "คิดถึงเรื้อรัง",
+        "artist": "manutsawee",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023392b6d8b1ef16f423342372",
+        "url": "https://open.spotify.com/album/7drVe6iJxjyYsVGHJR9lLA",
         "total_tracks": 1,
         "genres": []
       }
