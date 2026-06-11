@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-10T09:59:33.395Z",
-  "total": 620,
+  "fetched_at": "2026-06-11T10:23:27.845Z",
+  "total": 652,
   "by_date": {
     "2026-05-15": [
       {
@@ -6762,6 +6762,50 @@
         "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1HgxS3QtHoYbHvmjtHnsci",
+        "title": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "artist": "Mitski",
+        "type": "album",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c8064f2e044745bcc352983",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6VS0zvMt7Rrdv8bZrMlCfE",
+        "title": "VALLAH (From “Cocktail 2”)",
+        "artist": "Pritam, Bayanni, Harrdy Sandhu, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e029725b73ab1b68ed08fe76c4d",
+        "url": "https://open.spotify.com/album/6VS0zvMt7Rrdv8bZrMlCfE",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6TEEMKay7zHzUbIDJ2N34q",
+        "title": "СОЛЬ. ЛЕГЕНДА",
+        "artist": "Lusia Chebotina",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296b306c2e86e65916cd270e8",
+        "url": "https://open.spotify.com/album/6TEEMKay7zHzUbIDJ2N34q",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6Vj7j896eZe1J0mCeZ3WUF",
+        "title": "Nerātnās Dainas 1. daļa",
+        "artist": "NEMĪZ SAIES",
+        "type": "single",
+        "release_date": "2026-06-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9f975ae0b7edf168c89334f",
+        "url": "https://open.spotify.com/album/6Vj7j896eZe1J0mCeZ3WUF",
+        "total_tracks": 4,
+        "genres": []
       }
     ],
     "2026-06-10": [
@@ -6861,6 +6905,316 @@
         "release_date": "2026-06-10",
         "image": "https://i.scdn.co/image/ab67616d00001e023392b6d8b1ef16f423342372",
         "url": "https://open.spotify.com/album/7drVe6iJxjyYsVGHJR9lLA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2XnvAhJy0R6qJT6GVYhKuZ",
+        "title": "Gané",
+        "artist": "Victor Mendivil, Gabito Ballesteros",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f77053feae61e71a2309c513",
+        "url": "https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5eRPFOY3oXbS25ok1yXON7",
+        "title": "Godzila (W Sound 09)",
+        "artist": "W Sound, J Balvin, Ovy On The Drums",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c27e53b81920fd8c3f512759",
+        "url": "https://open.spotify.com/album/5eRPFOY3oXbS25ok1yXON7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6uZaRRruLz2lIzUBsXgxqK",
+        "title": "crybaby",
+        "artist": "Lil Peep",
+        "type": "album",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02baba0e58e707e9c1025b45ae",
+        "url": "https://open.spotify.com/album/6uZaRRruLz2lIzUBsXgxqK",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "7sLT2Ozfu4tv1HbQxRELDd",
+        "title": "Relíquia do 2T (Arrocha Funk)",
+        "artist": "DJ Gu, Juka Mandelão, DJ TS, MC Vine7",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e022aa0f9ea6112e0c9df10a22b",
+        "url": "https://open.spotify.com/album/7sLT2Ozfu4tv1HbQxRELDd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1snZzgDw7Tx5KDbrWa1bEF",
+        "title": "اسمعيني",
+        "artist": "Ramy Sabry",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d35efbd2937e79a72e2c7eb7",
+        "url": "https://open.spotify.com/album/1snZzgDw7Tx5KDbrWa1bEF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ksFUYf2n5fpAQDK7SBXz8",
+        "title": "Aval Thantha Varam (From \"Charukesi\")",
+        "artist": "Shankar Mahadevan, Deva, Pa. Vijay",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df6dfa752fb9f77610138355",
+        "url": "https://open.spotify.com/album/6ksFUYf2n5fpAQDK7SBXz8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "31tYORog9l0VwOpXGkcwfB",
+        "title": "הלוואי שטוב לך",
+        "artist": "Eden Hason",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1d5462d10c849f127cb67ba",
+        "url": "https://open.spotify.com/album/31tYORog9l0VwOpXGkcwfB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47tJfUza88KaAfTiOmnJUY",
+        "title": "面对面想念",
+        "artist": "姚晓棠",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02946d29398b28382cd8cbe846",
+        "url": "https://open.spotify.com/album/47tJfUza88KaAfTiOmnJUY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6KMFD8vQPzzqjU9LWxsLwm",
+        "title": "Lové",
+        "artist": "Naps, SativaMusic",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee8dbb7659316987278e71db",
+        "url": "https://open.spotify.com/album/6KMFD8vQPzzqjU9LWxsLwm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1G8A18XrjjaJgxjnDPNF4k",
+        "title": "PESO A PESO",
+        "artist": "Julianno Sosa",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1bfcef4f049496477c84c8c",
+        "url": "https://open.spotify.com/album/1G8A18XrjjaJgxjnDPNF4k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3HNDMbZ11bsXmShznQ5eHI",
+        "title": "ตามหาคนหาย",
+        "artist": "Labanoon",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0274393e276f5b32e967020309",
+        "url": "https://open.spotify.com/album/3HNDMbZ11bsXmShznQ5eHI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3MJ96lGEL2OmbqnSs9SIoi",
+        "title": "Ei, Você Ai",
+        "artist": "TrapLaudo, Mc Lele JP, Mc IG, DJ GORDINHO DA VF",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe3e3900e77d083b122a4871",
+        "url": "https://open.spotify.com/album/3MJ96lGEL2OmbqnSs9SIoi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0cobn5kJ8uPPa81BaJaHnX",
+        "title": "25 Jahre - Die einmalige Jubiläumstour (Live aus Berlin)",
+        "artist": "SDP",
+        "type": "album",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023629e1eb9526d2a87dffa067",
+        "url": "https://open.spotify.com/album/0cobn5kJ8uPPa81BaJaHnX",
+        "total_tracks": 42,
+        "genres": []
+      },
+      {
+        "id": "2DeREVquTtV90iwcHOMiD7",
+        "title": "RAZ DWA TRZY",
+        "artist": "Wac Toja",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c83b09831971ffe447152f3",
+        "url": "https://open.spotify.com/album/2DeREVquTtV90iwcHOMiD7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01l60f9C6y4AXBm62ItqxK",
+        "title": "CEO (Menyala Queen)",
+        "artist": "Toton Caribo",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d82b742dc25dc78dd85bf7a",
+        "url": "https://open.spotify.com/album/01l60f9C6y4AXBm62ItqxK",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-11": [
+      {
+        "id": "3b7fTYz6N1uu9a2Ifj51ME",
+        "title": "Al Final Del Día",
+        "artist": "Grupo Firme",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029feeae54ecf267c51e8b2e87",
+        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "76Jt42PC4jvHHq8EKfsyij",
+        "title": "Улыбаешься",
+        "artist": "Ruki Vverh!",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256ec2c7b003bb38bfb04a8bd",
+        "url": "https://open.spotify.com/album/76Jt42PC4jvHHq8EKfsyij",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1MKVIZSSI1346mVoBiLAy1",
+        "title": "Dream With Us",
+        "artist": "TWS",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f18354dc3d2fd304229fc4c",
+        "url": "https://open.spotify.com/album/1MKVIZSSI1346mVoBiLAy1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2tRYSjt9k7RoZfkLL7rLnr",
+        "title": "Premavathi (Rainy Lofi)",
+        "artist": "Sid Sriram, Heart Killer Beats",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e024fd4cfb484ae98b4219df16b",
+        "url": "https://open.spotify.com/album/2tRYSjt9k7RoZfkLL7rLnr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5rjkff9QkvjWVJ6MVQCF8U",
+        "title": "EX-FILES",
+        "artist": "Baggh-e SMG, BIG KAY SMG, Farmaan SMG",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e028969cfb714601919c1e558ee",
+        "url": "https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kcWy8Qo9NiwiBUKj90k1X",
+        "title": "Futebol, Pagode e Resenha - As Melhores 2026 (Ao Vivo)",
+        "artist": "Turma do Pagode, Alexandre Pires",
+        "type": "album",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d79428d2ddddbb5018bc8715",
+        "url": "https://open.spotify.com/album/7kcWy8Qo9NiwiBUKj90k1X",
+        "total_tracks": 44,
+        "genres": []
+      },
+      {
+        "id": "7kj0DER2qaqD8YLU4SQ3H5",
+        "title": "MI CARRERA ES MIA",
+        "artist": "La Pantera",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6e40cfe15f270ae61d8211a",
+        "url": "https://open.spotify.com/album/7kj0DER2qaqD8YLU4SQ3H5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38QChjGmVpQ23xQkLD5ayp",
+        "title": "รวมเพลง Bowkylion ร้องไห้แข่งกับฝน",
+        "artist": "BOWKYLION",
+        "type": "compilation",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e024acfe9226f093fb2f5befb94",
+        "url": "https://open.spotify.com/album/38QChjGmVpQ23xQkLD5ayp",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "1JCH3jvq3lj4KeIpWwTj32",
+        "title": "ไม่มีวันไหนที่ไม่คิดถึง (starlost.)",
+        "artist": "PURPEECH",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a22294e4da9735d6f8d743f",
+        "url": "https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RIjP9Egz5LLMMMDZ6e5ju",
+        "title": "HEAVEN",
+        "artist": "NOWIMYOUNG",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0283607b977ba6dfc2eb6ec7d9",
+        "url": "https://open.spotify.com/album/6RIjP9Egz5LLMMMDZ6e5ju",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6aYU0Zg3RePmH06uk90xL5",
+        "title": "Genul ăla",
+        "artist": "Alina Eremia, Puya",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa92a88203a628f6eb4f57bd",
+        "url": "https://open.spotify.com/album/6aYU0Zg3RePmH06uk90xL5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NP5JFOa6E23cAcMJpg3NY",
+        "title": "Szybkie Łódki",
+        "artist": "Sentino, CrackHouse",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b88c9ad922bdc78f786e4c9",
+        "url": "https://open.spotify.com/album/4NP5JFOa6E23cAcMJpg3NY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Eqm0Kud7El76ah4DxQBth",
+        "title": "Натуся",
+        "artist": "Patsyki Z Franeka",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf5c87244efb1d81d713f0c0",
+        "url": "https://open.spotify.com/album/5Eqm0Kud7El76ah4DxQBth",
         "total_tracks": 1,
         "genres": []
       }
