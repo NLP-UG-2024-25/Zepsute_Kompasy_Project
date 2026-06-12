@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-11T10:23:27.845Z",
-  "total": 652,
+  "fetched_at": "2026-06-12T10:12:53.697Z",
+  "total": 703,
   "by_date": {
     "2026-05-15": [
       {
@@ -3644,6 +3644,17 @@
         "url": "https://open.spotify.com/album/0SSNWA6PmuPENRD8GW1etk",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6jtlIDEzN0JPeerwbvsTD6",
+        "title": "Держи меня, любимый…",
+        "artist": "Ivika Maibak",
+        "type": "single",
+        "release_date": "2026-06-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02994772d20ed532c7175d51be",
+        "url": "https://open.spotify.com/album/6jtlIDEzN0JPeerwbvsTD6",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-02": [
@@ -7072,6 +7083,61 @@
         "url": "https://open.spotify.com/album/01l60f9C6y4AXBm62ItqxK",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3g8Gy3iQvh2JkY9EBCstLi",
+        "title": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+        "artist": "Sai Abhyankkar",
+        "type": "album",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286310b55be4008bcbd57e630",
+        "url": "https://open.spotify.com/album/3g8Gy3iQvh2JkY9EBCstLi",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3JZBsPrhhT1qYdEzZfSsog",
+        "title": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+        "artist": "A.R. Rahman, Irshad Kamil",
+        "type": "album",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02320d8311f82163512e3a4850",
+        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "0tfctu4ncNtRalwUCKVXu6",
+        "title": "Kotha Feeling (From \"Sing Geetham\")",
+        "artist": "Devi Sri Prasad, Sreemani, Haripriya",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a22fbe058419028c110835ab",
+        "url": "https://open.spotify.com/album/0tfctu4ncNtRalwUCKVXu6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1p4S6pLfzyU7cZgiuR63JB",
+        "title": "Musirull, ma olen varsti kodus",
+        "artist": "Ivika Maibak",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233531984d14f36416a429122",
+        "url": "https://open.spotify.com/album/1p4S6pLfzyU7cZgiuR63JB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ygm93g5rL2jbHz53VjgUl",
+        "title": "Kõrtsu kuninganna",
+        "artist": "Ivika Maibak",
+        "type": "single",
+        "release_date": "2026-06-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6cb7f1bdee87e8a75d55aeb",
+        "url": "https://open.spotify.com/album/5ygm93g5rL2jbHz53VjgUl",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-11": [
@@ -7215,6 +7281,503 @@
         "release_date": "2026-06-11",
         "image": "https://i.scdn.co/image/ab67616d00001e02bf5c87244efb1d81d713f0c0",
         "url": "https://open.spotify.com/album/5Eqm0Kud7El76ah4DxQBth",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fxhzVosrHlnYz27SlDy3e",
+        "title": "Go (Live from Glastonbury)",
+        "artist": "The Chemical Brothers",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6dc295ff4d6eaddfa0e5eb2",
+        "url": "https://open.spotify.com/album/1fxhzVosrHlnYz27SlDy3e",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5GYiI0CFvaENj5c6hakhaX",
+        "title": "Lachy's Sparkle Music Machine",
+        "artist": "The Wiggles",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f821c32e0d34ee6734ef8aa9",
+        "url": "https://open.spotify.com/album/5GYiI0CFvaENj5c6hakhaX",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5cKVFpaK1Pv7L68VduLrRA",
+        "title": "Cabernet",
+        "artist": "Mora",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ba14cdbd09aec573bb5ec82",
+        "url": "https://open.spotify.com/album/5cKVFpaK1Pv7L68VduLrRA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25XDm5oXIisowUalHOGQXh",
+        "title": "222",
+        "artist": "Yan Block",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f0e0b0b0dbb4d0cd7db8e56",
+        "url": "https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vwUSUBR0Hly5NATwN0RnT",
+        "title": "Contigo Na Más - Remix (feat. Jay Wheeler, Hades66, Bryant Myers)",
+        "artist": "Luar La L, Ozuna, Dei V, ROA",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f6069637daa6eba931d9e20",
+        "url": "https://open.spotify.com/album/6vwUSUBR0Hly5NATwN0RnT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3nodiDr8ObQXZUeFzoPU0o",
+        "title": "ASOT 1281 - A State of Trance Episode 1281 (Including A State Of Trance 25 Years - 2001 Highlights)",
+        "artist": "Armin van Buuren, Armin van Buuren ASOT Radio",
+        "type": "album",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02818194b28a1735b9b1bf76f2",
+        "url": "https://open.spotify.com/album/3nodiDr8ObQXZUeFzoPU0o",
+        "total_tracks": 85,
+        "genres": []
+      },
+      {
+        "id": "0pTThI32LGOQCk2NynT10A",
+        "title": "BALOTELLI",
+        "artist": "THIZZY52",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf1b99e31d22df504b0c23d4",
+        "url": "https://open.spotify.com/album/0pTThI32LGOQCk2NynT10A",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5EA3ZymI8Vh9bv8DwUogNL",
+        "title": "REKLAMACJA'47",
+        "artist": "OKI",
+        "type": "album",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecd9cb78533cbf6705244c3d",
+        "url": "https://open.spotify.com/album/5EA3ZymI8Vh9bv8DwUogNL",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "1M7YjYutpehUJVmStX0PgX",
+        "title": "POR FIN ME ANIMO",
+        "artist": "Max Carra",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0e2020130266b82657f9d1f",
+        "url": "https://open.spotify.com/album/1M7YjYutpehUJVmStX0PgX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1mrbJHq5kyDeygWAz3XY2y",
+        "title": "Detrás de esa puerta",
+        "artist": "Kingdom Static",
+        "type": "album",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02714a1c523b570a5e535f875b",
+        "url": "https://open.spotify.com/album/1mrbJHq5kyDeygWAz3XY2y",
+        "total_tracks": 12,
+        "genres": []
+      }
+    ],
+    "2026-06-12": [
+      {
+        "id": "4Ii9whWXI1O1H01ziECRaG",
+        "title": "I Knew It, I Knew You",
+        "artist": "Taylor Swift",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8852f06eca817333d20e60b",
+        "url": "https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3WZZF72ihlKPZBS4zSsNHl",
+        "title": "you seem pretty sad for a girl so in love",
+        "artist": "Olivia Rodrigo",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "76p8b3x5fdwcM6QbhpOFOR",
+        "title": "Bottle Up (from PAW Patrol: The Dino Movie)",
+        "artist": "Backstreet Boys, PAW Patrol",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02406a6ecc6ffaec23147c3170",
+        "url": "https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6U3DX5YduAdNPwupudPkbm",
+        "title": "Black & Blue (2026 Repented)",
+        "artist": "Bring Me The Horizon",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f821b0005a98ffbe8fbc4fb4",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1sSL6NqhVqhrIWMiYk83Oh",
+        "title": "Paradise (with Bipolar Sunshine) [&friends Remix]",
+        "artist": "DJ Snake, Bipolar Sunshine, &friends",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259e04e622a9d10807fcf4da6",
+        "url": "https://open.spotify.com/album/1sSL6NqhVqhrIWMiYk83Oh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xXG0abKT34biU7L9siPde",
+        "title": "Come Over",
+        "artist": "BTS",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df7118c4f396e50961cc0e74",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6N990tXerv286f4znveHjL",
+        "title": "Don't You Know",
+        "artist": "LAUV",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f5746245f6b28ed5c0a9f6e",
+        "url": "https://open.spotify.com/album/6N990tXerv286f4znveHjL",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2CksIBh8jW3lrSzMix6N37",
+        "title": "Anything (Lost Tapes 2016)",
+        "artist": "Tory Lanez",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f85089ac02c45b366890dc3",
+        "url": "https://open.spotify.com/album/2CksIBh8jW3lrSzMix6N37",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4q72fmveNOwffTj4hJ07Zo",
+        "title": "Withness",
+        "artist": "ANOTR",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a17469e0ff4a5b0d5114612",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "29L7pXN58eLAlfhaAquyXh",
+        "title": "Femme Fatale Vol. 2",
+        "artist": "Mon Laferte",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adb5f1c1c6ee3a2cb24c991b",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "5TTxRgyrLUjShv6V8gi08a",
+        "title": "PLO PLO",
+        "artist": "FloyyMenor, Gabito Ballesteros",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d88c71af475eb1f001da650",
+        "url": "https://open.spotify.com/album/5TTxRgyrLUjShv6V8gi08a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2VcEHKTpMRNDRsWZ1cB8tG",
+        "title": "DIRTY BLONDE",
+        "artist": "Bebe Rexha",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02855eca6b0b66944a7682c3b9",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "2ZXrSjTOvBGvcW0m61XKHR",
+        "title": "Old Lovers (feat. The Lumineers)",
+        "artist": "Tom Odell, The Lumineers",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba94638cd830e551252cfd9c",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1gb4DyWRIyxRM0Iz6hsNNo",
+        "title": "Body Drop",
+        "artist": "HUGEL, Big Sean, Scott Storch",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee8c39335b5b337ae32bcfb5",
+        "url": "https://open.spotify.com/album/1gb4DyWRIyxRM0Iz6hsNNo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6w6Tv9A0jbFHDiqFnPV3ck",
+        "title": "MONTAGEM PIRATA",
+        "artist": "h6itam, nochty, skullidze",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02350b60966402b0e5d8ea0a23",
+        "url": "https://open.spotify.com/album/6w6Tv9A0jbFHDiqFnPV3ck",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2MzLFr81eqLdPDbALIdxZc",
+        "title": "Comes And Goes (Extended)",
+        "artist": "KETTAMA",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028507b523b289d70ab5a6f468",
+        "url": "https://open.spotify.com/album/2MzLFr81eqLdPDbALIdxZc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ERh69jnQLIhxEj1Apzk09",
+        "title": "Puppet",
+        "artist": "natori",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269718ac6e1a0ad06e7c4325a",
+        "url": "https://open.spotify.com/album/1ERh69jnQLIhxEj1Apzk09",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zQhdFu3XNlJe6hvZwKQ6U",
+        "title": "Tornado",
+        "artist": "Ayra Starr",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c958b55becc82dbc41aa67c",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6x9gU8omObgITmlcibydZf",
+        "title": "The Summer Portraits Live",
+        "artist": "Ludovico Einaudi",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c90b3a2c592c0568f2aef76",
+        "url": "https://open.spotify.com/album/6x9gU8omObgITmlcibydZf",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "2wtk5J3FnHBjTUvjc9IuMN",
+        "title": "Luxury",
+        "artist": "J Alvarez",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ac0033f36300df805d4aae5",
+        "url": "https://open.spotify.com/album/2wtk5J3FnHBjTUvjc9IuMN",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "6iXU3FAK6ue4bIkipNfExb",
+        "title": "ELA DANCA",
+        "artist": "Sayfalse, 5opka, MellSher",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292a0d1a9d3c8e5f29c712390",
+        "url": "https://open.spotify.com/album/6iXU3FAK6ue4bIkipNfExb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7Jvyc1KHrxklypUJlw6qDb",
+        "title": "Outside World",
+        "artist": "Gabry Ponte, T78, Rudeejay, Da Brozz",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02351f9c6b95bf3a1764d90611",
+        "url": "https://open.spotify.com/album/7Jvyc1KHrxklypUJlw6qDb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1pZ9OND8KLqWX58PbT2f97",
+        "title": "Marsellus Wallace",
+        "artist": "Heuss L'enfoiré",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f5331cc7032169284843e94",
+        "url": "https://open.spotify.com/album/1pZ9OND8KLqWX58PbT2f97",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43we775UG0onPIxhdIHPzs",
+        "title": "Niemand",
+        "artist": "Bizzey, Famke Louise, GP UIT G",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be214d042384f1d9cdee847e",
+        "url": "https://open.spotify.com/album/43we775UG0onPIxhdIHPzs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04ogoVfh8FGKIMPy8ugpfA",
+        "title": "Wizz Away",
+        "artist": "INNA",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0294fb33ab6d624739e60ea507",
+        "url": "https://open.spotify.com/album/04ogoVfh8FGKIMPy8ugpfA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1CUWNiiuazxG4uVJsFhU74",
+        "title": "Elevate (Massano Remix)",
+        "artist": "Sub Focus, Massano",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af4a91c6e610e414e9a4d3e4",
+        "url": "https://open.spotify.com/album/1CUWNiiuazxG4uVJsFhU74",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "55jtdKW4afSgz9HTsw8aIe",
+        "title": "Paper Airships",
+        "artist": "JESSE",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02557838abae82ec89bcf6d960",
+        "url": "https://open.spotify.com/album/55jtdKW4afSgz9HTsw8aIe",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7vATMfzYBrTqFXprlG1cqf",
+        "title": "Kaya Ko Pala",
+        "artist": "Gloc-9",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028afb09e12c5dff9b2958bf8a",
+        "url": "https://open.spotify.com/album/7vATMfzYBrTqFXprlG1cqf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Q3vI6GFKCwuEo3QcFpRo6",
+        "title": "Tayo Nalang Ulit",
+        "artist": "John Roa",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02749b3aa33e5733e26f68ae93",
+        "url": "https://open.spotify.com/album/5Q3vI6GFKCwuEo3QcFpRo6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0CPYOg6Axx4W3qFGqqbNcc",
+        "title": "Mélo Décalé",
+        "artist": "Tiakola",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243e0fb641d91a1509c5f7923",
+        "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2T9QHyRM0BgQS5ORZK0tM8",
+        "title": "NE BUDEM",
+        "artist": "CMH, KUDOKUSHI, tuborosho",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f64004c1420db603b3fda7b0",
+        "url": "https://open.spotify.com/album/2T9QHyRM0BgQS5ORZK0tM8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "55w8mC4WHLgAGB5eNqQefa",
+        "title": "Your Love",
+        "artist": "Jovani, Jape Enterprise",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc68eb1204c0a2c70aeb96d5",
+        "url": "https://open.spotify.com/album/55w8mC4WHLgAGB5eNqQefa",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1nlEb4gYX7vwhfNzLcDP8o",
+        "title": "No Fear",
+        "artist": "9mice",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02504f04e0fbb134a82555b829",
+        "url": "https://open.spotify.com/album/1nlEb4gYX7vwhfNzLcDP8o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3g1fZh1jht8aQXdz4xvXSG",
+        "title": "Outside",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0d42d07f6003e160438f470",
+        "url": "https://open.spotify.com/album/3g1fZh1jht8aQXdz4xvXSG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6OrlFAvnhRq3GMq9kegkV9",
+        "title": "Not Gonna Lie",
+        "artist": "Midas Wildeve",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b71aba9d87eaa48df12573df",
+        "url": "https://open.spotify.com/album/6OrlFAvnhRq3GMq9kegkV9",
         "total_tracks": 1,
         "genres": []
       }
