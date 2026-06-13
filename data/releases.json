@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-12T10:12:53.697Z",
-  "total": 703,
+  "fetched_at": "2026-06-13T08:57:54.474Z",
+  "total": 722,
   "by_date": {
     "2026-05-15": [
       {
@@ -7393,6 +7393,50 @@
         "url": "https://open.spotify.com/album/1mrbJHq5kyDeygWAz3XY2y",
         "total_tracks": 12,
         "genres": []
+      },
+      {
+        "id": "2FbThz4XHG6MbcrF9shGN7",
+        "title": "Se Le Ve",
+        "artist": "Kybba, Ryan Castro, Bad Gyal, Topboy TGR",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0228f1339fc31bdba46751678d",
+        "url": "https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2sfk0XnXhyJukYVx4sMm84",
+        "title": "LeoRD Live: Zojo RD",
+        "artist": "Leo RD, ZOJO RD",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299a2f2ade58cf47aa62805fc",
+        "url": "https://open.spotify.com/album/2sfk0XnXhyJukYVx4sMm84",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4vDNboJ5qrdd6d7vcxWW4L",
+        "title": "Northbound",
+        "artist": "Livia Hart",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02713a82dd8ce55a4bc9d747b7",
+        "url": "https://open.spotify.com/album/4vDNboJ5qrdd6d7vcxWW4L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "61zRQO51MKGjenEwQHZrMr",
+        "title": "Täna on Sinu päev!",
+        "artist": "Ivika Maibak",
+        "type": "single",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f34c09df0caeef8b9a2797b",
+        "url": "https://open.spotify.com/album/61zRQO51MKGjenEwQHZrMr",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-12": [
@@ -7778,6 +7822,173 @@
         "release_date": "2026-06-12",
         "image": "https://i.scdn.co/image/ab67616d00001e02b71aba9d87eaa48df12573df",
         "url": "https://open.spotify.com/album/6OrlFAvnhRq3GMq9kegkV9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yys068oxBNuFHNbF8HMam",
+        "title": "ICONIC BY MISTAKE",
+        "artist": "LE SSERAFIM, ILLIT, KATSEYE",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255886e2f0784a2b7b62b7fe7",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1vTp9rFFqRm9N8UHtiLz2M",
+        "title": "Kodak The Blessing",
+        "artist": "Kodak Black",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c76f0dde9e4a52b2890cb973",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "6e6UkAyTbXyxZOBK2o2AGe",
+        "title": "GIRLS (feat. Kehlani) [Remix]",
+        "artist": "The Kid LAROI, Kehlani",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e022048d63df6a363ba26958a6c",
+        "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2cglrltJot3acS6kTOOxJj",
+        "title": "Mahogany Caskets",
+        "artist": "Rick Ross",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02589f12a732c59dd3fc71f2aa",
+        "url": "https://open.spotify.com/album/2cglrltJot3acS6kTOOxJj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3rFJsvbc9D6kKFE5vibqft",
+        "title": "Would U Still Love Me (feat. Cameron Whitcomb) - VIP",
+        "artist": "Diplo, Cameron Whitcomb",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5d8abb1893a3606af4d1e90",
+        "url": "https://open.spotify.com/album/3rFJsvbc9D6kKFE5vibqft",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4i4xBR9qPRoSgWgx4jZ0RO",
+        "title": "ELLAS SABEN YA",
+        "artist": "El Alfa, JC Reyes, Donaty",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d2b052fd72f97e09c78ac5a",
+        "url": "https://open.spotify.com/album/4i4xBR9qPRoSgWgx4jZ0RO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ddIa54kO4HSvo7G3iEHe2",
+        "title": "Bring Your Love (Stuart Price Afterhours Mix)",
+        "artist": "Madonna",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efd2d645063e0445f76f984e",
+        "url": "https://open.spotify.com/album/3ddIa54kO4HSvo7G3iEHe2",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4FRJ8Vn159vRiyLTdcGAWI",
+        "title": "can we do it all again?",
+        "artist": "Sonny Fodera",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3b04f217ddbe4316ef0cb62",
+        "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "4p8vKyJWZaDeUs9IFKNTEt",
+        "title": "Fire in the Streets - Zion",
+        "artist": "Zion, Charlie Sloth, Fire In The Streets",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02367e350af4f17b393abbde1a",
+        "url": "https://open.spotify.com/album/4p8vKyJWZaDeUs9IFKNTEt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5upKDPz8qhuqWCO2NXrG7e",
+        "title": "Qaafirana - Arijit Singh & Nikhita Gandhi Vocals Only",
+        "artist": "Arijit Singh, Nikhita Gandhi, Amit Trivedi, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b067ce4919d14f4485a887e",
+        "url": "https://open.spotify.com/album/5upKDPz8qhuqWCO2NXrG7e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MH2y0NH6GiQYNiFFrMqoM",
+        "title": "Dating Alys Perez (A Viva One Original Series Soundtrack)",
+        "artist": "Cup of Joe, Kyle Raphael, Amiel Sol, This Band",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eccaa4fca7f9bcdfb1f9a86d",
+        "url": "https://open.spotify.com/album/5MH2y0NH6GiQYNiFFrMqoM",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6IZrIfElEDQWpR9B6yYjhp",
+        "title": "Bipolar",
+        "artist": "Navaan Sandhu",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0232e3455cbcaea677af732c56",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "1JDjpoj2Xut1a0ROAXRz6h",
+        "title": "Adriann's Heart",
+        "artist": "Credo V Daniels",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bfbe554cc16ea3bd24e49ff",
+        "url": "https://open.spotify.com/album/1JDjpoj2Xut1a0ROAXRz6h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3y9fc7xurALSKqDXsKg4VN",
+        "title": "Tähtede Sära",
+        "artist": "5UP",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e995596042e6c7ecb013204",
+        "url": "https://open.spotify.com/album/3y9fc7xurALSKqDXsKg4VN",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-13": [
+      {
+        "id": "5XKDlZYIcCNiOEzlQrl4MX",
+        "title": "Otra Vez",
+        "artist": "El Americano 4KT",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02942625473589566dff9e9ba3",
+        "url": "https://open.spotify.com/album/5XKDlZYIcCNiOEzlQrl4MX",
         "total_tracks": 1,
         "genres": []
       }
