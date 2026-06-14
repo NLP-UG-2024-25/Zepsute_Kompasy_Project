@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-13T08:57:54.474Z",
-  "total": 722,
+  "fetched_at": "2026-06-14T09:33:42.756Z",
+  "total": 766,
   "by_date": {
     "2026-05-15": [
       {
@@ -7978,6 +7978,270 @@
         "url": "https://open.spotify.com/album/3y9fc7xurALSKqDXsKg4VN",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6CCFblYuLEypJmDEQtirkD",
+        "title": "No Se Dejan Mete Cabra",
+        "artist": "Ronny GTA",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b6000d54d68f723e6d980f6",
+        "url": "https://open.spotify.com/album/6CCFblYuLEypJmDEQtirkD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "77xRSP2Tr52hDN8PnFglcr",
+        "title": "Mi Viejo",
+        "artist": "Los Caminantes",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb6fe2c0499c95f21e1b48b6",
+        "url": "https://open.spotify.com/album/77xRSP2Tr52hDN8PnFglcr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KBgtmjaOsqG713ktl7bsU",
+        "title": "UM CORAÇÃO",
+        "artist": "Mc Pedrinho, Caio Passos",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cda45e7b86a5dfc10f9868f1",
+        "url": "https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1xSCURsM46cTobRs8kxAYa",
+        "title": "Girassol",
+        "artist": "L7NNON, HHR",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d6337bd6e62ab602091549d",
+        "url": "https://open.spotify.com/album/1xSCURsM46cTobRs8kxAYa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3gHVyltE54xxUu4wupTzpf",
+        "title": "DE FRENTE",
+        "artist": "Rochy RD, Kiry Curu, Puñito Cotorra, YERKIN BOY",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020892fa6087963c38496f0830",
+        "url": "https://open.spotify.com/album/3gHVyltE54xxUu4wupTzpf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Ru3t1vEDq1SNAPgz7KWQl",
+        "title": "Sem Tempo de Parar",
+        "artist": "Orochi, MC Meno K, Real Fuba, Portugal No Beat",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205c0c0616d762cf9d252ff03",
+        "url": "https://open.spotify.com/album/5Ru3t1vEDq1SNAPgz7KWQl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37TqFVkSsie4MaS4ryd6CD",
+        "title": "Adore",
+        "artist": "B Praak, Saga Sounds, Vinder Nathu Majra",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c5b28be72f25d989e0707df",
+        "url": "https://open.spotify.com/album/37TqFVkSsie4MaS4ryd6CD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1LQshnvhATk7984X38b51c",
+        "title": "Monsoon LoFi Mix",
+        "artist": "Sachet Tandon, Ash King, Tanishk Bagchi",
+        "type": "compilation",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213ca07c496bd1a56ab9ce88c",
+        "url": "https://open.spotify.com/album/1LQshnvhATk7984X38b51c",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5w4WlFG5HhXOichH3hwKPH",
+        "title": "EL MOCO VERDE",
+        "artist": "Feid",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c72961c9ad2bfe912fb56c3",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5odg1XuBlra2v3zLl1mtvl",
+        "title": "Ay Yıldızım",
+        "artist": "Sıla Şahin, Samet Kardeşler",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02388f1eeafdb491e7be8d89dc",
+        "url": "https://open.spotify.com/album/5odg1XuBlra2v3zLl1mtvl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Q4PYPUmz65sy21amK80QX",
+        "title": "اسد مجروح لو كلي جروح ( مين غيري بتقوليلو بابا )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281143feda774a0328ac907f5",
+        "url": "https://open.spotify.com/album/6Q4PYPUmz65sy21amK80QX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DYG1E9sjuwMIp2EEzUELD",
+        "title": "كابس كابس بنفسي ( قالو عليا كلام )",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e026446ce664861b6d6c9916396",
+        "url": "https://open.spotify.com/album/5DYG1E9sjuwMIp2EEzUELD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ZzypO62JMA3hpjMFU25y7",
+        "title": "من قلبي بشجع ( انا نجم و بلمع ) اعلان وي كاس العالم 2026",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243713f24573951263425fb09",
+        "url": "https://open.spotify.com/album/0ZzypO62JMA3hpjMFU25y7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "437tdSWu0v5mOWGKbWNBIU",
+        "title": "الفرقة 11",
+        "artist": "Eslam Kabonga",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242ba5b39921fee73ef5563e2",
+        "url": "https://open.spotify.com/album/437tdSWu0v5mOWGKbWNBIU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1tZHGWcvCU3eZTllya7znL",
+        "title": "Mesterul Manele",
+        "artist": "Alex Botea",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025aaf00a1bd08a470c6b1b947",
+        "url": "https://open.spotify.com/album/1tZHGWcvCU3eZTllya7znL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5IaNruW0urK3H9ADRQ4Amj",
+        "title": "Ldr (Langgeng Dayaning Rasa)",
+        "artist": "La Tasya",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c22aef95e12fd28969904868",
+        "url": "https://open.spotify.com/album/5IaNruW0urK3H9ADRQ4Amj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4UGiLnbSOTdk4pPmwRTVwt",
+        "title": "PEGA PEGA CHEIO DE ODIO 2 (REMIX)",
+        "artist": "DJ GORDINHO DA VF, DJ KLP OFC, MC Digu, MC ZKW",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f224bf5d69dcae4934d9abe",
+        "url": "https://open.spotify.com/album/4UGiLnbSOTdk4pPmwRTVwt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0dprxNMkU4LUdKBtCDhl1E",
+        "title": "最後一個降落傘",
+        "artist": "Anson Lo 盧瀚霆",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c2b2db65bd41517aee6af09",
+        "url": "https://open.spotify.com/album/0dprxNMkU4LUdKBtCDhl1E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "55xZ1RdJDQritIrouhw64W",
+        "title": "محتاج اروح اكشف نظر",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a3128df609193ed07c38510b",
+        "url": "https://open.spotify.com/album/55xZ1RdJDQritIrouhw64W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3OqptSJEjyO5PAeRjd1x8s",
+        "title": "Helicopter",
+        "artist": "Anson Lo 盧瀚霆",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7f1136b87ee004f14f09c31",
+        "url": "https://open.spotify.com/album/3OqptSJEjyO5PAeRjd1x8s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ELqS8vIG0watKI010OQxb",
+        "title": "Governor (Original Motion Picture Soundtrack)",
+        "artist": "Amit Trivedi, Javed Akhtar",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02650420839f80919b606f740b",
+        "url": "https://open.spotify.com/album/6ELqS8vIG0watKI010OQxb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "68fASEYvkYKxt3Ub3sIJ1z",
+        "title": "USA",
+        "artist": "YS3, Nutu",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5882a0764aa338f400668fb",
+        "url": "https://open.spotify.com/album/68fASEYvkYKxt3Ub3sIJ1z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zkBqPMrQxwX1XcmHLGt0O",
+        "title": "Win, Lose or Blunder",
+        "artist": "KimDem",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f842837e01a8e24614a7350",
+        "url": "https://open.spotify.com/album/2zkBqPMrQxwX1XcmHLGt0O",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "44CRFCjSPsMOfupaqFXxo2",
+        "title": "Meie jaaniöö parimatega",
+        "artist": "Ivika Maibak",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02369b9fc3d59ea8ed3deed6be",
+        "url": "https://open.spotify.com/album/44CRFCjSPsMOfupaqFXxo2",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-13": [
@@ -7989,6 +8253,228 @@
         "release_date": "2026-06-13",
         "image": "https://i.scdn.co/image/ab67616d00001e02942625473589566dff9e9ba3",
         "url": "https://open.spotify.com/album/5XKDlZYIcCNiOEzlQrl4MX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4DLot5F4nDEbu72r8knOhw",
+        "title": "是非に及ばず",
+        "artist": "Nogizaka46",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c221d080f5085630622a3fb",
+        "url": "https://open.spotify.com/album/4DLot5F4nDEbu72r8knOhw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3WxmMbAt1MtO1xqYVaHKZk",
+        "title": "جيباك الصحه بتفتري",
+        "artist": "Magdy El Zahar",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d6ac6aca538951674468c72",
+        "url": "https://open.spotify.com/album/3WxmMbAt1MtO1xqYVaHKZk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CpIPp9D2qwdcpJ3TMn72g",
+        "title": "Ora Urus (Remix)",
+        "artist": "Toton Caribo, 0landryss",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d67fd8b797d6e051c659a62",
+        "url": "https://open.spotify.com/album/7CpIPp9D2qwdcpJ3TMn72g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6nsdMYJsjQZPl7ftgaOAcb",
+        "title": "Khi Em Lớn (Ver đã lớn/ Live at Sạp Show)",
+        "artist": "Orange",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02530d03f32f0bca67766660ac",
+        "url": "https://open.spotify.com/album/6nsdMYJsjQZPl7ftgaOAcb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1QorHILfNqItEwdhnLxZZ5",
+        "title": "Urban, Night, Cyber, Vol. 12",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6d121e80994d553fe65a6de",
+        "url": "https://open.spotify.com/album/1QorHILfNqItEwdhnLxZZ5",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3GDbJap1H9dCg1uz15qYDA",
+        "title": "BELLA",
+        "artist": "Lele",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e027836b5cfec2a3d1bdf105891",
+        "url": "https://open.spotify.com/album/3GDbJap1H9dCg1uz15qYDA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VOIVwqChiAlVE98fMqCZz",
+        "title": "انا هقلع طقم الجدعنه",
+        "artist": "Kimo Eldeeb",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233bcd110e810299c739904dc",
+        "url": "https://open.spotify.com/album/1VOIVwqChiAlVE98fMqCZz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7hoTiI9kefsoiDH9vfNGmF",
+        "title": "Doi DILII",
+        "artist": "Costel Biju, Leo de Vis",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed377bd085f1f1180a14110a",
+        "url": "https://open.spotify.com/album/7hoTiI9kefsoiDH9vfNGmF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HYI22qbthL2XoloDiMlYe",
+        "title": "Swag Rap",
+        "artist": "Praba",
+        "type": "album",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251714be00281047a61d79039",
+        "url": "https://open.spotify.com/album/2HYI22qbthL2XoloDiMlYe",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "5a3OSkfrWefv9yET5RvQIu",
+        "title": "Zabranicu srcu da te voli",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e021a03283dd4e128e40359aaad",
+        "url": "https://open.spotify.com/album/5a3OSkfrWefv9yET5RvQIu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yDaa6u2Ep0UBKmRRNnHSw",
+        "title": "Cvetak zanovetak",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02edea672bb3b43e499b038f1d",
+        "url": "https://open.spotify.com/album/4yDaa6u2Ep0UBKmRRNnHSw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32DeoUNysvFdJSKYSWMFkg",
+        "title": "Hlið við hlið",
+        "artist": "ELVAR, Nova Ísland",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c93a9120bfb572aad8d19ff4",
+        "url": "https://open.spotify.com/album/32DeoUNysvFdJSKYSWMFkg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kG4UJAQg6oMrw4dZX41A9",
+        "title": "Ко искаш от мене",
+        "artist": "Boro Purvi",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac536e454d9afbf49307f27c",
+        "url": "https://open.spotify.com/album/7kG4UJAQg6oMrw4dZX41A9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3sL09qqn4g9a1qp2EbxLOn",
+        "title": "القمر",
+        "artist": "Ramy Sabry",
+        "type": "single",
+        "release_date": "2026-06-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a1d38d122d1e298f44e4021",
+        "url": "https://open.spotify.com/album/3sL09qqn4g9a1qp2EbxLOn",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-14": [
+      {
+        "id": "35hZqIutiGG7tCaPNDlnE9",
+        "title": "Jackie Ο'",
+        "artist": "Eleni Foureira, ARCADE",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecc41a27ed08d5e93ef9e8ed",
+        "url": "https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SwGeFjM2Jt5YzVlQBRVdG",
+        "title": "Love Call Center Lim Young Woong Compilation PART10",
+        "artist": "Lim Young Woong",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d1cd3b57bb0a3a92a5f6d70",
+        "url": "https://open.spotify.com/album/0SwGeFjM2Jt5YzVlQBRVdG",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6ENrGbneIHfyj3FhKnbg2x",
+        "title": "Giai Điệu Hoài Niệm",
+        "artist": "MeMe Media",
+        "type": "album",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d641706d0e6241bfda769bd8",
+        "url": "https://open.spotify.com/album/6ENrGbneIHfyj3FhKnbg2x",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1syPf6uRln5sISMAtDblcR",
+        "title": "MIXTAPE VOL 1",
+        "artist": "ba.",
+        "type": "album",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02709332ce8b0ce47f4cf3e5de",
+        "url": "https://open.spotify.com/album/1syPf6uRln5sISMAtDblcR",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7M40uOdmTSb3aIsBSXMci9",
+        "title": "Vocea de care eu mor",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233ff976045da4e58bb61ad8f",
+        "url": "https://open.spotify.com/album/7M40uOdmTSb3aIsBSXMci9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0d5mYommKMvclA0QQ3Uv7S",
+        "title": "kiire elu, kiired ajad",
+        "artist": "Karl Killing, Erki Pärnoja",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa9098e426e9649ef6571713",
+        "url": "https://open.spotify.com/album/0d5mYommKMvclA0QQ3Uv7S",
         "total_tracks": 1,
         "genres": []
       }
