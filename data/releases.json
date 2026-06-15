@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-14T09:33:42.756Z",
-  "total": 766,
+  "fetched_at": "2026-06-15T12:13:14.931Z",
+  "total": 806,
   "by_date": {
     "2026-05-15": [
       {
@@ -5522,6 +5522,28 @@
         "url": "https://open.spotify.com/album/17IPdY5Q76yYTHNAQ3DaNr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5MQn4Cknugw1VplWnBoEI6",
+        "title": "Grateful",
+        "artist": "The Red Clay Strays",
+        "type": "album",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e023512c5fc635b907569ef5f0c",
+        "url": "https://open.spotify.com/album/5MQn4Cknugw1VplWnBoEI6",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "0ox0bcTYieBO03Uaueye9u",
+        "title": "the feeling",
+        "artist": "Steve Lacy",
+        "type": "single",
+        "release_date": "2026-06-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2051e257fca29adecca19ee",
+        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-06": [
@@ -7437,6 +7459,17 @@
         "url": "https://open.spotify.com/album/61zRQO51MKGjenEwQHZrMr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "18qJgKH8dyYe2RRp6TbnNY",
+        "title": "you seem pretty sad for a girl so in love",
+        "artist": "Olivia Rodrigo",
+        "type": "album",
+        "release_date": "2026-06-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY",
+        "total_tracks": 13,
+        "genres": []
       }
     ],
     "2026-06-12": [
@@ -8242,6 +8275,17 @@
         "url": "https://open.spotify.com/album/44CRFCjSPsMOfupaqFXxo2",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "08wHg3Ie9jj8nLZv5ue7bM",
+        "title": "Until The Sun Explodes",
+        "artist": "Sublime",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e021791d3414cc8c84e561cfede",
+        "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM",
+        "total_tracks": 22,
+        "genres": []
       }
     ],
     "2026-06-13": [
@@ -8476,6 +8520,404 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02fa9098e426e9649ef6571713",
         "url": "https://open.spotify.com/album/0d5mYommKMvclA0QQ3Uv7S",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7q3iSTFAexLWOZCQcXaflO",
+        "title": "Adam & Eve",
+        "artist": "Light, Noizy",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c2d233748202922b73ad8ae",
+        "url": "https://open.spotify.com/album/7q3iSTFAexLWOZCQcXaflO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wZbbeLageziXPTb22hz21",
+        "title": "كلها عوجت الكاب وبقت تغني راب",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02725331d57b1950efa6065715",
+        "url": "https://open.spotify.com/album/6wZbbeLageziXPTb22hz21",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1OYcQIq1EfcKpC9prOhcH5",
+        "title": "ARDA SAATCI",
+        "artist": "reezy",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c23e08b661172ecb78fe08b",
+        "url": "https://open.spotify.com/album/1OYcQIq1EfcKpC9prOhcH5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QbsbadOKcLDb5Ae1V1XYM",
+        "title": "Puertas (En Vivo)",
+        "artist": "El Cuarteto De Nos",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb487c163d0cd8ccf6c0ac2b",
+        "url": "https://open.spotify.com/album/6QbsbadOKcLDb5Ae1V1XYM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3BpSszYt5xgiCLAse1mlxK",
+        "title": "كلها عالتيك توك محاربة ( كل دول ساعة مايدور حوار )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263f7f788a65731e759fc429f",
+        "url": "https://open.spotify.com/album/3BpSszYt5xgiCLAse1mlxK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07CjMJF6o06u7zPymwG7fM",
+        "title": "SPF",
+        "artist": "Ben Cristovao, KOJO",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e80772a81632d3211b6324a",
+        "url": "https://open.spotify.com/album/07CjMJF6o06u7zPymwG7fM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MMZDHwfBtTiaNr3JD5lxQ",
+        "title": "Aravindh",
+        "artist": "Anirudh Ravichander, Super Subu",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028defa5eca826181b586cd2c9",
+        "url": "https://open.spotify.com/album/5MMZDHwfBtTiaNr3JD5lxQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6S74tGtUi00gmHXS8UuC69",
+        "title": "Aravindh (Telugu)",
+        "artist": "Anirudh Ravichander, Srinivasa Mouli",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa76d811c98652844fc92daf",
+        "url": "https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2dNMSwYaC7178DZ7CvckGH",
+        "title": "Unir Seu Desejo",
+        "artist": "MC Nito, Mc Mary Maii, DJ Bill",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cb2648a156fba7ff45e49e2",
+        "url": "https://open.spotify.com/album/2dNMSwYaC7178DZ7CvckGH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "68yUD4T3PrEQVvSa44PAoG",
+        "title": "Ühine igavesti",
+        "artist": "Ivika Maibak",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a3b4efde8f09e64a07f5bae9",
+        "url": "https://open.spotify.com/album/68yUD4T3PrEQVvSa44PAoG",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-15": [
+      {
+        "id": "77lHr1rXYAkLjOVkcSXLGH",
+        "title": "烏 - Raven",
+        "artist": "Kenshi Yonezu",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e026587e9ae2e13c8bd69c0bf7e",
+        "url": "https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "59erkeCMFtZj8BvLxzx6m1",
+        "title": "Brechando",
+        "artist": "Megadivo Produce, Yoan Retro",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273a02b48d5a9454317ad14e2",
+        "url": "https://open.spotify.com/album/59erkeCMFtZj8BvLxzx6m1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34uhPWyYxUgXU199QnwNrq",
+        "title": "Sikaeom Live Performance 2026",
+        "artist": "Guddhist Gunatita",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d5fd809c6ec781f428a61bc",
+        "url": "https://open.spotify.com/album/34uhPWyYxUgXU199QnwNrq",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4nF8sJ3IuapgSwJJIXLjWa",
+        "title": "Delikanlım (Live)",
+        "artist": "EDIS",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f71c41dc7d3439b2e02a2d0",
+        "url": "https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1q5rXzzkq40k1uHjLyxMnc",
+        "title": "זן נדיר",
+        "artist": "Osher Cohen, אמיר שורוש",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02517e9fb3a663579817c9233d",
+        "url": "https://open.spotify.com/album/1q5rXzzkq40k1uHjLyxMnc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3MrTTipL7FP4DSFJU2UCI3",
+        "title": "Sanju Na Máxima 2.0",
+        "artist": "Toque Dez",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fea62338922cf2d27939331f",
+        "url": "https://open.spotify.com/album/3MrTTipL7FP4DSFJU2UCI3",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1p5hq7qLbyMtSUTlbcoD0q",
+        "title": "Sone Varga Yaar",
+        "artist": "Javed Ali, Kumaar, Mandeep Panghal",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211f2d2c583c44ef43b9899e2",
+        "url": "https://open.spotify.com/album/1p5hq7qLbyMtSUTlbcoD0q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Hg5nKy3x53nYQkvXx0aMl",
+        "title": "Pakeleivis",
+        "artist": "Biplan, Radvis",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abb7d5c543ec8c79209232db",
+        "url": "https://open.spotify.com/album/4Hg5nKy3x53nYQkvXx0aMl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7mUKg6cikhe7UtKMrrmHQC",
+        "title": "壞人一個",
+        "artist": "Edan 呂爵安",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223a40fbf31882acbd4b61dac",
+        "url": "https://open.spotify.com/album/7mUKg6cikhe7UtKMrrmHQC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6mDXzk9d59YRF5cQVu14wt",
+        "title": "Mi Lema",
+        "artist": "Luana",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202bbe3c358715bbd546f829a",
+        "url": "https://open.spotify.com/album/6mDXzk9d59YRF5cQVu14wt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2dsJJGMOrvtgC8cApqckX6",
+        "title": "Babydoll",
+        "artist": "Ely Oaks",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e024873d7ff006011ff49ea1dfd",
+        "url": "https://open.spotify.com/album/2dsJJGMOrvtgC8cApqckX6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1q7hK4CLI8zK1gEsRO3k9l",
+        "title": "Poze cu blitz",
+        "artist": "Mario , Lazy Ed",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271db9ab75c640fce167f1d89",
+        "url": "https://open.spotify.com/album/1q7hK4CLI8zK1gEsRO3k9l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1TwSxYxn8GIfnjkHAR0a8A",
+        "title": "Zomerliedjes voor de allerkleinsten",
+        "artist": "Juf Roos",
+        "type": "album",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6e7b0e79a59864cd4bd26d0",
+        "url": "https://open.spotify.com/album/1TwSxYxn8GIfnjkHAR0a8A",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "5vw0oyoUojZ3C1JOiSY5hU",
+        "title": "Crow",
+        "artist": "i-dle",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261704fc49debfb58bfb7e074",
+        "url": "https://open.spotify.com/album/5vw0oyoUojZ3C1JOiSY5hU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ILJCF5XPuEvugvewaCywK",
+        "title": "Jindua",
+        "artist": "Jasmine Sandlas, Gurlez Akhtar, Neeshitaa Kumar, Rabica Wadhawan",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d98d82f6e8b1e885e50ea73b",
+        "url": "https://open.spotify.com/album/5ILJCF5XPuEvugvewaCywK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0zuNbAUUR61imPQynorcMK",
+        "title": "Jaaniye",
+        "artist": "Amit Trivedi",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262679438db141faad45507ac",
+        "url": "https://open.spotify.com/album/0zuNbAUUR61imPQynorcMK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3R3xD4RUURRm2xjN2FbXPu",
+        "title": "Mere Yaar Shukriya",
+        "artist": "Kumar Sanu",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e029426ea11f8e75a590130b827",
+        "url": "https://open.spotify.com/album/3R3xD4RUURRm2xjN2FbXPu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5r3alQ2vYnM5eFJnlNkaaU",
+        "title": "Ⅱ - The 2nd Mini Album",
+        "artist": "RIIZE",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02458227e037c0bdb296f481d0",
+        "url": "https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "0B1LmPRKLVgcxo46C91T5b",
+        "title": "RO",
+        "artist": "Breizaas, Grøftefyll",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c48b13964b07ef5437fcd9d",
+        "url": "https://open.spotify.com/album/0B1LmPRKLVgcxo46C91T5b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4F1pl1xZ31XE8c7TybJGlj",
+        "title": "Mazsālīto gurķu laikā",
+        "artist": "Labvēlīgais Tips",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e029cb340aae8b7bd797892818d",
+        "url": "https://open.spotify.com/album/4F1pl1xZ31XE8c7TybJGlj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GwAktoIexG9plycdWbihE",
+        "title": "Do Quebrada Levou Pente",
+        "artist": "Yuri Redicopa, MC Luana SP, DJ Silvério, DJ Jotta7",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e023df6374af892fa466bfdd043",
+        "url": "https://open.spotify.com/album/0GwAktoIexG9plycdWbihE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0TpxEDqKbreYnMvluMJlnn",
+        "title": "Someone Like You / Alguien Como Tú",
+        "artist": "La Juntada De Los Artistas, Morena Guillen",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020812a99dd1bae0299d22f95b",
+        "url": "https://open.spotify.com/album/0TpxEDqKbreYnMvluMJlnn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6fHNyzeqC99FDZkcF2im43",
+        "title": "Cosas del Amor",
+        "artist": "La Juntada De Los Artistas, Aneley, Candu DomÍnguez",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8ebd197073db4d08bed01b9",
+        "url": "https://open.spotify.com/album/6fHNyzeqC99FDZkcF2im43",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zKifDi0ubnDl9IkIwKSaQ",
+        "title": "الشيطان شدني ع الحرب",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e024092e92c97a0e27d90aa1d27",
+        "url": "https://open.spotify.com/album/2zKifDi0ubnDl9IkIwKSaQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Zyu0E8j4sFTydsl7Mutg0",
+        "title": "Medley de Patricinha",
+        "artist": "Yuri Redicopa, dj dimba",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a62b964bdbc1c457b5649dc",
+        "url": "https://open.spotify.com/album/3Zyu0E8j4sFTydsl7Mutg0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hUT0aFyMPdjUHX8mUuaUA",
+        "title": "Bamse och mardrömmarnas ö (Del 3)",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02248d062cde85c29b463ab2b8",
+        "url": "https://open.spotify.com/album/6hUT0aFyMPdjUHX8mUuaUA",
+        "total_tracks": 2,
         "genres": []
       }
     ]
