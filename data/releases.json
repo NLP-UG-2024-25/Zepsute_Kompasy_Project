@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-15T12:13:14.931Z",
-  "total": 806,
+  "fetched_at": "2026-06-16T11:09:48.856Z",
+  "total": 825,
   "by_date": {
     "2026-05-15": [
       {
@@ -8631,6 +8631,17 @@
         "url": "https://open.spotify.com/album/68yUD4T3PrEQVvSa44PAoG",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5LA07Q360k7UKQZ0U5Kh7y",
+        "title": "Ca In Ani De Liceu",
+        "artist": "Leo de la Rosiori, Bogdan DLP",
+        "type": "single",
+        "release_date": "2026-06-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02498c290492fec27fd7dd0669",
+        "url": "https://open.spotify.com/album/5LA07Q360k7UKQZ0U5Kh7y",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-15": [
@@ -8918,6 +8929,206 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02248d062cde85c29b463ab2b8",
         "url": "https://open.spotify.com/album/6hUT0aFyMPdjUHX8mUuaUA",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1n3vxK8VjeQzGgC6hjDW1r",
+        "title": "GU3RR4",
+        "artist": "Santa Fe Klan, Zimple",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb9b5df9c3ad673df5e60ddd",
+        "url": "https://open.spotify.com/album/1n3vxK8VjeQzGgC6hjDW1r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RBZ747JYOFa9sJEat1e5U",
+        "title": "Búp Bê Không Tình Yêu 2026 (Mesdames Thanh Sắc Original Soundtrack)",
+        "artist": "Văn Mai Hương",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02079891327cd3180b333a44b0",
+        "url": "https://open.spotify.com/album/5RBZ747JYOFa9sJEat1e5U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yRpuHZBILhQLHsFmoIDSG",
+        "title": "MÍA",
+        "artist": "Callejero Fino, Martin Vegas",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02289e5602c1cba83b517c8a4a",
+        "url": "https://open.spotify.com/album/4yRpuHZBILhQLHsFmoIDSG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jfXmaAOhWn05BcUeWdgqc",
+        "title": "No Soy Tuyo (En Vivo En La Trastienda)",
+        "artist": "LA NUEVA ESCUELA",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020492d998b76fea2ca50b317c",
+        "url": "https://open.spotify.com/album/7jfXmaAOhWn05BcUeWdgqc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3P4vUalpTqo6xixUQ5eZTx",
+        "title": "ADHD POP",
+        "artist": "Ewa Farna",
+        "type": "album",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c46061b31876734c83391412",
+        "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx",
+        "total_tracks": 12,
+        "genres": []
+      }
+    ],
+    "2026-06-16": [
+      {
+        "id": "0q8QFBHYEDsi6BFMLqKg5Q",
+        "title": "Si Tu Supieras (Live Session)",
+        "artist": "Jey One, Mapa Negro",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cea09fa7c9e011c7adf56675",
+        "url": "https://open.spotify.com/album/0q8QFBHYEDsi6BFMLqKg5Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "70IMPBS1XurUjhRdpxGfYs",
+        "title": "Hua",
+        "artist": "Jubin Nautiyal, Rocky Khanna, Elnaaz Norouzi",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277612078505307f5d71c9313",
+        "url": "https://open.spotify.com/album/70IMPBS1XurUjhRdpxGfYs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6r6e6Fu2aGJLPIoqSRqRlm",
+        "title": "תמיד רציתי עוד",
+        "artist": "Noam Bettan",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277743c17c46c4591bc8a8527",
+        "url": "https://open.spotify.com/album/6r6e6Fu2aGJLPIoqSRqRlm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7An3JbrjIW4m0SwmLerotC",
+        "title": "Mumkin Nahi",
+        "artist": "Sameer Anjaan, Neil-Niraj, Kinjal Chatterjee",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7ab60eeb5f132f7c7b90431",
+        "url": "https://open.spotify.com/album/7An3JbrjIW4m0SwmLerotC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46Qw3bBG5xVH1qA0Wh3RKD",
+        "title": "Sufăr în tăcere",
+        "artist": "JO, EFRA",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216eb585b6ac42bcfd201a2e0",
+        "url": "https://open.spotify.com/album/46Qw3bBG5xVH1qA0Wh3RKD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ikgn9fnfbRY5mKkR6dmnw",
+        "title": "เดิมเดิม (Cloudy Version)",
+        "artist": "LANDOKMAI, Ref PURPEECH",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c0de3830f015332ed03ba72",
+        "url": "https://open.spotify.com/album/6ikgn9fnfbRY5mKkR6dmnw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7b8SR6CcVPZxuGH9PVgJgS",
+        "title": "SA TE PUP",
+        "artist": "Connect-R",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bc3851b48ae970c10a36a85",
+        "url": "https://open.spotify.com/album/7b8SR6CcVPZxuGH9PVgJgS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Yvn3WCzOTS4HCMB0RX0uY",
+        "title": "Best Of",
+        "artist": "Cheb Bilal",
+        "type": "compilation",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202c9e9d35c6329158fb37871",
+        "url": "https://open.spotify.com/album/2Yvn3WCzOTS4HCMB0RX0uY",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "0EyBnP609Y3Q3soh27EF1j",
+        "title": "Tomo Tanto",
+        "artist": "Fede Rojas",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237b2b3cb901ae1748201db69",
+        "url": "https://open.spotify.com/album/0EyBnP609Y3Q3soh27EF1j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3s37N2sxa8mfWuW2vQmW7B",
+        "title": "Vem Todo Dia",
+        "artist": "Dj Yuri Pedrada, MC LUUKY",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201e78403a55b7578aa23e127",
+        "url": "https://open.spotify.com/album/3s37N2sxa8mfWuW2vQmW7B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wb56EPuvmQrfINzUHoQ3R",
+        "title": "Hitmada do Coração",
+        "artist": "Dj Yuri Pedrada",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e023862219ab113d2046e279ff3",
+        "url": "https://open.spotify.com/album/4wb56EPuvmQrfINzUHoQ3R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Y9C3pu8wPO0r1k0Is3YxQ",
+        "title": "NATISKAM GI",
+        "artist": "Shunaka, BEZIM MAN",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f35d39b89aeb1338e8dc7e9e",
+        "url": "https://open.spotify.com/album/1Y9C3pu8wPO0r1k0Is3YxQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0pn2QwUOpEBC7KpdB3t10x",
+        "title": "Spóla til baka",
+        "artist": "Steinunn, Gnúsi Yones",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0247bf84ea5b30ff921d23083e",
+        "url": "https://open.spotify.com/album/0pn2QwUOpEBC7KpdB3t10x",
+        "total_tracks": 1,
         "genres": []
       }
     ]
