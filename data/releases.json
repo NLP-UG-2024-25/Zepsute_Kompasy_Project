@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-16T11:09:48.856Z",
-  "total": 825,
+  "fetched_at": "2026-06-17T10:55:03.476Z",
+  "total": 862,
   "by_date": {
     "2026-05-15": [
       {
@@ -8985,6 +8985,83 @@
         "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx",
         "total_tracks": 12,
         "genres": []
+      },
+      {
+        "id": "5nZN3UP92Da1waXJfal5Kx",
+        "title": "Mann Bebaak",
+        "artist": "Jaani",
+        "type": "album",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238657840a3c7d0a2d1f83e52",
+        "url": "https://open.spotify.com/album/5nZN3UP92Da1waXJfal5Kx",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "1k69npIx6gCZlRtBjcm8T9",
+        "title": "Bước chân",
+        "artist": "Ronboogz",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c67eaa9f92c5eafac00c0a5",
+        "url": "https://open.spotify.com/album/1k69npIx6gCZlRtBjcm8T9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "33UYIVcpkzfoLqKJdpArOE",
+        "title": "غلو مني",
+        "artist": "Hamo ElTikha",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2969b0477ae841da65ae084",
+        "url": "https://open.spotify.com/album/33UYIVcpkzfoLqKJdpArOE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1E1ziupaPWYS0pRgA0JD96",
+        "title": "Awal Muharram (1448 Hijrah)",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d2d69a3d4651a12ed4a4fd9",
+        "url": "https://open.spotify.com/album/1E1ziupaPWYS0pRgA0JD96",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23gP7jWEpn6Ne80ZrhId04",
+        "title": "Kaun Hai Woh (From \"Baby Do Die Do\")",
+        "artist": "Mohit Chauhan, Arjun Iyer, Christina Andrew, WB Sam",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288fd31f76ec67a21f67831e7",
+        "url": "https://open.spotify.com/album/23gP7jWEpn6Ne80ZrhId04",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2VACegT4ArsgY1sSXUzuYT",
+        "title": "WELCOME TO DA STREET",
+        "artist": "mbtmurda.secrets",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e2a9f1ab53539b93802133d",
+        "url": "https://open.spotify.com/album/2VACegT4ArsgY1sSXUzuYT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03H7a5kqbwoYOY1zVRhG5H",
+        "title": "Hero Ki Madhubala Lofi Version",
+        "artist": "Shilpi Raj, Sarvan Pal, R Jay King, Bhagirath Pathak",
+        "type": "single",
+        "release_date": "2026-06-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ea270cf075d9567bb29ca62",
+        "url": "https://open.spotify.com/album/03H7a5kqbwoYOY1zVRhG5H",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-16": [
@@ -9128,6 +9205,338 @@
         "release_date": "2026-06-16",
         "image": "https://i.scdn.co/image/ab67616d00001e0247bf84ea5b30ff921d23083e",
         "url": "https://open.spotify.com/album/0pn2QwUOpEBC7KpdB3t10x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ux9GCYq6TGhg4kIf1m3JK",
+        "title": "Gunde Pelipothondhe (From \"Srinivasa Mangapuram\")",
+        "artist": "G. V. Prakash, Anurag Kulkarni, Chandra Bose",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227da9d91ad84cbe865a436fb",
+        "url": "https://open.spotify.com/album/5ux9GCYq6TGhg4kIf1m3JK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5s5YGM4x8wMkcKnmOHARLP",
+        "title": "吻合 (《莫离》影视剧情感对唱曲)",
+        "artist": "张远, TIA RAY",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab7e80e69dac498f9e9b73e6",
+        "url": "https://open.spotify.com/album/5s5YGM4x8wMkcKnmOHARLP",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1d5zG7QYqdWp262xOTdTJr",
+        "title": "Baklem Nafsi (From \"Ezma\")",
+        "artist": "Bahaa Sultan",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1cc8336e4b72b50ec9ec725",
+        "url": "https://open.spotify.com/album/1d5zG7QYqdWp262xOTdTJr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3f1WXQYlW0gnNLRlI6GN2a",
+        "title": "Te Siento Aki",
+        "artist": "Jairo Vera",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027795a1fbcb9cefe7fb457331",
+        "url": "https://open.spotify.com/album/3f1WXQYlW0gnNLRlI6GN2a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RdwG4WQd1R7t6gABF6v2b",
+        "title": "القمر",
+        "artist": "Ramy Sabry",
+        "type": "album",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6fbaf720b2676d00e0b1f24",
+        "url": "https://open.spotify.com/album/5RdwG4WQd1R7t6gABF6v2b",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "7btLFsLlDA1Km7uLzRAo5t",
+        "title": "אישה אייקונית",
+        "artist": "Noa Kirel, אילנה קירל",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e022cecae9c9dbcaab3959407c7",
+        "url": "https://open.spotify.com/album/7btLFsLlDA1Km7uLzRAo5t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4sw6Qc6xB0OuGw619WCI8T",
+        "title": "Porquê Você Me Trata Assim",
+        "artist": "MC Cebezinho, Dj GM, Love Funk",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ca975ddc656f0fe4d538412",
+        "url": "https://open.spotify.com/album/4sw6Qc6xB0OuGw619WCI8T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0uoC8I98GRGOU2RMkuFWB3",
+        "title": "Piękna",
+        "artist": "Hellfield, CrackHouse",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0257d3a36ed018dd4bca2326d0",
+        "url": "https://open.spotify.com/album/0uoC8I98GRGOU2RMkuFWB3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uwFzddXfnGVtuRJlokDZc",
+        "title": "БОЕЦ",
+        "artist": "I.N.I., V:RGO",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b77795a86a51a9c3afd6d4f9",
+        "url": "https://open.spotify.com/album/1uwFzddXfnGVtuRJlokDZc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4WEFJofWaRuDPoEr9XgsMs",
+        "title": "Bluephones",
+        "artist": "TYK",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e025be627d2387a5641ffd0a27d",
+        "url": "https://open.spotify.com/album/4WEFJofWaRuDPoEr9XgsMs",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-17": [
+      {
+        "id": "6WHYJdxXL7sK9NDBLxOUMV",
+        "title": "I Don't Wanna Hurt You",
+        "artist": "Clean Bandit, Biig Piig",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f995236d303d64ddd636aaa",
+        "url": "https://open.spotify.com/album/6WHYJdxXL7sK9NDBLxOUMV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WSwORGQZ5DAvd1zJWwZ2J",
+        "title": "Burn Dem Down",
+        "artist": "Sean Paul, Brushy One String",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c212e02102303bae1d41def8",
+        "url": "https://open.spotify.com/album/1WSwORGQZ5DAvd1zJWwZ2J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1wnbX6p6c5t9ntWL37yaEH",
+        "title": "in the bedroom, i confess",
+        "artist": "Lil Peep, OmenXIII",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f924e4c318604c75e11fc838",
+        "url": "https://open.spotify.com/album/1wnbX6p6c5t9ntWL37yaEH",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2aCmEQz4kAmdqAjgjD3n71",
+        "title": "Barulho do Mar",
+        "artist": "MC Meno K, DJ Kaio Mix, BG",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc5975dfeb28819210a90ea0",
+        "url": "https://open.spotify.com/album/2aCmEQz4kAmdqAjgjD3n71",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XxRZuufy3Ego2CS0E7F23",
+        "title": "Тому що…",
+        "artist": "MONATIK",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02809322f8bfef4232f6f16cdc",
+        "url": "https://open.spotify.com/album/5XxRZuufy3Ego2CS0E7F23",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40EaHpmbDFclI52Hu3qvju",
+        "title": "Jai Ganesh Deva",
+        "artist": "Anuradha Paudwal",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227d7dbacda756083c2f22e68",
+        "url": "https://open.spotify.com/album/40EaHpmbDFclI52Hu3qvju",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1m5Svbw1IfiLxVw6XbXAlY",
+        "title": "有你 (电视剧《爱情有烟火》片尾曲)",
+        "artist": "刘宇宁",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227a47ffc72c95f3569b7eb0c",
+        "url": "https://open.spotify.com/album/1m5Svbw1IfiLxVw6XbXAlY",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4bjpKHTLJ2FtOlzrdXDL1d",
+        "title": "翼の折れたエンジェル",
+        "artist": "LANA",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256c6c4a2863ebd0a0691b5d0",
+        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6LOpZqEYrCqcT6XAZJ4p9r",
+        "title": "ซิงเกิลคอย",
+        "artist": "Tattoo Colour",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277e49ef12b5bbc3594ce6610",
+        "url": "https://open.spotify.com/album/6LOpZqEYrCqcT6XAZJ4p9r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6xUAAh7yDSojx8OSKwY7fq",
+        "title": "NAOMI",
+        "artist": "SIGMA",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268deeb4940a15439306409f9",
+        "url": "https://open.spotify.com/album/6xUAAh7yDSojx8OSKwY7fq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4F4V3PYlLjonA7eFabmGy3",
+        "title": "Karna Toh Pyaar Hai",
+        "artist": "Kunaal Vermaa, Aditya Dev",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02109d318de68f692e5481fb52",
+        "url": "https://open.spotify.com/album/4F4V3PYlLjonA7eFabmGy3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3g5DKfSGWe3Dgghs7xxiRS",
+        "title": "Acrílica",
+        "artist": "Corona, ¡Chin!",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e024fd9d90bea4a28a8c0bc3d0c",
+        "url": "https://open.spotify.com/album/3g5DKfSGWe3Dgghs7xxiRS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2rdDjYVq6xqcQlEy0T1RDz",
+        "title": "FA$HMILANO",
+        "artist": "RAVA",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ddd573c7d8d1d79cbe028ec",
+        "url": "https://open.spotify.com/album/2rdDjYVq6xqcQlEy0T1RDz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6IDIXMdjw75BzGWDVvv8Nk",
+        "title": "Fases e Fases",
+        "artist": "MC Vine7, MC Neguinho do Kaxeta, Prod Gloto",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea7adf0e5207ba5339225000",
+        "url": "https://open.spotify.com/album/6IDIXMdjw75BzGWDVvv8Nk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ZA2gbnzvyMiwJa12J22tZ",
+        "title": "الحياة وريتني الويل",
+        "artist": "Magdy El Zahar",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241ff1cf0eb07047505bfdc49",
+        "url": "https://open.spotify.com/album/3ZA2gbnzvyMiwJa12J22tZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0sL9enNcNga5zPvfzWagDV",
+        "title": "O Rehbara",
+        "artist": "Javed Ali",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f30191f08fe1e7320edd4ab",
+        "url": "https://open.spotify.com/album/0sL9enNcNga5zPvfzWagDV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EFYMCn5WY97clQSWWfcPY",
+        "title": "SAD SONGS MAKE US GROW",
+        "artist": "manutsawee",
+        "type": "album",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02165cb8c3bdc9e735f97be32d",
+        "url": "https://open.spotify.com/album/1EFYMCn5WY97clQSWWfcPY",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3yY3FrR5hlbeUxRBl5EUYn",
+        "title": "Loro Piana",
+        "artist": "Dizzy",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b15e136d0d2c90b63204fbc",
+        "url": "https://open.spotify.com/album/3yY3FrR5hlbeUxRBl5EUYn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5rQIWIqk459LIB02AEMnya",
+        "title": "PERLAI GINTARAI",
+        "artist": "Angelou",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bce504df86ddec5f590b37d",
+        "url": "https://open.spotify.com/album/5rQIWIqk459LIB02AEMnya",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4saUgq3ngr570Ejluzk5Re",
+        "title": "Rhythm",
+        "artist": "SIRA, Aymen, NiklasWilson",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02427bf4f3da80defbd98f12e5",
+        "url": "https://open.spotify.com/album/4saUgq3ngr570Ejluzk5Re",
         "total_tracks": 1,
         "genres": []
       }
