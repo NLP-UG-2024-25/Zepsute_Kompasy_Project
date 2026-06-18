@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-17T10:55:03.476Z",
-  "total": 862,
+  "fetched_at": "2026-06-18T10:20:15.950Z",
+  "total": 894,
   "by_date": {
     "2026-05-15": [
       {
@@ -9317,6 +9317,39 @@
         "url": "https://open.spotify.com/album/4WEFJofWaRuDPoEr9XgsMs",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6L4KkVP4sd6U7kUOWfZ1nz",
+        "title": "Vaama Vaama (From \"Idhayam Murali\")",
+        "artist": "Thaman S, Dhanush, Adesh Krishna",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1135666f4006e1b5bfac192",
+        "url": "https://open.spotify.com/album/6L4KkVP4sd6U7kUOWfZ1nz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7IuAxkQuqMM8D2234trvi8",
+        "title": "dư âm",
+        "artist": "Obito",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4216cc79d1e3e350aacfef1",
+        "url": "https://open.spotify.com/album/7IuAxkQuqMM8D2234trvi8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2nVGOCKnopOohtAQCgNpID",
+        "title": "Amores Como El Nuestro",
+        "artist": "DesaKTa2, Daniel Cardozo",
+        "type": "single",
+        "release_date": "2026-06-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250331ea6573e8f42f952a05a",
+        "url": "https://open.spotify.com/album/2nVGOCKnopOohtAQCgNpID",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-17": [
@@ -9537,6 +9570,327 @@
         "release_date": "2026-06-17",
         "image": "https://i.scdn.co/image/ab67616d00001e02427bf4f3da80defbd98f12e5",
         "url": "https://open.spotify.com/album/4saUgq3ngr570Ejluzk5Re",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3tGTkLleKObt5m9VJvGNOE",
+        "title": "EXTASIS",
+        "artist": "Kris R., Clarent",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c77238a70db12797decbd0c",
+        "url": "https://open.spotify.com/album/3tGTkLleKObt5m9VJvGNOE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5T9DEFeLiWDNvlY9saIoVh",
+        "title": "amoureux",
+        "artist": "Alleh",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bed3161d2cb88d1f959bd88f",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JdwrDTz88fZcX9RYa6agm",
+        "title": "MON PAYS",
+        "artist": "ElGrandeToto",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3636370cc01b99bc404c30a",
+        "url": "https://open.spotify.com/album/5JdwrDTz88fZcX9RYa6agm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "36e3pjcLAYabHjXlaSmWOe",
+        "title": "HVL",
+        "artist": "RPT MCK",
+        "type": "album",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02430659fa8179500bd2b5e55f",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "34XOGhUkQsqBYfgXigLVOX",
+        "title": "Always Remember Us This Way / Siempre Recordaré",
+        "artist": "La Juntada De Los Artistas, Sofi B",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c57fad45af3cd064e5564ec8",
+        "url": "https://open.spotify.com/album/34XOGhUkQsqBYfgXigLVOX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1kn0p9XZf9WMne0eOYzbWD",
+        "title": "Vinara Vinara (From \"Sing Geetham\")",
+        "artist": "Devi Sri Prasad, Sreemani, Sinduri Vishal",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee6cf4b5d072b79729604bc4",
+        "url": "https://open.spotify.com/album/1kn0p9XZf9WMne0eOYzbWD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2eE4epYxg7FWVwoDJ3gCXW",
+        "title": "Monsoon Love Vibe Telugu",
+        "artist": "Anirudh Ravichander, Sid Sriram, Anurag Kulkarni",
+        "type": "compilation",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f51dc14c77c1dc0ddc6d3275",
+        "url": "https://open.spotify.com/album/2eE4epYxg7FWVwoDJ3gCXW",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "23JkhPLDhYyd1ocCySts2z",
+        "title": "Coração",
+        "artist": "Zé Vaqueiro",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1b4a37a37b8e2c92918200d",
+        "url": "https://open.spotify.com/album/23JkhPLDhYyd1ocCySts2z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YjTAcdJgKLFWjwinBtll8",
+        "title": "trái tim băng bó",
+        "artist": "Dangrangto, DONAL",
+        "type": "album",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc438b13f12dd88deaf33f6c",
+        "url": "https://open.spotify.com/album/3YjTAcdJgKLFWjwinBtll8",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4UWz4OA122YMENL2wJzkmv",
+        "title": "Anita",
+        "artist": "Alonzo, SativaMusic",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02339c315671caf44e4ee9b7f3",
+        "url": "https://open.spotify.com/album/4UWz4OA122YMENL2wJzkmv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4L5tegjCajfCK99LLZ0Kk0",
+        "title": "หลุมอากาศ",
+        "artist": "Palmy",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02373f9a429a9567752b199cf7",
+        "url": "https://open.spotify.com/album/4L5tegjCajfCK99LLZ0Kk0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5M73G0Srl3XOJJhiPFTLUL",
+        "title": "Logo Eu",
+        "artist": "TrapLaudo, Mc IG, JV MC, Mc Neguinho PRT",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4e37e5effd3c86b6e60a309",
+        "url": "https://open.spotify.com/album/5M73G0Srl3XOJJhiPFTLUL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Uf0gPv2rHdAZvNwcDZIwu",
+        "title": "الغاوي ( صاحب صاحب يسندك )",
+        "artist": "Ameen Khattab",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a5f70b9982db96eb81b429c",
+        "url": "https://open.spotify.com/album/1Uf0gPv2rHdAZvNwcDZIwu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4tSyqZwSDCdPHw6J6ng7dk",
+        "title": "Visor & valser",
+        "artist": "My & Mats",
+        "type": "album",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c27f2df852dcf506d81c6c93",
+        "url": "https://open.spotify.com/album/4tSyqZwSDCdPHw6J6ng7dk",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "0u80osH3syYjCOgOKSozfo",
+        "title": "You found me there",
+        "artist": "Kingdom Static",
+        "type": "album",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d791bab311a21ca8faa63b1f",
+        "url": "https://open.spotify.com/album/0u80osH3syYjCOgOKSozfo",
+        "total_tracks": 12,
+        "genres": []
+      }
+    ],
+    "2026-06-18": [
+      {
+        "id": "0ySw4H4tB9uCdZuECPQ32a",
+        "title": "Dropshop",
+        "artist": "Millonario, W. Corona",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02158f468090e63e5ae2ae187f",
+        "url": "https://open.spotify.com/album/0ySw4H4tB9uCdZuECPQ32a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26BIQtVx5tvol3HlUuhT1h",
+        "title": "Repeat It",
+        "artist": "Martin Garrix, Ed Sheeran",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb78f514464d34fd1b316f65",
+        "url": "https://open.spotify.com/album/26BIQtVx5tvol3HlUuhT1h",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "45kudbR7PLOdQz52cgP8FW",
+        "title": "Meri Saansein",
+        "artist": "Aditya Rikhari, Ravator, Rauhan Malik",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255c0bf0a27fed4fb54abd092",
+        "url": "https://open.spotify.com/album/45kudbR7PLOdQz52cgP8FW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KX7d2uikox7FKeCWzglWP",
+        "title": "Paro no Tempo",
+        "artist": "Boladin 211, Dj GM, Oldilla",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffa362970f8fc40b4d767225",
+        "url": "https://open.spotify.com/album/3KX7d2uikox7FKeCWzglWP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1jczYThxJRakVmKngTTbOL",
+        "title": "לעולמים",
+        "artist": "Agam Buhbut",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd54fc28ed78d56659d8661c",
+        "url": "https://open.spotify.com/album/1jczYThxJRakVmKngTTbOL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5AeS8cen0YoPHt8XYKyRXv",
+        "title": "Я не бажаю іншої долі",
+        "artist": "Максим Бородін",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258447892da0725380ca3e691",
+        "url": "https://open.spotify.com/album/5AeS8cen0YoPHt8XYKyRXv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63VNoy9dKVnGa2BwCXhkfo",
+        "title": "שלמה והאנדלוסים",
+        "artist": "Shlomo Artzi, התזמורת האנדלוסית הישראלית אשדוד, Patrick Sebag",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bbbd1f3dc0cea918258df34",
+        "url": "https://open.spotify.com/album/63VNoy9dKVnGa2BwCXhkfo",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1aqyDDeDU5PPbQ6xAMd40l",
+        "title": "STONE BOY EUROPA",
+        "artist": "La Pantera",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9858fe23b97e3f557153fa3",
+        "url": "https://open.spotify.com/album/1aqyDDeDU5PPbQ6xAMd40l",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "07s90jw4aBLxNv8yd9A6tv",
+        "title": "Chwile przed tragedią",
+        "artist": "Majki, Diho",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02535fc206d13dee1409bd808c",
+        "url": "https://open.spotify.com/album/07s90jw4aBLxNv8yd9A6tv",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "3lUmcjgF3Ob46u0SvbSgkd",
+        "title": "Пасажир",
+        "artist": "Wellboy",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02641b42f6981f05a57ff0bd9b",
+        "url": "https://open.spotify.com/album/3lUmcjgF3Ob46u0SvbSgkd",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0zD2Bi8bvcxX4zjFWUY4nD",
+        "title": "Nova Coleção",
+        "artist": "MC GH do 7, DJ Guh Mix, Love Funk",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291b1d9da742592e775117c86",
+        "url": "https://open.spotify.com/album/0zD2Bi8bvcxX4zjFWUY4nD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1H0QeC1ZHgBLnIaYoB5BPh",
+        "title": "Później Ci opowiem",
+        "artist": "Dawid Kwiatkowski, Margaret",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023686b6e6c8a19f548caf9bec",
+        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "28imfLN3yMsHfbxw7y4Kw0",
+        "title": "Colinho da Mamãe",
+        "artist": "Lala Kids",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c601b12458f4cb783e673d0",
+        "url": "https://open.spotify.com/album/28imfLN3yMsHfbxw7y4Kw0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0i7H2nGLev4R2vl48qJCAx",
+        "title": "Vendaval de Cifra",
+        "artist": "DJ BOY, MC Vine7, Mc Dkziin, Brenninho VJ",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f39cac8937d353cadb12dc4",
+        "url": "https://open.spotify.com/album/0i7H2nGLev4R2vl48qJCAx",
         "total_tracks": 1,
         "genres": []
       }
