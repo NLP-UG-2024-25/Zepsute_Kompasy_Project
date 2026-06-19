@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-18T10:20:15.950Z",
-  "total": 894,
+  "fetched_at": "2026-06-19T10:25:21.047Z",
+  "total": 936,
   "by_date": {
     "2026-05-15": [
       {
@@ -9737,6 +9737,61 @@
         "url": "https://open.spotify.com/album/0u80osH3syYjCOgOKSozfo",
         "total_tracks": 12,
         "genres": []
+      },
+      {
+        "id": "6kU0DVO5W2QyjzAbyGmcac",
+        "title": "Million Dollar Minion",
+        "artist": "Yeat",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227629cf0bb216ecf1fe6a537",
+        "url": "https://open.spotify.com/album/6kU0DVO5W2QyjzAbyGmcac",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26yEEzWPImLq2nFDLCNiPl",
+        "title": "Maquinando (Remix)",
+        "artist": "Ezzy R, ACHEELE, KiK1 STW, PJ Prod",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e025322038312c7dd763993a77d",
+        "url": "https://open.spotify.com/album/26yEEzWPImLq2nFDLCNiPl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5830mF41OEgnX3twGqEzSL",
+        "title": "Bandhu 2.0 (From \"Cocktail 2\")",
+        "artist": "Pritam, Kavita Seth, Neeraj Shridhar, Irshad Kamil",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f636f602313d09930701de59",
+        "url": "https://open.spotify.com/album/5830mF41OEgnX3twGqEzSL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kHx8C8o4bXb24vXTJkqIa",
+        "title": "Intro",
+        "artist": "TURY",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3acd65e111338c4e160a5c6",
+        "url": "https://open.spotify.com/album/5kHx8C8o4bXb24vXTJkqIa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2wcMMKJdaCO1gi2Ikr3Oyk",
+        "title": "nútímaskáld",
+        "artist": "Geisha Cartel",
+        "type": "single",
+        "release_date": "2026-06-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213dd580789aff1fe11f75ead",
+        "url": "https://open.spotify.com/album/2wcMMKJdaCO1gi2Ikr3Oyk",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-18": [
@@ -9891,6 +9946,415 @@
         "release_date": "2026-06-18",
         "image": "https://i.scdn.co/image/ab67616d00001e025f39cac8937d353cadb12dc4",
         "url": "https://open.spotify.com/album/0i7H2nGLev4R2vl48qJCAx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Vqcd4I66u5K5w9lvHp3yl",
+        "title": "La Magia de Conectar",
+        "artist": "Eden Muñoz",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d67eb19372aef6879b31164c",
+        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1t1k43me4Kz9rgNSDMOUbu",
+        "title": "A La Niña Que Fui",
+        "artist": "Kany García",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd22e02d91f96954e6f72826",
+        "url": "https://open.spotify.com/album/1t1k43me4Kz9rgNSDMOUbu",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2RsIqN82XeW2B8C4CrgfPY",
+        "title": "ASOT 1282 - A State of Trance Episode 1282 [Including Live at ASOT 900 (Mexico City, Mexico) [Highlights]]",
+        "artist": "Armin van Buuren, Armin van Buuren ASOT Radio",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfd8e04146aa43a042c2daef",
+        "url": "https://open.spotify.com/album/2RsIqN82XeW2B8C4CrgfPY",
+        "total_tracks": 79,
+        "genres": []
+      },
+      {
+        "id": "4PoBGDfAuUZXpWBj1cc8Tz",
+        "title": "Puñaladas (Remix)",
+        "artist": "Lauta, Manuel Turizo, Reik, Amigo de Artistas",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c880f9fe07b1c32ec8577e6",
+        "url": "https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JE2ZcJ7u8wtoc1RCVkuhU",
+        "title": "Éxitos España",
+        "artist": "Rvfv",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e513539cda42cc2f9fb8132",
+        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "10OaDrrBULIuRBRk35NAcD",
+        "title": "Só Com Ela (Ao Vivo)",
+        "artist": "Murilo Huff, Matheus Fernandes",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295306348afb82ea2fe1d5aab",
+        "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Mt1cLyfFmHKPFevznGbwL",
+        "title": "THUG LIFE",
+        "artist": "Luciano, Jazeek",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02817ac39c5c5ba3726fe0ce8c",
+        "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1MdbSkPqc1AeqWJQBk3Weq",
+        "title": "WHITE GIRL WASTED",
+        "artist": "ANNA",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202175b6fb6e333973c7af750",
+        "url": "https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-19": [
+      {
+        "id": "5Wea9EBLVR2zPbVp4u0M1b",
+        "title": "Fire With Fire (Inspired by the Original Motion Picture K-POPS!)",
+        "artist": "LNGSHOT",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255e42ede83b63f8b0905b29b",
+        "url": "https://open.spotify.com/album/5Wea9EBLVR2zPbVp4u0M1b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6UsCYOZTl6MhypesFfPwZx",
+        "title": "Perreo Legendario: Rauw Alejandro Mix",
+        "artist": "Rauw Alejandro",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022ce5d7dae5da74be84bbaf29",
+        "url": "https://open.spotify.com/album/6UsCYOZTl6MhypesFfPwZx",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "1D43ezrQX3k6lqAoRVrghb",
+        "title": "BROWN (The Chocolate Edition)",
+        "artist": "Chris Brown",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a48f63b9bb814ecf8cecfe0",
+        "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb",
+        "total_tracks": 37,
+        "genres": []
+      },
+      {
+        "id": "6c4PIdR6KT9Sg95VV78u7c",
+        "title": "Izzo (H.O.V.A)",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a45b0b59d34b90c7cae50850",
+        "url": "https://open.spotify.com/album/6c4PIdR6KT9Sg95VV78u7c",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3A4Z6TOx34CdaqVVBpk8yk",
+        "title": "Écheme Otro Consejo",
+        "artist": "Banda MS de Sergio Lizárraga",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b05e1a3c2bef6e17f1b9ed0",
+        "url": "https://open.spotify.com/album/3A4Z6TOx34CdaqVVBpk8yk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4x1tV7nsxR9nY7qiiTh2hP",
+        "title": "FUNK REAL",
+        "artist": "h6itam, SamuelCG",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab9133d3001b3fabadc11d8c",
+        "url": "https://open.spotify.com/album/4x1tV7nsxR9nY7qiiTh2hP",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "411hbuzY43HR3rIHE9EDYy",
+        "title": "TIK TAK",
+        "artist": "Topic, SARRA",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de309a690a0551b33437a4f0",
+        "url": "https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jr4SV8Hl15UoN9WNchy85",
+        "title": "No Silence",
+        "artist": "Yk It’s Junaa",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aabed51fa30c1a1a09ae0928",
+        "url": "https://open.spotify.com/album/3jr4SV8Hl15UoN9WNchy85",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0y63Qrt20QcFwxq3M7B7SK",
+        "title": "Invisible",
+        "artist": "Jazzy, Chris Lorenzo",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022df8e689c7bc980054255123",
+        "url": "https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5pLDXKmvchaKPLdI93TAjH",
+        "title": "Lose Myself / I Wanna",
+        "artist": "The Bausa",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025afbeee897a7fef6cabb7da5",
+        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "27cdPx9msMd1V64HzU4DyF",
+        "title": "Dis-le",
+        "artist": "Angèle",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ec690ae09f194029ed6c0a8",
+        "url": "https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4qMgq0Xnm9zk1uKr6YMyRF",
+        "title": "Morenito",
+        "artist": "INNA",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290e6e0d0547e1e93393e288b",
+        "url": "https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1meZYCtadHPVjd8GYH6mTr",
+        "title": "maryclaire",
+        "artist": "fitterkarma",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266b65e8d7ef407fdb5e1b023",
+        "url": "https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2MEMOVHkSzfGLzxWD94rja",
+        "title": "Bala Alojada",
+        "artist": "Gusttavo Lima",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efa9a4332aede9dd8f6711e8",
+        "url": "https://open.spotify.com/album/2MEMOVHkSzfGLzxWD94rja",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4F1qUMDO9CsA5XtrQ3KyN6",
+        "title": "Loser.",
+        "artist": "Karencici",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02faf6e120d2096c1aa2e953bf",
+        "url": "https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0CUImtpOHdBn8lHAANx0Ri",
+        "title": "PRIME",
+        "artist": "MIA BOYKA",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b9fbec86ab2a2b8337022705",
+        "url": "https://open.spotify.com/album/0CUImtpOHdBn8lHAANx0Ri",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3J0Y3o3t8EmhEsAsPxrmDi",
+        "title": "догвилль",
+        "artist": "тёмный принц",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275457bff8c28ea788df6c336",
+        "url": "https://open.spotify.com/album/3J0Y3o3t8EmhEsAsPxrmDi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pt7TwPNlUOQXvYtVuYInd",
+        "title": "Rolex",
+        "artist": "Shanti Dope",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5cff00801665eac0dc754b3",
+        "url": "https://open.spotify.com/album/1pt7TwPNlUOQXvYtVuYInd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Gl6esVv8DbB3wTvwHNiMV",
+        "title": "На ручки",
+        "artist": "Ruki Vverh!",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5aa6be2bb5a57bc0d6e1b4c",
+        "url": "https://open.spotify.com/album/5Gl6esVv8DbB3wTvwHNiMV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2fZL1ciHb9EBHyK6HvJryB",
+        "title": "Qual Brisa Você Quer Ter",
+        "artist": "Aaron Modesto, MC Marcos IP, Murilo Azevedo, Vital",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f598b96301bc48db4c1e10f4",
+        "url": "https://open.spotify.com/album/2fZL1ciHb9EBHyK6HvJryB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5G7jaLCHvFunhAww5rc7m1",
+        "title": "coco-açaï",
+        "artist": "Willylancien",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee015f376b7008606b02e0db",
+        "url": "https://open.spotify.com/album/5G7jaLCHvFunhAww5rc7m1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6yvzDsYQpyLiorTkWO29PK",
+        "title": "Go That High",
+        "artist": "Ray Dalton",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbe3c4aadfeb9571e7f017af",
+        "url": "https://open.spotify.com/album/6yvzDsYQpyLiorTkWO29PK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "60XyzA8KmI3Kvf1MnqLpLc",
+        "title": "Под небом все равны",
+        "artist": "BEARWOLF",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bd6253ddfc0c13c446e5ea4",
+        "url": "https://open.spotify.com/album/60XyzA8KmI3Kvf1MnqLpLc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0N0Q0UUm3LhtEZJ1q6S3ne",
+        "title": "МЫ",
+        "artist": "IOWA",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e026daf194767f5fd51b027f401",
+        "url": "https://open.spotify.com/album/0N0Q0UUm3LhtEZJ1q6S3ne",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6gyqFHhJUKqqHJ78sMhqRl",
+        "title": "Unse Hi Unki Mulaqat Ho Gayee (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02630e052c4278a8474222c6ce",
+        "url": "https://open.spotify.com/album/6gyqFHhJUKqqHJ78sMhqRl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Qn42r5xPsrEE3YziVwiIR",
+        "title": "Heaven Knows",
+        "artist": "Sung Si Kyung, Raisa",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022dfff603134cba3af3a9a1c9",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24OZW0GFNy5cPWqZkB2kCI",
+        "title": "Ten In The Bed",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad51d03c4188e6706559d6f5",
+        "url": "https://open.spotify.com/album/24OZW0GFNy5cPWqZkB2kCI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5i6Mgwa6rscl4bljWyuriz",
+        "title": "Es pasaukšu tevi",
+        "artist": "Aleks",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee8bbca2eb2a79a449b95a34",
+        "url": "https://open.spotify.com/album/5i6Mgwa6rscl4bljWyuriz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4bdAkbWDEvAOvE88QLDnMC",
+        "title": "Белый шум",
+        "artist": "YUNO MISFIT",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bde7a8b698c7a29d21d258fb",
+        "url": "https://open.spotify.com/album/4bdAkbWDEvAOvE88QLDnMC",
         "total_tracks": 1,
         "genres": []
       }
