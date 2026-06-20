@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-19T10:25:21.047Z",
-  "total": 936,
+  "fetched_at": "2026-06-20T08:55:35.053Z",
+  "total": 965,
   "by_date": {
     "2026-05-15": [
       {
@@ -10036,6 +10036,138 @@
         "url": "https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6Q4c6DexERmNLUyDeTj738",
+        "title": "babylona blue",
+        "artist": "Danny Ocean",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5099474ab9e03b6add15712",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4nxTapaMQxlHQ0TSCYqR4x",
+        "title": "Bring Your Love (Honey Dijon Remixes)",
+        "artist": "Madonna, Sabrina Carpenter, Honey Dijon",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c30fef3593100f57c136db88",
+        "url": "https://open.spotify.com/album/4nxTapaMQxlHQ0TSCYqR4x",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5SRrJ19R5JyGcGHE3r8nnb",
+        "title": "EL PEOR HOMBRE DEL MUNDO",
+        "artist": "Blessd",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef1268a0337de25edb1f9b05",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4zhpoxfKqSFgybFx3WVmio",
+        "title": "LeoRD Live #2 (Lali Banks)",
+        "artist": "Leo RD, Lali Banks, h1ddenxx",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb3f1267e5bac5ea5d1c620f",
+        "url": "https://open.spotify.com/album/4zhpoxfKqSFgybFx3WVmio",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3nlnOHjbXkkcXnMVeO4Hs5",
+        "title": "LOS ANGELITOS",
+        "artist": "SAIKO",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a2c7b7def1fdc05901a1ef7",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "71e8QlEpgZ3P8waZd8gV3o",
+        "title": "MOLHO (Ao Vivo)",
+        "artist": "Grupo Menos É Mais",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a80ef79bd8c6e028d77a2759",
+        "url": "https://open.spotify.com/album/71e8QlEpgZ3P8waZd8gV3o",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "10Qj7xrG0OZvc68kzeWs76",
+        "title": "Nightu Nila (From \"Vekkai\")",
+        "artist": "G. V. Prakash, Gana Bala, Arivu",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e321e684e48be7aa581d8cb",
+        "url": "https://open.spotify.com/album/10Qj7xrG0OZvc68kzeWs76",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ojbs1pbmWrudu24ZleoKT",
+        "title": "Moça Pra Casar (Ao Vivo)",
+        "artist": "Diego & Victor Hugo",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef7843643ea875e074e3e98a",
+        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1sGfwSbCyp6TAftkkiBe1e",
+        "title": "REGULAR",
+        "artist": "Luis Brown, Dainero, Maestro Queliz",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d6641fe652974c5e7c399d1",
+        "url": "https://open.spotify.com/album/1sGfwSbCyp6TAftkkiBe1e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4zztlcHbgKe8nJxl3Aqtki",
+        "title": "I, Nobody Trailer Theme (From \"I, Nobody\")",
+        "artist": "Jakes Bejoy",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2ad9b8d07a8a483210cc678",
+        "url": "https://open.spotify.com/album/4zztlcHbgKe8nJxl3Aqtki",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3GxmRXn1t176ZpfDiqRTjl",
+        "title": "FARMANDO AURA",
+        "artist": "MC GP",
+        "type": "album",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6e1c082a1cf89301bd22bfa",
+        "url": "https://open.spotify.com/album/3GxmRXn1t176ZpfDiqRTjl",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5iLaaRlJtPaXTyqo75bKeC",
+        "title": "nieko kito",
+        "artist": "PARADOKSAS",
+        "type": "single",
+        "release_date": "2026-06-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e022684e15da787571852ab0924",
+        "url": "https://open.spotify.com/album/5iLaaRlJtPaXTyqo75bKeC",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-06-19": [
@@ -10356,6 +10488,195 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02bde7a8b698c7a29d21d258fb",
         "url": "https://open.spotify.com/album/4bdAkbWDEvAOvE88QLDnMC",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6UYh85lNTBAP4nsfBqDYUB",
+        "title": "THE TRUTH WILL SET YOU FREE",
+        "artist": "Forrest Frank",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c279348e3747dcf9a84b95c",
+        "url": "https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "10WohOlr0d5Po1zUO59ZHO",
+        "title": "Cumbia Del Sol (2026)",
+        "artist": "Los Caminantes",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02833d12fb391d2b79cc82fb08",
+        "url": "https://open.spotify.com/album/10WohOlr0d5Po1zUO59ZHO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08u2urMBBJIz9kMwAl08yI",
+        "title": "My Mess, My Heart, My Life.",
+        "artist": "Myles Smith",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f308abc74180f2e0e66508a",
+        "url": "https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "5DxwSbjWmLXV6JFPWHjSSY",
+        "title": "La Güera",
+        "artist": "Edgardo Nuñez",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c97ec4ff39430e437c832631",
+        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7npasspM0YDNB2G0lcpenM",
+        "title": "Mi Problema",
+        "artist": "La Adictiva, Marisela",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271240c697f3e8240507150af",
+        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xoJSwOnhtWJNqgjTaASHV",
+        "title": "LOST IN CHAMPAGNE",
+        "artist": "Palm Monkey, Adrian Fyrla, DALEXO, Amè",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284558d18affdacdb983d5998",
+        "url": "https://open.spotify.com/album/2xoJSwOnhtWJNqgjTaASHV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2v5FoJV0cCNCaAA2fHqKb0",
+        "title": "Pra todas",
+        "artist": "Trinix, Mariana Nolasco",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2b6f28af54fbd65a290d326",
+        "url": "https://open.spotify.com/album/2v5FoJV0cCNCaAA2fHqKb0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nmcqijhSZQvN2L8AwCAtb",
+        "title": "QEHER (From \"Dhamaal 4\")",
+        "artist": "Guru Randhawa, Gill Machhrai, Rony Ajnali, Sanjoy",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241e85baf07a090a0df45aec8",
+        "url": "https://open.spotify.com/album/1nmcqijhSZQvN2L8AwCAtb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6k7nuWjzJRXCxolrOr56C0",
+        "title": "ÁNH SÁNG • MÀN ĐÊM",
+        "artist": "GREY D",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02232febcafd911a1addb774ae",
+        "url": "https://open.spotify.com/album/6k7nuWjzJRXCxolrOr56C0",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "48KYYLfFQJ9hkV1sBYalrr",
+        "title": "BAAB (Original Soundtrack)",
+        "artist": "A.R. Rahman",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3fa1419c952e9947275bcc4",
+        "url": "https://open.spotify.com/album/48KYYLfFQJ9hkV1sBYalrr",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0DZyW45pHRMGtdpVBjxJ8E",
+        "title": "Clover Rain",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024602bb0229a1767da23157ef",
+        "url": "https://open.spotify.com/album/0DZyW45pHRMGtdpVBjxJ8E",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7rSOrleaHRSd6OwpIRkxBE",
+        "title": "Тот самый",
+        "artist": "Вектор А",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02853dd1fd7415bd2fa88c11c0",
+        "url": "https://open.spotify.com/album/7rSOrleaHRSd6OwpIRkxBE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2XyzhJCDiwBgBHowfSraNo",
+        "title": "Ambition",
+        "artist": "FTR$",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fea77a126b6586d138373be8",
+        "url": "https://open.spotify.com/album/2XyzhJCDiwBgBHowfSraNo",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1hEWVg9G9DykSJVjdYsRlO",
+        "title": "RAXGADA",
+        "artist": "AnthProd",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec68dc48cdde010db6e2dd81",
+        "url": "https://open.spotify.com/album/1hEWVg9G9DykSJVjdYsRlO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oHAQpvkdZiTU50Oc35Gzn",
+        "title": "lai kur es arī būtu",
+        "artist": "Zieds'",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b09445e5da2711d62af22239",
+        "url": "https://open.spotify.com/album/1oHAQpvkdZiTU50Oc35Gzn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7gsaOfRFgMLPVR9yqrdA8F",
+        "title": "Plasma Skotino",
+        "artist": "Julio Kompoloi, Φρειδερίκη Τομπάζου",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02920d3be5151d36053abb9e8d",
+        "url": "https://open.spotify.com/album/7gsaOfRFgMLPVR9yqrdA8F",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-20": [
+      {
+        "id": "5DgwWvOTsT4KzL6SOnzahr",
+        "title": "The Perfumed Moments",
+        "artist": "Satinder Sartaaj",
+        "type": "album",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e42e74fd822ef03024c99e9",
+        "url": "https://open.spotify.com/album/5DgwWvOTsT4KzL6SOnzahr",
+        "total_tracks": 7,
         "genres": []
       }
     ]
