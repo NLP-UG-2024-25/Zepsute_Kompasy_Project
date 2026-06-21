@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-20T08:55:35.053Z",
-  "total": 965,
+  "fetched_at": "2026-06-21T09:49:49.926Z",
+  "total": 1015,
   "by_date": {
     "2026-05-15": [
       {
@@ -10665,6 +10665,380 @@
         "url": "https://open.spotify.com/album/7gsaOfRFgMLPVR9yqrdA8F",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5m0xICGACCzl3qPTbG9nuO",
+        "title": "In My Own Words (Deluxe Edition)",
+        "artist": "Ne-Yo",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cc0a29921974670307e8202",
+        "url": "https://open.spotify.com/album/5m0xICGACCzl3qPTbG9nuO",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "6PDxoLZ5nk5xzfCspnucrR",
+        "title": "Josh High Game On - Bollywood Energy",
+        "artist": "Shashwat Sachdev, DIVINE, Ranveer Singh, Raftaar",
+        "type": "compilation",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5685b0480641861c413dbda",
+        "url": "https://open.spotify.com/album/6PDxoLZ5nk5xzfCspnucrR",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "5cZJLImLN940LL0E9CZW79",
+        "title": "Jag Se Laaj (From “Cocktail 2”)",
+        "artist": "Pritam, Amitabh Bhattacharya, Shilpa Rao, Aarvan",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff2002f6098b4ed05918b8ff",
+        "url": "https://open.spotify.com/album/5cZJLImLN940LL0E9CZW79",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6X2IEDUBAssbCb3CGHDWht",
+        "title": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+        "artist": "Sai Abhyankkar, Dhanush",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e029faaa65d42160659381b613e",
+        "url": "https://open.spotify.com/album/6X2IEDUBAssbCb3CGHDWht",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ypqwhZvqE2YCx2NAiqVUl",
+        "title": "Váy Cưới",
+        "artist": "ERIK, Kai Đinh",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221279b8d544ac742ccb90d17",
+        "url": "https://open.spotify.com/album/7ypqwhZvqE2YCx2NAiqVUl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4jJ82tcCVJGMfQhOgwwpIs",
+        "title": "Ngày Rời Chuyến Bay ( CM1X Remix )",
+        "artist": "Minh Huy, Pinny, CM1X",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e98fb427e25723852afcbd3f",
+        "url": "https://open.spotify.com/album/4jJ82tcCVJGMfQhOgwwpIs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5q0rcyT3gqD9lU4cfcNLnX",
+        "title": "VAR",
+        "artist": "Afroto, Wezza Montaser",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207e591952cf76d8fbe7969a1",
+        "url": "https://open.spotify.com/album/5q0rcyT3gqD9lU4cfcNLnX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "69qHrk2JuWZLBCLvHI1JEt",
+        "title": "Công Tử Văn Thơ",
+        "artist": "MONO, Emcee Dan",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023dddcd7a1f5d6125a5f7ff1f",
+        "url": "https://open.spotify.com/album/69qHrk2JuWZLBCLvHI1JEt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0W66hHCN1cRJitO1dHEbUQ",
+        "title": "Pau Pra Toda Obra",
+        "artist": "Mc Jacaré, MC Ryan SP, Mc Lele JP, Mc IG",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9db047389c1d9b0221f2ad0",
+        "url": "https://open.spotify.com/album/0W66hHCN1cRJitO1dHEbUQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4up1wuiRjQtMpk94Q5RgHJ",
+        "title": "Nhớ Nhung (Acoustic Version)",
+        "artist": "Andiez",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236072ed497491470a8049e4c",
+        "url": "https://open.spotify.com/album/4up1wuiRjQtMpk94Q5RgHJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Jde4gre837syAeLxwAnm0",
+        "title": "CHOROK : MIXTAPE",
+        "artist": "ZENE THE ZILLA",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261baabb61c9d2dba1d9974a0",
+        "url": "https://open.spotify.com/album/6Jde4gre837syAeLxwAnm0",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "6ud0hJLlW9Xq9ttFst64xX",
+        "title": "Dicionário Da Quebrada",
+        "artist": "Mc Kevin",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275ee744a70f904d99a5ba44c",
+        "url": "https://open.spotify.com/album/6ud0hJLlW9Xq9ttFst64xX",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "0i2ehFiae0MX9XMbe0nEbO",
+        "title": "Ağlama",
+        "artist": "İbrahim Tatlıses",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d05ed06219e06227d3867fc",
+        "url": "https://open.spotify.com/album/0i2ehFiae0MX9XMbe0nEbO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6zdCUkPLjFGFYBIHlli9qH",
+        "title": "Тактика",
+        "artist": "Galin, Fiki",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b418a3079d82af0e5c2499e3",
+        "url": "https://open.spotify.com/album/6zdCUkPLjFGFYBIHlli9qH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4be2a2crCgJ5Fv48EVxVip",
+        "title": "Lạc Vào Nơi Em",
+        "artist": "Duongg",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4397a59534efabc29ca2467",
+        "url": "https://open.spotify.com/album/4be2a2crCgJ5Fv48EVxVip",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7x6zgjtKbb6aLtgE1g63gO",
+        "title": "Sa Fie Veselie",
+        "artist": "Vali Vijelie",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d85f7834c1cf6cb296a7b0fb",
+        "url": "https://open.spotify.com/album/7x6zgjtKbb6aLtgE1g63gO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Jx52ZqogMwDArFxoydo16",
+        "title": "Munene",
+        "artist": "Lilmaina",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0a3506b9f7a4cce0a5a73a0",
+        "url": "https://open.spotify.com/album/3Jx52ZqogMwDArFxoydo16",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qMwexQYXwF0xRn9Nodk4z",
+        "title": "Unlocked",
+        "artist": "Popcaan, Joel Engineer",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223f5332963360c1571036b68",
+        "url": "https://open.spotify.com/album/0qMwexQYXwF0xRn9Nodk4z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5TmitQ9GywFdPfVp2erbJM",
+        "title": "يكفينا شر الغيره والنفسنه ( انا معتبش الندل انا بختصر )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206413d35bf823c97d9323d7a",
+        "url": "https://open.spotify.com/album/5TmitQ9GywFdPfVp2erbJM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Q2qTEisLPB0PUSUX20xwF",
+        "title": "Prendio",
+        "artist": "Juanjo Morgade, ONE PLAY",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212dbfaae4df38c6eabf5ff62",
+        "url": "https://open.spotify.com/album/5Q2qTEisLPB0PUSUX20xwF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4B6OHmPuOmfAl98OMh57Aw",
+        "title": "البت الاوزي",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223e93a5f609f6b8d8bccdda1",
+        "url": "https://open.spotify.com/album/4B6OHmPuOmfAl98OMh57Aw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hwIPgr2dJLoAa7smPsbE4",
+        "title": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
+        "artist": "G. V. Prakash, Sublahshini, Arunraja Kamaraj",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02711f89a98be6dfa5a096878a",
+        "url": "https://open.spotify.com/album/4hwIPgr2dJLoAa7smPsbE4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3oNBq6rB3OahG8xxdarEXE",
+        "title": "Neno Butterfly (From \"Vishwanath & Sons\")",
+        "artist": "G. V. Prakash, Sublahshini, Saraswati Putra Ramajogayya Sastry",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a99dd0c72050f924156c35a",
+        "url": "https://open.spotify.com/album/3oNBq6rB3OahG8xxdarEXE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DsqbYhdPsIdkIk8hKO64F",
+        "title": "BELEÚSZOK",
+        "artist": "VALMAR",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208d2395b8c84a56b71f21795",
+        "url": "https://open.spotify.com/album/2DsqbYhdPsIdkIk8hKO64F",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4UNo37qKhe0WxsDRvtd3RB",
+        "title": "K4L",
+        "artist": "DJAANY",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249a6432205a125ce0b2153d3",
+        "url": "https://open.spotify.com/album/4UNo37qKhe0WxsDRvtd3RB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "70z1qqhQuTlRabTBaF9uMk",
+        "title": "La Noche Sin Ti",
+        "artist": "La Bocha 12, ONE PLAY",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b8bfed734a0b80998516bf2",
+        "url": "https://open.spotify.com/album/70z1qqhQuTlRabTBaF9uMk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5iG6p8vTJzRIvMkHjxfdN6",
+        "title": "Debi Regalarte Flores",
+        "artist": "Soy tu Sol",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e029db1ad0d049f163b6be34eb2",
+        "url": "https://open.spotify.com/album/5iG6p8vTJzRIvMkHjxfdN6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1I7zRLB2G2dQYtcTf1Ehxx",
+        "title": "هلوسة هلس مستهلس ( صاحبك انت فى الخناقة يجرى )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021bbf43f3d15d3cfa910f2565",
+        "url": "https://open.spotify.com/album/1I7zRLB2G2dQYtcTf1Ehxx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0r4gpfGzQkmsDFC2rTx6J4",
+        "title": "ELA DA SA BiiSH",
+        "artist": "Kotenceto",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a1ec146ece730dbd5f3b72f",
+        "url": "https://open.spotify.com/album/0r4gpfGzQkmsDFC2rTx6J4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17CU0Zel8Nj4uO0uGoYm1G",
+        "title": "Arrocha Rave Pirui Tik Tok",
+        "artist": "Taanga Producciones",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281a356b314809a76507927ec",
+        "url": "https://open.spotify.com/album/17CU0Zel8Nj4uO0uGoYm1G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45Gxo9TUsE59IUBs4YFosd",
+        "title": "Ümera jõel",
+        "artist": "Margus Põldsepp",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df46940707723439bcbd80d0",
+        "url": "https://open.spotify.com/album/45Gxo9TUsE59IUBs4YFosd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5jLIm5zQW2aQHhILRkDLHZ",
+        "title": "KOCKATA - BURKANI V MAHALATA",
+        "artist": "h.demirev",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020dd4bb2ddc408f0ab38d4d1c",
+        "url": "https://open.spotify.com/album/5jLIm5zQW2aQHhILRkDLHZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4eutWCLxxXdVgRjFAHenJQ",
+        "title": "Kockata ft.Shmekera - Debeli Bilki",
+        "artist": "h.demirev",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d9938fd6f3a0ddf0e9ce061",
+        "url": "https://open.spotify.com/album/4eutWCLxxXdVgRjFAHenJQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cznpIj3DMHY7LT4vUzPOi",
+        "title": "KOCKATA - LEPKAVATA STOKA",
+        "artist": "h.demirev",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9ddbe1cf11fc7294c1e1a4e",
+        "url": "https://open.spotify.com/album/7cznpIj3DMHY7LT4vUzPOi",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-20": [
@@ -10677,6 +11051,184 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022e42e74fd822ef03024c99e9",
         "url": "https://open.spotify.com/album/5DgwWvOTsT4KzL6SOnzahr",
         "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2uPJ5yPyQs0A2STGY1PWoG",
+        "title": "World Music Day 2026",
+        "artist": "Arijit Singh, Sachin-Jigar, Pritam",
+        "type": "compilation",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025055e14b57b6eedb52f26b29",
+        "url": "https://open.spotify.com/album/2uPJ5yPyQs0A2STGY1PWoG",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "0m1W4wAklw5Y6nmPd2aA7e",
+        "title": "A Million And One Questions",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0228faf38e762fde6c47b17a39",
+        "url": "https://open.spotify.com/album/0m1W4wAklw5Y6nmPd2aA7e",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5D3A7Yi8WwpfIwkJIgFu1B",
+        "title": "Déjame Intentar (Sinfónico)",
+        "artist": "Lucas Sugo",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264313cc327776f1c5ce10e2d",
+        "url": "https://open.spotify.com/album/5D3A7Yi8WwpfIwkJIgFu1B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2q6yl1IbJnapIOHNKWd5C8",
+        "title": "El Toro Barroso (En Vivo)",
+        "artist": "La Bella Luz",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c59e9755beac292721efc29",
+        "url": "https://open.spotify.com/album/2q6yl1IbJnapIOHNKWd5C8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2XgbCbMs7jbfAcMn3dnHMC",
+        "title": "Sangre Charrua",
+        "artist": "LA NUEVA ESCUELA",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce6445f0357a0228250a8611",
+        "url": "https://open.spotify.com/album/2XgbCbMs7jbfAcMn3dnHMC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3nEype4GFQTlE71bEZDBcX",
+        "title": "Main Vohe",
+        "artist": "Masoom Sharma, Amar Karnawal",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027dd653b90b8f89fe4d0fb76a",
+        "url": "https://open.spotify.com/album/3nEype4GFQTlE71bEZDBcX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7qeCpMLFIGZZQfB8OYd60N",
+        "title": "أنا جيت (مرحب بكل كلاب السيط يا حديد عمار تاني مقضيها تجديد )",
+        "artist": "Magdy El Zahar",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02945429559087f9267cb08016",
+        "url": "https://open.spotify.com/album/7qeCpMLFIGZZQfB8OYd60N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4W8FglMTlnjbA8NDcydpN2",
+        "title": "GMC",
+        "artist": "王赫野",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca0202c022f2917c5f2932a9",
+        "url": "https://open.spotify.com/album/4W8FglMTlnjbA8NDcydpN2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5fCdOur3GA2r2bYJauos6Q",
+        "title": "Starlight:Intro",
+        "artist": "王赫野",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021cc887b40dd3ff9f4a9596d9",
+        "url": "https://open.spotify.com/album/5fCdOur3GA2r2bYJauos6Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1mKhrcjJu1VUdiIgT76w6M",
+        "title": "MARBELLA",
+        "artist": "Young Leosia, Amar, CrackHouse",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02defd005b1b86c1f63db026ce",
+        "url": "https://open.spotify.com/album/1mKhrcjJu1VUdiIgT76w6M",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-21": [
+      {
+        "id": "5lqx0JiTIWW0SOIrPp6paL",
+        "title": "RocknRolla",
+        "artist": "Devito",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d7f04ecc6a41c2eb5483a4b",
+        "url": "https://open.spotify.com/album/5lqx0JiTIWW0SOIrPp6paL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5681nFmaVbRtrj66f7xnbS",
+        "title": "LIGA BESAR",
+        "artist": "Tenxi",
+        "type": "album",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02497ac7b8745aa0afba77d166",
+        "url": "https://open.spotify.com/album/5681nFmaVbRtrj66f7xnbS",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "5kXuSAnDUxtSUHUEKrcV9d",
+        "title": "HW MUSIC",
+        "artist": "YANGHONGWON, HW MUSIC",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029213f8932ee9aa3558624eca",
+        "url": "https://open.spotify.com/album/5kXuSAnDUxtSUHUEKrcV9d",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6f7yZIoetcRFK05PYB8wDx",
+        "title": "โดนจัง(ห)วะ | Your Swipe, your vibe",
+        "artist": "D Gerrard",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea2fca97e94858b515f5da14",
+        "url": "https://open.spotify.com/album/6f7yZIoetcRFK05PYB8wDx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5bwyuTvgGB9ZBZPziFhony",
+        "title": "Lagoon",
+        "artist": "Fatimk",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020706c175173476c2b4fd76a5",
+        "url": "https://open.spotify.com/album/5bwyuTvgGB9ZBZPziFhony",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2cXw51xQqc4N8QOerlvrMF",
+        "title": "Dance",
+        "artist": "Fatimk",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d06276194fabb379709370d",
+        "url": "https://open.spotify.com/album/2cXw51xQqc4N8QOerlvrMF",
+        "total_tracks": 1,
         "genres": []
       }
     ]
