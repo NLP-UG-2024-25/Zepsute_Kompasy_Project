@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-21T09:49:49.926Z",
-  "total": 1015,
+  "fetched_at": "2026-06-22T11:53:32.971Z",
+  "total": 1062,
   "by_date": {
     "2026-05-15": [
       {
@@ -8286,6 +8286,50 @@
         "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM",
         "total_tracks": 22,
         "genres": []
+      },
+      {
+        "id": "1BE3z8NRxfAV8ASyXoJmbe",
+        "title": "The Night Champion",
+        "artist": "Koe Wetzel",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270621fae4a645249fd66cba7",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "5otlnw7SmrdBwk2Uywc7Bu",
+        "title": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
+        "artist": "blink-182",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef0913425a16003ec100454f",
+        "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "2Jue67msVNiM6BK6hnJG44",
+        "title": "A LITTLE VENGEANCE",
+        "artist": "Jessie Reyez",
+        "type": "album",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241b97df766ba2b32c007ec7c",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "0fFdJJRfSRvm1LyLB5jomf",
+        "title": "Horseback",
+        "artist": "Cody Johnson",
+        "type": "single",
+        "release_date": "2026-06-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4410a07da37d97ccd423ab9",
+        "url": "https://open.spotify.com/album/0fFdJJRfSRvm1LyLB5jomf",
+        "total_tracks": 5,
+        "genres": []
       }
     ],
     "2026-06-13": [
@@ -11039,6 +11083,17 @@
         "url": "https://open.spotify.com/album/7cznpIj3DMHY7LT4vUzPOi",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3hwveWhYFxGDLy6K6xlwFh",
+        "title": "BULLY - DELUXE",
+        "artist": "Kanye West, Ye",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5b4082a6636bb067532b484",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh",
+        "total_tracks": 20,
+        "genres": []
       }
     ],
     "2026-06-20": [
@@ -11162,6 +11217,83 @@
         "url": "https://open.spotify.com/album/1mKhrcjJu1VUdiIgT76w6M",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3C5xWCqnBKYDdwrDqoyfll",
+        "title": "Vikram Maalik Theme (From \"The Paradise\") (Tamil)",
+        "artist": "Anirudh Ravichander",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e020458ba61533cfdcde89a1ce2",
+        "url": "https://open.spotify.com/album/3C5xWCqnBKYDdwrDqoyfll",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2pBC1jHZnXUblyplwuAF3D",
+        "title": "Vikram Maalik Theme (From \"The Paradise\") (Telugu)",
+        "artist": "Anirudh Ravichander",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021429c5ccb538fe5b798b0041",
+        "url": "https://open.spotify.com/album/2pBC1jHZnXUblyplwuAF3D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3xQB3qf70PkRj8N765zFaN",
+        "title": "Vikram Maalik Theme (From \"The Paradise\") (Hindi)",
+        "artist": "Anirudh Ravichander",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be1f9371730217c9226d468a",
+        "url": "https://open.spotify.com/album/3xQB3qf70PkRj8N765zFaN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kQ1DNpnyRownQChxc94GE",
+        "title": "face2face (feat. Ronisia)",
+        "artist": "Josman, Ronisia",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217d862aa12784904e9574fda",
+        "url": "https://open.spotify.com/album/5kQ1DNpnyRownQChxc94GE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FSleY1sYjGvGc0L458iGe",
+        "title": "Gujiya Mangela",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b724ad80ffca4fe40f0213f",
+        "url": "https://open.spotify.com/album/3FSleY1sYjGvGc0L458iGe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "53PjOvXOB58L0gr8qWUKI8",
+        "title": "Quieren Maleanteo",
+        "artist": "Piero 47, ZARAMAY",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d956961a8d8498b79fc41b5d",
+        "url": "https://open.spotify.com/album/53PjOvXOB58L0gr8qWUKI8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0LTgxcRx0fu0dEEQwoUsRs",
+        "title": "Sequência de Macetão",
+        "artist": "MC Nito, mc pl alves, DJ Vitinho Acerola, PP Hits",
+        "type": "single",
+        "release_date": "2026-06-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c00431ea1b738e795bf41b7",
+        "url": "https://open.spotify.com/album/0LTgxcRx0fu0dEEQwoUsRs",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-21": [
@@ -11228,6 +11360,395 @@
         "release_date": "2026-06-21",
         "image": "https://i.scdn.co/image/ab67616d00001e027d06276194fabb379709370d",
         "url": "https://open.spotify.com/album/2cXw51xQqc4N8QOerlvrMF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1rZSdzE0wu2DO1rmbmw6gv",
+        "title": "我在意",
+        "artist": "Alan Tam",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237e6f1ea6b1f587a2d70570e",
+        "url": "https://open.spotify.com/album/1rZSdzE0wu2DO1rmbmw6gv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63UOieIx7N8iBKeYHdFXlI",
+        "title": "من منطقة زى شيكاغو قلق",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb3c6e142246b88eb44033cd",
+        "url": "https://open.spotify.com/album/63UOieIx7N8iBKeYHdFXlI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3nvbgs3BRvNiAkZFilQA7k",
+        "title": "¿Y Si Lo Hacemos Cuarteto?: Versión Cumbia",
+        "artist": "DesaKTa2",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2622d46ac47cb4261c51e76",
+        "url": "https://open.spotify.com/album/3nvbgs3BRvNiAkZFilQA7k",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7DT4GzHvbdkdgBdhKr8V2r",
+        "title": "Toy Rulay",
+        "artist": "Megadivo Produce, wiwi23",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240938ccb401c011283e91d92",
+        "url": "https://open.spotify.com/album/7DT4GzHvbdkdgBdhKr8V2r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ZZrFmtfUq8Vd0QTgmcFMk",
+        "title": "Бела Жига",
+        "artist": "Upsurt",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02307867097ffda2804dd7cc87",
+        "url": "https://open.spotify.com/album/3ZZrFmtfUq8Vd0QTgmcFMk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34qNy8SMlWsnZAhu0X0hIf",
+        "title": "Този Танц",
+        "artist": "Upsurt",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023359f0e2e78cfdbee325d28a",
+        "url": "https://open.spotify.com/album/34qNy8SMlWsnZAhu0X0hIf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0f2KPRdSVqm9cPCHB7EXf5",
+        "title": "Ослушай се",
+        "artist": "Upsurt",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf68e5ffd109b0f98df61ca6",
+        "url": "https://open.spotify.com/album/0f2KPRdSVqm9cPCHB7EXf5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1eYuQi8TrcuduXer8k77eL",
+        "title": "Bamse och mardrömmarnas ö (Del 9)",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0272dafb34eb274333ab3adf3c",
+        "url": "https://open.spotify.com/album/1eYuQi8TrcuduXer8k77eL",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4OMBxFEkBo4MHCTTRP90Jf",
+        "title": "Low Fade",
+        "artist": "Karan Aujla, Mxrci",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027be686dc1febf2f2957c1fce",
+        "url": "https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "491Rkph9I1oXg80W4J08UZ",
+        "title": "Iam Legend",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e010a59fa69c30fa9486195",
+        "url": "https://open.spotify.com/album/491Rkph9I1oXg80W4J08UZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0svxsQtJD8tDXgyzlX0xBA",
+        "title": "Don Giovanni, Commendatore Scene, K 527",
+        "artist": "Wolfgang Amadeus Mozart, Irmi Wolvin",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b9a8583c93e91d76372241c",
+        "url": "https://open.spotify.com/album/0svxsQtJD8tDXgyzlX0xBA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yZx7ctSrOELzhTB6AnGd0",
+        "title": "Dentro do Chevete Escuro",
+        "artist": "Mc Gw, Square DNVO",
+        "type": "single",
+        "release_date": "2026-06-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022954ac46d6db602b2732b200",
+        "url": "https://open.spotify.com/album/4yZx7ctSrOELzhTB6AnGd0",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-22": [
+      {
+        "id": "6wNrAQ4w4SnU3fLnZpjQRp",
+        "title": "SOS",
+        "artist": "tuki.",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd9eb2190d83ceffbf6a1233",
+        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5yWkcPk3XbfKO21kZOzggZ",
+        "title": "VIRAL (SANTOS BRAVOS Remix)",
+        "artist": "BOYNEXTDOOR, SANTOS BRAVOS",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fd53bba89370177425cf7ce",
+        "url": "https://open.spotify.com/album/5yWkcPk3XbfKO21kZOzggZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1TMKybadlfy6aJsK1t4qcG",
+        "title": "一筆滿意",
+        "artist": "Kaho Hung",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237c286c4e12291fd8be4efdb",
+        "url": "https://open.spotify.com/album/1TMKybadlfy6aJsK1t4qcG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0fNhyFxFZgc39WlbqqZRiD",
+        "title": "Recuerdo que nunca existió",
+        "artist": "La Juntada De Los Artistas, Sofia Pavon",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251a8abb941b9f9237ec85ff5",
+        "url": "https://open.spotify.com/album/0fNhyFxFZgc39WlbqqZRiD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7DNEv6rHVE451QhV3qq3l1",
+        "title": "Deutera (Papazó Remix)",
+        "artist": "Antonis Remos, Papazó",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b1df01dbb601675c269552c",
+        "url": "https://open.spotify.com/album/7DNEv6rHVE451QhV3qq3l1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0cLYE6YBfEaqyGVzrxTV8R",
+        "title": "Вярно с оригинала",
+        "artist": "Anelia, Desi Slava",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e025860a4a63f98d185b477c786",
+        "url": "https://open.spotify.com/album/0cLYE6YBfEaqyGVzrxTV8R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YjOW5BE4A2i8oMXh6oU66",
+        "title": "BOY MEETS GIRL",
+        "artist": "NCT WISH",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e029932dbb57c0075c6d74bf8f8",
+        "url": "https://open.spotify.com/album/2YjOW5BE4A2i8oMXh6oU66",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3lnpXYLcrHM3ABwdC9m58P",
+        "title": "Cântă lăutare (Acoustic)",
+        "artist": "Lele, Manele VTM",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf2a98260d72fc09ad37f137",
+        "url": "https://open.spotify.com/album/3lnpXYLcrHM3ABwdC9m58P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39xlBHb1gQvMVqRZLjaTjI",
+        "title": "Lemon Tang - The 2nd Mini Album",
+        "artist": "Hearts2Hearts",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02391fce8d3ef22f778a8c5c54",
+        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1pxxaEGuwHtpdwtIgv99xW",
+        "title": "So Strawberry",
+        "artist": "MAZZEL",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b79df32f526adea64286e1f",
+        "url": "https://open.spotify.com/album/1pxxaEGuwHtpdwtIgv99xW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0LI83NjQK7UoCh79ZWqxt4",
+        "title": "Psemata Mi Po",
+        "artist": "Stan",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2d8f7905c725424b5dd8954",
+        "url": "https://open.spotify.com/album/0LI83NjQK7UoCh79ZWqxt4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7i8eoJQQJMfe2tf5jVcExE",
+        "title": "Draft Day",
+        "artist": "Papi",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6c17a13c415fb3c63c0d8f4",
+        "url": "https://open.spotify.com/album/7i8eoJQQJMfe2tf5jVcExE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0VmvY9ffCb1spYCmymzvyu",
+        "title": "Eeoo Eeooo",
+        "artist": "Megadivo Produce, Skary Movies, Berlito Ñoño, Alcapone",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c19024ec3a98241324ca3e9c",
+        "url": "https://open.spotify.com/album/0VmvY9ffCb1spYCmymzvyu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CnCkpq94pvwuZTI62iC8m",
+        "title": "Saúde e Progresso",
+        "artist": "DJ Gu, Mc Robs",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e023fefb1a07f73fabbac253632",
+        "url": "https://open.spotify.com/album/7CnCkpq94pvwuZTI62iC8m",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BadcWbvE2x0DEu1IXPnlt",
+        "title": "Bamse och mardrömmarnas ö (Del 10)",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212588b4a878059c8b1404974",
+        "url": "https://open.spotify.com/album/4BadcWbvE2x0DEu1IXPnlt",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3V4qVg7qcIhmubPKXnVb0L",
+        "title": "Un Te",
+        "artist": "Megadivo Produce, El Yonal Lezz",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219337b3277a93f853aeffee0",
+        "url": "https://open.spotify.com/album/3V4qVg7qcIhmubPKXnVb0L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PHP9sRhfteYccb8GqqHIo",
+        "title": "Haga La Vaina Bien",
+        "artist": "Megadivo Produce, El toro 380, Ronny Rich",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e29f574f4fe9bc277f538432",
+        "url": "https://open.spotify.com/album/2PHP9sRhfteYccb8GqqHIo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2iV78FpI2yJC2WhuWtDH0x",
+        "title": "Dziesma par laimi",
+        "artist": "Kautkaili",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245672dc117f08f1258f5c380",
+        "url": "https://open.spotify.com/album/2iV78FpI2yJC2WhuWtDH0x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1lwmPWLLHhOp4ldwAli8Ju",
+        "title": "Foto com Artista",
+        "artist": "Yuri Redicopa, DJ MOTTA, RAPHAANJOS, Fluxo Nas Quebradas",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224cc5d8583188c83f772d5d7",
+        "url": "https://open.spotify.com/album/1lwmPWLLHhOp4ldwAli8Ju",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2bKKyQbmkL0kwg2dcZ3hfm",
+        "title": "Aquecimento Dream Girl",
+        "artist": "Mc Gw, DJ YUZAK",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a08f5e714e12c727fdfe3995",
+        "url": "https://open.spotify.com/album/2bKKyQbmkL0kwg2dcZ3hfm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08oHsF90ZCgR6GCWthK6ys",
+        "title": "Luuletus 10. Õrn roos ...",
+        "artist": "PANTOKRAATOR",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02136eea3ff32a64f5c3b9c506",
+        "url": "https://open.spotify.com/album/08oHsF90ZCgR6GCWthK6ys",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3H4x5iTqc9WbU1ST2sfMcr",
+        "title": "Odiong (Remix)",
+        "artist": "Fatimk",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b38bb785fc62a9a5f8124499",
+        "url": "https://open.spotify.com/album/3H4x5iTqc9WbU1ST2sfMcr",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-23": [
+      {
+        "id": "7b8KLKRL9YFOnERnCLv4rH",
+        "title": "חוזר אלייך",
+        "artist": "Itay Levi, ששון איפרם שאולוב",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278d297df78ab7dedb4de3489",
+        "url": "https://open.spotify.com/album/7b8KLKRL9YFOnERnCLv4rH",
         "total_tracks": 1,
         "genres": []
       }
