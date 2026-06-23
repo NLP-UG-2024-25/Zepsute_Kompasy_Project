@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-22T11:53:32.971Z",
-  "total": 1062,
+  "fetched_at": "2026-06-23T09:38:09.950Z",
+  "total": 1083,
   "by_date": {
     "2026-05-15": [
       {
@@ -3974,6 +3974,17 @@
         "release_date": "2026-06-02",
         "image": "https://i.scdn.co/image/ab67616d00001e0236c7a6e6a60cca5a4fe55eb7",
         "url": "https://open.spotify.com/album/0mJyhkTKxW8JTKV6ZvZZxe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5QcUjDMC0hQa7vDvz2Ezw2",
+        "title": "VERTIGE",
+        "artist": "Amine Lalmani",
+        "type": "single",
+        "release_date": "2026-06-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0274aaa769ff0e117a0fd20305",
+        "url": "https://open.spotify.com/album/5QcUjDMC0hQa7vDvz2Ezw2",
         "total_tracks": 1,
         "genres": []
       }
@@ -11738,6 +11749,39 @@
         "url": "https://open.spotify.com/album/3H4x5iTqc9WbU1ST2sfMcr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "45uG02RJkRCwM5yAcLoeG8",
+        "title": "Pesti bárdok",
+        "artist": "Carson Coma",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253dde14c048e79706c7e97a4",
+        "url": "https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1qFecvJHQJGV3SBTMYs2Xf",
+        "title": "Biggie y Tupac",
+        "artist": "Piero 47",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fa2f0bc74d36c9867c44bc1",
+        "url": "https://open.spotify.com/album/1qFecvJHQJGV3SBTMYs2Xf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4HLGDk5tkcvNxhnoKUUMMt",
+        "title": "Vai Fluir",
+        "artist": "Yuri Redicopa, MC VN Cria, DJ LIEL 04, Fortuna Music Group",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e021a0fa607c65ab20c6f00fc38",
+        "url": "https://open.spotify.com/album/4HLGDk5tkcvNxhnoKUUMMt",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-23": [
@@ -11749,6 +11793,193 @@
         "release_date": "2026-06-23",
         "image": "https://i.scdn.co/image/ab67616d00001e0278d297df78ab7dedb4de3489",
         "url": "https://open.spotify.com/album/7b8KLKRL9YFOnERnCLv4rH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0EdUCo0oxkBCpNK5EM1hfs",
+        "title": "Hummer",
+        "artist": "Tame Impala",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201101c2792afad3a0aa99bc3",
+        "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08TX9rE1Ls69CfVzCwzBqI",
+        "title": "玻璃 demo",
+        "artist": "Gareth.T",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206e4cf0b21a6f05e65c400f9",
+        "url": "https://open.spotify.com/album/08TX9rE1Ls69CfVzCwzBqI",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4PnI5eaXxjq92nlWpdifek",
+        "title": "64 BARRE DI TERRORE (Red Bull 64 Bars)",
+        "artist": "Kid Yugi",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242cf832057591e86dc1447df",
+        "url": "https://open.spotify.com/album/4PnI5eaXxjq92nlWpdifek",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ITj16QkmEkQt1UKfKwvEM",
+        "title": "Танці",
+        "artist": "Lida Lee",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8ba0b40b93267440b60fa39",
+        "url": "https://open.spotify.com/album/4ITj16QkmEkQt1UKfKwvEM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6XLUZBUALKlHDBzugfvPsD",
+        "title": "AVENTURA",
+        "artist": "Likeboss, Arab, HermesHermes",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7b813f1f7500a66518100a7",
+        "url": "https://open.spotify.com/album/6XLUZBUALKlHDBzugfvPsD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0tENdDkqnV0PiD6OYmn5f3",
+        "title": "אבי הטחול",
+        "artist": "רואי אדם",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f69a9a7a027d972c4a94ad36",
+        "url": "https://open.spotify.com/album/0tENdDkqnV0PiD6OYmn5f3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "52NQEWO7s5UERrX4Baw5LY",
+        "title": "Доля пікова",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe3d33a5c72d9f74e5dc9af9",
+        "url": "https://open.spotify.com/album/52NQEWO7s5UERrX4Baw5LY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "55X4ZpJx6qXdMjWcuOlAB0",
+        "title": "Weet Wat Je Begint 2.0",
+        "artist": "John West",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208d79c7bf99f5ffb3a171c18",
+        "url": "https://open.spotify.com/album/55X4ZpJx6qXdMjWcuOlAB0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4fpoL0aXH3f7pv4bWqKMxU",
+        "title": "Om Namo Tirumaleshaya",
+        "artist": "S. Janaki",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa79a7dcad093412cb8e93c0",
+        "url": "https://open.spotify.com/album/4fpoL0aXH3f7pv4bWqKMxU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1e7b3zl6ebDn4K74ZAIMyl",
+        "title": "Volim te",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d1396c26aaa00d128894e78",
+        "url": "https://open.spotify.com/album/1e7b3zl6ebDn4K74ZAIMyl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3OHaJ7CNXczUqyLELCWefu",
+        "title": "Det perfekte livet",
+        "artist": "Breizaas, Tjuvåsen",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b70c0e1ddbdd10f545968096",
+        "url": "https://open.spotify.com/album/3OHaJ7CNXczUqyLELCWefu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7sAGWxydJrS3tRPwREK5zr",
+        "title": "Urban, Night, Cyber, Vol. 14",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234f8466073337c8a2797a4c4",
+        "url": "https://open.spotify.com/album/7sAGWxydJrS3tRPwREK5zr",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7jmwnnE4ULIbaEUOU83t6E",
+        "title": "Clio Revoada - Ditados do Nito",
+        "artist": "MC Nito, DJ JOEL MIX, DJ Matheus da Sul",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d4aeed5a2888915cb839bbd",
+        "url": "https://open.spotify.com/album/7jmwnnE4ULIbaEUOU83t6E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MDixrDZWYhPNt9h76748H",
+        "title": "MACUMBA OU FEITIÇO",
+        "artist": "MC Nito, Dj Menor K",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d51aff1167865d59746f7430",
+        "url": "https://open.spotify.com/album/7MDixrDZWYhPNt9h76748H",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Rz8cQBiJ5TsPoIUfV2o28",
+        "title": "Era Tudo Ilusão",
+        "artist": "Yuri Redicopa, DJ MIRANDA 011, FreesTyle Sounds",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b8fba633b30f72decfe9561",
+        "url": "https://open.spotify.com/album/6Rz8cQBiJ5TsPoIUfV2o28",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5elaFqNuGAqpfwmGGtyJhF",
+        "title": "244 Vida Rasa X os Pecinha",
+        "artist": "Yuri Redicopa, BemBilly",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258187e2cade1b8ec9922b302",
+        "url": "https://open.spotify.com/album/5elaFqNuGAqpfwmGGtyJhF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5rUa99BqSwUPeS4UJuwM4l",
+        "title": "Anna",
+        "artist": "Far From Reality",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02455eb659704ea1cd73345d7d",
+        "url": "https://open.spotify.com/album/5rUa99BqSwUPeS4UJuwM4l",
         "total_tracks": 1,
         "genres": []
       }
