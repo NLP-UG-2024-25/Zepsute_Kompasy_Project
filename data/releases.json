@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-23T09:38:09.950Z",
-  "total": 1083,
+  "fetched_at": "2026-06-24T09:28:40.726Z",
+  "total": 1121,
   "by_date": {
     "2026-05-15": [
       {
@@ -11782,6 +11782,105 @@
         "url": "https://open.spotify.com/album/4HLGDk5tkcvNxhnoKUUMMt",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4sJ20knUcprmgQc0aoLP1h",
+        "title": "DILI",
+        "artist": "Rochy RD, Rudy Gs",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02564847d67f317fc18b9011da",
+        "url": "https://open.spotify.com/album/4sJ20knUcprmgQc0aoLP1h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3gUDQr1FEfFpJGTroaMERL",
+        "title": "Anoche (En Vivo Tecnópolis Buenos Aires)",
+        "artist": "Lalo Y Los Descalzos",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e025cd0540d9f474ffd6b4ff32a",
+        "url": "https://open.spotify.com/album/3gUDQr1FEfFpJGTroaMERL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1UlVhRq6JUPFc6An5KRUSU",
+        "title": "Anoche (En Vivo En La Trastienda)",
+        "artist": "LA NUEVA ESCUELA",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d5e5b73d9598e3e83603090",
+        "url": "https://open.spotify.com/album/1UlVhRq6JUPFc6An5KRUSU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0WEIzP144txcADcIcumIiy",
+        "title": "SAG HARBOR",
+        "artist": "Tyler, The Creator",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4d861e3bdb0cb7d339ccc28",
+        "url": "https://open.spotify.com/album/0WEIzP144txcADcIcumIiy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6G84TOTfWbWKtGh7yFivA8",
+        "title": "Barakallahu Lakuma (Doa Pengantin)",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0d9ca1db1668430e59cf190",
+        "url": "https://open.spotify.com/album/6G84TOTfWbWKtGh7yFivA8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7DFHGHgCCPdOdF7erRIIHI",
+        "title": "Peeliyezhum Veeshi Vaa (Lofi)",
+        "artist": "K. S. Chithra",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02429bac5c2836ab582dfca208",
+        "url": "https://open.spotify.com/album/7DFHGHgCCPdOdF7erRIIHI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23h2C0k3eYDm9xVPnaIKtm",
+        "title": "SEDINTA PSIHOLOG",
+        "artist": "Berechet",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02653213215e6b486950c8a128",
+        "url": "https://open.spotify.com/album/23h2C0k3eYDm9xVPnaIKtm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1tlBcZkc31r7XnOEqO2ucf",
+        "title": "UWOLNIĆ ARTYSTĘ",
+        "artist": "Kazior, 730 Huncho, Amar, CrackHouse",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291ae51a35fe2165f3dcf39bb",
+        "url": "https://open.spotify.com/album/1tlBcZkc31r7XnOEqO2ucf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02CvqFaU5m11Wq9uOYFnb4",
+        "title": "И я забуду тебя (DVINA BEATS remix)",
+        "artist": "man_on_line_68",
+        "type": "single",
+        "release_date": "2026-06-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028402658f134ec473db1b48d7",
+        "url": "https://open.spotify.com/album/02CvqFaU5m11Wq9uOYFnb4",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-23": [
@@ -11981,6 +12080,327 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02455eb659704ea1cd73345d7d",
         "url": "https://open.spotify.com/album/5rUa99BqSwUPeS4UJuwM4l",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7AbcvYaiG3tpOCno5h5mYD",
+        "title": "Garsiau Už Tavo Juoką",
+        "artist": "Jovani, senjasa",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0a9a6660b702e57b7e2a1ec",
+        "url": "https://open.spotify.com/album/7AbcvYaiG3tpOCno5h5mYD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TYMiFtgDoZxyheOqY7MGL",
+        "title": "Summer In Greece (Mad VMA Version)",
+        "artist": "Eleni Foureira, Fy, Moose, Foivos",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5c95331411057b91923283a",
+        "url": "https://open.spotify.com/album/3TYMiFtgDoZxyheOqY7MGL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1hndRseU7M5P68Z3KjV00d",
+        "title": "มือเปล่า (PUT THE GUN DOWN) [Live Session]",
+        "artist": "ALIE BLACKCOBRA",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213e0a98cec49f150808b01fb",
+        "url": "https://open.spotify.com/album/1hndRseU7M5P68Z3KjV00d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DCtxBnBnAOhzScagNmDQz",
+        "title": "Semoga Hanya di Mimpi",
+        "artist": "Bernadya",
+        "type": "album",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251b3680373f9e0832d3b764f",
+        "url": "https://open.spotify.com/album/5DCtxBnBnAOhzScagNmDQz",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7IhsOD81HB5CbNwPMt0lWn",
+        "title": "THAT GUY",
+        "artist": "Tyler, The Creator",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae9e3266fc859c4b2266b3b3",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0dGQXVGa3gH712ZF8TtVOE",
+        "title": "無垢",
+        "artist": "陳卓賢 Ian",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e82fbfabf25c2fda6c3bbf39",
+        "url": "https://open.spotify.com/album/0dGQXVGa3gH712ZF8TtVOE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kM2muSAwLDVDD6XChdwQz",
+        "title": "Natham Nathuniya Me",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02126070ddd2f980f23a13693c",
+        "url": "https://open.spotify.com/album/5kM2muSAwLDVDD6XChdwQz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5rGo26oQpaMQrCFfVy0itq",
+        "title": "TA NISIOTIKA PAIDIA",
+        "artist": "Konstantinos Argiros",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dbd151f95ab40493b7856ae5",
+        "url": "https://open.spotify.com/album/5rGo26oQpaMQrCFfVy0itq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KeQmM9nskiZNFPf1kfa4w",
+        "title": "غلط تعمل الصح ( هدي قلبي كتف )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3c205e9edcb66733618c645",
+        "url": "https://open.spotify.com/album/7KeQmM9nskiZNFPf1kfa4w",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-24": [
+      {
+        "id": "0sgUIRGCsKo9P1ixNC99au",
+        "title": "Hands Up",
+        "artist": "Jelly Roll",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f216f7df843b7c6db50b9564",
+        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5logHeMLdBwiVTiQuIkA5g",
+        "title": "GOD STYLE",
+        "artist": "Yo Yo Honey Singh",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241fe43985af45d63ddfc2a4f",
+        "url": "https://open.spotify.com/album/5logHeMLdBwiVTiQuIkA5g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0kcimjZ6nSu9qbhXD6gI6V",
+        "title": "Piya Tu (Acapella Recreation)",
+        "artist": "Asha Bhosle, MadStarBase",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e47daeca9cca6bb864c437e0",
+        "url": "https://open.spotify.com/album/0kcimjZ6nSu9qbhXD6gI6V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6MSc4uxOu8fBkR3ejzVyJY",
+        "title": "人生",
+        "artist": "SUPER BEAVER",
+        "type": "album",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028231743d18d4a8be94360935",
+        "url": "https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "477lZIVcype9EXieOX1uh3",
+        "title": "Dance Forever",
+        "artist": "SixTONES",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a324c75c402471028b6a26f2",
+        "url": "https://open.spotify.com/album/477lZIVcype9EXieOX1uh3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7k8BEj6CbRPkHyN5BNpw6Z",
+        "title": "Зійшла Зоря",
+        "artist": "Alena Omargalieva",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02014e16a3286f312c67ebee06",
+        "url": "https://open.spotify.com/album/7k8BEj6CbRPkHyN5BNpw6Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0LGxSJulxKgiv1OsXW1oIS",
+        "title": "Adrenalina",
+        "artist": "Nueva Línea",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271886d5d4d41072c278dafea",
+        "url": "https://open.spotify.com/album/0LGxSJulxKgiv1OsXW1oIS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1edtveaIPSUFcKXYs953sw",
+        "title": "Superfly Hall Tour 2025 “Amazing Session” (Live)",
+        "artist": "Superfly",
+        "type": "album",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293ef12147b97190c401b5549",
+        "url": "https://open.spotify.com/album/1edtveaIPSUFcKXYs953sw",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "26hu7zonbJiln2kC1x6DCC",
+        "title": "Huracan",
+        "artist": "Trap King",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02637001f0bfedc05ace86e9a6",
+        "url": "https://open.spotify.com/album/26hu7zonbJiln2kC1x6DCC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3BUoYPTkiIjxZDtxX1Fyv8",
+        "title": "Lyrica",
+        "artist": "TK",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219292a734ba204d782934506",
+        "url": "https://open.spotify.com/album/3BUoYPTkiIjxZDtxX1Fyv8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5aTu7RbHY1iOoYpoLGNo0I",
+        "title": "パッパパラダイス",
+        "artist": "Hikaru Utada",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027aed64135c62afc3f3b69d61",
+        "url": "https://open.spotify.com/album/5aTu7RbHY1iOoYpoLGNo0I",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0zQSdKV9voIN7ZG8exJ9Ct",
+        "title": "pAPi wiTH tOKisCha",
+        "artist": "Diplo, Major Lazer, Tokischa",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026cc728295e929204a00b5e06",
+        "url": "https://open.spotify.com/album/0zQSdKV9voIN7ZG8exJ9Ct",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0w5E8Zfy7QXcvHl7ocMeC9",
+        "title": "Atlatırım",
+        "artist": "Derya Bedavacı",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa60fd98be5d90f1b3d85ca1",
+        "url": "https://open.spotify.com/album/0w5E8Zfy7QXcvHl7ocMeC9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4H6MYuBqTjDI026g3FftS4",
+        "title": "Paro (2am version)",
+        "artist": "Aditya Rikhari",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c92b78ba8ef9160f0d023e56",
+        "url": "https://open.spotify.com/album/4H6MYuBqTjDI026g3FftS4",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4OOeYf8qb1fJXXLXLMGgPm",
+        "title": "Jordskælv",
+        "artist": "ozzy",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f7aa587cf953addba1c7a6c",
+        "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qq4ARUCMYdH7iEN6Wcq2a",
+        "title": "RUN IT",
+        "artist": "Stray Kids",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02023b7265626fd61ab376745e",
+        "url": "https://open.spotify.com/album/0qq4ARUCMYdH7iEN6Wcq2a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4LwWZvvuHDOF6pZuLYX0RA",
+        "title": "Wap Wap (feat. Ronnie Flex)",
+        "artist": "D-Double, Ronnie Flex",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8c597b001432efa9e3b3907",
+        "url": "https://open.spotify.com/album/4LwWZvvuHDOF6pZuLYX0RA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2V2wWTFTGEYJE3g6bfjhAP",
+        "title": "Om Namo Srinivasaya Chanting",
+        "artist": "S. Janaki",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02235b78c664dc988f6fad166a",
+        "url": "https://open.spotify.com/album/2V2wWTFTGEYJE3g6bfjhAP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Kzy5uCv6KJxoLwx8cP6Sk",
+        "title": "Fatalna ljubav",
+        "artist": "Ceca, Futa Band",
+        "type": "album",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02205d05d034964f0faf759957",
+        "url": "https://open.spotify.com/album/0Kzy5uCv6KJxoLwx8cP6Sk",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "0E1Iw9iTtqg2vK3eO3QcSl",
+        "title": "Sta je to u tvojim venama",
+        "artist": "Ceca, Futa Band",
+        "type": "album",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fc4b46cb546bb300d09aead",
+        "url": "https://open.spotify.com/album/0E1Iw9iTtqg2vK3eO3QcSl",
+        "total_tracks": 9,
         "genres": []
       }
     ]
