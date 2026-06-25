@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-24T09:28:40.726Z",
-  "total": 1121,
+  "fetched_at": "2026-06-25T09:20:46.776Z",
+  "total": 1153,
   "by_date": {
     "2026-05-15": [
       {
@@ -11105,6 +11105,17 @@
         "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh",
         "total_tracks": 20,
         "genres": []
+      },
+      {
+        "id": "4linsrrFR6JAwk7rwcywzl",
+        "title": "Ночь светла...",
+        "artist": "Potao",
+        "type": "single",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02278844f3d0b733a7e8d4200b",
+        "url": "https://open.spotify.com/album/4linsrrFR6JAwk7rwcywzl",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-06-20": [
@@ -12180,6 +12191,39 @@
         "url": "https://open.spotify.com/album/7KeQmM9nskiZNFPf1kfa4w",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "74iE48Q7Q7VdyrmalQkWRh",
+        "title": "Leher (From “Cocktail 2”)",
+        "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02550c6de44a9ebd9a110170ea",
+        "url": "https://open.spotify.com/album/74iE48Q7Q7VdyrmalQkWRh",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1PEcCRtmLswAcLnljN12js",
+        "title": "Shreya Ghoshal Romantic Hits",
+        "artist": "Shreya Ghoshal",
+        "type": "compilation",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c2b7e33c2e0d8a2316aa675",
+        "url": "https://open.spotify.com/album/1PEcCRtmLswAcLnljN12js",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "6ex4Uf2otUqq9D7OWH44gA",
+        "title": "Ay Bonita",
+        "artist": "DesaKTa2",
+        "type": "single",
+        "release_date": "2026-06-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dadb0fa41e048004abf165ed",
+        "url": "https://open.spotify.com/album/6ex4Uf2otUqq9D7OWH44gA",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-24": [
@@ -12401,6 +12445,316 @@
         "image": "https://i.scdn.co/image/ab67616d00001e021fc4b46cb546bb300d09aead",
         "url": "https://open.spotify.com/album/0E1Iw9iTtqg2vK3eO3QcSl",
         "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "2Ke2hlEudtDT0KDaNIZY9Z",
+        "title": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
+        "artist": "Bizarrap, Myke Towers",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d2cb0d08c101cc97d24eebb",
+        "url": "https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0x6tr75ApACgiGnraluC8t",
+        "title": "My Guy",
+        "artist": "Sam Smith",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6408c8e20808a5050e0de15",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vSW9ScJ5be9F2bGdO6MqZ",
+        "title": "Ngày Rời Chuyến Bay (lofi)",
+        "artist": "Minh Huy, Pinny, CM1X",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3f8492f972be82e30023f00",
+        "url": "https://open.spotify.com/album/6vSW9ScJ5be9F2bGdO6MqZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3smO8kZ2tt7EsHv6UzqFPu",
+        "title": "JET SET",
+        "artist": "La Mano 1.9",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253da91af02ed9985505f7b56",
+        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21Wcy0QFWhVQoQNFFpiLGZ",
+        "title": "Platz da",
+        "artist": "Amo",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ae089f4c0d54fe34ab80581",
+        "url": "https://open.spotify.com/album/21Wcy0QFWhVQoQNFFpiLGZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1kGzRUo0kN1fo6hgV4FXH9",
+        "title": "Diabla",
+        "artist": "Piero 47, Juanka El Problematik",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daebc8aa02c2cc47dfcaad84",
+        "url": "https://open.spotify.com/album/1kGzRUo0kN1fo6hgV4FXH9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YwRomMDFX0sttDNVqBrXR",
+        "title": "Sun Has Set",
+        "artist": "beabadoobee",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f3307b2ee6c3131410efdc7",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XqNFf1LxcswWGa6cAMFTC",
+        "title": "GOD STYLE (Instrumental)",
+        "artist": "Yo Yo Honey Singh",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02941a61a931483d1043eebc7b",
+        "url": "https://open.spotify.com/album/4XqNFf1LxcswWGa6cAMFTC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6NwKx6GKXoYCORIa7Wm3Kt",
+        "title": "Bomba",
+        "artist": "Lele, Supreme Brass",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb6d1560257994fa59fc6a75",
+        "url": "https://open.spotify.com/album/6NwKx6GKXoYCORIa7Wm3Kt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Rs5yfDLeGPiEstxpKsB5s",
+        "title": "AND WON'T",
+        "artist": "T.I., Summer Walker",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027caeb6a340b472863fcee5b8",
+        "url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-25": [
+      {
+        "id": "3eRaUY81phIdt6XwTtLwZW",
+        "title": "Nunca Supiste Que Te Esperé",
+        "artist": "Grupo Firme",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df09361c5439bf3d02591531",
+        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26Pql0k7TczNyZBCPOLyAf",
+        "title": "Cold at the Top (Shanti Celeste Remix)",
+        "artist": "KNEECAP, Shanti Celeste",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021438cc611ed6335153bd86ab",
+        "url": "https://open.spotify.com/album/26Pql0k7TczNyZBCPOLyAf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "761bh6T3JIiQOxPljTwrwz",
+        "title": "Fetiche Dela",
+        "artist": "DJ Gu, MC Joãozinho VT, MC Fabrin",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e413d1a511d700d1de2f9dd",
+        "url": "https://open.spotify.com/album/761bh6T3JIiQOxPljTwrwz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4oOSwMnMTWUcf4ur6nuZtS",
+        "title": "Talk to You (54’s Version)",
+        "artist": "54 Ultra",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f423c94ebc8ddfc84cbb6494",
+        "url": "https://open.spotify.com/album/4oOSwMnMTWUcf4ur6nuZtS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jA8bgfGZJNzcPWuZl5iQx",
+        "title": "Chrome Dreams",
+        "artist": "Bir, Gminxr",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02552734afaac710a34cd5cbec",
+        "url": "https://open.spotify.com/album/7jA8bgfGZJNzcPWuZl5iQx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74S0G2ZMSExWDARD5qCLi1",
+        "title": "Lagna Bigna (From \"Tula Pahta\")",
+        "artist": "Sunidhi Chauhan, Rohan Pradhan, Rohan Rohan",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02907e74bc89f79913a87a717c",
+        "url": "https://open.spotify.com/album/74S0G2ZMSExWDARD5qCLi1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qYFaIF4T7qnuaOjwXplE3",
+        "title": "Mi Vida",
+        "artist": "Costi, Adrian Saguna, Benzol",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c12259fb036c3e340fdbc12",
+        "url": "https://open.spotify.com/album/5qYFaIF4T7qnuaOjwXplE3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6C0fEJvGMeHoDaYUFsuqxx",
+        "title": "On Our Own (Remix)",
+        "artist": "D’MASIV",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d84f12006b7c259113ee9802",
+        "url": "https://open.spotify.com/album/6C0fEJvGMeHoDaYUFsuqxx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GIgUx9OJbgSRlXfdVElP3",
+        "title": "SWITCH.zip",
+        "artist": "VINXEN, NE:ON",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf80c1cf908e40ceed0df973",
+        "url": "https://open.spotify.com/album/0GIgUx9OJbgSRlXfdVElP3",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3bw3On9nuBiRRM31TDkgBG",
+        "title": "Ta Pedindo Toma (feat. Mc RN do Capão & Mc Pelourinho)",
+        "artist": "MC Leozinho ZS, MC Murilo MT, Mc DR, DJ JHOW BEATS",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a50c7de7f5cf72c26c52dcdc",
+        "url": "https://open.spotify.com/album/3bw3On9nuBiRRM31TDkgBG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Dps4FFti7KRNEo7dcbiVS",
+        "title": "Setiva",
+        "artist": "Dara Ekimova",
+        "type": "album",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e026a4e79f56f475d6b69ae9a3b",
+        "url": "https://open.spotify.com/album/2Dps4FFti7KRNEo7dcbiVS",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "4LuwI7AlhWKFQ7Hl6JSPIo",
+        "title": "Mundo Gira",
+        "artist": "Mc Magal, Prod Gloto",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d333f6ce9407567c79ecc6b7",
+        "url": "https://open.spotify.com/album/4LuwI7AlhWKFQ7Hl6JSPIo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kntP1l9HIPCjToA1jKDKl",
+        "title": "Nu știu ce ai auzit",
+        "artist": "F.Charm",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e39d631988ecce1745256f4",
+        "url": "https://open.spotify.com/album/7kntP1l9HIPCjToA1jKDKl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2L9uNfQggDySyLsZw8xYRg",
+        "title": "Rani N'Sayesse",
+        "artist": "Cheb Hasni",
+        "type": "album",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e53fc9124e1898f12506490",
+        "url": "https://open.spotify.com/album/2L9uNfQggDySyLsZw8xYRg",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "2aECeopuSLPoAiw6Jmszku",
+        "title": "NI SIQUIERA SOMOS AMIGOS",
+        "artist": "La Arrolladora Banda El Limón De Rene Camacho, Natiuska",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02663132ffc547be8712561b23",
+        "url": "https://open.spotify.com/album/2aECeopuSLPoAiw6Jmszku",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2m7ZN6HQkN05pihKeMAhu1",
+        "title": "BAD VIBE",
+        "artist": "NANE",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234a42c6320038f8b882e35ee",
+        "url": "https://open.spotify.com/album/2m7ZN6HQkN05pihKeMAhu1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2dlGui6D0E5Ykx6Sj5uMU4",
+        "title": "Nada",
+        "artist": "Fede Rojas",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7a87fc1a22e104017651d67",
+        "url": "https://open.spotify.com/album/2dlGui6D0E5Ykx6Sj5uMU4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2h0C7Qzfd4YOvJxImj96yF",
+        "title": "No Lo Cuentas",
+        "artist": "La Penúltima",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d581169072c45483cb1bed93",
+        "url": "https://open.spotify.com/album/2h0C7Qzfd4YOvJxImj96yF",
+        "total_tracks": 1,
         "genres": []
       }
     ]
