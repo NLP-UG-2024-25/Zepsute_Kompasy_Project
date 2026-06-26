@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-25T09:20:46.776Z",
-  "total": 1153,
+  "fetched_at": "2026-06-26T09:25:49.641Z",
+  "total": 1200,
   "by_date": {
     "2026-05-15": [
       {
@@ -12556,6 +12556,28 @@
         "url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "50k2j81uNr0p9rHVgtS678",
+        "title": "רולקס וקסקט (חי באולפן גלגלצ)",
+        "artist": "Noam Bettan, גלגלצ",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e025002a0fc8242ba9eafd326fe",
+        "url": "https://open.spotify.com/album/50k2j81uNr0p9rHVgtS678",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FrPq7FDPvx5zVKTIURMqt",
+        "title": "Village Rocker (From \"Peddi\")",
+        "artist": "A.R. Rahman, Nitesh Aher",
+        "type": "single",
+        "release_date": "2026-06-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e023792292faad9dbe5e471fea0",
+        "url": "https://open.spotify.com/album/7FrPq7FDPvx5zVKTIURMqt",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-25": [
@@ -12754,6 +12776,503 @@
         "release_date": "2026-06-25",
         "image": "https://i.scdn.co/image/ab67616d00001e02d581169072c45483cb1bed93",
         "url": "https://open.spotify.com/album/2h0C7Qzfd4YOvJxImj96yF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3QgLZuwsnQUml2qGWvxxHO",
+        "title": "67",
+        "artist": "Fuerza Regida",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02007aaefb8dc404cc24ad16b9",
+        "url": "https://open.spotify.com/album/3QgLZuwsnQUml2qGWvxxHO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "27fL8TMJUfW4XRXZqougTh",
+        "title": "My Body Isn't Ready",
+        "artist": "sombr",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255615e9242bd96706c68a743",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FTXtGd2zNyN3zZA3ntMZr",
+        "title": "Look at My Life",
+        "artist": "Gracie Abrams",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a6c9aa7070279c1c3193338",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5QFHiTkr2OHLAPRWvaD0Hw",
+        "title": "The Time Of My Life",
+        "artist": "Benson Boone",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02719f829cbd2ebda720cd240d",
+        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Rti1VEHljEEGaVwlSHM3j",
+        "title": "RockWave",
+        "artist": "EsDeeKid",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b9c3f8b8888c0ce5cd9ccad",
+        "url": "https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5g6KuHFhHywQq23nDfmSlX",
+        "title": "Dai Dai",
+        "artist": "Shakira, Burna Boy",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dd585c32969d87f1720d7d0",
+        "url": "https://open.spotify.com/album/5g6KuHFhHywQq23nDfmSlX",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5BEkLTU3yBorkAfGlEcjyk",
+        "title": "¿SERÁ EL ALCOHOL?",
+        "artist": "Oscar Maydon, Omar Camacho",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5fcfd24bba0c3527b194fd6",
+        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ubZyifk1IUlccV9qKsOoM",
+        "title": "Jealous Lover",
+        "artist": "The Rolling Stones",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db7a1257ddaf87e497433dbf",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5KyPwjSFnxwAKOL5Ggo2vo",
+        "title": "Official FIFA World Cup 2026™ Album (Bonus Edition)",
+        "artist": "FIFA Sound",
+        "type": "album",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f3e18663610f953f980e726",
+        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "3lzUqHg1FTgzDFywIBdcN5",
+        "title": "Sparkle!: A Circus Of Lights",
+        "artist": "The Wiggles",
+        "type": "album",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216d4196261412a09f7a4e5c9",
+        "url": "https://open.spotify.com/album/3lzUqHg1FTgzDFywIBdcN5",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "4QPPncbtqu9wPmiq3vZKu1",
+        "title": "LATERNE",
+        "artist": "Ufo361",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f46531bdb91c975e6ea7216d",
+        "url": "https://open.spotify.com/album/4QPPncbtqu9wPmiq3vZKu1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4mFeX8UBFJ1KAyvfboPI7d",
+        "title": "Bala Alojada",
+        "artist": "Gusttavo Lima",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279df431b1bbf5bb6c2283963",
+        "url": "https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4c6x92vxqC9HAp9E0ZSWAi",
+        "title": "La Casa Del Trap",
+        "artist": "Pirlo",
+        "type": "album",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206c40870051dc9a8f28f94b5",
+        "url": "https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "112Y8wuHDub7svC4bdwkrQ",
+        "title": "VACAS FLACAS",
+        "artist": "Hermanos Espinoza",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020332fa3789caf7bcb49ab5ac",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5J2AHjQlybafhLITFSWPTs",
+        "title": "Sagres sippen",
+        "artist": "Rapson",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02117cc6c8e543b349948a467a",
+        "url": "https://open.spotify.com/album/5J2AHjQlybafhLITFSWPTs",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-26": [
+      {
+        "id": "5ZKl6FzFtBJc3edhG04gxW",
+        "title": "is it cool? (feat. SZA)",
+        "artist": "Steve Lacy, SZA",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5fqU2VISxGNsVEN2KXyxrT",
+        "title": "Ahhhahhhhh (Lost Tapes 2021)",
+        "artist": "Tory Lanez",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219c9377a0b72e486684359a1",
+        "url": "https://open.spotify.com/album/5fqU2VISxGNsVEN2KXyxrT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WjjAPm4lSHSjupTleJaCA",
+        "title": "Wink Wink",
+        "artist": "Charli xcx",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027aa38b76a2c915ed73ca15c6",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3oPUIxsRBq2riLShD6V2m8",
+        "title": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "artist": "Justin Bieber",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd94f516227c9a79df614af3",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "6Qt5oHi1SE1892sRroisRo",
+        "title": "STFU",
+        "artist": "T-Pain, DJ DIESEL, San Holo, NGHTMRE",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219a4874f801f59702f67114e",
+        "url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3g9Z0jxX31lghNgzkdfhCD",
+        "title": "Moana (Original Motion Picture Soundtrack)",
+        "artist": "Disney, Lin-Manuel Miranda, Catherine Laga'aia, Dwayne Johnson",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bea896a1f2cabe41bc45ff0e",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "45YKf1761lYqYzO6GEZmQt",
+        "title": "Pensando En Ti",
+        "artist": "Xavi, De La Rose",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8975b1ed7394a3ddb15bfc9",
+        "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6I0zzqYP4vFEq1TS3u6p8R",
+        "title": "Club Soda",
+        "artist": "DJ Snake",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a10657aaeb8a1bf2dfe2e469",
+        "url": "https://open.spotify.com/album/6I0zzqYP4vFEq1TS3u6p8R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7nkQzEUbEhiLWXdXBjtqt2",
+        "title": "Another Drink",
+        "artist": "Marshmello, Kelsea Ballerini",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02170a6bb0f66bf8e9406e9eaf",
+        "url": "https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7LtJ3HtPW9fPLqd9nraw6J",
+        "title": "Saturday Night",
+        "artist": "Ravyn Lenae",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca85cb6ebf93a670ec7b57b3",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4j8BqfNQxSd1jZDg2YAL3w",
+        "title": "Just The Punk Stuff",
+        "artist": "The Offspring",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f6e2c3821a34108e43de525",
+        "url": "https://open.spotify.com/album/4j8BqfNQxSd1jZDg2YAL3w",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "5uCUphHmsb2vwkIOKEbLjo",
+        "title": "Repeat It",
+        "artist": "Martin Garrix, Ed Sheeran",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299acb124b8c5a05f39e839d2",
+        "url": "https://open.spotify.com/album/5uCUphHmsb2vwkIOKEbLjo",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3mgLrsA1pHfVWzvD2jc3bR",
+        "title": "Roses (feat. Richard Judge)",
+        "artist": "Timmy Trumpet, bradeazy, Richard Judge",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025676b4268058435bff209faf",
+        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4JBvjA0JHPfG0RUWA3tIue",
+        "title": "captivation",
+        "artist": "LONOWN",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7452f04ba13cbd28e22c44e",
+        "url": "https://open.spotify.com/album/4JBvjA0JHPfG0RUWA3tIue",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "7Jo92hrp2D20KQnblEPA11",
+        "title": "FUNK FATUO",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed6b02f80e99927c1a2b5acc",
+        "url": "https://open.spotify.com/album/7Jo92hrp2D20KQnblEPA11",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3WNAsCY7V3xfCu2qYsiaPq",
+        "title": "hero ☆",
+        "artist": "Øneheart",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a34a998b017d26355e25402",
+        "url": "https://open.spotify.com/album/3WNAsCY7V3xfCu2qYsiaPq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2lLTCsHzjPWvfVbe1bmV91",
+        "title": "LIEBE",
+        "artist": "BUNT., JBS",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d6a65300fd8295af93d08d6",
+        "url": "https://open.spotify.com/album/2lLTCsHzjPWvfVbe1bmV91",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5WC3J1FQMd4vrA3xuWPUwQ",
+        "title": "De Oppresso Liber",
+        "artist": "Five Finger Death Punch",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259f365ddc88f7d56b237b84b",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2VpmMSVWQmFCqLRi0En2JR",
+        "title": "Everything's Fine",
+        "artist": "Alok, Jennifer Lopez",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5e642bb6ffe58a9066ae98a",
+        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7dR22XlVbfSAhTSltPiU7g",
+        "title": "I Know Who I Be (feat. JAZZWRLD & GL_Ceejay)",
+        "artist": "Davido, JAZZWRLD, GL_Ceejay",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206a99d1efeda0e4566bbfb92",
+        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vVKDjxKRA8pNKizWfAVcf",
+        "title": "DNA",
+        "artist": "Gabry Ponte, Jovanotti",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d146de90cec7c9ddcf925d88",
+        "url": "https://open.spotify.com/album/6vVKDjxKRA8pNKizWfAVcf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wBkzKouHawAr9e7lLxZLA",
+        "title": "THE BOOK for,",
+        "artist": "YOASOBI",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c64dc9d9011631669adc5b0a",
+        "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "4PGTikVQf16bBzb0nMABS7",
+        "title": "Humdum (2am Version)",
+        "artist": "Aditya Rikhari",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8b70d9a43f084b68e2d35d8",
+        "url": "https://open.spotify.com/album/4PGTikVQf16bBzb0nMABS7",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1ZtLBn35lK7Vm2nYmE9NBo",
+        "title": "Réanymé",
+        "artist": "Tayc, Anyme023",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a9a719fa509aaf4200e84fd",
+        "url": "https://open.spotify.com/album/1ZtLBn35lK7Vm2nYmE9NBo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DPaAlRwRxkqWn03kQh8R2",
+        "title": "Sleep",
+        "artist": "IVOXYGEN",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207d1168cfac6a8cf144ba99d",
+        "url": "https://open.spotify.com/album/5DPaAlRwRxkqWn03kQh8R2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MmAbKumWuJAEoSDG1w3XU",
+        "title": "NPC",
+        "artist": "Lida, плм, KSB muzic",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ec42692784056eef9bf75c9",
+        "url": "https://open.spotify.com/album/0MmAbKumWuJAEoSDG1w3XU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SyoYI1kqC57pTJOvtaBxk",
+        "title": "Ven Conmigo",
+        "artist": "Lucky Brown, Lyon la f, Nacho G Flow",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225855b2681b11201d7609e50",
+        "url": "https://open.spotify.com/album/5SyoYI1kqC57pTJOvtaBxk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MRw03EwZ1klewyJRmlw0C",
+        "title": "На бумере",
+        "artist": "Aarne, Платина",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02070a0c896c6da54006badfbd",
+        "url": "https://open.spotify.com/album/7MRw03EwZ1klewyJRmlw0C",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4EfBuO8goFTBaKVhyz0Eh1",
+        "title": "Crystal River",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d34f1ffd43c5ad27f9ff72cc",
+        "url": "https://open.spotify.com/album/4EfBuO8goFTBaKVhyz0Eh1",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4VmGFwJLz3KFryQFR52HVS",
+        "title": "Dzīve",
+        "artist": "Aleks",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb7fd89dde3b98d9983814a7",
+        "url": "https://open.spotify.com/album/4VmGFwJLz3KFryQFR52HVS",
         "total_tracks": 1,
         "genres": []
       }
