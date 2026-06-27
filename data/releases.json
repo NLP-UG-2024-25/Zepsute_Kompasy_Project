@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-26T09:25:49.641Z",
-  "total": 1200,
+  "fetched_at": "2026-06-27T08:35:17.574Z",
+  "total": 1215,
   "by_date": {
     "2026-05-15": [
       {
@@ -12943,6 +12943,28 @@
         "url": "https://open.spotify.com/album/5J2AHjQlybafhLITFSWPTs",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3plilxzablS7gW0MQpbQuF",
+        "title": "Peddi (Dialogues) [TELUGU]",
+        "artist": "A.R. Rahman",
+        "type": "album",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de83fa96db96c96c52408fab",
+        "url": "https://open.spotify.com/album/3plilxzablS7gW0MQpbQuF",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0OLPOAwkV37eY0jslcZkN8",
+        "title": "Bandido Estrella",
+        "artist": "Jasiel Nuñez",
+        "type": "single",
+        "release_date": "2026-06-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020fbe1eb8fe2df2731abe674c",
+        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-26": [
@@ -13273,6 +13295,151 @@
         "release_date": "2026-06-26",
         "image": "https://i.scdn.co/image/ab67616d00001e02fb7fd89dde3b98d9983814a7",
         "url": "https://open.spotify.com/album/4VmGFwJLz3KFryQFR52HVS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ZojbJskxTCjqKjzvrdxXK",
+        "title": "Made It A Memory",
+        "artist": "Luke Bryan",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2ccb0f3b0157c9bff39f226",
+        "url": "https://open.spotify.com/album/5ZojbJskxTCjqKjzvrdxXK",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4myjAoCPL3ydX9fi92FibQ",
+        "title": "ML2",
+        "artist": "YoungBoy Never Broke Again",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2d5ad2ec914d0fda6194fdb",
+        "url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "68Jhhl9zyFSKYaleHuTbJd",
+        "title": "SOMEBODY PRAYED",
+        "artist": "Forrest Frank, Tate Butts",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027972d48130fbf3862befd79b",
+        "url": "https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6ylkMDI1T3kWWSeDdD8yyO",
+        "title": "Las mas bonitas son p#tas",
+        "artist": "Anuel AA",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2c4ebb82fba77deba3d6f02",
+        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7JydkZYUARwhV7r4bh3H9r",
+        "title": "The Night Watch (Live at the Rijksmuseum)",
+        "artist": "Sting",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e023318986e92cd81af36ac2abc",
+        "url": "https://open.spotify.com/album/7JydkZYUARwhV7r4bh3H9r",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "6IA7OwwUsvFKcWWyH22L2o",
+        "title": "METE BALA",
+        "artist": "DJ Javi26, SASORIIXPP",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf482d2334318c4b78abeb06",
+        "url": "https://open.spotify.com/album/6IA7OwwUsvFKcWWyH22L2o",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5QndzKtsXgHvJgXftUM2FD",
+        "title": "Alles ist gut",
+        "artist": "Nena",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c6a514c2b6defdc93453371",
+        "url": "https://open.spotify.com/album/5QndzKtsXgHvJgXftUM2FD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0awhpf1DQV9oh35DLGXETp",
+        "title": "ON MY MIND",
+        "artist": "Palm Monkey",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e023602131a463aca2c6442a148",
+        "url": "https://open.spotify.com/album/0awhpf1DQV9oh35DLGXETp",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5ATNK4gj0QfhNg93GdrEq8",
+        "title": "Clean",
+        "artist": "Popcaan, Likkle Vybz",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba518a7f3b8b037b355d7cc5",
+        "url": "https://open.spotify.com/album/5ATNK4gj0QfhNg93GdrEq8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bM14H5jt7DaZqr7on58lL",
+        "title": "GEEZYDEE - STACION: BLOQ SESSIONS 004",
+        "artist": "GeezyDee, STACION",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f6ceea226ac6d662c3d03af",
+        "url": "https://open.spotify.com/album/3bM14H5jt7DaZqr7on58lL",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1NloJLKu68I4pAZtX01BtQ",
+        "title": "Bollywood Remix",
+        "artist": "Amit Trivedi, Vishal Mishra, Jasmine Sandlas",
+        "type": "compilation",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d1577764c0103a09d949a96",
+        "url": "https://open.spotify.com/album/1NloJLKu68I4pAZtX01BtQ",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2PcsTPt1NlziaZTeLUnclq",
+        "title": "Кассета 45 минут",
+        "artist": "Ruki Vverh!, Михаил Жуков",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c496f5cea9d250ccf85618ce",
+        "url": "https://open.spotify.com/album/2PcsTPt1NlziaZTeLUnclq",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-27": [
+      {
+        "id": "7s31OuGENVpEDGs8itvYDJ",
+        "title": "DQMP",
+        "artist": "Alofoke Music, Jey One",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e024902ca2caaaa985d12b1f778",
+        "url": "https://open.spotify.com/album/7s31OuGENVpEDGs8itvYDJ",
         "total_tracks": 1,
         "genres": []
       }
