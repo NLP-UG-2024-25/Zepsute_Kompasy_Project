@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-27T08:35:17.574Z",
-  "total": 1215,
+  "fetched_at": "2026-06-28T08:50:44.900Z",
+  "total": 1258,
   "by_date": {
     "2026-05-15": [
       {
@@ -13429,6 +13429,292 @@
         "url": "https://open.spotify.com/album/2PcsTPt1NlziaZTeLUnclq",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0IHp9bipQOd4zdAhG9WCHw",
+        "title": "FATE",
+        "artist": "Alan Walker, Ava Max",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd05f68aaeadb71314f8099c",
+        "url": "https://open.spotify.com/album/0IHp9bipQOd4zdAhG9WCHw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YAZtz4I4QhcqSOMATRnNP",
+        "title": "демоница",
+        "artist": "onokami",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bf0fffde52e02b0fc0fb995",
+        "url": "https://open.spotify.com/album/4YAZtz4I4QhcqSOMATRnNP",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7CMF68TXfapkGEPQKZm2z2",
+        "title": "Vishal Mishra Bollywood Hits",
+        "artist": "Vishal Mishra",
+        "type": "compilation",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0664e1de7784d6ee43050f3",
+        "url": "https://open.spotify.com/album/7CMF68TXfapkGEPQKZm2z2",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "3p8cbcEEdyYSq58bZUSFmT",
+        "title": "IDEMŠUNKA",
+        "artist": "Đorđe",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a3bc77537a5a9e258ee3973",
+        "url": "https://open.spotify.com/album/3p8cbcEEdyYSq58bZUSFmT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JbvpxYVzZrbaRkFJ3iSlm",
+        "title": "CHAQUEÑO PALAVECINO / Zapada EN VIVO en UN POCO DE RUIDO !",
+        "artist": "Chaqueño Palavecino, Un Poco de Ruido, Pinky SD",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e026bf974bac76697c1352e7fc9",
+        "url": "https://open.spotify.com/album/5JbvpxYVzZrbaRkFJ3iSlm",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "56EkuvtqNK81FqnRIuLDsL",
+        "title": "القمه مكانى",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224a4636e2c8830ff7f361844",
+        "url": "https://open.spotify.com/album/56EkuvtqNK81FqnRIuLDsL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5axeHqxrBiJhFuNFxjRFIy",
+        "title": "Bebezinha",
+        "artist": "MC Jvila, Aaron Modesto, Dj Yuri Pedrada",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e029cb35efdae2e38a43909cc88",
+        "url": "https://open.spotify.com/album/5axeHqxrBiJhFuNFxjRFIy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7b0UPCPElVTnV54bxsUiza",
+        "title": "天才在左疯子不知道",
+        "artist": "王赫野",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e021129193f940a2a96060f0c64",
+        "url": "https://open.spotify.com/album/7b0UPCPElVTnV54bxsUiza",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2WVU7GV8n6u7Vub8fCSynY",
+        "title": "Piece Of Your Love",
+        "artist": "Rod Wave",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c888bcb8d119e763239e92cc",
+        "url": "https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MufQrLuzLgKQEBHM2RtLk",
+        "title": "NEON",
+        "artist": "2Ectasy, jeffy",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea7aab86a3f80609f2cb67e5",
+        "url": "https://open.spotify.com/album/5MufQrLuzLgKQEBHM2RtLk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kQehtDjV2gP5XfUkbFoSb",
+        "title": "VEM MAFU, MAFU, FUMA",
+        "artist": "MC Vine7, Luka G, Dj Rs, DJ Gu",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdcc938ddc477577d4a588f8",
+        "url": "https://open.spotify.com/album/5kQehtDjV2gP5XfUkbFoSb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2yt0jZ9u2qUhWCZYUBc7yE",
+        "title": "Muita Fé",
+        "artist": "Mc Kadu, Dj Binho, Dj Geh, Gabriel Fênix",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286515e5953f2cd5175f94178",
+        "url": "https://open.spotify.com/album/2yt0jZ9u2qUhWCZYUBc7yE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Fdsn3xJZC7VwCsjzNz9jR",
+        "title": "Radio",
+        "artist": "Future",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e021808e2f7d9fe3bf7d1717a04",
+        "url": "https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "62125Zrsvsv8sLL0fcLZZ6",
+        "title": "Gym Motivation",
+        "artist": "Pritam, Shashwat Sachdev, Vishal Mishra",
+        "type": "compilation",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b601a212140b7ff0d9c2ac0a",
+        "url": "https://open.spotify.com/album/62125Zrsvsv8sLL0fcLZZ6",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4G0dOpNAmqDI0qGW6xVdoz",
+        "title": "Focus",
+        "artist": "Hard Rico",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1941e670b1ba79538221580",
+        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "24U0CP04ZZ3s2w2J6gxjYr",
+        "title": "OBH Combi Sachet V2",
+        "artist": "Maman Fvndy",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238b465b705c187c53bb54ea8",
+        "url": "https://open.spotify.com/album/24U0CP04ZZ3s2w2J6gxjYr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "30vFB2KVMzN0IBiVlOfebh",
+        "title": "Test Drive (Slowed)",
+        "artist": "Iuly Neamtu, Manele Mentolate, MelQ",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279bc2c6963d3768aacbd7d18",
+        "url": "https://open.spotify.com/album/30vFB2KVMzN0IBiVlOfebh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cwINl0V03LYLSt5PunTVh",
+        "title": "KILL THE KING",
+        "artist": "T.I.",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3cecd105b5fa96c964b9471",
+        "url": "https://open.spotify.com/album/1cwINl0V03LYLSt5PunTVh",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "7n2pr72Wvg7ZPHN3wFLSfd",
+        "title": "KILL THE KING",
+        "artist": "T.I.",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d3b972c7680515b8ad83130",
+        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "5nueE2Y7mOZ5jFo8uselgf",
+        "title": "Deportivo",
+        "artist": "Piero 47",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02660e7c45a379e71d6cb1fccb",
+        "url": "https://open.spotify.com/album/5nueE2Y7mOZ5jFo8uselgf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5A7AaUEw08SdMlEXwUdgv6",
+        "title": "Si No Es Muy Tarde - Versión Cumbia (En Vivo)",
+        "artist": "Luciano Pereyra, Ezequiel Y La Clave",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217c905ff637ca860411ee5e9",
+        "url": "https://open.spotify.com/album/5A7AaUEw08SdMlEXwUdgv6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2L0rw5NP8jlRqf7kiGTzd7",
+        "title": "-37°C",
+        "artist": "Jey B",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e37bb1e73c5cc023b798c4d4",
+        "url": "https://open.spotify.com/album/2L0rw5NP8jlRqf7kiGTzd7",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "7c5QXpljIbMDB59ugMhu7Z",
+        "title": "ReLoad (Remastered Deluxe Box Set)",
+        "artist": "Metallica",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248fb8571bd276f41213e1c43",
+        "url": "https://open.spotify.com/album/7c5QXpljIbMDB59ugMhu7Z",
+        "total_tracks": 222,
+        "genres": []
+      },
+      {
+        "id": "18WDVWMNnIoN4BhI7MARoO",
+        "title": "ReLoad (Remastered)",
+        "artist": "Metallica",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203e415e628fe039be7f77e58",
+        "url": "https://open.spotify.com/album/18WDVWMNnIoN4BhI7MARoO",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "48Hhu4itEVOd8MYmGD2Ptd",
+        "title": "Pere Illa (From \"Sing Geetham\")",
+        "artist": "Devi Sri Prasad, Imayavaramban Barani, Sagar, Haripriya",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e026553f3e74533cc3e1d2a08c7",
+        "url": "https://open.spotify.com/album/48Hhu4itEVOd8MYmGD2Ptd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JLQEaXQ91ncu1pfJYTH0J",
+        "title": "Ey Maanuda (From \"Sing Geetham\")",
+        "artist": "Devi Sri Prasad, Imayavaramban Barani, Narayanan Ravishankar",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d826c17da73167743d2a102",
+        "url": "https://open.spotify.com/album/5JLQEaXQ91ncu1pfJYTH0J",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-27": [
@@ -13440,6 +13726,195 @@
         "release_date": "2026-06-27",
         "image": "https://i.scdn.co/image/ab67616d00001e024902ca2caaaa985d12b1f778",
         "url": "https://open.spotify.com/album/7s31OuGENVpEDGs8itvYDJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "56BsyBSsRlxzfzc1vO5rYQ",
+        "title": "รักกันได้รึเปล่า?",
+        "artist": "YOUNGOHM",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b9eb0c8e8fc1baff1ed3f6e",
+        "url": "https://open.spotify.com/album/56BsyBSsRlxzfzc1vO5rYQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GXbKNcu0RjeccASV7NHX1",
+        "title": "Sajje Khabbe (Female Version) [From \"I, Nobody\"]",
+        "artist": "Jakes Bejoy, Simiran Kaur Dhadli, Bjorn Surrao, Siddhant Kaushal",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f329117f716725c4fed4006",
+        "url": "https://open.spotify.com/album/0GXbKNcu0RjeccASV7NHX1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7e0USy3qsePzvaXA5PPRLc",
+        "title": "Bolo Radhe",
+        "artist": "Sonu Nigam, Ankiit Sharma",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02884290620d27fc0b67be3bd8",
+        "url": "https://open.spotify.com/album/7e0USy3qsePzvaXA5PPRLc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0zlXB48G7Ef8EAaes4Qtmw",
+        "title": "Mangal Sutra (feat. Rohit Deswal)",
+        "artist": "Masoom Sharma, Anoop Chahal, Harry Lather, Pinna Music",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5fe6e5ac0424ef5be736d59",
+        "url": "https://open.spotify.com/album/0zlXB48G7Ef8EAaes4Qtmw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5j81iE8iVRXesJyINg822E",
+        "title": "そなた'sリサイタル",
+        "artist": "iLiFE!",
+        "type": "album",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02702c3a82b396cfbc4f611ca7",
+        "url": "https://open.spotify.com/album/5j81iE8iVRXesJyINg822E",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2sGeIHrzTk3U0OUAhblzk8",
+        "title": "Şık Olmalıyım",
+        "artist": "Yıldız Tilbe",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c7ef3a2cd1154fc713dfdcf",
+        "url": "https://open.spotify.com/album/2sGeIHrzTk3U0OUAhblzk8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6lQmr1mm0mvLMjuLG2ghNL",
+        "title": "Розовите очила",
+        "artist": "Preslava",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028731c263e770a501e7ec88b1",
+        "url": "https://open.spotify.com/album/6lQmr1mm0mvLMjuLG2ghNL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0J4js5d3F21VC3AdEmeMuW",
+        "title": "Sinfónico En Vivo",
+        "artist": "Lucas Sugo",
+        "type": "album",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268b94b949a09ed1613991f9d",
+        "url": "https://open.spotify.com/album/0J4js5d3F21VC3AdEmeMuW",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "1An80XHzcu4NOV6FsTEiuI",
+        "title": "KRUV I SOS",
+        "artist": "V:RGO",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e05daccfdfa5ef1e94ee918",
+        "url": "https://open.spotify.com/album/1An80XHzcu4NOV6FsTEiuI",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "0AN8DWFJ9XoSty13gD2xz5",
+        "title": "Me Va A Extrañar",
+        "artist": "La Deskarga",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02765fd175b355f300f34b5972",
+        "url": "https://open.spotify.com/album/0AN8DWFJ9XoSty13gD2xz5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7vMbS8vbdAl0ko9clIHTMc",
+        "title": "Vara nu e vara",
+        "artist": "Denis Ramniceanu, Babasha",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea15834333cf30d62a329721",
+        "url": "https://open.spotify.com/album/7vMbS8vbdAl0ko9clIHTMc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Cpyn9KzmidNBmjwNJLiKu",
+        "title": "Ekkert Breyst",
+        "artist": "Saint Pete",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee1dcdd838545c0bd6b09643",
+        "url": "https://open.spotify.com/album/3Cpyn9KzmidNBmjwNJLiKu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01Qwk8JrN65aBUTFN6vImi",
+        "title": "VEM PRO CARRO PRA MAMAR",
+        "artist": "Mc Rodrigo do CN, DJ HIGOR, DJ Junior Balla",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b398793b1a2c96e08abefba",
+        "url": "https://open.spotify.com/album/01Qwk8JrN65aBUTFN6vImi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0vUiPzsdcIf2u48nyp9btb",
+        "title": "Hotter Than Hell",
+        "artist": "FTR$, DJ BIGE",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8be48273026daec5509f0b7",
+        "url": "https://open.spotify.com/album/0vUiPzsdcIf2u48nyp9btb",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-28": [
+      {
+        "id": "0MDAXWNxNoC6nHNXL9t0S6",
+        "title": "LOST FILES",
+        "artist": "Nateman",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5b107d406fb8e0aa61a3fc6",
+        "url": "https://open.spotify.com/album/0MDAXWNxNoC6nHNXL9t0S6",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "660IjIBERWV75qrEqymFOu",
+        "title": "HOT GYAL SUMMER",
+        "artist": "reezy",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc6bd9c2fb8a3b0303b9c69f",
+        "url": "https://open.spotify.com/album/660IjIBERWV75qrEqymFOu",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "32zcqjPz0atu7tZxNaqS7J",
+        "title": "Tam za vasjo",
+        "artist": "Modrijani, Ansambel Stil",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022940810ac45f570be1541fad",
+        "url": "https://open.spotify.com/album/32zcqjPz0atu7tZxNaqS7J",
         "total_tracks": 1,
         "genres": []
       }
