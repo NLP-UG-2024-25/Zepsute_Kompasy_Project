@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-28T08:50:44.900Z",
-  "total": 1258,
+  "fetched_at": "2026-06-29T10:58:35.037Z",
+  "total": 1298,
   "by_date": {
     "2026-05-15": [
       {
@@ -11116,6 +11116,17 @@
         "url": "https://open.spotify.com/album/4linsrrFR6JAwk7rwcywzl",
         "total_tracks": 3,
         "genres": []
+      },
+      {
+        "id": "2UNJOZcWFBhtjUrKBNS9bc",
+        "title": "PROJECT X",
+        "artist": "Key Glock",
+        "type": "album",
+        "release_date": "2026-06-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a2010f985b1bd615fe3f0f1",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc",
+        "total_tracks": 20,
+        "genres": []
       }
     ],
     "2026-06-20": [
@@ -13715,6 +13726,28 @@
         "url": "https://open.spotify.com/album/5JLQEaXQ91ncu1pfJYTH0J",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0Brr98bxYskKOnVVhCur6v",
+        "title": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02786460e2ff0e75fda07a770c",
+        "url": "https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3OGlaQGkl5UQqNeOne2922",
+        "title": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "type": "single",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa8b98a46397dd6c3e3695ac",
+        "url": "https://open.spotify.com/album/3OGlaQGkl5UQqNeOne2922",
+        "total_tracks": 5,
+        "genres": []
       }
     ],
     "2026-06-27": [
@@ -13882,6 +13915,28 @@
         "url": "https://open.spotify.com/album/0vUiPzsdcIf2u48nyp9btb",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0bEjrV6JvsEjrDhrIUARsk",
+        "title": "Helwa Ya Balady",
+        "artist": "Tamer Hosny",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028691aabbe9dee61c600338d4",
+        "url": "https://open.spotify.com/album/0bEjrV6JvsEjrDhrIUARsk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5oEpJKKoiFNGRRGx00atxj",
+        "title": "Map Back To You",
+        "artist": "Livia Hart",
+        "type": "single",
+        "release_date": "2026-06-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ed018a4bcb1f22caaff07d1",
+        "url": "https://open.spotify.com/album/5oEpJKKoiFNGRRGx00atxj",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-06-28": [
@@ -13915,6 +13970,393 @@
         "release_date": "2026-06-28",
         "image": "https://i.scdn.co/image/ab67616d00001e022940810ac45f570be1541fad",
         "url": "https://open.spotify.com/album/32zcqjPz0atu7tZxNaqS7J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3dI1d8WHR8QkJ5nNaR1HCu",
+        "title": "Bollywood Power Mix",
+        "artist": "Thaman S, Tanishk Bagchi, Daler Mehndi, DIVINE",
+        "type": "compilation",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244282848ccc4bd519877d737",
+        "url": "https://open.spotify.com/album/3dI1d8WHR8QkJ5nNaR1HCu",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "1gA88HCLLQfQeAXcCUo8lb",
+        "title": "Nachindhi Machane (From \"MAGUDAM\")",
+        "artist": "G. V. Prakash, Ekadesi, Mangli, Velmurugan",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02604272941df4c854ecfbfc6e",
+        "url": "https://open.spotify.com/album/1gA88HCLLQfQeAXcCUo8lb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FbHqIQdaPcr27o9ayaKn2",
+        "title": "Terasa",
+        "artist": "Lboy Bsc, LUJA",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf0735611af823256e2aa2ab",
+        "url": "https://open.spotify.com/album/0FbHqIQdaPcr27o9ayaKn2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Brv56eZ95WpqHVPvZPrO8",
+        "title": "Pa la Uni V2",
+        "artist": "Piero 47",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260deae7fde553daa2e733121",
+        "url": "https://open.spotify.com/album/0Brv56eZ95WpqHVPvZPrO8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6iqTvjhWwQPXRWIHw1w8hW",
+        "title": "Hero2Villain",
+        "artist": "Sin Boy",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e85ec7a93a39c42498cdd9c7",
+        "url": "https://open.spotify.com/album/6iqTvjhWwQPXRWIHw1w8hW",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1bEp6IvEbgjNMeN92YLaFt",
+        "title": "E moj ti",
+        "artist": "Magazin",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dab74f1215ebaf109049ab8",
+        "url": "https://open.spotify.com/album/1bEp6IvEbgjNMeN92YLaFt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6XuUxQ9SXGpjTjYJ0kZ0zJ",
+        "title": "Trending Bhojpuri Dj Gana",
+        "artist": "Shilpi Raj, Srishti Bharti, Vishwash Giri, Neha Raj",
+        "type": "album",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4a72895f64c4ac301396a7c",
+        "url": "https://open.spotify.com/album/6XuUxQ9SXGpjTjYJ0kZ0zJ",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4CDFwKCQeTLzEetCoKwrjG",
+        "title": "We'll Be Fine",
+        "artist": "ENHYPEN",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216611552209d4667c6a94a3d",
+        "url": "https://open.spotify.com/album/4CDFwKCQeTLzEetCoKwrjG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LdtEBFyuR0fLLSguZPHqd",
+        "title": "Nachchaake Vachera (From \"MAKUTAM\")",
+        "artist": "G. V. Prakash, Bhuvana Chandra, Singer Prabha",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca9ea44b8e858a21578cb778",
+        "url": "https://open.spotify.com/album/2LdtEBFyuR0fLLSguZPHqd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oqmx03KzNESH7GkQHEuMf",
+        "title": "اسد الغابة اسد اي عرين ( مطرح ما دماغك هتوديك )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ababc0b7732e2a658d9d88c7",
+        "url": "https://open.spotify.com/album/1oqmx03KzNESH7GkQHEuMf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1K4B7mNKZovdrBNDu20VSl",
+        "title": "Gjør Det (Colledg)",
+        "artist": "Sjakklubb",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e021da65d4f0bcad1217d43922e",
+        "url": "https://open.spotify.com/album/1K4B7mNKZovdrBNDu20VSl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2D3EgjfuWhCIU6KU1XmRaS",
+        "title": "Moon Love",
+        "artist": "Hatsune Miku, Fumo Miku",
+        "type": "album",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238dcbb350a0ccecfc74c9bf9",
+        "url": "https://open.spotify.com/album/2D3EgjfuWhCIU6KU1XmRaS",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "61Kw1mUrsTJCzNQe7Qh9Tg",
+        "title": "Sigmaboy",
+        "artist": "Hatsune Miku, Moca Prex",
+        "type": "album",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cad442e8e65b927adb783893",
+        "url": "https://open.spotify.com/album/61Kw1mUrsTJCzNQe7Qh9Tg",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "1WnvfRcMlBhthu6qRZwlf1",
+        "title": "Aura Farming",
+        "artist": "Hatsune Miku, Bubz-P",
+        "type": "album",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8de4f478261bbf6f8c4be9e",
+        "url": "https://open.spotify.com/album/1WnvfRcMlBhthu6qRZwlf1",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "458FSv6u8ptHcx6oHxQnIu",
+        "title": "Urban, Night, Cyber, Vol. 15",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027763b8a30b765f31f4735e7a",
+        "url": "https://open.spotify.com/album/458FSv6u8ptHcx6oHxQnIu",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "1c39cnrE7Jyvsbz4lOG3Xq",
+        "title": "你可以亲吻我吗",
+        "artist": "Ares",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b34352a9dc6eb2485e220d8",
+        "url": "https://open.spotify.com/album/1c39cnrE7Jyvsbz4lOG3Xq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OvjnA1mMyHxOhRItkbYPa",
+        "title": "体面散场",
+        "artist": "Ares",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bc60a9ace468726d6b75e6c",
+        "url": "https://open.spotify.com/album/0OvjnA1mMyHxOhRItkbYPa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3f7t29TZVWGUzjf7GL9d75",
+        "title": "هلا بالخميس - رجع الاسد",
+        "artist": "7l2olo, Abo Leila, Mody Amin",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da51e8ff64a9ed21d43c8a6b",
+        "url": "https://open.spotify.com/album/3f7t29TZVWGUzjf7GL9d75",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4N5dbFfOigNxqSVLsfcGgR",
+        "title": "对你的爱Always Online",
+        "artist": "Ares",
+        "type": "single",
+        "release_date": "2026-06-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a75382d522e152dbc386a6f",
+        "url": "https://open.spotify.com/album/4N5dbFfOigNxqSVLsfcGgR",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-29": [
+      {
+        "id": "5bMSYAS0cVbmkgm1eBZlmI",
+        "title": "VIRAL (袁一琦YUAN YIQI Remix)",
+        "artist": "BOYNEXTDOOR, 袁一琦",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa16c3fba2a1e4b8d790c76b",
+        "url": "https://open.spotify.com/album/5bMSYAS0cVbmkgm1eBZlmI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5mM9F5AFSaGB2BgODm1jxy",
+        "title": "她已不再是那個女孩",
+        "artist": "DIOR 大穎",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240d8dd6417b6b5c6d569dc12",
+        "url": "https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38nJU2o2SpGYqJ3tI5UdXM",
+        "title": "P4U QUE TE AMA 2",
+        "artist": "Mc Rodrigo do CN, DJ SUAREZ, Mc Gw, ELIAS DJ",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021a2a8067f00f13b0fa89da48",
+        "url": "https://open.spotify.com/album/38nJU2o2SpGYqJ3tI5UdXM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MleckgzDIBhN9ld0HCZ4H",
+        "title": "Pritam Non Stop Hits",
+        "artist": "Pritam",
+        "type": "compilation",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020bebb458e718ef4ba71441ec",
+        "url": "https://open.spotify.com/album/0MleckgzDIBhN9ld0HCZ4H",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6TrdV55NrcCxlod6cXsTNu",
+        "title": "J-POP REMAKE Vol.1",
+        "artist": "TAEYEON",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec70b6ceac2050be19c87cfb",
+        "url": "https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5h8DdVOrusa8SjVJczkquM",
+        "title": "上岸 (《千香》网剧扶摇曲)",
+        "artist": "Ren Ran",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0204846ec9e82b3035be38492a",
+        "url": "https://open.spotify.com/album/5h8DdVOrusa8SjVJczkquM",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1m04IysOyA2GSOXheFPHUY",
+        "title": "Criminal (feat. Skinny Brown, Jayci yucca, Urban Fisher)",
+        "artist": "PATEKO",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292a83dd4ee4a319fa64ff333",
+        "url": "https://open.spotify.com/album/1m04IysOyA2GSOXheFPHUY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Zq8N5OFhVsiknCWAjZciV",
+        "title": "Trời Sáng Rồi Ta Ngủ Đi Thôi (Original Motion Picture Score)",
+        "artist": "30 Pictures",
+        "type": "album",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2005a512c25b259d098132e",
+        "url": "https://open.spotify.com/album/0Zq8N5OFhVsiknCWAjZciV",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3Namq52hdcqLf1Pk7HV71n",
+        "title": "Meiota",
+        "artist": "Yuri Redicopa, Vene no Beat",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f05f3920783ecdf6aef7c63b",
+        "url": "https://open.spotify.com/album/3Namq52hdcqLf1Pk7HV71n",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2G0MySPA10xqA5sbEffo5E",
+        "title": "Reflexo",
+        "artist": "Yuri Redicopa, Iraqui ZL, RAPHAANJOS, DJ MOTTA",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dda5d94403be679a99c67243",
+        "url": "https://open.spotify.com/album/2G0MySPA10xqA5sbEffo5E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3JWY7kNs1tGJFThRalJqLx",
+        "title": "Priceless",
+        "artist": "Priceless",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02303da87f508afa3e69973a9a",
+        "url": "https://open.spotify.com/album/3JWY7kNs1tGJFThRalJqLx",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4HQJoOs5V9YYpkHVbySVj7",
+        "title": "Entre la Tierra y el CIelo",
+        "artist": "La Juntada De Los Artistas, Trío Sierra Maestra",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa11216839cf3818652601f5",
+        "url": "https://open.spotify.com/album/4HQJoOs5V9YYpkHVbySVj7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6qQr0XWFs6q1L1KruptOqX",
+        "title": "GOLD LITUANICA",
+        "artist": "Aistè",
+        "type": "album",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daddd5ba8761556504d26857",
+        "url": "https://open.spotify.com/album/6qQr0XWFs6q1L1KruptOqX",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2CO5kRVEC0UIrctpSMw2OD",
+        "title": "ŠAUKSIU TAVO VARDĄ",
+        "artist": "Aistè, Rokas Yan",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273626282de0ae640955ef631",
+        "url": "https://open.spotify.com/album/2CO5kRVEC0UIrctpSMw2OD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17H78zuMexl1wkkYBhzsKa",
+        "title": "Missing",
+        "artist": "BE:FIRST",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269718e6fb874fe416b40ba34",
+        "url": "https://open.spotify.com/album/17H78zuMexl1wkkYBhzsKa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EKQkErQNAO83BcmkP7Rur",
+        "title": "Tropa dos Envolvidos",
+        "artist": "MC Nito, DJ Kley",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa50ba05309b0c4fef24f497",
+        "url": "https://open.spotify.com/album/1EKQkErQNAO83BcmkP7Rur",
         "total_tracks": 1,
         "genres": []
       }
