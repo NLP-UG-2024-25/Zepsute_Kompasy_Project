@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-29T10:58:35.037Z",
-  "total": 1298,
+  "fetched_at": "2026-06-30T09:34:15.518Z",
+  "total": 1329,
   "by_date": {
     "2026-05-15": [
       {
@@ -13748,6 +13748,17 @@
         "url": "https://open.spotify.com/album/3OGlaQGkl5UQqNeOne2922",
         "total_tracks": 5,
         "genres": []
+      },
+      {
+        "id": "11JGU3qdRaJZvGkCFRmFFu",
+        "title": "White House",
+        "artist": "Lil President",
+        "type": "album",
+        "release_date": "2026-06-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ef83aed0ac59cfaeaf0705a",
+        "url": "https://open.spotify.com/album/11JGU3qdRaJZvGkCFRmFFu",
+        "total_tracks": 16,
+        "genres": []
       }
     ],
     "2026-06-27": [
@@ -14357,6 +14368,338 @@
         "release_date": "2026-06-29",
         "image": "https://i.scdn.co/image/ab67616d00001e02fa50ba05309b0c4fef24f497",
         "url": "https://open.spotify.com/album/1EKQkErQNAO83BcmkP7Rur",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DoiLrHITwH7KRzqoNXfIr",
+        "title": "T's & C's Apply",
+        "artist": "Nasty C, Tellaman",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02acf73f1247c04a3c19acabe5",
+        "url": "https://open.spotify.com/album/6DoiLrHITwH7KRzqoNXfIr",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5yJy8J3SmMo7PKDgHXQX7W",
+        "title": "Ana Baadak",
+        "artist": "AL SHAMI",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aad1be30383fda9ef988f2c2",
+        "url": "https://open.spotify.com/album/5yJy8J3SmMo7PKDgHXQX7W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1sLdVnbAscKusq50QjCdz7",
+        "title": "Ja jos spavam u tvojoj majici",
+        "artist": "Ceca, Futa Band",
+        "type": "album",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c632865e2be4717ee0b4a689",
+        "url": "https://open.spotify.com/album/1sLdVnbAscKusq50QjCdz7",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "0CbQ5Gp0yDwNkUZYLUOTus",
+        "title": "Môn Đăng Hộ Đối",
+        "artist": "Ngô Kiến Huy",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec6065bb1363f3fd23f5488b",
+        "url": "https://open.spotify.com/album/0CbQ5Gp0yDwNkUZYLUOTus",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0roQPZkQtN3Zk8j3vLgcgx",
+        "title": "Trepa no P4U e Vai Embora",
+        "artist": "Yuri Redicopa, Guuh NV, Konddrake",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1276672760307a48846b185",
+        "url": "https://open.spotify.com/album/0roQPZkQtN3Zk8j3vLgcgx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0NCmF9LmZb5H2qt62yMA6J",
+        "title": "Dunia Masih Berputar",
+        "artist": "Stand Here Alone",
+        "type": "single",
+        "release_date": "2026-06-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1e7277a27ea6170b6323bc6",
+        "url": "https://open.spotify.com/album/0NCmF9LmZb5H2qt62yMA6J",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-06-30": [
+      {
+        "id": "2vRnjJytvuhV4n4jTXXoSA",
+        "title": "YOU DON'T HAVE TO",
+        "artist": "Jay Park",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02554fd428aafaf648c62ab921",
+        "url": "https://open.spotify.com/album/2vRnjJytvuhV4n4jTXXoSA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VONY82rDfvk12YYWbimML",
+        "title": "Medley Favuca",
+        "artist": "Mc Lele JP, DJ Hyago",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7533b367a08c5ff415dcb9a",
+        "url": "https://open.spotify.com/album/4VONY82rDfvk12YYWbimML",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SGRyku6N5cxIG7y5nOYk7",
+        "title": "עוד לא תמו כל פלאייך",
+        "artist": "בן צור, הלהקות הצבאיות",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c6d013644d7bd1cc08ca552",
+        "url": "https://open.spotify.com/album/5SGRyku6N5cxIG7y5nOYk7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6iu88jxHJLkSVcbAT2TlUC",
+        "title": "Festa Todo Dia",
+        "artist": "MC Meno K, Mc Kadu, MC Rick, DJ WILL TN",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a430ba4fc05492de3f2fd2c7",
+        "url": "https://open.spotify.com/album/6iu88jxHJLkSVcbAT2TlUC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0fCGe6MNuwplwfjmQ92h05",
+        "title": "Ali Ali",
+        "artist": "Shaarib Toshi, Raja Hasan",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e35fb1a585fa1e687c7b7166",
+        "url": "https://open.spotify.com/album/0fCGe6MNuwplwfjmQ92h05",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "67Dsm8dQ4JP5xVGXwK5JTE",
+        "title": "จำไว้ (LIVINGROOM SESSION)",
+        "artist": "Ink Waruntorn, Potato",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264f97e2d64cf0e8a4e54ab32",
+        "url": "https://open.spotify.com/album/67Dsm8dQ4JP5xVGXwK5JTE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3fLj3t8leGnPgHu4hxozA5",
+        "title": "Logariasmos/DNA (Mad VMA Version)",
+        "artist": "Katerina Lioliou",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c10b83a78a2690da7f56824d",
+        "url": "https://open.spotify.com/album/3fLj3t8leGnPgHu4hxozA5",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7A38wbAswxuZGB5aFvK9Qn",
+        "title": "Teh Hijau",
+        "artist": "Tulus",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02028b1d8a6bd4277be1c7e7ef",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Voffe2ZPY8CTnLcKohu2P",
+        "title": "Enoho Kormi",
+        "artist": "Nikos Oikonomopoulos",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02381ffa5c5eaa6c748fdff47b",
+        "url": "https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6GhsrovzaFshJIdBClJOiF",
+        "title": "Rebetiko (Mad VMA Mix)",
+        "artist": "APON, Márió",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c997b90ab1a19c66d0d32e2",
+        "url": "https://open.spotify.com/album/6GhsrovzaFshJIdBClJOiF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Iu2UwjSOIqEwBMDPSJ0rv",
+        "title": "Vai vai",
+        "artist": "IL'HAN",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba3dd4349cc952fa576ca638",
+        "url": "https://open.spotify.com/album/3Iu2UwjSOIqEwBMDPSJ0rv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5luTnbNqC5g55pnhVGoz0k",
+        "title": "BATYR",
+        "artist": "ALEM",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e027340fb70a3975b12c62422f6",
+        "url": "https://open.spotify.com/album/5luTnbNqC5g55pnhVGoz0k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1KiQAvI5WIoGG89jmuCDqJ",
+        "title": "เมื่อไหร่จะมี (มีใจให้กัน) [Miss Call Ver.]",
+        "artist": "BLVCKHEART",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289a419ebe8f17e088eb24665",
+        "url": "https://open.spotify.com/album/1KiQAvI5WIoGG89jmuCDqJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vrUuvyEwHbduxtocOMMbu",
+        "title": "Tuvums",
+        "artist": "Dons",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9c0aba6120118e4ad294892",
+        "url": "https://open.spotify.com/album/1vrUuvyEwHbduxtocOMMbu",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5qS3v6IxL5ZZhaBjQFrHb8",
+        "title": "Banda Pa Ti",
+        "artist": "Ateriko",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e022408ef23f28846b30a239a35",
+        "url": "https://open.spotify.com/album/5qS3v6IxL5ZZhaBjQFrHb8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CuouP0yJQEwqyNwrC7pjX",
+        "title": "ความต่าง 2026",
+        "artist": "OG-ANIC",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dca7a1528df52d468e02bb30",
+        "url": "https://open.spotify.com/album/7CuouP0yJQEwqyNwrC7pjX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1JVjBLkPeAoiOxtsNQ1iaW",
+        "title": "Bo de Bo de Bo (Live Session)",
+        "artist": "Jey One, Mapa Negro",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f25a4bae6cdd31bf503e1338",
+        "url": "https://open.spotify.com/album/1JVjBLkPeAoiOxtsNQ1iaW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qEBAJ2nrK7J5dfZEi0sNf",
+        "title": "แสงจันทร์",
+        "artist": "Bedroom Audio",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219631fd56c653569fd8e02bf",
+        "url": "https://open.spotify.com/album/5qEBAJ2nrK7J5dfZEi0sNf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EPbDAs94C0h5WcfQb8g7t",
+        "title": "像水一样",
+        "artist": "Dato' Sri Siti Nurhaliza, Firdhaus",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02504aa50fc66af12f62a44512",
+        "url": "https://open.spotify.com/album/1EPbDAs94C0h5WcfQb8g7t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DU7UYmxwOKJVE1TvGfGPV",
+        "title": "Unlocked 'n' Roll",
+        "artist": "Bedroom Audio",
+        "type": "album",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5aefc83ae7a4d891dffc692",
+        "url": "https://open.spotify.com/album/0DU7UYmxwOKJVE1TvGfGPV",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4lE91XXItn0GaZVy3AGskd",
+        "title": "Запомни",
+        "artist": "KhaliF",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0274cd6aa6229dad99f3bb401f",
+        "url": "https://open.spotify.com/album/4lE91XXItn0GaZVy3AGskd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pUZWgMojhEAWafKEr1OSH",
+        "title": "Mi Amor Siempre Serás Tú / I Will Always Love You",
+        "artist": "La Juntada De Los Artistas, Sofi B, Meli Gimenez, Sasha Belén",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d82f4beaef2660bd47e8fdd1",
+        "url": "https://open.spotify.com/album/4pUZWgMojhEAWafKEr1OSH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2jxS2gvDO92G3sbF8KJVHj",
+        "title": "Гори крадуть",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfccfc9994ad7ee632316770",
+        "url": "https://open.spotify.com/album/2jxS2gvDO92G3sbF8KJVHj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44rH9lrAGRBqrhNZ01Nawo",
+        "title": "Fragments",
+        "artist": "Far From Reality",
+        "type": "single",
+        "release_date": "2026-06-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8f80a7e51d17c1ed65e9e7e",
+        "url": "https://open.spotify.com/album/44rH9lrAGRBqrhNZ01Nawo",
         "total_tracks": 1,
         "genres": []
       }
