@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-30T09:34:15.518Z",
-  "total": 1329,
+  "fetched_at": "2026-07-01T09:44:28.005Z",
+  "total": 1345,
   "by_date": {
     "2026-05-15": [
       {
@@ -14700,6 +14700,184 @@
         "release_date": "2026-06-30",
         "image": "https://i.scdn.co/image/ab67616d00001e02f8f80a7e51d17c1ed65e9e7e",
         "url": "https://open.spotify.com/album/44rH9lrAGRBqrhNZ01Nawo",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-01": [
+      {
+        "id": "38PV34ozazXwGA3KoW7p0T",
+        "title": "LUCID DREAM (☆Taku Takahashi Remix)",
+        "artist": "IVE",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02382bcab24961d8d36203c021",
+        "url": "https://open.spotify.com/album/38PV34ozazXwGA3KoW7p0T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3EFXSGN5RhzWrOxraYKJxB",
+        "title": "Sad Girls (DJs from Mars Remix)",
+        "artist": "Bebe Rexha, David Guetta, DJs From Mars",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271d0c7d72d529cc36621190c",
+        "url": "https://open.spotify.com/album/3EFXSGN5RhzWrOxraYKJxB",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "13CPVtREWSJymHmcsx6d8e",
+        "title": "I Don't Wanna Hurt You (Dub Edit)",
+        "artist": "Clean Bandit, Biig Piig",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e235413154e16aa389ca85db",
+        "url": "https://open.spotify.com/album/13CPVtREWSJymHmcsx6d8e",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3tlGE7GK1iMdeCprCsOmls",
+        "title": "51st State",
+        "artist": "Bryan Adams",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab33c5237c940891148983e6",
+        "url": "https://open.spotify.com/album/3tlGE7GK1iMdeCprCsOmls",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CWIrGsju5yTIo3jvXn8BV",
+        "title": "Hoor | Coke Studio Bharat",
+        "artist": "Faheem Abdullah, Arslan Nizami, Qaiser Nizami",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9d67bdeaf95c483987d68af",
+        "url": "https://open.spotify.com/album/7CWIrGsju5yTIo3jvXn8BV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SGRyku6N5cxIG7y5nOYk7",
+        "title": "עוד לא תמו כל פלאייך",
+        "artist": "בן צור, הלהקות הצבאיות",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c6d013644d7bd1cc08ca552",
+        "url": "https://open.spotify.com/album/5SGRyku6N5cxIG7y5nOYk7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5LpJWL1Z0abh7AbD2Pfbek",
+        "title": "Dear.J",
+        "artist": "BIG Naughty",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f1651becdd270522c469c2c",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fMiKqJPY7tJ2RUCNTAgQB",
+        "title": "寸断 (《千香》网剧不归曲)",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d85ff5a5683dbcf5d645e3b",
+        "url": "https://open.spotify.com/album/1fMiKqJPY7tJ2RUCNTAgQB",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7K31QGLFPcrWPAjva8OZHH",
+        "title": "หนึ่งคนตรงนี้ (I'm here) [Day Off Version]",
+        "artist": "PURPEECH",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da1f884764d839bbe8f2c224",
+        "url": "https://open.spotify.com/album/7K31QGLFPcrWPAjva8OZHH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1QG03bcI7PyZbCOHYsGdhP",
+        "title": "Sin Nombre",
+        "artist": "Ulukmanapo",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d03407df0dc426f12c342fcc",
+        "url": "https://open.spotify.com/album/1QG03bcI7PyZbCOHYsGdhP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1wKianUh4KASqc85evay2k",
+        "title": "Hexentanz (feat. NALA, Fia)",
+        "artist": "Bibi Blocksberg, Peter Plate, Ulf Leo Sommer, Joshua Lange",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268971a61a4b41988fc4fcc21",
+        "url": "https://open.spotify.com/album/1wKianUh4KASqc85evay2k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MHt8B8uhXAzIJXGTMgmAs",
+        "title": "Has Do Zara",
+        "artist": "Sameer Anjaan, Neil-Niraj, Manasi Ghosh, NIRAJ",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286aeab96e459036e2a78e0ec",
+        "url": "https://open.spotify.com/album/0MHt8B8uhXAzIJXGTMgmAs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZTjfC8I2uZHhm66CSD9Tc",
+        "title": "Mimo Da Farfetch",
+        "artist": "MC Leozinho ZS, Yuri Redicopa, DJ GORDINHO DA VF",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288333dd0ec5af036c93021c5",
+        "url": "https://open.spotify.com/album/2ZTjfC8I2uZHhm66CSD9Tc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7DW9560sBAHbQvEOkbIGPd",
+        "title": "Ma eu sunt foc de tine",
+        "artist": "Mariano",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6c7903d4534724e82853d07",
+        "url": "https://open.spotify.com/album/7DW9560sBAHbQvEOkbIGPd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zt3FqkSfRiMLSbUPbaMaF",
+        "title": "what do i know",
+        "artist": "Joshua Baraka",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242f5049a56ff7a7b4bdd8713",
+        "url": "https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2GzgvJo2DCGhZOUj4lMw7p",
+        "title": "Lahanga Se Mahanga",
+        "artist": "Pawan Singh, Shivani Singh",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02727898eb2615bea5400458ec",
+        "url": "https://open.spotify.com/album/2GzgvJo2DCGhZOUj4lMw7p",
         "total_tracks": 1,
         "genres": []
       }
