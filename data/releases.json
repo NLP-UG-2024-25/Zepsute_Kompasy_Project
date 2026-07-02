@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-01T09:44:28.005Z",
-  "total": 1345,
+  "fetched_at": "2026-07-02T08:55:14.208Z",
+  "total": 1368,
   "by_date": {
     "2026-05-15": [
       {
@@ -14878,6 +14878,261 @@
         "release_date": "2026-07-01",
         "image": "https://i.scdn.co/image/ab67616d00001e02727898eb2615bea5400458ec",
         "url": "https://open.spotify.com/album/2GzgvJo2DCGhZOUj4lMw7p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7llJnKr6I3EoJgOF4OGk5n",
+        "title": "Sachin Jigar Bollywood Hits",
+        "artist": "Sachin-Jigar",
+        "type": "compilation",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a91990d712ff025875f2b2c3",
+        "url": "https://open.spotify.com/album/7llJnKr6I3EoJgOF4OGk5n",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "2NmFRI6l2LYm0TStM8ka1R",
+        "title": "Picasso (session live & acoustique)",
+        "artist": "Bigflo & Oli",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e026434db7dfb522679e75ac9d2",
+        "url": "https://open.spotify.com/album/2NmFRI6l2LYm0TStM8ka1R",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2ime79RWnLtit8KYl3aKTI",
+        "title": "06 (Live)",
+        "artist": "Itay Levi, יובל רפאל",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3a0ff2c094cfcef07e308ad",
+        "url": "https://open.spotify.com/album/2ime79RWnLtit8KYl3aKTI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5FY7oa5PBdo17l1AJ7O8MF",
+        "title": "Contagem Regressiva 2",
+        "artist": "Mc IG, MC Ryan SP, MC Jvila, MC Meno K",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236208c1e6e028f99bad0b26f",
+        "url": "https://open.spotify.com/album/5FY7oa5PBdo17l1AJ7O8MF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4egCSBFUR16cuFUOgBaNPI",
+        "title": "ليله ورا ليله",
+        "artist": "Ramy Gamal, Saad Lamjarred",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241583d812693f6dd4692e217",
+        "url": "https://open.spotify.com/album/4egCSBFUR16cuFUOgBaNPI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ghKf3dPJbC5PfXnpZOJJY",
+        "title": "Mala Fama",
+        "artist": "Amo",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b0cf8391c67f2816a1d6fe2",
+        "url": "https://open.spotify.com/album/0ghKf3dPJbC5PfXnpZOJJY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2EttXSmCTuNmauiknYTZue",
+        "title": "PAYBACK",
+        "artist": "HGEMONA$, Bruno, Mike G, BTK 187",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb6f0bf63cb7ae219c3e88a1",
+        "url": "https://open.spotify.com/album/2EttXSmCTuNmauiknYTZue",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7L2MoMRKIjc9psKglFpsFt",
+        "title": "Good on You",
+        "artist": "Maoli",
+        "type": "single",
+        "release_date": "2026-07-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fa23fbec228384c87054bb6",
+        "url": "https://open.spotify.com/album/7L2MoMRKIjc9psKglFpsFt",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-02": [
+      {
+        "id": "0IAIXj70kW633PeAR5Y4rg",
+        "title": "YA ESTUVO BUENO",
+        "artist": "Calle 24",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7d4ddf87bb8fb7a79879ffd",
+        "url": "https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KWTIK4dnNltRSeDuwY8f3",
+        "title": "Zigane",
+        "artist": "Dhanda Nyoliwala, Shevv",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02853bd5bf7c87e7cc19f339de",
+        "url": "https://open.spotify.com/album/7KWTIK4dnNltRSeDuwY8f3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pP0txE2OFEmvTqQqCPGPf",
+        "title": "TIPSY",
+        "artist": "MC 張天賦",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280eed373e78b0bc941885449",
+        "url": "https://open.spotify.com/album/4pP0txE2OFEmvTqQqCPGPf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "35sYkSQkCxj8m2btsrgcQU",
+        "title": "мир без тебя",
+        "artist": "M'Dee",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244acad0ebdde4b52be0d29d4",
+        "url": "https://open.spotify.com/album/35sYkSQkCxj8m2btsrgcQU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74fXm0U5bxy6XZZExiq8Wk",
+        "title": "ASSOTOS MANH",
+        "artist": "Kidd",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217ef849e2fad9c975fbaa39a",
+        "url": "https://open.spotify.com/album/74fXm0U5bxy6XZZExiq8Wk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6u2Z9QYUM5VLbyIJTM3EU1",
+        "title": "RED BULL 64 BARS",
+        "artist": "Avi, Favst",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b98b23060300cc19b3ea6061",
+        "url": "https://open.spotify.com/album/6u2Z9QYUM5VLbyIJTM3EU1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2tVybwqKd5zk1LqT2QdJPc",
+        "title": "Інтуїція",
+        "artist": "paashee",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233873c6887f1a30dbc7ada5b",
+        "url": "https://open.spotify.com/album/2tVybwqKd5zk1LqT2QdJPc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DLmmQ4yP29amzdf9YiB7I",
+        "title": "Corazón Porfiado",
+        "artist": "Pushi, Lucas Sugo",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02696b23d38d66d5ecbc4abb89",
+        "url": "https://open.spotify.com/album/1DLmmQ4yP29amzdf9YiB7I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hNrDEE0tHJv6Tuxi3RLl1",
+        "title": "Bamboleo",
+        "artist": "Sequento, Maka, Pancio",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd7e6e82e18e31f004fec8f5",
+        "url": "https://open.spotify.com/album/3hNrDEE0tHJv6Tuxi3RLl1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wcTyHxi7ag1WxCHCtdDVR",
+        "title": "pAPi (BAMBY REMIX)",
+        "artist": "Diplo, Major Lazer, Bamby",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245639e5da72d285cbf8ddf8c",
+        "url": "https://open.spotify.com/album/6wcTyHxi7ag1WxCHCtdDVR",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4ZTUdqCfaZBX792QpqtCup",
+        "title": "Mensagem da Minha Ex",
+        "artist": "DJ DAVI DOGDOG, Mc DR, Mc J9, MC Leozinho ZS",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cccbc511338c36804548fe5d",
+        "url": "https://open.spotify.com/album/4ZTUdqCfaZBX792QpqtCup",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Fv2HNP2HnfzkQDamSQE1t",
+        "title": "PINA COLADA",
+        "artist": "Kacper HTA, CrackHouse",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02405dbc57469216b5583c13d7",
+        "url": "https://open.spotify.com/album/1Fv2HNP2HnfzkQDamSQE1t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KpK8Sw6alIvu6UEke1x9G",
+        "title": "XOUILIKIA",
+        "artist": "DIFF, Hoodie No, Sanko, Spize",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcf6baa468960e3562e9b670",
+        "url": "https://open.spotify.com/album/7KpK8Sw6alIvu6UEke1x9G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bEMWIakLAeNeZIY8efGAZ",
+        "title": "Dārznieks vol2",
+        "artist": "Prāta Vētra, Fiņķis",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02621aa9ef785725c94a36a07b",
+        "url": "https://open.spotify.com/album/0bEMWIakLAeNeZIY8efGAZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7tsUnDSouDhC14oX6q5iDs",
+        "title": "Ți-am furat femeia",
+        "artist": "MADATORRICELLI",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02111bc8c65445216590d41c4a",
+        "url": "https://open.spotify.com/album/7tsUnDSouDhC14oX6q5iDs",
         "total_tracks": 1,
         "genres": []
       }
