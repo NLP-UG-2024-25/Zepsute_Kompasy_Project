@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-03T09:17:14.099Z",
-  "total": 1418,
+  "fetched_at": "2026-07-04T08:35:56.189Z",
+  "total": 1435,
   "by_date": {
     "2026-05-15": [
       {
@@ -15333,6 +15333,50 @@
         "url": "https://open.spotify.com/album/6SSw4K9CyNcOCnfXOxRUSs",
         "total_tracks": 14,
         "genres": []
+      },
+      {
+        "id": "32bMLgHccqPdTFbeLSxsWf",
+        "title": "Sick Ass Foo's (feat. Lil Mr. E & Toxica)",
+        "artist": "will.i.am",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7b80d0c0c466f094df6b035",
+        "url": "https://open.spotify.com/album/32bMLgHccqPdTFbeLSxsWf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5II32QwDW2j6qOPpQhn3A8",
+        "title": "PRESIDENCIAL",
+        "artist": "Jezzy",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d8a4234f7b20a8cdcec86dd",
+        "url": "https://open.spotify.com/album/5II32QwDW2j6qOPpQhn3A8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3EjBLaJ8rDfRaHyIE62GMb",
+        "title": "Saath",
+        "artist": "Sachet Tandon, Parampara Tandon, Kausar Munir, Sachet-Parampara",
+        "type": "single",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225982a52d4a3a94fdad15cf5",
+        "url": "https://open.spotify.com/album/3EjBLaJ8rDfRaHyIE62GMb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7dw0DapbhKfRqkRDIv8naf",
+        "title": "Paid In Pain",
+        "artist": "ONE11",
+        "type": "album",
+        "release_date": "2026-07-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02027c6d24718db1ca0bdd5f9d",
+        "url": "https://open.spotify.com/album/7dw0DapbhKfRqkRDIv8naf",
+        "total_tracks": 13,
+        "genres": []
       }
     ],
     "2026-07-03": [
@@ -15686,6 +15730,151 @@
         "image": "https://i.scdn.co/image/ab67616d00001e024d3c36baa5d273ae7d800e6f",
         "url": "https://open.spotify.com/album/1dVvNifNHTviGybWoIwQwp",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "68fW8pj3fzuthylZYPtYLD",
+        "title": "Neverending Love (40th Anniversary Edition)",
+        "artist": "Roxette",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f62a7897ac7d7c78cba29a1",
+        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1vmgouiQnd0w13kRfKEpvG",
+        "title": "IS THIS LOVE?",
+        "artist": "Palm Monkey",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02132be7271b53ecff1191c1e0",
+        "url": "https://open.spotify.com/album/1vmgouiQnd0w13kRfKEpvG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03jyJSfJaA918iNA1NM8TB",
+        "title": "El Capricho",
+        "artist": "Grupo Laberinto",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4b2e38c3da470087e3d3454",
+        "url": "https://open.spotify.com/album/03jyJSfJaA918iNA1NM8TB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2m3HYs6Ojn3jXuA6DcLJYj",
+        "title": "BRUCKSWEAT",
+        "artist": "Shenseea",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad997b76621d656e7b1b039a",
+        "url": "https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YBmd9VOSa7sGMdKUiSPBW",
+        "title": "Tangible",
+        "artist": "NBSPLV",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214802a4f676d1adfe65ba60c",
+        "url": "https://open.spotify.com/album/3YBmd9VOSa7sGMdKUiSPBW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Q7IXlfNjrI7S3oyc6lcLD",
+        "title": "Party People",
+        "artist": "Marlon Hoffstadt",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026202615f127affb65d6becd5",
+        "url": "https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BhW4Woj8x4Jjo2APSejcH",
+        "title": "8D Clinical Measurement",
+        "artist": "Brain Floss",
+        "type": "album",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029299a8eedc6e0dc23504d859",
+        "url": "https://open.spotify.com/album/5BhW4Woj8x4Jjo2APSejcH",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7co5FQWWMr98307nwfDB0w",
+        "title": "Allipoove (From \"Arulvaan\")",
+        "artist": "G. V. Prakash, Yugabharathi",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d74c09d088d29bff84c09d9a",
+        "url": "https://open.spotify.com/album/7co5FQWWMr98307nwfDB0w",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40XCC4wN9TFJHL6E7VbFjM",
+        "title": "Blessings",
+        "artist": "Klangkarussell, MVCA, GIVVEN",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d642bf663b6b23a844432d2",
+        "url": "https://open.spotify.com/album/40XCC4wN9TFJHL6E7VbFjM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00PG2RVdJrBvcJ3QfDnP4e",
+        "title": "Todo de mí",
+        "artist": "Marta Santos",
+        "type": "single",
+        "release_date": "2026-07-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e020bbff5d1c0ad3449aa123cbd",
+        "url": "https://open.spotify.com/album/00PG2RVdJrBvcJ3QfDnP4e",
+        "total_tracks": 2,
+        "genres": []
+      }
+    ],
+    "2026-07-04": [
+      {
+        "id": "7Ex3hlv37lOp1yyoml6zUL",
+        "title": "遺書",
+        "artist": "Tatsuya Kitani",
+        "type": "single",
+        "release_date": "2026-07-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b708ace9804e46dcc30bddd2",
+        "url": "https://open.spotify.com/album/7Ex3hlv37lOp1yyoml6zUL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7aA46xGZl0Sef4BumlxQ1e",
+        "title": "BREAK IT",
+        "artist": "KISS OF LIFE",
+        "type": "single",
+        "release_date": "2026-07-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d153648b7dd847282a761076",
+        "url": "https://open.spotify.com/album/7aA46xGZl0Sef4BumlxQ1e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3cb3BHgcW1EhAGdDtz3jfi",
+        "title": "Bleeding Speakerz",
+        "artist": "MySoul, flaw.13",
+        "type": "single",
+        "release_date": "2026-07-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffd0e84bdce0a0fb42901a8b",
+        "url": "https://open.spotify.com/album/3cb3BHgcW1EhAGdDtz3jfi",
+        "total_tracks": 2,
         "genres": []
       }
     ]
