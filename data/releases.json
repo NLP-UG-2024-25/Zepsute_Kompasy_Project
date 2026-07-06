@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-05T08:51:47.876Z",
-  "total": 1478,
+  "fetched_at": "2026-07-06T10:19:48.050Z",
+  "total": 1501,
   "by_date": {
     "2026-05-15": [
       {
@@ -16272,6 +16272,28 @@
         "url": "https://open.spotify.com/album/0jWsFUWNylcwKU90iNJXJO",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5RfHUCfMuzunNhUZslZfjJ",
+        "title": "MORNING DEW (DONK)",
+        "artist": "Beyoncé",
+        "type": "single",
+        "release_date": "2026-07-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229803857f9f242ab9fdcfe40",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DOORVgj5vzDHNdPRWlLyE",
+        "title": "不愿醒的梦 (《野狗骨头》电视剧野狗主题曲/片尾曲)",
+        "artist": "Tanya Chua",
+        "type": "single",
+        "release_date": "2026-07-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0232e82be1bb7f19841c87245c",
+        "url": "https://open.spotify.com/album/6DOORVgj5vzDHNdPRWlLyE",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-07-05": [
@@ -16349,6 +16371,239 @@
         "release_date": "2026-07-05",
         "image": "https://i.scdn.co/image/ab67616d00001e02e78b3d2ade0b8ff3826de9e5",
         "url": "https://open.spotify.com/album/4EPpTyuVKGCvQKNwcESwgo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6VV7wmwwvsTIUf6uyp6qde",
+        "title": "VIRAL (AiNA THE END Remix)",
+        "artist": "BOYNEXTDOOR, AiNA THE END",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f1cfa0acde1b5907b35346",
+        "url": "https://open.spotify.com/album/6VV7wmwwvsTIUf6uyp6qde",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39PEyxBEGMFlGdGIgCrCn9",
+        "title": "4 Life",
+        "artist": "Kris R.",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293f5131df99137b265d7aed8",
+        "url": "https://open.spotify.com/album/39PEyxBEGMFlGdGIgCrCn9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7weMXu68qsNbXxwG4el7Ws",
+        "title": "ولا ولا التزم الصمت ( انا عايز ام عباية وكعب )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218c99ce411a455f7724321bb",
+        "url": "https://open.spotify.com/album/7weMXu68qsNbXxwG4el7Ws",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0YjBOGY9N6iE9Yapurzzll",
+        "title": "okela",
+        "artist": "Mason Nguyen, Hipz",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b8ccf54c8f0198f80648bbe",
+        "url": "https://open.spotify.com/album/0YjBOGY9N6iE9Yapurzzll",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02xWLHsFJkNz0sWB5OkTj8",
+        "title": "Miris Mediterana",
+        "artist": "Nikolija",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218fe3569a807ae8abc709f83",
+        "url": "https://open.spotify.com/album/02xWLHsFJkNz0sWB5OkTj8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1CHyjf0E8bKo6s7laLnN6s",
+        "title": "The First Golden Hour",
+        "artist": "Wolfgang Amadeus Mozart, DVE, Ludwig van Beethoven",
+        "type": "album",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265cd903a46fa00ebf5a2c280",
+        "url": "https://open.spotify.com/album/1CHyjf0E8bKo6s7laLnN6s",
+        "total_tracks": 30,
+        "genres": []
+      }
+    ],
+    "2026-07-06": [
+      {
+        "id": "0ipnPh5eIiWftThZl0CL11",
+        "title": "グッタイム",
+        "artist": "Snow Man",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a723614a89ac1214ba593f17",
+        "url": "https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2z1f5Xb4QMjZ8xDZwKfkfI",
+        "title": "Dhurandhar-OST",
+        "artist": "Shashwat Sachdev",
+        "type": "album",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218b6f661507f5749a9e65c01",
+        "url": "https://open.spotify.com/album/2z1f5Xb4QMjZ8xDZwKfkfI",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "2eWjCpKo1tomxgDK8U4jIB",
+        "title": "Jai Mahalaxmi Aarti (Lofi)",
+        "artist": "Anuradha Paudwal, VDJ Fly",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d475c85e407532c2db2154c",
+        "url": "https://open.spotify.com/album/2eWjCpKo1tomxgDK8U4jIB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0uOFuflrHAMrKt3CXmtOsW",
+        "title": "นาฬิกาทราย (sign)",
+        "artist": "BOWKYLION",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02730b2376db7c593147c5f870",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0nn0DlKudlUAqpP5yvMDST",
+        "title": "BAD (Ofenbach Ver.)",
+        "artist": "ATEEZ",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd580c730304b438d8e2ea7f",
+        "url": "https://open.spotify.com/album/0nn0DlKudlUAqpP5yvMDST",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FiWxqi6FjE7NvbaHO4NVy",
+        "title": "MILU ALMEIDA / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Milu Almeida",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bb847f578f38dd3387e403f",
+        "url": "https://open.spotify.com/album/0FiWxqi6FjE7NvbaHO4NVy",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2S7dusvmcISuG1WL8kz3wP",
+        "title": "B5",
+        "artist": "1MILL",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029231882697bf91ce0c77bde2",
+        "url": "https://open.spotify.com/album/2S7dusvmcISuG1WL8kz3wP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ow8O8aVmMAgxIMT94k296",
+        "title": "SHIVALI",
+        "artist": "Bandata Na Ruba, MOMO RECORDS",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bd5a2e9b585045ef05432b5",
+        "url": "https://open.spotify.com/album/7ow8O8aVmMAgxIMT94k296",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4TOuEa1ejDoqg5ZCIcKvW8",
+        "title": "În Lipsa Mea (Live Armonie)",
+        "artist": "Smiley",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0283681476b5da379fc05a2088",
+        "url": "https://open.spotify.com/album/4TOuEa1ejDoqg5ZCIcKvW8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5w2nq1ZZ4gJLFZp3i9GfQ1",
+        "title": "A Taka",
+        "artist": "DJAANY",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e089d6aa46df11679ccde784",
+        "url": "https://open.spotify.com/album/5w2nq1ZZ4gJLFZp3i9GfQ1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "55mN0bUcIb4tsAZe0gNRvG",
+        "title": "Vertex",
+        "artist": "Miguel Lima",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f3ba4386a7c7a619b2cdae8",
+        "url": "https://open.spotify.com/album/55mN0bUcIb4tsAZe0gNRvG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6zmBnUxSBXV1d0xNnxtgTp",
+        "title": "We made",
+        "artist": "i-dle",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02068f50412a462f651a95dbcb",
+        "url": "https://open.spotify.com/album/6zmBnUxSBXV1d0xNnxtgTp",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2Hp5aLVHtavUY6I33gB958",
+        "title": "Shiozaki Wonderland (Daichi Shiozaki)",
+        "artist": "M!LK",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5f27e2eb874ed4f2bee4a58",
+        "url": "https://open.spotify.com/album/2Hp5aLVHtavUY6I33gB958",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Chqr0dA6XFoq9wH2PypYg",
+        "title": "Ali Maula Ali Dam Dam (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021485d90b8688a3b755c9f5a9",
+        "url": "https://open.spotify.com/album/2Chqr0dA6XFoq9wH2PypYg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "62KzdFIrW6zIcdkhFZzunA",
+        "title": "VAPO VAPO NO SIGILO",
+        "artist": "MC Nito, Mc Rodrigo do CN, DJ NATAN 22",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e022de8bddbd397e32127b9a3a8",
+        "url": "https://open.spotify.com/album/62KzdFIrW6zIcdkhFZzunA",
         "total_tracks": 1,
         "genres": []
       }
