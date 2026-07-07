@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-06T10:19:48.050Z",
-  "total": 1501,
+  "fetched_at": "2026-07-07T09:39:45.654Z",
+  "total": 1520,
   "by_date": {
     "2026-05-15": [
       {
@@ -16439,6 +16439,28 @@
         "url": "https://open.spotify.com/album/1CHyjf0E8bKo6s7laLnN6s",
         "total_tracks": 30,
         "genres": []
+      },
+      {
+        "id": "5w9mqTdiGCuLWfrAbvLK5Z",
+        "title": "Noche Loca",
+        "artist": "Aldeeen, Alexitoo",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a1e6ca623f663268a788c6e",
+        "url": "https://open.spotify.com/album/5w9mqTdiGCuLWfrAbvLK5Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bvJkX3LBYXaQEVb7ch2xb",
+        "title": "STING MESH 2ADOH",
+        "artist": "Lege-Cy, Sting Egypt",
+        "type": "single",
+        "release_date": "2026-07-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275ee2fa4149c8d1fa85f4c14",
+        "url": "https://open.spotify.com/album/0bvJkX3LBYXaQEVb7ch2xb",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-06": [
@@ -16605,6 +16627,195 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022de8bddbd397e32127b9a3a8",
         "url": "https://open.spotify.com/album/62KzdFIrW6zIcdkhFZzunA",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oh1KtCCDzeuzdFbZV1AW5",
+        "title": "Aane Wala Star",
+        "artist": "Sai Abhyankkar, Dholu bholu",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226b94fb67b802b29bb6675bd",
+        "url": "https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MtphxcCsFNj5S9FY6H4d5",
+        "title": "Garee2a Awy - A COLORS SHOW",
+        "artist": "TUL8TE, COLORS",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273aa5127d0871a45c130ea55",
+        "url": "https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Y2u6eHHFMsoCKftRR63ab",
+        "title": "Fig Smoke",
+        "artist": "ZUTOMAYO",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c057399689c96950f6c706e4",
+        "url": "https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-07": [
+      {
+        "id": "0GN8c8LKElLxzjr5gOams3",
+        "title": "Ve Junoon (From \"Awarapan 2\")",
+        "artist": "Mithoon, Sayeed Quadri, Subodhh Sharma",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288c28c6ce03addf74c775bca",
+        "url": "https://open.spotify.com/album/0GN8c8LKElLxzjr5gOams3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45h5MS5lk5mE63YIPQkLFZ",
+        "title": "Barsaat Na Zaya Karo",
+        "artist": "Kumar Sanu, Mohit dogra",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f22f84cf445dba07044d696",
+        "url": "https://open.spotify.com/album/45h5MS5lk5mE63YIPQkLFZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PgYa45gNf3GJuHmrdQGTZ",
+        "title": "חושב שאתה מסי",
+        "artist": "Noa Kirel",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adde4cde8dc18d2bea302f70",
+        "url": "https://open.spotify.com/album/2PgYa45gNf3GJuHmrdQGTZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Zrp32K0vqmkoRPhLtXg0c",
+        "title": "จำไว้ (LIVE SESSION)",
+        "artist": "Ink Waruntorn",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa5b2a7269f775881a30c60f",
+        "url": "https://open.spotify.com/album/3Zrp32K0vqmkoRPhLtXg0c",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5uLwwJVwMZcSiSe9JbltKP",
+        "title": "Still Hot",
+        "artist": "ZENE THE ZILLA",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206618b12e1fb80018070873b",
+        "url": "https://open.spotify.com/album/5uLwwJVwMZcSiSe9JbltKP",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2kqEFpOgD7hNXivyKpGcOS",
+        "title": "ANOTHER SHADE OF BLUE",
+        "artist": "Jay Fung",
+        "type": "album",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4c4676a3bbfeedfcf496739",
+        "url": "https://open.spotify.com/album/2kqEFpOgD7hNXivyKpGcOS",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1UdkUW9qw7lniX8k8wLf75",
+        "title": "Perfil #144 BAIRRO",
+        "artist": "Pineapple StormTv, VinihKush, lym.",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261e28a4ee37b3e6ee24421f6",
+        "url": "https://open.spotify.com/album/1UdkUW9qw7lniX8k8wLf75",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5NLP1ns9wnpziwxXOiWfZL",
+        "title": "ช่างแม่ง",
+        "artist": "PORZAX",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02693686fff26ba210054f7e9a",
+        "url": "https://open.spotify.com/album/5NLP1ns9wnpziwxXOiWfZL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "527WThPElJ2zVD0SXN2wst",
+        "title": "Tequila",
+        "artist": "Sofi",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5adc85443f7448acf1e7509",
+        "url": "https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0fmkgCT3Xg41tWIFCNvoxE",
+        "title": "Білий корабель",
+        "artist": "DJ KAIFAR, Amaya Roma",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de1d7fdf9bbfd7eed6b21e46",
+        "url": "https://open.spotify.com/album/0fmkgCT3Xg41tWIFCNvoxE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0LM0Yjoa46ISo9a8HsB021",
+        "title": "ONDA SABANERA x LA JUNTADA DE LOS ARTISTAS (En Vivo en C Art Media)",
+        "artist": "La Juntada De Los Artistas, Onda Sabanera",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b9bde171be928635d0f1b595",
+        "url": "https://open.spotify.com/album/0LM0Yjoa46ISo9a8HsB021",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6R7D1SHAr7awGo8654Ob89",
+        "title": "Terremoto De Bumbum",
+        "artist": "MC Nito, MC Pânico, Dj Ph Da Vp, Dj Thiago Andre",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6605855aa1f61d7ca3941de",
+        "url": "https://open.spotify.com/album/6R7D1SHAr7awGo8654Ob89",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1V1UtrsKT1haNxZNJ9LkKT",
+        "title": "Apego Gera K O",
+        "artist": "Yuri Redicopa, Iraque ZL, DJ J2",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e028627809adf933057af4208d2",
+        "url": "https://open.spotify.com/album/1V1UtrsKT1haNxZNJ9LkKT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6qI3h3kLyqp6mivcwMb9Gu",
+        "title": "Tallinn On Minu",
+        "artist": "Lil Till",
+        "type": "album",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ab94cfc41aa511efe601e4f",
+        "url": "https://open.spotify.com/album/6qI3h3kLyqp6mivcwMb9Gu",
+        "total_tracks": 12,
         "genres": []
       }
     ]
