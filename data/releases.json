@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-07T09:39:45.654Z",
-  "total": 1520,
+  "fetched_at": "2026-07-08T08:26:45.787Z",
+  "total": 1557,
   "by_date": {
     "2026-05-15": [
       {
@@ -16661,6 +16661,105 @@
         "url": "https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5UJZXoC2VS7yzRE5c4R6Vz",
+        "title": "Hangova (From \"DC\")",
+        "artist": "Anirudh Ravichander, Heisenberg",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b53c37a70bfe12a07c50ad8",
+        "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GlspYWMDtzTB6q6WtOsCG",
+        "title": "2 Pata (Remix)",
+        "artist": "Megadivo Produce, Yoan Retro, Ronny Rich, Ronny GTA",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230a58be12863f1bbb60b8779",
+        "url": "https://open.spotify.com/album/5GlspYWMDtzTB6q6WtOsCG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qIGWYiZ1upO5OVJinvl8S",
+        "title": "Where We Still Were",
+        "artist": "Credo V Daniels",
+        "type": "album",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0274bf8f2b929a59daaa4399db",
+        "url": "https://open.spotify.com/album/5qIGWYiZ1upO5OVJinvl8S",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "3MGCUxYZv7M0yrZfkbeTkE",
+        "title": "אין מילים איתך (חי באולפן גלגלצ)",
+        "artist": "נדב חנציס, גלגלצ",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200c9584e3c7c5dfa53530731",
+        "url": "https://open.spotify.com/album/3MGCUxYZv7M0yrZfkbeTkE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nBs3ecbaEt2Lhv1t9XMXa",
+        "title": "FeedxCortez",
+        "artist": "Flow G",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d90d9652644da129ab39a281",
+        "url": "https://open.spotify.com/album/1nBs3ecbaEt2Lhv1t9XMXa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6aMFTDXSuxUYkVeOklnrsQ",
+        "title": "E frumoasa foc",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa148c9039029cd1c24697e7",
+        "url": "https://open.spotify.com/album/6aMFTDXSuxUYkVeOklnrsQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43RSA64dsrXe1Vb4PK8zz3",
+        "title": "Más Que Tu",
+        "artist": "El Yeyo PP",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6f65c56b0d074e062806d4a",
+        "url": "https://open.spotify.com/album/43RSA64dsrXe1Vb4PK8zz3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yHkxGxp5ojHPzbZTEpPJB",
+        "title": "Woh Ikka Hai (From \"Ikka\")",
+        "artist": "Mithoon, Vishal Dadlani, Raja Kumari, Sayeed Quadri",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02018ad29325bcafe0f551a04d",
+        "url": "https://open.spotify.com/album/7yHkxGxp5ojHPzbZTEpPJB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4iqa2RffmeC8k4lhhp3biZ",
+        "title": "Red Bull 64 Bars",
+        "artist": "BALLER",
+        "type": "single",
+        "release_date": "2026-07-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e024757a68d876166d40a61c466",
+        "url": "https://open.spotify.com/album/4iqa2RffmeC8k4lhhp3biZ",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-07": [
@@ -16816,6 +16915,316 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028ab94cfc41aa511efe601e4f",
         "url": "https://open.spotify.com/album/6qI3h3kLyqp6mivcwMb9Gu",
         "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3sxI9ZA68u8oeLBKX9FwmX",
+        "title": "Empty (Live At The London Astoria II, 1994)",
+        "artist": "The Cranberries",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e235e4df65288755e4038d96",
+        "url": "https://open.spotify.com/album/3sxI9ZA68u8oeLBKX9FwmX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2fH9DZih8wqvs1GwXaCNJd",
+        "title": "Chevrolet '78",
+        "artist": "王赫野",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254b28563e370e56c00bdd4d1",
+        "url": "https://open.spotify.com/album/2fH9DZih8wqvs1GwXaCNJd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "20xgkVfTxFzAhPbk154Hcw",
+        "title": "I, Nobody (Original Motion Picture Soundtrack)",
+        "artist": "Jakes Bejoy",
+        "type": "album",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5203750ef1e25ee1a971544",
+        "url": "https://open.spotify.com/album/20xgkVfTxFzAhPbk154Hcw",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1BGoSXH26t5oeXmzB1gdDz",
+        "title": "T's & C's Apply",
+        "artist": "Nasty C, Tellaman",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234299fab155911d0ba642e0b",
+        "url": "https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "47uc4jVRA4Z49q1tvoP1t4",
+        "title": "Só as Melhores 4",
+        "artist": "Mc Rodrigo do CN, DJ Zigão",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f88088f1dfbc0cb2113c2b21",
+        "url": "https://open.spotify.com/album/47uc4jVRA4Z49q1tvoP1t4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jJNc66Bkl80Cl1JEH6Pco",
+        "title": "Dance Right Now",
+        "artist": "Ne-Yo",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e027019bbc5a62830f5ffa5d58e",
+        "url": "https://open.spotify.com/album/7jJNc66Bkl80Cl1JEH6Pco",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3pN3jdL5rj6mf6AqkjR3aD",
+        "title": "I'm Never Gonna R.I.P.",
+        "artist": "Green Day",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9ea55c61661acfbcc8ee4e1",
+        "url": "https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0zTA7K2mVyGR1wZfvSItZ2",
+        "title": "Mo Bebe",
+        "artist": "Gya, VALENTINOOSM",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5ef71d38477899ba2f4fd91",
+        "url": "https://open.spotify.com/album/0zTA7K2mVyGR1wZfvSItZ2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6BrNnQyNIDkJ14jUtgNOxr",
+        "title": "EL 2ELA 3ALBESLA",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02166431bfa3284f423ab21a5c",
+        "url": "https://open.spotify.com/album/6BrNnQyNIDkJ14jUtgNOxr",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-08": [
+      {
+        "id": "1f0zvTxIYJMZ1L87qfGEsZ",
+        "title": "SLICK",
+        "artist": "Victony",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1356b443072b4f8615af24d",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43M0TToKdrxsudNRL167VA",
+        "title": "Do It",
+        "artist": "Sean Paul, Zimi",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd7068338e553bbc50db5efa",
+        "url": "https://open.spotify.com/album/43M0TToKdrxsudNRL167VA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Lf9xfYDltNx6nA1v7mvTa",
+        "title": "LUCID DREAM (Shin Sakiura Remix)",
+        "artist": "IVE",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bff536376a322912ca277fc0",
+        "url": "https://open.spotify.com/album/5Lf9xfYDltNx6nA1v7mvTa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0utXaTMHxah2lKr3TBPF1i",
+        "title": "SHOW DOWN",
+        "artist": "QWER",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e022954d91973257d0492739a66",
+        "url": "https://open.spotify.com/album/0utXaTMHxah2lKr3TBPF1i",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02LNxzssBjZ13PR2ivizCk",
+        "title": "Stella",
+        "artist": "SEKAI NO OWARI",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02075c2b67af51af884822ca39",
+        "url": "https://open.spotify.com/album/02LNxzssBjZ13PR2ivizCk",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5X1QJwRKRpyteu2TsPiLJx",
+        "title": "AIRE",
+        "artist": "Lucho RK",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e026fa386d1a81a54b9e6d0b5c1",
+        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6dZrX3G7FhaEDIXSU5UgYA",
+        "title": "Ease Your Mind",
+        "artist": "Ghostly Kisses",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02246efb2d8ecd35c770873904",
+        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RrVVBQd9Jle9ym3nw9yb3",
+        "title": "CHÈVRE GOAT NTABA (GRM x yard)",
+        "artist": "Leto",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02352d64e7893c452acefa5b8d",
+        "url": "https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0KfCJCAhtpJ04f26lMOt6m",
+        "title": "Três da Manhã",
+        "artist": "Netto Brito",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fc450d8f1431c2c135524f4",
+        "url": "https://open.spotify.com/album/0KfCJCAhtpJ04f26lMOt6m",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4m2FmpQ9428vrQ1CuUXWSC",
+        "title": "Half man half Machine",
+        "artist": "Egyptian Pharaoh",
+        "type": "album",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234576de9f9ac65f7d14fb35a",
+        "url": "https://open.spotify.com/album/4m2FmpQ9428vrQ1CuUXWSC",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "6i8BR7tAJxVGZAEcF1dxlZ",
+        "title": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "artist": "Disney, Lin-Manuel Miranda, Mark Mancina, Te Vaka",
+        "type": "album",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235fe5066480f82f23a069a98",
+        "url": "https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ",
+        "total_tracks": 44,
+        "genres": []
+      },
+      {
+        "id": "4SQttMicO26KIjIq9fI2TQ",
+        "title": "Badam Giri-Lofi Version",
+        "artist": "Masoom Sharma",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266e863903255c2e8687d750f",
+        "url": "https://open.spotify.com/album/4SQttMicO26KIjIq9fI2TQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5jl62vRBocChxdt0WQA8Xp",
+        "title": "Conta Rica",
+        "artist": "DJ BOY, Mc Dkziin",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221395a9bd942a34f283f44dd",
+        "url": "https://open.spotify.com/album/5jl62vRBocChxdt0WQA8Xp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5grQsTj9K5GD02cVCKvvp1",
+        "title": "Quando Vem pro Rala?",
+        "artist": "Mc Kadu, Mc Gw, Mc J9, MC Neguin da 20",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ddc2e9ef9aca6e48996b4524",
+        "url": "https://open.spotify.com/album/5grQsTj9K5GD02cVCKvvp1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6p7FSmk9EdEjY8CM1JhWzc",
+        "title": "Instrumentale liedjes voor het slapengaan (Peuterslaap Muziek)",
+        "artist": "Alles Kids, Kinderliedjes Om Mee Te Zingen, Liedjes voor kinderen",
+        "type": "album",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02184d52b6b3f4d2e43785ba0b",
+        "url": "https://open.spotify.com/album/6p7FSmk9EdEjY8CM1JhWzc",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4lwxwLFRuENl7WZ2QaYDDY",
+        "title": "Magan Unaidy",
+        "artist": "Moldanazar",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0228cb8a7175407bc0b5869dca",
+        "url": "https://open.spotify.com/album/4lwxwLFRuENl7WZ2QaYDDY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1PtIEHUzLe1nO7sGeNBFrP",
+        "title": "O bataie de ciocan",
+        "artist": "Dani Mocanu",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a65bc42e0f1adaf4334de58",
+        "url": "https://open.spotify.com/album/1PtIEHUzLe1nO7sGeNBFrP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BfIY9d4v2DfSv1ZPI7PzM",
+        "title": "Min Bror (Acoustic Version)",
+        "artist": "URO",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3d3de5c2f6107901d211cfb",
+        "url": "https://open.spotify.com/album/5BfIY9d4v2DfSv1ZPI7PzM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0gYedF66Pyy4GuO1ozqKYZ",
+        "title": "Urban, Night, Cyber, Vol. 17",
+        "artist": "Hatsune Miku, Stine Tveit",
+        "type": "album",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0e085a5a88471d9e2869eca",
+        "url": "https://open.spotify.com/album/0gYedF66Pyy4GuO1ozqKYZ",
+        "total_tracks": 7,
         "genres": []
       }
     ]
