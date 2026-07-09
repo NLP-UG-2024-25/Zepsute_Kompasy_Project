@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-08T08:26:45.787Z",
-  "total": 1557,
+  "fetched_at": "2026-07-09T09:38:02.551Z",
+  "total": 1586,
   "by_date": {
     "2026-05-15": [
       {
@@ -17015,6 +17015,72 @@
         "url": "https://open.spotify.com/album/6BrNnQyNIDkJ14jUtgNOxr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1ivlBe4lilutfAmOoQWxxS",
+        "title": "Street Of Dreams",
+        "artist": "U2",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5adf300578ee675610aef6b",
+        "url": "https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58ZHXNNQuqLZJJ0DBpJEno",
+        "title": "El Sistema Se Respeta",
+        "artist": "Don Pablo Mures, Valentino GRM, Andiex",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbc567107f34a915d5dcf960",
+        "url": "https://open.spotify.com/album/58ZHXNNQuqLZJJ0DBpJEno",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6AQiRXJ2i48Lu7CFUrKUER",
+        "title": "Kygo Jo (feat. Lyng) [Kygo Remix]",
+        "artist": "Kygo, Flow Kingz, JMK",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b00c491971f061b7cf617db",
+        "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2diF1P3CD4zn4XriBddymW",
+        "title": "انت اونطجي ( الناس عقارب )",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02021189ac4a460fb8b2267c54",
+        "url": "https://open.spotify.com/album/2diF1P3CD4zn4XriBddymW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2K3emHlq6SS3vE5vzfO7MT",
+        "title": "C'est Fini",
+        "artist": "Cheba Souad",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246f68f68c951b8595b71472d",
+        "url": "https://open.spotify.com/album/2K3emHlq6SS3vE5vzfO7MT",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0Nh4Ha0V0i88wgBIS7YdAx",
+        "title": "การจากลา",
+        "artist": "โต๋เหน่อ",
+        "type": "single",
+        "release_date": "2026-07-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be14c5f03b46e1de974d6672",
+        "url": "https://open.spotify.com/album/0Nh4Ha0V0i88wgBIS7YdAx",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-08": [
@@ -17225,6 +17291,261 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e0e085a5a88471d9e2869eca",
         "url": "https://open.spotify.com/album/0gYedF66Pyy4GuO1ozqKYZ",
         "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4xwpNKYi1MmGOvmiZbOgH4",
+        "title": "حب الحب",
+        "artist": "Mahmoud El Esseily, Houda",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d589725f51ca3728c8fa1179",
+        "url": "https://open.spotify.com/album/4xwpNKYi1MmGOvmiZbOgH4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0l5WJtAgqHf8kMLr12X6Ie",
+        "title": "Bu şarkı sana yokluğuna",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e701d8df71f01011d4ec4210",
+        "url": "https://open.spotify.com/album/0l5WJtAgqHf8kMLr12X6Ie",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0x5qx5YAivkBa6WbWIBfZA",
+        "title": "Drunk Side",
+        "artist": "Gustavo Mioto",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d0261a8a4804d02576f30d3",
+        "url": "https://open.spotify.com/album/0x5qx5YAivkBa6WbWIBfZA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ajyFXLc6OINgs3Z4ZFKSP",
+        "title": "รักมักยาก (Lover Loser)",
+        "artist": "BUS",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c6014e2a87c000ad1de4234",
+        "url": "https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vUnlZSYdPD7hZAdBGugY0",
+        "title": "Dil Dara O",
+        "artist": "Alka Yagnik, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f752aef1b8b87d7b03d0662",
+        "url": "https://open.spotify.com/album/1vUnlZSYdPD7hZAdBGugY0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3OLETlDfl1uKHtliwKJ1vy",
+        "title": "LAWETA",
+        "artist": "Kizo, Julia Wieniawa, BeMelo, GRAUX",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027190bd5a6beb64c16224b749",
+        "url": "https://open.spotify.com/album/3OLETlDfl1uKHtliwKJ1vy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HTSdb9iqnEl62gR4k0nyP",
+        "title": "Mưa Còn Rơi Trên Phố",
+        "artist": "WEAN",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d774c06a09bf9af965b26b6",
+        "url": "https://open.spotify.com/album/2HTSdb9iqnEl62gR4k0nyP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0oFQ9yZr1LyhQKPZFHIBD3",
+        "title": "DATING PAGKATAO",
+        "artist": "Nateman",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2081468fedd3ba92d0e4737",
+        "url": "https://open.spotify.com/album/0oFQ9yZr1LyhQKPZFHIBD3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3apDvnMTrS7L2CVO49Bkph",
+        "title": "Очі",
+        "artist": "Kalush Orchestra, melos",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a6b03c4a69dac7d0dfc198e",
+        "url": "https://open.spotify.com/album/3apDvnMTrS7L2CVO49Bkph",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7rafVHZ96M3HUZvJnOeAi0",
+        "title": "Izabela (Remix)",
+        "artist": "Connect-R, Speak",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027cafea14206aabc167f1302b",
+        "url": "https://open.spotify.com/album/7rafVHZ96M3HUZvJnOeAi0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hMI17g8gRJpPsp2VUZCEU",
+        "title": "عايش مابين تعابين",
+        "artist": "Reda El Bahrawy",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a75704737db5653e2f2fee55",
+        "url": "https://open.spotify.com/album/3hMI17g8gRJpPsp2VUZCEU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FQsXp0okLvibv2KLf56f6",
+        "title": "Bigger Splash",
+        "artist": "Arde Bogotá",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246513ac169277a8bff294213",
+        "url": "https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-09": [
+      {
+        "id": "0W7dqgBtmGsVK18Y05cjKv",
+        "title": "You and I",
+        "artist": "HANRORO",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280c5ccced5c30276dddcc12c",
+        "url": "https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1iMBvrbRX7gYba7MWSjBJQ",
+        "title": "Judaa",
+        "artist": "Vishal Mishra, Gulab Sidhu, Happy Raikoti, Goldboy",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eef5576f94a112bf38090722",
+        "url": "https://open.spotify.com/album/1iMBvrbRX7gYba7MWSjBJQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1twoTNBNoXeRNk9fFAOf4M",
+        "title": "Pana",
+        "artist": "Luis Brown",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9639559714cb5d0296c1dae",
+        "url": "https://open.spotify.com/album/1twoTNBNoXeRNk9fFAOf4M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XrAgx5vUMixdexA9UDsJj",
+        "title": "Dil De Baithi",
+        "artist": "Dhanda Nyoliwala, Shevv",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249507e0021d4053d6fd13a22",
+        "url": "https://open.spotify.com/album/3XrAgx5vUMixdexA9UDsJj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EQ775pnGpUnLkplFHCOoi",
+        "title": "UNIÃO FODASTICA (BERIMBAU)",
+        "artist": "Mc Livinho, Delano, DJ Mandrake 100% Original, dj henrique de são mateus",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a97d61ba5ce172ed717a2dc",
+        "url": "https://open.spotify.com/album/1EQ775pnGpUnLkplFHCOoi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2gOa5uroWd6vArXZ1u2lg5",
+        "title": "Stay: Two",
+        "artist": "Choi Yu Ree",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b48e252d013504490e4320d6",
+        "url": "https://open.spotify.com/album/2gOa5uroWd6vArXZ1u2lg5",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "0icmBYn2Szd8tHfxHN6u5d",
+        "title": "Bololô Session vol.1 (Alô Porteiro) [feat. Mc Lele JP]",
+        "artist": "MC Ryan SP, Mc Jacaré, Mc IG, 2B",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfb3af97142ab4577d276fee",
+        "url": "https://open.spotify.com/album/0icmBYn2Szd8tHfxHN6u5d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1lN56D48D6q2T7L0xaxfRW",
+        "title": "Вітамін",
+        "artist": "Parfeniuk",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02555d5b0e94d8e1d1e0c1d3a2",
+        "url": "https://open.spotify.com/album/1lN56D48D6q2T7L0xaxfRW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34Rqf2STHPVOCs7HuKP30t",
+        "title": "Caramela",
+        "artist": "MIRA",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026645891622d08e0fc6765212",
+        "url": "https://open.spotify.com/album/34Rqf2STHPVOCs7HuKP30t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zS53BAFQKFwg2PGS7HJgQ",
+        "title": "Don Alvarez",
+        "artist": "Sentino, CrackHouse",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcf7370d6f4b0512a76ced47",
+        "url": "https://open.spotify.com/album/3zS53BAFQKFwg2PGS7HJgQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bqqUMVTk9he7qoGpgFs2l",
+        "title": "Hitung Hitung",
+        "artist": "Toton Caribo, Justy Aldrin",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6a83dc271d45761a84edc6d",
+        "url": "https://open.spotify.com/album/3bqqUMVTk9he7qoGpgFs2l",
+        "total_tracks": 1,
         "genres": []
       }
     ]
