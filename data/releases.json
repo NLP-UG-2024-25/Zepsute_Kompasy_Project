@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-09T09:38:02.551Z",
-  "total": 1586,
+  "fetched_at": "2026-07-10T09:33:40.341Z",
+  "total": 1635,
   "by_date": {
     "2026-05-15": [
       {
@@ -17424,6 +17424,17 @@
         "url": "https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5fHNbPNnkSAgY84yEjrQkJ",
+        "title": "Ruin (Live From Boston)",
+        "artist": "Shawn Mendes",
+        "type": "single",
+        "release_date": "2026-07-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2e37143afcf52194ad3adcb",
+        "url": "https://open.spotify.com/album/5fHNbPNnkSAgY84yEjrQkJ",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-07-09": [
@@ -17545,6 +17556,536 @@
         "release_date": "2026-07-09",
         "image": "https://i.scdn.co/image/ab67616d00001e02c6a83dc271d45761a84edc6d",
         "url": "https://open.spotify.com/album/3bqqUMVTk9he7qoGpgFs2l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3QnV8Wq1tjUuor9guUzEXA",
+        "title": "I Just Got Mad",
+        "artist": "Malcolm Todd",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295950d330ea3297121569dd0",
+        "url": "https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Z4jEq2zHhWK9XagSRjnTV",
+        "title": "La Monda",
+        "artist": "De La Rose, Ryan Castro",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a2bd3a8e83299cd3061e9a2",
+        "url": "https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5WGBrpZ8mAUo67qT8QlFWy",
+        "title": "BORONDO (En Vivo Desde Bogotá)",
+        "artist": "Beéle",
+        "type": "album",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261d218840b5c0cc984b07133",
+        "url": "https://open.spotify.com/album/5WGBrpZ8mAUo67qT8QlFWy",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "6r35kv7w42OLZFKGAN328J",
+        "title": "PROMISE..!!!",
+        "artist": "Janine Berdin",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cbbe408555f28a9cf4704fed",
+        "url": "https://open.spotify.com/album/6r35kv7w42OLZFKGAN328J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iBMneNsH4cVabtvs8bpuw",
+        "title": "Bugs",
+        "artist": "The Wiggles, Jesse Welles, The Tree of Wisdom",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243e1e2d48fa26c2c3e7ef318",
+        "url": "https://open.spotify.com/album/7iBMneNsH4cVabtvs8bpuw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4HVncWl87jExvllBJNPb0p",
+        "title": "POTE",
+        "artist": "SNIK, CHEKKIS",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdb8c67ecc2a47f51650040d",
+        "url": "https://open.spotify.com/album/4HVncWl87jExvllBJNPb0p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2z2XBGcK4ggwGQ6rGHwxPq",
+        "title": "Sertanejo Série A | Vol.1 (Ao Vivo Em Araguaína)",
+        "artist": "Maiara & Maraisa, Naiara Azevedo, Fred & Fabrício",
+        "type": "album",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdd430019a5dae5343d9cfa6",
+        "url": "https://open.spotify.com/album/2z2XBGcK4ggwGQ6rGHwxPq",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3jSj14lWVifWfy7U2J8Az8",
+        "title": "Adiós Amigo",
+        "artist": "Luis Alfonso",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206604d9687115e916aaa16c1",
+        "url": "https://open.spotify.com/album/3jSj14lWVifWfy7U2J8Az8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4WKsSknMJvp3sULanDUSbR",
+        "title": "袖里长风 (《百花杀》影视剧插曲)",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d28f28a4f6134f73e44e6be3",
+        "url": "https://open.spotify.com/album/4WKsSknMJvp3sULanDUSbR",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6DMPhHUocM9nPkySvZtnGH",
+        "title": "Arriba Morocha",
+        "artist": "Lauta, Tote",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2c4516f514c9db52b3fd481",
+        "url": "https://open.spotify.com/album/6DMPhHUocM9nPkySvZtnGH",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-10": [
+      {
+        "id": "0pFlE0rc68RS8f3UHzioQY",
+        "title": "The Real Me",
+        "artist": "Future",
+        "type": "album",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d931c30331d82c992daf5c2",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "4yUKOBTWsBYkLYZTTV1XdT",
+        "title": "Rethink Some Things",
+        "artist": "Luke Combs",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222af8abd1a867ffe7baa99af",
+        "url": "https://open.spotify.com/album/4yUKOBTWsBYkLYZTTV1XdT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Iq8SQQjSyamkZRS18nXqB",
+        "title": "2 STEP THE ENEMY",
+        "artist": "Forrest Frank, LOST & FOUND, ZVC",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d897bccbf4df76d4200daf8a",
+        "url": "https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QcXrZaGM8gIrvSCNrVlUj",
+        "title": "RED FLAG. (Chromeo Remix)",
+        "artist": "Kesha, Chromeo",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fefcc8125893a03d2a84df6",
+        "url": "https://open.spotify.com/album/6QcXrZaGM8gIrvSCNrVlUj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4nl3uWKwizO3d2AbT9oKrD",
+        "title": "Anytime Soon",
+        "artist": "Jason Aldean",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027064f4bcdf9d0eeaf199e044",
+        "url": "https://open.spotify.com/album/4nl3uWKwizO3d2AbT9oKrD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0S5z3uSXJW1v8cNUJSW4OA",
+        "title": "Satisfy (James Poole Remix)",
+        "artist": "Calvin Harris, Jazzy, James Poole",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0906c081591f1ce5f8df3e5",
+        "url": "https://open.spotify.com/album/0S5z3uSXJW1v8cNUJSW4OA",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "669luV9w3ueINz1Jg5pBU2",
+        "title": "Highway 79",
+        "artist": "Ne-Yo",
+        "type": "album",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d5be3d2c3c116e229fa27b7",
+        "url": "https://open.spotify.com/album/669luV9w3ueINz1Jg5pBU2",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2BwLNBvOz645zoeqSzSmZR",
+        "title": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+        "artist": "My Chemical Romance",
+        "type": "album",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265d851c0c4094d553c8bf0de",
+        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "0V3YKC3QI5P1sAjM4csXju",
+        "title": "Take Me Back",
+        "artist": "Kygo, Max McNown",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023038bbb448472f7aa59dc0ae",
+        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "10ijxlaixEbYfPpO0D59YG",
+        "title": "Black Prada Dress (Acoustic)",
+        "artist": "Ellie Goulding",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2b987487258260d036f1eab",
+        "url": "https://open.spotify.com/album/10ijxlaixEbYfPpO0D59YG",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1LmPvZc8SPVeQRyiOcOdxW",
+        "title": "Tu Falta De Querer",
+        "artist": "Banda MS de Sergio Lizárraga",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cee4e365b52494c1b7335d0",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1v47s2Z5kdloRlVkxHcTWO",
+        "title": "Count Your Blessings | Repented",
+        "artist": "Bring Me The Horizon",
+        "type": "album",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f71b9303698be44cdede2ac8",
+        "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "0YyIp1K8x6Mu0uFPcirwMf",
+        "title": "Boston",
+        "artist": "Ian Asher",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6588f843cadf2bc961b20a4",
+        "url": "https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0cDWfAk9fRIvcdeITJmUF1",
+        "title": "Silver Lines (feat. Emily Warren)",
+        "artist": "ANOTR",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02942570e673752df824a72c75",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MYCDfdmVq2Mgrh4iLRy7d",
+        "title": "Moana (Original Score)",
+        "artist": "Disney, Mark Mancina, Te Vaka, Opetaia Foa'i",
+        "type": "album",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207bd547ca696babf610ba912",
+        "url": "https://open.spotify.com/album/7MYCDfdmVq2Mgrh4iLRy7d",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "5JxEUCMh1YlHJszpRxd1lE",
+        "title": "this feeling (Police In Paris Remix)",
+        "artist": "Øneheart, Police In Paris",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027377a2b897889f6cdd6dd061",
+        "url": "https://open.spotify.com/album/5JxEUCMh1YlHJszpRxd1lE",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2ZBozfFpgOH5rVVXk7BKXO",
+        "title": "Orion (English Version)",
+        "artist": "YOASOBI",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fea4ed3662cf52857a6b47c1",
+        "url": "https://open.spotify.com/album/2ZBozfFpgOH5rVVXk7BKXO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04QMt1vLtMIvjuqPibU56o",
+        "title": "MITSUBISHI / متسوبيشي",
+        "artist": "Saint Levant, Haifa Wehbe",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b40d24be9a6adc9c2f6d85a",
+        "url": "https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yzbpoLjYa6fgTooEPLobF",
+        "title": "Hoy Decidí Dejarte",
+        "artist": "Virlan Garcia, Oscar Maydon",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b73840078962b0f7973505a",
+        "url": "https://open.spotify.com/album/0yzbpoLjYa6fgTooEPLobF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1IDtCZaMHvE97OaHRKPq5d",
+        "title": "Temptation",
+        "artist": "HUGEL, Bryson Tiller",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217248aff19f8ad43dbcaab36",
+        "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0o04wifajhnXsVehJGYO9d",
+        "title": "Las guapas",
+        "artist": "Alejandro Sanz",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4a9f8dd0581c18ba7393492",
+        "url": "https://open.spotify.com/album/0o04wifajhnXsVehJGYO9d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2aPXSFy2yMo5e5ENcc48P2",
+        "title": "Para Que Ya No Duela (Remix)",
+        "artist": "Duelo, Bronco",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a9df154e980e6bac69f5993",
+        "url": "https://open.spotify.com/album/2aPXSFy2yMo5e5ENcc48P2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "27AH1PpUxHNd9QuyolRynV",
+        "title": "Falling Stars",
+        "artist": "WizTheMc",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208e8a5a038230e25cb15a6a5",
+        "url": "https://open.spotify.com/album/27AH1PpUxHNd9QuyolRynV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4eWa5mi247K0ICsaV0Gfrs",
+        "title": "Palomita Blanca (2025 Remastered)",
+        "artist": "Juan Luis Guerra 4.40",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eab752ef092c22222923549c",
+        "url": "https://open.spotify.com/album/4eWa5mi247K0ICsaV0Gfrs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "53ZFERveGbFk9vufLNX4dG",
+        "title": "melancholy",
+        "artist": "slxughter",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e020094a0ce74a06edd95617825",
+        "url": "https://open.spotify.com/album/53ZFERveGbFk9vufLNX4dG",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0NKHKsEhHLvA4vvPkOhIU5",
+        "title": "Ritual",
+        "artist": "Gabry Ponte, Reggio",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f278e961d0d6b1e54b716c3",
+        "url": "https://open.spotify.com/album/0NKHKsEhHLvA4vvPkOhIU5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SQKVfRe9nUS9ULfGQ0fOo",
+        "title": "Sohniye",
+        "artist": "Shubh",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027dc59beceb3a73ccdcecf502",
+        "url": "https://open.spotify.com/album/0SQKVfRe9nUS9ULfGQ0fOo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JJIzJjXW11njYn6MFKUtb",
+        "title": "Смотри, но не трогай",
+        "artist": "SEREBRO",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02acc9850366d2f97f4ee2b3f2",
+        "url": "https://open.spotify.com/album/5JJIzJjXW11njYn6MFKUtb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "44S3iPNZY4e0tFsxKjXvNP",
+        "title": "Сладкий апрель 2.0",
+        "artist": "Gio Pika, DJ Puza TGK, Harddope, VASYA MUSIC",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba4cb91b83995bc18a216aa0",
+        "url": "https://open.spotify.com/album/44S3iPNZY4e0tFsxKjXvNP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1p22fJ5uoVoKfy0NDTWGqA",
+        "title": "裸",
+        "artist": "Sheena Ringo",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a31e1b799a448f932921dd9",
+        "url": "https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ZpfCxSMv91WolqJDfAqLe",
+        "title": "MONTAGEM BABAO",
+        "artist": "DJ Javi26, DJ WL7",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dab8dbb0b98ff2dcbeb27740",
+        "url": "https://open.spotify.com/album/3ZpfCxSMv91WolqJDfAqLe",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1DNKJ1gcEIacRYjK07DcNT",
+        "title": "Lost Stardust",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233a3c603f18d69aa0fa93e8d",
+        "url": "https://open.spotify.com/album/1DNKJ1gcEIacRYjK07DcNT",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1iShXaXcWgFIuCEYn4gqyD",
+        "title": "サンダーボルト",
+        "artist": "Yuuri",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad30451cb8e45b83ea3d4e72",
+        "url": "https://open.spotify.com/album/1iShXaXcWgFIuCEYn4gqyD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jYqCP7LOWZWYEAcSPnQv9",
+        "title": "Wie Du",
+        "artist": "MilleniumKid",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241fba552a58a263382720648",
+        "url": "https://open.spotify.com/album/3jYqCP7LOWZWYEAcSPnQv9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6KYTV8hYTsGnb8pEfbDOMw",
+        "title": "derechos",
+        "artist": "ooes",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f92a8f4eba671d4cbd93ae99",
+        "url": "https://open.spotify.com/album/6KYTV8hYTsGnb8pEfbDOMw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7nCIdIs3qaSAu0MA6nP4q7",
+        "title": "Vitun hyvää joulua",
+        "artist": "Käärijä, SANNI",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d51312cece51882f8b553fdc",
+        "url": "https://open.spotify.com/album/7nCIdIs3qaSAu0MA6nP4q7",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3bk3bv8jjSufIHvhrXJ8Yk",
+        "title": "Евродэнс.ru",
+        "artist": "Icegergert",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02facd136db68b2cbf92aa61e0",
+        "url": "https://open.spotify.com/album/3bk3bv8jjSufIHvhrXJ8Yk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jRFiAXmtJ7I9UgPQCIuXk",
+        "title": "ON MY WAY",
+        "artist": "Palm Monkey",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2d350e1bf42cda7dede2b2d",
+        "url": "https://open.spotify.com/album/6jRFiAXmtJ7I9UgPQCIuXk",
         "total_tracks": 1,
         "genres": []
       }
