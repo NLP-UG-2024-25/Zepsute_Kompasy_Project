@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-10T09:33:40.341Z",
-  "total": 1635,
+  "fetched_at": "2026-07-11T07:54:32.506Z",
+  "total": 1651,
   "by_date": {
     "2026-05-15": [
       {
@@ -17668,6 +17668,61 @@
         "url": "https://open.spotify.com/album/6DMPhHUocM9nPkySvZtnGH",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3NfhUBvy9h8ijMRfukMiLH",
+        "title": "Bendecido",
+        "artist": "Edgardo Nuñez",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b210220fffc65562a920ab5",
+        "url": "https://open.spotify.com/album/3NfhUBvy9h8ijMRfukMiLH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "61WM5EP0jWS6PA4X1vnwRb",
+        "title": "Dhamaal 4",
+        "artist": "Tanishk Bagchi, Aditya Dev, Guru Randhawa, Sanju Rathod",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02beba438906be77a0dbe4e198",
+        "url": "https://open.spotify.com/album/61WM5EP0jWS6PA4X1vnwRb",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6rD2ZhQO6099PokZMKAU6Z",
+        "title": "Ikka (Original Motion Picture Soundtrack)",
+        "artist": "Mithoon, Sayeed Quadri",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248101774cb87084e594dd651",
+        "url": "https://open.spotify.com/album/6rD2ZhQO6099PokZMKAU6Z",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3wH4ysYP9QUJz6y8V9gD40",
+        "title": "Victory (Clean)",
+        "artist": "Vybz Kartel",
+        "type": "single",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e021da6e3971ca891e4bc1fbe98",
+        "url": "https://open.spotify.com/album/3wH4ysYP9QUJz6y8V9gD40",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ErMhH0BMJxtQnXCvw396m",
+        "title": "Tiny Chess Heroes",
+        "artist": "KimDem",
+        "type": "album",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e70ebdadd6c010da3d1e923a",
+        "url": "https://open.spotify.com/album/5ErMhH0BMJxtQnXCvw396m",
+        "total_tracks": 15,
+        "genres": []
       }
     ],
     "2026-07-10": [
@@ -18086,6 +18141,129 @@
         "release_date": "2026-07-10",
         "image": "https://i.scdn.co/image/ab67616d00001e02c2d350e1bf42cda7dede2b2d",
         "url": "https://open.spotify.com/album/6jRFiAXmtJ7I9UgPQCIuXk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wLxOQpSz6H4YhrB9w2WAJ",
+        "title": "Looking Lovely (feat. Robin Thicke & ZEDDY WILL) [Remix]",
+        "artist": "Shaggy, Robin Thicke, ZEDDY WILL",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c5488c30c9e4c5548e7b107",
+        "url": "https://open.spotify.com/album/4wLxOQpSz6H4YhrB9w2WAJ",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1OzctavGYNKD9Tu5W0dOYP",
+        "title": "A Xon De Que",
+        "artist": "Feid",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe2d3f5aab7314b71f8f9754",
+        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1UdIETjUPNwCRaYRrELqM7",
+        "title": "EPA (Don Diablo Remix)",
+        "artist": "Becky G, Don Diablo",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1c8c83ec4aeb6935f15ac64",
+        "url": "https://open.spotify.com/album/1UdIETjUPNwCRaYRrELqM7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3pD5zyRDpeFhjvhweyAmJG",
+        "title": "Ever Since U Left Me (Lil' Kim Freestyle)",
+        "artist": "French Montana, Max B, Lil' Kim",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d51e1c44dfbb80b1d9f3b80",
+        "url": "https://open.spotify.com/album/3pD5zyRDpeFhjvhweyAmJG",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2M0IQZnARm6zbyvYxtkQBh",
+        "title": "Dem Goats",
+        "artist": "Juicy J, Project Pat",
+        "type": "album",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244c88a25e0631640a3ecb9c7",
+        "url": "https://open.spotify.com/album/2M0IQZnARm6zbyvYxtkQBh",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "4yckwaWdwNNBmaN5gXdkb2",
+        "title": "Bien Por Ti",
+        "artist": "Raulin Rodriguez",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206a101603f72d1a0ea1c2100",
+        "url": "https://open.spotify.com/album/4yckwaWdwNNBmaN5gXdkb2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Tz2uBLX4lxr42lmLSvzze",
+        "title": "MONTAGEM ESTRELA TWINKO 2",
+        "artist": "SASORIIXPP, DJ Raulipues, DJ AURAXÉ, MC SPIN",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267455509fc737ca95776065a",
+        "url": "https://open.spotify.com/album/1Tz2uBLX4lxr42lmLSvzze",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "554WXStf4nOH6ycnhuGW9a",
+        "title": "Chopin: Ballade No. 2, Op. 38",
+        "artist": "Frédéric Chopin, Simon Bürki",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c406cdd49da4318f652ca51",
+        "url": "https://open.spotify.com/album/554WXStf4nOH6ycnhuGW9a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "57t2FQb2zgkt1qpL0wU2dB",
+        "title": "Best Hindi Love Songs",
+        "artist": "Anuv Jain",
+        "type": "compilation",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b80d10397177d808e0feb6e2",
+        "url": "https://open.spotify.com/album/57t2FQb2zgkt1qpL0wU2dB",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3iULOTpcP7zkOyuROVrcsI",
+        "title": "Ef hann myndi",
+        "artist": "Klara Einars",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f27fe74fb55269a434eed92",
+        "url": "https://open.spotify.com/album/3iULOTpcP7zkOyuROVrcsI",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-11": [
+      {
+        "id": "4z7sEtadT9QvxBMsh0Wqos",
+        "title": "Glory",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fdc16c68caa9ea0453a802a3",
+        "url": "https://open.spotify.com/album/4z7sEtadT9QvxBMsh0Wqos",
         "total_tracks": 1,
         "genres": []
       }
