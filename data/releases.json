@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-12T08:15:42.816Z",
-  "total": 1703,
+  "fetched_at": "2026-07-13T09:25:11.546Z",
+  "total": 1745,
   "by_date": {
     "2026-05-15": [
       {
@@ -18750,6 +18750,83 @@
         "url": "https://open.spotify.com/album/7I7sBdw0IhN6FKlECu1Pay",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1IfjNpSDVzTlNt4QaieLKY",
+        "title": "Vettri Thamizh Murugan (From \"Thamizh Murugan\")",
+        "artist": "Sai Abhyankkar, Arivumathi, Palakkad Sriram",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e023dc74a356f8f77127f1dc65b",
+        "url": "https://open.spotify.com/album/1IfjNpSDVzTlNt4QaieLKY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1jWgYbRjL5gha3DHE1v5IV",
+        "title": "Alibaba",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0257ba8ebbe40fe31eff1c4722",
+        "url": "https://open.spotify.com/album/1jWgYbRjL5gha3DHE1v5IV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Z2fsc1XX7gkLKZcCAKNlp",
+        "title": "عندما تصمت الروح",
+        "artist": "Dj NACZALNIK Boss",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1fc9d18274a0ed49d0b22b9",
+        "url": "https://open.spotify.com/album/4Z2fsc1XX7gkLKZcCAKNlp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Wcg6unrLUueIOyUNsE0UU",
+        "title": "Коли мовчить душа",
+        "artist": "Dj NACZALNIK Boss",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e023dee3a8ce681ae4b645c628f",
+        "url": "https://open.spotify.com/album/5Wcg6unrLUueIOyUNsE0UU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LGWxOnAYabMCXJVFCEaF7",
+        "title": "ZIKIR PENENANG HATI LA ILAHA ILLALLAH",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b1b34a9eda692156f158f13",
+        "url": "https://open.spotify.com/album/2LGWxOnAYabMCXJVFCEaF7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17QrB8gS2T29wfLdYvJpit",
+        "title": "ZIKIR TENANGKAN FIKIRAN ASTAGHFIRULLAH",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3d76e2086b7045e54f05a0b",
+        "url": "https://open.spotify.com/album/17QrB8gS2T29wfLdYvJpit",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0pR9edg5k0So6Ua1ApTvjU",
+        "title": "Kiedy milczy dusza",
+        "artist": "Dj NACZALNIK Boss",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b287bd68893717acbdcfca4",
+        "url": "https://open.spotify.com/album/0pR9edg5k0So6Ua1ApTvjU",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-12": [
@@ -18839,6 +18916,393 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022a0cae13a527fd89a3a23d07",
         "url": "https://open.spotify.com/album/7KQp7p2jFRDYxMsKRNOOJ8",
         "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "77nCMjnsMkHUC2j7bwKIed",
+        "title": "Brand New",
+        "artist": "Mrs. GREEN APPLE",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028bc6d0a539486bdb1a9f2968",
+        "url": "https://open.spotify.com/album/77nCMjnsMkHUC2j7bwKIed",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43alGrjxDlHq4hrqkiS1mJ",
+        "title": "Come My Way (softer version)",
+        "artist": "Sơn Tùng M-TP",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277ee25c2b6bde5aa489b2074",
+        "url": "https://open.spotify.com/album/43alGrjxDlHq4hrqkiS1mJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Es4jQPv1emwM2zP1ZisIM",
+        "title": "My Reckless Abandon",
+        "artist": "Bella Kay",
+        "type": "album",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ce21b6a1ffe6d5c1cbf5822",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "0Ipl16xmuzg9nujDZgfKq6",
+        "title": "Varljivo Leto",
+        "artist": "Relja",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5f059c301c7fdf072cd621e",
+        "url": "https://open.spotify.com/album/0Ipl16xmuzg9nujDZgfKq6",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3RSDQ2KivQSlaoudIflFDD",
+        "title": "CMC CYPHER",
+        "artist": "Thug Slime, DAIMA, Silly Slime, Onad",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e4b4b29af8db84a6b1039ca",
+        "url": "https://open.spotify.com/album/3RSDQ2KivQSlaoudIflFDD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6WgLMAgIoNX8gYcmltKXpL",
+        "title": "HAEMOO",
+        "artist": "TOIL, Hash Swan, Choi Seong",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec7ef7abe2677729b7820037",
+        "url": "https://open.spotify.com/album/6WgLMAgIoNX8gYcmltKXpL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2XTLtzCOSOqarqCKK40NM9",
+        "title": "NIC NIE MIJA / za tten rap",
+        "artist": "Otsochodzi, lohleq",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec0895b196bcb5e96b5b64c0",
+        "url": "https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4peadBuxQ7mRhcAB0WbSZE",
+        "title": "Danger",
+        "artist": "Leo RD",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8fab514330a9a72252551a5",
+        "url": "https://open.spotify.com/album/4peadBuxQ7mRhcAB0WbSZE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4slvB2o3XmaZKi6i4D8LEG",
+        "title": "Amaneci Carreto",
+        "artist": "Leo RD",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2b7ba14a40c7dffd59a75d7",
+        "url": "https://open.spotify.com/album/4slvB2o3XmaZKi6i4D8LEG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2y9n9Hn1TsdvmzfRSI3Ep2",
+        "title": "الازاز هيشقلب حالك ( هي هي مفيش الا هي )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf8f8ddea4768364e0f2db19",
+        "url": "https://open.spotify.com/album/2y9n9Hn1TsdvmzfRSI3Ep2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6UjoLQ1zZ57P2eqrGkfNIR",
+        "title": "فصلو و ملعنو",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1bf481b2d7ee47c1d5915a0",
+        "url": "https://open.spotify.com/album/6UjoLQ1zZ57P2eqrGkfNIR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5poG18U8S5MTfP427OBl5b",
+        "title": "اسد و بحكم عريني 2",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027455a3b7139e1c67a92675d9",
+        "url": "https://open.spotify.com/album/5poG18U8S5MTfP427OBl5b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7pqKGdlIMRiLFE44Dm2rl1",
+        "title": "Fantasy de ioiô",
+        "artist": "Yuri Redicopa, DJ Luketa, DJ SZIGO",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234c6187583d51f6c8cb950e3",
+        "url": "https://open.spotify.com/album/7pqKGdlIMRiLFE44Dm2rl1",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-13": [
+      {
+        "id": "0xbgE5GJtzcQbYwkGNu01T",
+        "title": "夜鷹 - Yodaka",
+        "artist": "Kenshi Yonezu",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262249e32fd6ee1ce0b34640b",
+        "url": "https://open.spotify.com/album/0xbgE5GJtzcQbYwkGNu01T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7n799nqs23KZ7Ss2eiNAAg",
+        "title": "Pescador De Ilusiones",
+        "artist": "Joan Sebastian",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b63fcf25807391a84093219f",
+        "url": "https://open.spotify.com/album/7n799nqs23KZ7Ss2eiNAAg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Juv9VWpnsL3hXnwEJtDTf",
+        "title": "甕中之鱉",
+        "artist": "Endy Chow, GE",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bef23a87554bddf6f5b01285",
+        "url": "https://open.spotify.com/album/1Juv9VWpnsL3hXnwEJtDTf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0e3LDj35HCz1acrz08xWR8",
+        "title": "SEM APEGO",
+        "artist": "Aaron Modesto, RK Mc, PHILL, MACIH",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b74e804d4f556dab166742e",
+        "url": "https://open.spotify.com/album/0e3LDj35HCz1acrz08xWR8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6rVl2u68szN0LXnNfOo7Uk",
+        "title": "Love, Siargao (Original Movie Soundtrack)",
+        "artist": "Amiel Sol, Cuatro",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02734f6f750829f5ffcd601897",
+        "url": "https://open.spotify.com/album/6rVl2u68szN0LXnNfOo7Uk",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2hoqDGJphZg8aeWZVGKFKK",
+        "title": "S' Agapo San Amartia",
+        "artist": "Giannis Ploutarhos",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b53307c84066a817fd76f98e",
+        "url": "https://open.spotify.com/album/2hoqDGJphZg8aeWZVGKFKK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7AGGmntZJ60gRktIMQin2P",
+        "title": "YO-I-DON! / BOY MEETS GIRL",
+        "artist": "NCT WISH",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd9d4f3b2206b25dd1b130e7",
+        "url": "https://open.spotify.com/album/7AGGmntZJ60gRktIMQin2P",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6DhJ9afAR0wkuhH86A8fGj",
+        "title": "ถ้าเขาดูแลเธอไม่ดี (To Hold You)",
+        "artist": "MEAN Band, THAI OF BUS",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b261e227f7cffb89843d2d6b",
+        "url": "https://open.spotify.com/album/6DhJ9afAR0wkuhH86A8fGj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4IXUTlvvBAUsRCf8MS4jyk",
+        "title": "Full Send (WRC Rally Estonia Anthem)",
+        "artist": "NOËP, FRENCHGRL",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5ac4dee754d08a7a437bfba",
+        "url": "https://open.spotify.com/album/4IXUTlvvBAUsRCf8MS4jyk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58uI4OCyEABWEHkt6hskQG",
+        "title": "Mast Qalandar (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295258583b6c979801668c084",
+        "url": "https://open.spotify.com/album/58uI4OCyEABWEHkt6hskQG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00iL5SyEZfu0gxcnN6Py4t",
+        "title": "BUGS LIFE",
+        "artist": "Number_i",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02425a1d2feed9239e8214a609",
+        "url": "https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5hXKzmrUS8jKYY6l4Me64i",
+        "title": "Yol Arkadaşım",
+        "artist": "Gökhan Türkmen",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028495992a927c569054fea59d",
+        "url": "https://open.spotify.com/album/5hXKzmrUS8jKYY6l4Me64i",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "71D7gB9mCwoZWU51OVOLDI",
+        "title": "สดใส (Another Life)",
+        "artist": "7Vibes",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e024631a3222484cb4ab09ea503",
+        "url": "https://open.spotify.com/album/71D7gB9mCwoZWU51OVOLDI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Jq2YgcKcB4kgHAv6HyL6R",
+        "title": "NO LABELS: PART 02 (Mango Chili Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e281043d7b769f26e6a890f1",
+        "url": "https://open.spotify.com/album/2Jq2YgcKcB4kgHAv6HyL6R",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3LfgsKwDaDCIRpVLSuPvvP",
+        "title": "NO LABELS: PART 02 (Espresso Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac3e577949b6d2ce3bc97fa0",
+        "url": "https://open.spotify.com/album/3LfgsKwDaDCIRpVLSuPvvP",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "427vrIkzGZtiUawR547aXd",
+        "title": "NO LABELS: PART 02 (Cotton Candy Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234505fd6b023c96a44745d68",
+        "url": "https://open.spotify.com/album/427vrIkzGZtiUawR547aXd",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "0KS3GOVt51nFZegcSBrNHH",
+        "title": "NO LABELS: PART 02 (Earl Grey Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffa0e6fa0b5be5a23dee0e48",
+        "url": "https://open.spotify.com/album/0KS3GOVt51nFZegcSBrNHH",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "38u9Xv3uNnxGWWqQ7VaCjA",
+        "title": "لسة بدري عشان تطولني",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a458920c59922e14bf9f9709",
+        "url": "https://open.spotify.com/album/38u9Xv3uNnxGWWqQ7VaCjA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7750F8pM09EdCN7RhIAtKB",
+        "title": "殘忍告別式",
+        "artist": "Shiga Lin",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ae6d814f747b9f503848031",
+        "url": "https://open.spotify.com/album/7750F8pM09EdCN7RhIAtKB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3icNARGBKXBP7mNEsYhvNn",
+        "title": "NO LABELS: PART 02 (Cotton Candy Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e025208537f70a2fd8024525587",
+        "url": "https://open.spotify.com/album/3icNARGBKXBP7mNEsYhvNn",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2jBa5730qpmgdQKHMqqVfE",
+        "title": "NO LABELS: PART 02 (Mango Chili Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ca90ac3edd8935176409c8e",
+        "url": "https://open.spotify.com/album/2jBa5730qpmgdQKHMqqVfE",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "710JwgKZ8VebqeBbjVBi9k",
+        "title": "زلزال هيطيح و يغربل",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b903e119b34bfd4f93deb50",
+        "url": "https://open.spotify.com/album/710JwgKZ8VebqeBbjVBi9k",
+        "total_tracks": 1,
         "genres": []
       }
     ]
