@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-13T09:25:11.546Z",
-  "total": 1745,
+  "fetched_at": "2026-07-14T08:03:06.959Z",
+  "total": 1764,
   "by_date": {
     "2026-05-15": [
       {
@@ -18605,6 +18605,28 @@
         "url": "https://open.spotify.com/album/2fJcgAHPwQeALekqf4SLYu",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1p4r5l3aDyYjEtTq6Igfmq",
+        "title": "La baby esta dura",
+        "artist": "Elvian RD",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273a08b467ab4f71de0554f94",
+        "url": "https://open.spotify.com/album/1p4r5l3aDyYjEtTq6Igfmq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "719NTL14qmRgRKf9M4E9wP",
+        "title": "Flow del dembow",
+        "artist": "Elvian RD",
+        "type": "single",
+        "release_date": "2026-07-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219a822a95a9bdb34ff654e8d",
+        "url": "https://open.spotify.com/album/719NTL14qmRgRKf9M4E9wP",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-11": [
@@ -19060,6 +19082,39 @@
         "url": "https://open.spotify.com/album/7pqKGdlIMRiLFE44Dm2rl1",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "75raNN2RFvAXxfYWbtwKSE",
+        "title": "לייב מתוך אגן הים התיכון",
+        "artist": "Itay Levi, כאן גימל",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4f0cb569c51d5212ab659da",
+        "url": "https://open.spotify.com/album/75raNN2RFvAXxfYWbtwKSE",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2oCgot2e7MV6OQPGNSIyBF",
+        "title": "ZIKIR HILANGKAN STRESS SUBHANALLAH ALHAMDULILLAH ALLAHU AKBAR",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6942820745933951f11db3c",
+        "url": "https://open.spotify.com/album/2oCgot2e7MV6OQPGNSIyBF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41rfZoutBqbDZh6fbBS0ns",
+        "title": "ZIKIR HILANGKAN RESAH DAN GELISAH HASBUNALLAH",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d78179c403b917e0c58e27b3",
+        "url": "https://open.spotify.com/album/41rfZoutBqbDZh6fbBS0ns",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-13": [
@@ -19303,6 +19358,162 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022b903e119b34bfd4f93deb50",
         "url": "https://open.spotify.com/album/710JwgKZ8VebqeBbjVBi9k",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1aVof91scWgnSi1Lce1gRF",
+        "title": "Baby",
+        "artist": "AL SHAMI",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dd4966694cacdbe39d4d455",
+        "url": "https://open.spotify.com/album/1aVof91scWgnSi1Lce1gRF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "29X9pHV5bhQ6kuqndTP74g",
+        "title": "NO LABELS: PART 02 (Espresso Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aee67cc51f9e2a13adae0352",
+        "url": "https://open.spotify.com/album/29X9pHV5bhQ6kuqndTP74g",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "0v4Ss5gblyTWP7qosTABvz",
+        "title": "NO LABELS: PART 02 (Earl Grey Ver.)",
+        "artist": "YEONJUN",
+        "type": "album",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02507b4d02c0225d567b3871f4",
+        "url": "https://open.spotify.com/album/0v4Ss5gblyTWP7qosTABvz",
+        "total_tracks": 7,
+        "genres": []
+      }
+    ],
+    "2026-07-14": [
+      {
+        "id": "6mItMPU0N23jL9CoRQ8V7N",
+        "title": "ЭКСПОНАТ (REMIX)",
+        "artist": "MIA BOYKA",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1d2cb01a4e80371a92c760d",
+        "url": "https://open.spotify.com/album/6mItMPU0N23jL9CoRQ8V7N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Ao7U5BWMHOxYDuBWsUrkg",
+        "title": "Perfil #146 Domingo de Novo",
+        "artist": "Pineapple StormTv, Killua, Dukke Beats",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bface97d4da28598692a60f3",
+        "url": "https://open.spotify.com/album/2Ao7U5BWMHOxYDuBWsUrkg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2SSbD54MdcBj71DQDA6ti5",
+        "title": "隕石與地球",
+        "artist": "Sammi Cheng",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bc88904f6fe520e5d2d10ce",
+        "url": "https://open.spotify.com/album/2SSbD54MdcBj71DQDA6ti5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6lhEgRmj0k5rJORlb9ibuY",
+        "title": "悲傷的後勁",
+        "artist": "陳健安",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f12717103380409b615d7187",
+        "url": "https://open.spotify.com/album/6lhEgRmj0k5rJORlb9ibuY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63F7VthgLcoaZHBYDe1jLd",
+        "title": "Body Tea",
+        "artist": "Okello Max",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1d202531781db62d6fe7dd2",
+        "url": "https://open.spotify.com/album/63F7VthgLcoaZHBYDe1jLd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0m5zZXfK6m1zHSYGiqo37S",
+        "title": "Слънцето пак изгря",
+        "artist": "Mihaela Fileva",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1c8e1b8f781523439d5a803",
+        "url": "https://open.spotify.com/album/0m5zZXfK6m1zHSYGiqo37S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2OwqzU3Rlpn6jTygp1xjId",
+        "title": "Locker Mein Jawani (DJ Mix)",
+        "artist": "Pawan Singh, Akshara Singh, Jammy Weirdo",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271be97e078cb0c132e0c7523",
+        "url": "https://open.spotify.com/album/2OwqzU3Rlpn6jTygp1xjId",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4o7kJwNBLYAjHxwUs5HPQG",
+        "title": "Allir út",
+        "artist": "Latibær",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255ae3a30374c5bb37032eb29",
+        "url": "https://open.spotify.com/album/4o7kJwNBLYAjHxwUs5HPQG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0xK6jNYasbNFAym06O7rx7",
+        "title": "LEMONADE (Zedd Extended Mix)",
+        "artist": "aespa, Zedd",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279fedd48b9bb3353ce47fb78",
+        "url": "https://open.spotify.com/album/0xK6jNYasbNFAym06O7rx7",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5oSVoSbak1TKcsqdO1MN89",
+        "title": "Care Ma Iubiti Pe Mine Veniti Langa Mine",
+        "artist": "Dj Magic Romania",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba6788487064aa1da747b05c",
+        "url": "https://open.spotify.com/album/5oSVoSbak1TKcsqdO1MN89",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2GDksotZfk4HjmOosO1h84",
+        "title": "Hold on to Me",
+        "artist": "DJ Cavallino",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231ff647b693824d5397af2ea",
+        "url": "https://open.spotify.com/album/2GDksotZfk4HjmOosO1h84",
+        "total_tracks": 3,
         "genres": []
       }
     ]
