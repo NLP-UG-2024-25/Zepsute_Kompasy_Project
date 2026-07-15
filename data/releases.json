@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-14T08:03:06.959Z",
-  "total": 1764,
+  "fetched_at": "2026-07-15T08:08:27.040Z",
+  "total": 1805,
   "by_date": {
     "2026-05-15": [
       {
@@ -19392,6 +19392,83 @@
         "url": "https://open.spotify.com/album/0v4Ss5gblyTWP7qosTABvz",
         "total_tracks": 7,
         "genres": []
+      },
+      {
+        "id": "7cfR54U537lv7D7Zg7hdFd",
+        "title": "addiction (Ultra Slowed)",
+        "artist": "LONOWN, Asenssia",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02368a9e6bc619a6ee67767804",
+        "url": "https://open.spotify.com/album/7cfR54U537lv7D7Zg7hdFd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "68UTP6tHUfYRlZZ6ip2DsP",
+        "title": "Saadgi (Soul Edit)",
+        "artist": "Tulsi Kumar",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f59fb97a60585a85b5f5eb0",
+        "url": "https://open.spotify.com/album/68UTP6tHUfYRlZZ6ip2DsP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ZnwaDHCF1w4Vc3LKmIUtx",
+        "title": "MẶT MỘC",
+        "artist": "Lyly",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb9c29065d7582c42f4de307",
+        "url": "https://open.spotify.com/album/4ZnwaDHCF1w4Vc3LKmIUtx",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5ShN6mnElugCZajMwmQuyI",
+        "title": "Tú Fuiste Mi Gran Amor",
+        "artist": "La Bella Luz",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028fff9e3b9869045dc09967c5",
+        "url": "https://open.spotify.com/album/5ShN6mnElugCZajMwmQuyI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2aySZNZgVjr7gAlhRhQxiT",
+        "title": "ce-ai fa (Live)",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02614172d125c78d838df9b30f",
+        "url": "https://open.spotify.com/album/2aySZNZgVjr7gAlhRhQxiT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "327vfdS520541RY3Qh54ZB",
+        "title": "АКоРДеОН,,Ти мій біль,,",
+        "artist": "Dj NACZALNIK Boss",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d62f10b1548138134057bcf",
+        "url": "https://open.spotify.com/album/327vfdS520541RY3Qh54ZB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1yuVQPWM1iJQBENAW5JHbI",
+        "title": "ZIKIR TENANGKAN JIWA SUBHANALLAHI WA BIHAMDIHI",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205ca9a1d0d90539e08c1f05c",
+        "url": "https://open.spotify.com/album/1yuVQPWM1iJQBENAW5JHbI",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-14": [
@@ -19514,6 +19591,382 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0231ff647b693824d5397af2ea",
         "url": "https://open.spotify.com/album/2GDksotZfk4HjmOosO1h84",
         "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "72NbWVcRBBATor0AmDVQTD",
+        "title": "Switchblade",
+        "artist": "beabadoobee",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efd6923be28f035a6a7fe24d",
+        "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0CKAGyVSfkjqQ7cHDIZpO1",
+        "title": "chukchuk (demo)",
+        "artist": "Loco",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02759b45ac07b35a05d88ce838",
+        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5ZVkGe0DRxrumm7blAE4mn",
+        "title": "จำเลย (The Wall)",
+        "artist": "Tilly Birds",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae97157035fd2a8c2da3a9df",
+        "url": "https://open.spotify.com/album/5ZVkGe0DRxrumm7blAE4mn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ctsyuK23SUQHJmfzAF8tP",
+        "title": "Move On! (H.O.T Version)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai, Hoàng Tôn, Osad, Thái Lê Minh Hiếu",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265fb05dad07f19cabf55d422",
+        "url": "https://open.spotify.com/album/7ctsyuK23SUQHJmfzAF8tP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XWWVvN1pNpil7yvdo4MHL",
+        "title": "متحلمش اني ابقي زميلك ( الكلام علي ايه )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d8d3fb3fabeceae72985ff1",
+        "url": "https://open.spotify.com/album/4XWWVvN1pNpil7yvdo4MHL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VtVL4qLuuTIpkkJEwjRYj",
+        "title": "Te Vas / Despojate / Solo Aquí (En Vivo)",
+        "artist": "DesaKTa2",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e023fecc01e36d80ac273b81588",
+        "url": "https://open.spotify.com/album/4VtVL4qLuuTIpkkJEwjRYj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5hbtrsOIA000ijlL7vzGdU",
+        "title": "Rattle The Cage",
+        "artist": "Nickelback",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e021609138530539389470ba0d6",
+        "url": "https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "33Xer8I7QBU96GKQu3Zxt3",
+        "title": "الفاتحه علي الخاينين ( مش هعادي انا النسور )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d60b4b78fa78e529ab7521b",
+        "url": "https://open.spotify.com/album/33Xer8I7QBU96GKQu3Zxt3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6TWu6HHbDr2XU4evk5lPSt",
+        "title": "Rodecia",
+        "artist": "Kangen Band",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299240e8257b965d34421bd27",
+        "url": "https://open.spotify.com/album/6TWu6HHbDr2XU4evk5lPSt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pYWXz5tRqU6q7EQcEWZpA",
+        "title": "Loca",
+        "artist": "Luana",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad1f6b53e6a52f71536f0a96",
+        "url": "https://open.spotify.com/album/1pYWXz5tRqU6q7EQcEWZpA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vL2WVqNHVYwHROa72B6uX",
+        "title": "مش مسامحك",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d8254a9b0f42fedb6cdd11c",
+        "url": "https://open.spotify.com/album/2vL2WVqNHVYwHROa72B6uX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18eC10zhaTCKwjkSK29JkP",
+        "title": "Parallax",
+        "artist": "Miguel Lima",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e029790786c1c16ec84583a904a",
+        "url": "https://open.spotify.com/album/18eC10zhaTCKwjkSK29JkP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1RL2L40aUcxmRFKHJbhX8n",
+        "title": "Easy Street",
+        "artist": "Queens of the Stone Age",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3bdaaef696c8fa94f38d6b1",
+        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-15": [
+      {
+        "id": "3w8bLLIbVxQMjKnwqTTnoQ",
+        "title": "SIX",
+        "artist": "Guru Randhawa, Kiran Bajwa, Gurjit Gill, Lavish Dhiman",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b809c6c6ebb629d4754c7b09",
+        "url": "https://open.spotify.com/album/3w8bLLIbVxQMjKnwqTTnoQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3E03taN1PLX81QH7kGD5xo",
+        "title": "поэтесса",
+        "artist": "By Индия",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e09c2b6dc3d70dfb0e795f4a",
+        "url": "https://open.spotify.com/album/3E03taN1PLX81QH7kGD5xo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2et7q2u7h9RYelRR24tCPQ",
+        "title": "かげろう",
+        "artist": "Vaundy",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263567c526abb91aa4a7ca589",
+        "url": "https://open.spotify.com/album/2et7q2u7h9RYelRR24tCPQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FD9NqB3OgksI22q2tq6gN",
+        "title": "You Know What I Mean (Live at Perkins Palace, Pasadena, CA, 1982)",
+        "artist": "Phil Collins",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f60b35dbb95e641d4be60cf6",
+        "url": "https://open.spotify.com/album/0FD9NqB3OgksI22q2tq6gN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1JgwpOf45JaiwHpViQcyde",
+        "title": "Llego (FIFA World Cup 2026™)",
+        "artist": "Empire Of The Sun, Danny Ocean, FIFA Sound",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b972be1685e21dc5320c34a",
+        "url": "https://open.spotify.com/album/1JgwpOf45JaiwHpViQcyde",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0iRmsK7HRnk2sS4UXOE6Oq",
+        "title": "Contrast",
+        "artist": "Yuridope, Kael Guerrero",
+        "type": "album",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242b8109aac57b28d917a0ef7",
+        "url": "https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1rmQAYQ2uZs36MpQWOxwye",
+        "title": "No Llores Más",
+        "artist": "The La Planta, Agrupación Marilyn",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298c8ba82b02c82f1689fc22b",
+        "url": "https://open.spotify.com/album/1rmQAYQ2uZs36MpQWOxwye",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Y509jFmFSHX5ODFnikiOL",
+        "title": "Frio Em Campos",
+        "artist": "Mc Lele JP, Mc IG, TrapLaudo, Mc Thales 4M",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02add342ca0cc9d6e9d49182ab",
+        "url": "https://open.spotify.com/album/3Y509jFmFSHX5ODFnikiOL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2hgkQQkTFgZLOiv9KrV2Zr",
+        "title": "Маргарита",
+        "artist": "Анна Трінчер",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282f7d3c1e10540493d02eceb",
+        "url": "https://open.spotify.com/album/2hgkQQkTFgZLOiv9KrV2Zr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ShzLChclLqFbuFkYs0lr1",
+        "title": "คำว่าชู้...น้องบ่ได๋อยากเป็น",
+        "artist": "Kantong Tungngern",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0204b8f0c1247b1f2f4354cde9",
+        "url": "https://open.spotify.com/album/3ShzLChclLqFbuFkYs0lr1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DuEvPOdKIkdBGc4inZq5K",
+        "title": "Мальви",
+        "artist": "kavabanga Depo kolibri, Zlata Ko",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d4ec2b9a9c084800ab359e6",
+        "url": "https://open.spotify.com/album/6DuEvPOdKIkdBGc4inZq5K",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1xA4wyQqNdNUhiNjPTXPUq",
+        "title": "Voy Vagando (En Vivo)",
+        "artist": "Eugenia Quevedo",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e38da8b190e949d3c3d439de",
+        "url": "https://open.spotify.com/album/1xA4wyQqNdNUhiNjPTXPUq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PTWcpBS6xdfQAVgAnXZMD",
+        "title": "beGin",
+        "artist": "Gin Lee",
+        "type": "album",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d760daf81211d162efa0d36",
+        "url": "https://open.spotify.com/album/2PTWcpBS6xdfQAVgAnXZMD",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "3wpz1qM0Qn5mInwvXTyVZO",
+        "title": "pAPi wiTH tOKisCha (Safety Trance REMIX)",
+        "artist": "Major Lazer, Tokischa, Safety Trance",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a8d0b6275b6002c0937468ac",
+        "url": "https://open.spotify.com/album/3wpz1qM0Qn5mInwvXTyVZO",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2wTlHWRZOu3SdBuSHmrWqT",
+        "title": "Flow Villero (Vol II)",
+        "artist": "Gonzalo Nawel",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ec28f0a7f306bddaec91ab2",
+        "url": "https://open.spotify.com/album/2wTlHWRZOu3SdBuSHmrWqT",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3kgIte1mm6oqLkfj9jI6MA",
+        "title": "ROTINA CAÓTICA",
+        "artist": "MC Vine7, Mc Dkziin, Wesley Gonzaga",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a12c7dbe4e5ecd1a0117d05b",
+        "url": "https://open.spotify.com/album/3kgIte1mm6oqLkfj9jI6MA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jXiW6x41Tk6AkIb8EYdWj",
+        "title": "เก็บดอกไม้ (Live Session)",
+        "artist": "LANDOKMAI",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02561dd078e0a8f782eec6fdf6",
+        "url": "https://open.spotify.com/album/3jXiW6x41Tk6AkIb8EYdWj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zYL6JPCUQjOuO0M9nUB0r",
+        "title": "OFFICIAL HIGE DANDISM LIVE at STADIUM 2025",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "type": "album",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a109e59e5b24fd437c326771",
+        "url": "https://open.spotify.com/album/5zYL6JPCUQjOuO0M9nUB0r",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "4jZm0DBwuQjE1A1bZpF7rf",
+        "title": "Ni Main Jana Jogi Naal (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c29ed7abf5f4b960ea4ec67",
+        "url": "https://open.spotify.com/album/4jZm0DBwuQjE1A1bZpF7rf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Wkr0kooqpwY9GXsKGv8y9",
+        "title": "Market Place 2.0 (feat. The Bless)",
+        "artist": "Stixx, Hugh Masekela",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027eee15ff7b5713ceb72b6e32",
+        "url": "https://open.spotify.com/album/5Wkr0kooqpwY9GXsKGv8y9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NhQqqYjErOtX2op0hzYTi",
+        "title": "Jump",
+        "artist": "Pilavakisx",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e73f1209915dbdebb9deb2a",
+        "url": "https://open.spotify.com/album/4NhQqqYjErOtX2op0hzYTi",
+        "total_tracks": 1,
         "genres": []
       }
     ]
