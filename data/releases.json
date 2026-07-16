@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-15T08:08:27.040Z",
-  "total": 1805,
+  "fetched_at": "2026-07-16T08:11:59.912Z",
+  "total": 1837,
   "by_date": {
     "2026-05-15": [
       {
@@ -19735,6 +19735,50 @@
         "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0qtM1GTdjZxn727a9zeIRW",
+        "title": "Sentimiento Raro (Canción Original de la Serie de Prime)",
+        "artist": "Julieta Venegas, Nadie Nos Va A Extrañar",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e80959a872c5d40cf0fef856",
+        "url": "https://open.spotify.com/album/0qtM1GTdjZxn727a9zeIRW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4nVcbrplQ5gYpdZdsowqc6",
+        "title": "Balaclava",
+        "artist": "Willylancien",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ffcba02c2ca8d72938d53e6",
+        "url": "https://open.spotify.com/album/4nVcbrplQ5gYpdZdsowqc6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cU8SbGf11GcGkIvuUz3MD",
+        "title": "Cô Đơn Không Muốn Về Nhà (Live at Fan Concert Encore 2026)",
+        "artist": "Mr. Siro",
+        "type": "single",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1ad87d102b0d8973a40a5e1",
+        "url": "https://open.spotify.com/album/6cU8SbGf11GcGkIvuUz3MD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40vzAr7KZo7PQf8jtd3SPc",
+        "title": "nayt - top tracks",
+        "artist": "nayt",
+        "type": "compilation",
+        "release_date": "2026-07-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6ed8ed5d7e727921df2be5b",
+        "url": "https://open.spotify.com/album/40vzAr7KZo7PQf8jtd3SPc",
+        "total_tracks": 30,
+        "genres": []
       }
     ],
     "2026-07-15": [
@@ -19966,6 +20010,316 @@
         "release_date": "2026-07-15",
         "image": "https://i.scdn.co/image/ab67616d00001e022e73f1209915dbdebb9deb2a",
         "url": "https://open.spotify.com/album/4NhQqqYjErOtX2op0hzYTi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0uzsIbnv3NZaHF6s2KJOFN",
+        "title": "Éxitos 2026 - Kenia Os",
+        "artist": "Kenia Os",
+        "type": "compilation",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8cbe782ea14b916b9525c31",
+        "url": "https://open.spotify.com/album/0uzsIbnv3NZaHF6s2KJOFN",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3rqTfRsy7jOb89qIr6aTCn",
+        "title": "NO BEBE",
+        "artist": "Dowba Montana",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02266a220e43f4171a955aa231",
+        "url": "https://open.spotify.com/album/3rqTfRsy7jOb89qIr6aTCn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0G6VKTm2wJz4wdsQCbO8QX",
+        "title": "Mujhe Aap Mil Gaye",
+        "artist": "Kumar Sanu, Gul Saxena, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a74a1fedc1996b22ee4b99c8",
+        "url": "https://open.spotify.com/album/0G6VKTm2wJz4wdsQCbO8QX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6FZ8EywY86wJFT5YTzbVUh",
+        "title": "LOCA LOCA",
+        "artist": "Wac Toja, Kubańczyk, LEEO",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ca5367d3075c98941a8a311",
+        "url": "https://open.spotify.com/album/6FZ8EywY86wJFT5YTzbVUh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BpSjgXtvqQlqmet8LZZvv",
+        "title": "Piya Bin",
+        "artist": "Sameer Anjaan, Neil-Niraj, Indira Naik",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bdbb2a4b557e58d71e52359",
+        "url": "https://open.spotify.com/album/5BpSjgXtvqQlqmet8LZZvv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4zcRttB0qgRsbpKQ7blUqt",
+        "title": "Puerto Rico",
+        "artist": "Amo",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2f0bc95b4e7a6889721de39",
+        "url": "https://open.spotify.com/album/4zcRttB0qgRsbpKQ7blUqt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01MIRzy0nQbc9VwZ1dl8zW",
+        "title": "На нашій вулиці",
+        "artist": "MamaRika",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02869cac657b0a72712cf0a648",
+        "url": "https://open.spotify.com/album/01MIRzy0nQbc9VwZ1dl8zW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5OF00MNuuT31An3oD9gJLb",
+        "title": "Nguwe Kuphela",
+        "artist": "Cardinal X25",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f77c179ef4c651a5660dd9d",
+        "url": "https://open.spotify.com/album/5OF00MNuuT31An3oD9gJLb",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-16": [
+      {
+        "id": "2cH2d6rM2dF0S7wVPjNmLE",
+        "title": "Si No Es 62",
+        "artist": "Huan62, Hunter 164",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226020236324806db971b2cc6",
+        "url": "https://open.spotify.com/album/2cH2d6rM2dF0S7wVPjNmLE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Vmyoa5jGWkEifaI3zsKOB",
+        "title": "U KNOW",
+        "artist": "NOTION, X CLUB.",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203f77cd178188597ed3d1ff1",
+        "url": "https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5u64ByTLBYAuqlONo6jyq2",
+        "title": "PERREO LEGENDARIO: WISIN MIX",
+        "artist": "Wisin",
+        "type": "compilation",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eff2f339a737a70e836ca572",
+        "url": "https://open.spotify.com/album/5u64ByTLBYAuqlONo6jyq2",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "4VWVyTfUqD1dMDw1KApbk4",
+        "title": "Lost Boys (Acoustic)",
+        "artist": "Phoebe Bridgers",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7d1713bc67387bcb0013ec4",
+        "url": "https://open.spotify.com/album/4VWVyTfUqD1dMDw1KApbk4",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7ykp48rMKqrXmUfn0dzq52",
+        "title": "Big Plans",
+        "artist": "Dhanda Nyoliwala, Romeoz",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba655d8d20b5aadb16e463aa",
+        "url": "https://open.spotify.com/album/7ykp48rMKqrXmUfn0dzq52",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4oE0CORkFV1vvv3Ei8CUr9",
+        "title": "All For You (《蜘蛛人：重生日》電影片尾曲)",
+        "artist": "Eric Chou",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4a8db443d3743d30436d7a7",
+        "url": "https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vaItcxquxKmeC7nBOvxrv",
+        "title": "Love on Repeat",
+        "artist": "Vishal Mishra, Shreya Ghoshal, Jyotica Tangri",
+        "type": "compilation",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c517f500daaed779c15c50e6",
+        "url": "https://open.spotify.com/album/1vaItcxquxKmeC7nBOvxrv",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5774p2TxmjpkXwnCU4WLDX",
+        "title": "אישה אייקונית (Ran Ziv Remix)",
+        "artist": "Noa Kirel, אילנה קירל",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b82e550d977902625a9c7b8",
+        "url": "https://open.spotify.com/album/5774p2TxmjpkXwnCU4WLDX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0uvxYzipCsr5StL1KN38lm",
+        "title": "Notificação no Tela / Ficou Solteira e Tá de Volta (feat. MC GP, Mc Lele JP & Boladin 211)",
+        "artist": "MC Ryan SP, MC Meno K, DJ Japa NK, DJ WILL TN",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd3989329489cc019fb2cf7e",
+        "url": "https://open.spotify.com/album/0uvxYzipCsr5StL1KN38lm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5izRFM0Fl3WHD99pzH0mdF",
+        "title": "Не мани",
+        "artist": "CHEEV",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e021230c1dcc61a33382db104f3",
+        "url": "https://open.spotify.com/album/5izRFM0Fl3WHD99pzH0mdF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AeBdITvhCVjngpwzNM0gR",
+        "title": "Nevera moja",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d302fccd694fe5a82cc6f71",
+        "url": "https://open.spotify.com/album/3AeBdITvhCVjngpwzNM0gR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wm8Uq7fdigDdHycPvMGJt",
+        "title": "สวัสดีวันขี้เกียจ",
+        "artist": "Whatcharawalee",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee2b8b9204d16aee0bdd86b2",
+        "url": "https://open.spotify.com/album/4wm8Uq7fdigDdHycPvMGJt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7EWJYskD14DmJkxLPHxMgz",
+        "title": "LIPTA AND THE ORCHESTRA",
+        "artist": "Lipta",
+        "type": "album",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027791290dfec49b8f9b3cd741",
+        "url": "https://open.spotify.com/album/7EWJYskD14DmJkxLPHxMgz",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "23kYnNwK9OjPGsmK0idMO9",
+        "title": "MOLIS GNORISTIKAME",
+        "artist": "Kidd, BLVD",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6fc2f0184c077340116add4",
+        "url": "https://open.spotify.com/album/23kYnNwK9OjPGsmK0idMO9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "125sMx59tkvaya5Vmia0lt",
+        "title": "Nóis Não Quer Moral",
+        "artist": "Perera DJ, MC Ryan SP, MC Vinny, MC Paulin da Capital",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024209a7d03750d6eedc8f1773",
+        "url": "https://open.spotify.com/album/125sMx59tkvaya5Vmia0lt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4IAVNjXwlXgfRuix8jXHIN",
+        "title": "SEXY LOBA",
+        "artist": "Lyon la f, Nacho G Flow",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d997483d0b79c3350b13e4d0",
+        "url": "https://open.spotify.com/album/4IAVNjXwlXgfRuix8jXHIN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "76Yhg3kjzDaLEiEpVc957A",
+        "title": "Powiększone Usta",
+        "artist": "Sequento, Maka, Pancio",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb919b748a55b4af35ef5195",
+        "url": "https://open.spotify.com/album/76Yhg3kjzDaLEiEpVc957A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XVqPaIwHeuePa4eigLOpc",
+        "title": "Сигарета",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200bb206f5ef3f4a992fd1f7f",
+        "url": "https://open.spotify.com/album/3XVqPaIwHeuePa4eigLOpc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3a4N6O5HecbvkNJcB3fj4s",
+        "title": "ไม่เคยคิดแค่เพื่อน (2026)",
+        "artist": "MEYOU",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a451dbffc8f5d4a7ea2b945",
+        "url": "https://open.spotify.com/album/3a4N6O5HecbvkNJcB3fj4s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1mBdLB8FniUWAWzRj892Qc",
+        "title": "Peço Liberdade",
+        "artist": "DJ BOY, Mc Kadu, MC Vine7",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205d29236358ca18cd448eabb",
+        "url": "https://open.spotify.com/album/1mBdLB8FniUWAWzRj892Qc",
         "total_tracks": 1,
         "genres": []
       }
