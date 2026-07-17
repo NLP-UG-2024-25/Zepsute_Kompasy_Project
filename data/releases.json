@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-16T08:11:59.912Z",
-  "total": 1837,
+  "fetched_at": "2026-07-17T08:08:33.801Z",
+  "total": 1882,
   "by_date": {
     "2026-05-15": [
       {
@@ -20100,6 +20100,17 @@
         "url": "https://open.spotify.com/album/5OF00MNuuT31An3oD9gJLb",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3lPEd4Kg3MCLdlP4bqC1cE",
+        "title": "Love Sensation Remixes",
+        "artist": "Madonna, Floorplan, salute",
+        "type": "single",
+        "release_date": "2026-07-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a911efb6d89890b3ea8630c5",
+        "url": "https://open.spotify.com/album/3lPEd4Kg3MCLdlP4bqC1cE",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-07-16": [
@@ -20320,6 +20331,492 @@
         "release_date": "2026-07-16",
         "image": "https://i.scdn.co/image/ab67616d00001e0205d29236358ca18cd448eabb",
         "url": "https://open.spotify.com/album/1mBdLB8FniUWAWzRj892Qc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1t7899EeCip9KJJlL1jvFJ",
+        "title": "SE LLEGÓ EL VERANO",
+        "artist": "Hermanos Espinoza",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e3be4e5384f3ba66fdd9915",
+        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4xVsVTOU6CxrB7jKLUs5uc",
+        "title": "Millon Freestyle",
+        "artist": "Yan Block",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0257e228df47984c658f1e9ab5",
+        "url": "https://open.spotify.com/album/4xVsVTOU6CxrB7jKLUs5uc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3iWDRiIF1KwDoS9iaGkuA1",
+        "title": "BALLON D'OR",
+        "artist": "THIZZY52",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02315799127f2ec8bf411a4d1d",
+        "url": "https://open.spotify.com/album/3iWDRiIF1KwDoS9iaGkuA1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6QhakvzoCW6qA42slxNI45",
+        "title": "GTI Function",
+        "artist": "Ski Aggu",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8fcaf286ded2c10cc3fa63e",
+        "url": "https://open.spotify.com/album/6QhakvzoCW6qA42slxNI45",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0UAMWgHzdxSbySGcQLioJ4",
+        "title": "I Am Plug",
+        "artist": "El Americano 4KT, Miky Woodz",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ce894667e2688a3387fe157",
+        "url": "https://open.spotify.com/album/0UAMWgHzdxSbySGcQLioJ4",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-17": [
+      {
+        "id": "1YcMgix0U3ttJq1HqbgR8r",
+        "title": "Need Your Love (Emilio Piano Version)",
+        "artist": "OneRepublic",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240bd0bee336519d777c9abb0",
+        "url": "https://open.spotify.com/album/1YcMgix0U3ttJq1HqbgR8r",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6DuuzOm5bLRIg4CVBQx136",
+        "title": "Dead Fresh",
+        "artist": "Lil Baby",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299f0c412a5d80626ae972cf4",
+        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BZydSQMfJNphTFZzyIxh5",
+        "title": "Daughter from Hell",
+        "artist": "Gracie Abrams",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299bc33b47a0a67fd50783055",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "3KGlZ9YeHexP80A3scG86n",
+        "title": "Daydream (30th Anniversary Edition)",
+        "artist": "Mariah Carey",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200f00f307ab0026f13e26b45",
+        "url": "https://open.spotify.com/album/3KGlZ9YeHexP80A3scG86n",
+        "total_tracks": 33,
+        "genres": []
+      },
+      {
+        "id": "7gEfwwmCPea9IDGTGCQixd",
+        "title": "The Kid",
+        "artist": "The Lumineers, Felice County Fair",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a8718e271629da97d326eb1",
+        "url": "https://open.spotify.com/album/7gEfwwmCPea9IDGTGCQixd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25bNaP0CRNhtjAwxRiFguT",
+        "title": "Made You Think I Was Gone ...But",
+        "artist": "Tory Lanez",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e021750b541688ed5f8af4b4455",
+        "url": "https://open.spotify.com/album/25bNaP0CRNhtjAwxRiFguT",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "0oYgcnk2w6uloDSYJO0XBk",
+        "title": "Decades",
+        "artist": "Motionless In White",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02312e4d88924cbfe1ba3ac24f",
+        "url": "https://open.spotify.com/album/0oYgcnk2w6uloDSYJO0XBk",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4eDQTiLQbU7HLlW5iinZZz",
+        "title": "speechless",
+        "artist": "Bazzi",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b1733d42dd0a0d8da33992f",
+        "url": "https://open.spotify.com/album/4eDQTiLQbU7HLlW5iinZZz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5FlNdwK6me5AgRFnXrM4Xx",
+        "title": "Flashing Before Your Eyes",
+        "artist": "G-Eazy, Logic",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c2c549f447d16a8b3592ba6",
+        "url": "https://open.spotify.com/album/5FlNdwK6me5AgRFnXrM4Xx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7gGVmp0etPwdJO0KRfWxpn",
+        "title": "Echo Sax Finale",
+        "artist": "Tiësto, Caleb Arredondo",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe425e671c6ca42e95ea0f1a",
+        "url": "https://open.spotify.com/album/7gGVmp0etPwdJO0KRfWxpn",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0h1Sn38JBC5GSg5n4LY5lt",
+        "title": "MONTAGEM RELIQUIA",
+        "artist": "h6itam, KHAOS",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02318abf3f626f2062fb3fab6f",
+        "url": "https://open.spotify.com/album/0h1Sn38JBC5GSg5n4LY5lt",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "0RMoHT136VYgUL7DhjUlXd",
+        "title": "Front Toward Enemy",
+        "artist": "Marilyn Manson",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b5e8c7b4999027a1bbe6b1c",
+        "url": "https://open.spotify.com/album/0RMoHT136VYgUL7DhjUlXd",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0lTp4t1VtrtxiFyNwy8MfB",
+        "title": "Set In Stone",
+        "artist": "Rick Ross",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02445c89cbe6e71600a7569033",
+        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "2d5hH3fp4wAXuxqP0AaYbV",
+        "title": "Cuando Te Beso (2025 Remastered)",
+        "artist": "Juan Luis Guerra 4.40",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7690c7e62d625a25bc9d658",
+        "url": "https://open.spotify.com/album/2d5hH3fp4wAXuxqP0AaYbV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0P1a7qP5rKjk9tCdj8SAd5",
+        "title": "Comes and Goes (Dom Dolla Remix)",
+        "artist": "KETTAMA, Dom Dolla",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2f2843676b110b36a7e2bb6",
+        "url": "https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "56LEdxnmGgiPje4QVKDwYd",
+        "title": "Teddy Bear Teddy Bear",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236e035f9d7e81e3ad422b4c6",
+        "url": "https://open.spotify.com/album/56LEdxnmGgiPje4QVKDwYd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AUHt7xuiteY3gj7SVZloB",
+        "title": "Avivamiento (En Vivo Desde Perú)",
+        "artist": "Miel San Marcos",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02358290e584625400ef1f0cda",
+        "url": "https://open.spotify.com/album/3AUHt7xuiteY3gj7SVZloB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4fnCeIyZYgi2KAlD8os6R1",
+        "title": "Relativity",
+        "artist": "NBSPLV",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e89e7c9d3ceca27316b9f299",
+        "url": "https://open.spotify.com/album/4fnCeIyZYgi2KAlD8os6R1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7JAecWOx3OAY5ZviymRosx",
+        "title": "MARIA GASOLINA",
+        "artist": "MXZI, Mc Gw, CACAU CHUU",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02700ad51b073a27e787778f2d",
+        "url": "https://open.spotify.com/album/7JAecWOx3OAY5ZviymRosx",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3XqCW77SrPc2TmqMEGpkhe",
+        "title": "Pasito",
+        "artist": "Jey One",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236c6438ef3daa43e50a78919",
+        "url": "https://open.spotify.com/album/3XqCW77SrPc2TmqMEGpkhe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4DByStAWGpsnY6FHRlDIGO",
+        "title": "OMNIUM✶N+3+ФX✶",
+        "artist": "DJ Javi26, DJ Zarek",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0de5dba08b38b2197a68767",
+        "url": "https://open.spotify.com/album/4DByStAWGpsnY6FHRlDIGO",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2NMEmnLpWk0jPGJLFjcpa8",
+        "title": "LOST IN YOUR EYES",
+        "artist": "Palm Monkey, DALEXO, Dan Hammond, HUANI",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02149be589b5e280c0909f68a7",
+        "url": "https://open.spotify.com/album/2NMEmnLpWk0jPGJLFjcpa8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6avJ43sBzbs0YZswo4j72J",
+        "title": "8D Oculomotor Load Theory",
+        "artist": "Brain Floss",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9f2d6996514edc49e404c66",
+        "url": "https://open.spotify.com/album/6avJ43sBzbs0YZswo4j72J",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "07S8hnczxCG1wvNMjbq8An",
+        "title": "VIVE LA MONNAIE",
+        "artist": "GIMS, Mauvais djo",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e025213f3f1cfd85a16eddcb720",
+        "url": "https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2FOImmUNbKLQ0h6PHZCAni",
+        "title": "AHA",
+        "artist": "Topic, Darlyy Ferreira",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0228153f8ea292f7d6d0bd9314",
+        "url": "https://open.spotify.com/album/2FOImmUNbKLQ0h6PHZCAni",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7wlWWZbIVW0iHnhKTx3YzV",
+        "title": "Кружева",
+        "artist": "Gio Pika",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02322e24d53031ccf42f28415a",
+        "url": "https://open.spotify.com/album/7wlWWZbIVW0iHnhKTx3YzV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DdktIMvwR8J70HCa51bjS",
+        "title": "siren (ABSOLUTE. Remix)",
+        "artist": "felix jaehn, Omar Rudberg, ABSOLUTE.",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b36775cea304f1ac60d2a36",
+        "url": "https://open.spotify.com/album/0DdktIMvwR8J70HCa51bjS",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "58iK0WSHT8zzXQxkRiC5Bl",
+        "title": "Get Buck",
+        "artist": "Marlon Hoffstadt",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c94ae92b111e59bbd2686dc",
+        "url": "https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5oTKWvmRuPANqHEIZuTrqt",
+        "title": "Soft Sunrise",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e021518ba76b0a1865d33eee252",
+        "url": "https://open.spotify.com/album/5oTKWvmRuPANqHEIZuTrqt",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6HpyFT6zDIC6JuSZmA2vJq",
+        "title": "пупы шмупы",
+        "artist": "Lida",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02694cb62d8e59e20c1a3a2946",
+        "url": "https://open.spotify.com/album/6HpyFT6zDIC6JuSZmA2vJq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1s94fh2aVxfSpTVD3SZFJb",
+        "title": "Booster",
+        "artist": "Naza",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ed7d7d2b21149490d7a6cf6",
+        "url": "https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3k1seZ5NUVTmyFkHwuVKPH",
+        "title": "КУКЛА",
+        "artist": "uniqe",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ce6c2ffe92db7c35df42fba",
+        "url": "https://open.spotify.com/album/3k1seZ5NUVTmyFkHwuVKPH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4q490xQL52UB8q289YHrw0",
+        "title": "Jeg Ka' Ik' Mærke Noget (feat. Thomas Helmig)",
+        "artist": "Christopher, Thomas Helmig",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02392a48148c3203446788fb43",
+        "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3husmKRGXyxdr39btgJuVO",
+        "title": "Шабаш",
+        "artist": "Icegergert, Lolita",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ff98821919de4419e73a3d3",
+        "url": "https://open.spotify.com/album/3husmKRGXyxdr39btgJuVO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5aItozVOGdDVUIYXpyvZxE",
+        "title": "BB Lifestyle",
+        "artist": "Mavo, SSSoundGawd",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca109a82a135da0f13e1fd35",
+        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6x8xpnASB5Dp7OGje9leZW",
+        "title": "Танцуй со мной до утра",
+        "artist": "Ruki Vverh!",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b10db8a9c9db5e7c5610889a",
+        "url": "https://open.spotify.com/album/6x8xpnASB5Dp7OGje9leZW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VS2sm4uGfeC6HBdGzHLZB",
+        "title": "End Of The World",
+        "artist": "HOLY PRIEST, BARBZ",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02641d9bdbc5548d414e055196",
+        "url": "https://open.spotify.com/album/1VS2sm4uGfeC6HBdGzHLZB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oCC5XvZeiuFIkL1YSB9NQ",
+        "title": "Revolution",
+        "artist": "Matthew James",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db261ce78246fb92f27159a9",
+        "url": "https://open.spotify.com/album/6oCC5XvZeiuFIkL1YSB9NQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kAAzMQUYmq46kUOw0KvbS",
+        "title": "wristwatch bruise",
+        "artist": "crying motorz",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ba204cbf568a4b5489c9c3d",
+        "url": "https://open.spotify.com/album/7kAAzMQUYmq46kUOw0KvbS",
         "total_tracks": 1,
         "genres": []
       }
