@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-17T08:08:33.801Z",
-  "total": 1882,
+  "fetched_at": "2026-07-18T07:48:10.257Z",
+  "total": 1899,
   "by_date": {
     "2026-05-15": [
       {
@@ -18849,6 +18849,17 @@
         "url": "https://open.spotify.com/album/0pR9edg5k0So6Ua1ApTvjU",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6u0yJw8MjVfMDaZyT6UxJ8",
+        "title": "Tu Esi Vasarā",
+        "artist": "Papīra Lidmašīnas",
+        "type": "single",
+        "release_date": "2026-07-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b5838d2b6d5c425d5869fc5",
+        "url": "https://open.spotify.com/album/6u0yJw8MjVfMDaZyT6UxJ8",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-12": [
@@ -20388,6 +20399,39 @@
         "url": "https://open.spotify.com/album/0UAMWgHzdxSbySGcQLioJ4",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "49sTgQ60n6ADLJs9VozDyB",
+        "title": "Crash Out",
+        "artist": "Tinashe",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299171bef6dbea1b16ccbf7e7",
+        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hiYnoXVcYRUDP9E8sPyf6",
+        "title": "NÓMADA",
+        "artist": "Jasiel Nuñez",
+        "type": "album",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205408da2892aa62b5d2e5657",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "11fAJjqx0Dxki7fHwf3WoQ",
+        "title": "MODO EXTRATERRESTRE",
+        "artist": "Raúl Beltran",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fc5bf1ea9d0f44f07cf3715",
+        "url": "https://open.spotify.com/album/11fAJjqx0Dxki7fHwf3WoQ",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-17": [
@@ -20817,6 +20861,151 @@
         "release_date": "2026-07-17",
         "image": "https://i.scdn.co/image/ab67616d00001e020ba204cbf568a4b5489c9c3d",
         "url": "https://open.spotify.com/album/7kAAzMQUYmq46kUOw0KvbS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hiB93K9xxEVqcR9WCguys",
+        "title": "Get Busy (Club Mix)",
+        "artist": "Sean Paul, &friends",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f47ccd61dda287e07189600d",
+        "url": "https://open.spotify.com/album/4hiB93K9xxEVqcR9WCguys",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "289GZwycrFReuNB706obBx",
+        "title": "Oh yeah?",
+        "artist": "Steve Lacy",
+        "type": "album",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "783xSEjTzRgUWJCNryDL0b",
+        "title": "STILL ACHIN'",
+        "artist": "Sematary",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad94fd1bd75842d72a39f2cf",
+        "url": "https://open.spotify.com/album/783xSEjTzRgUWJCNryDL0b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Vc21yuEvQkoALaEh8biTn",
+        "title": "Yo Voy A Mi",
+        "artist": "Ya Ice Dilan, JipMusic Global, Dj Honda",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e021a174670415e7ddaac59108b",
+        "url": "https://open.spotify.com/album/4Vc21yuEvQkoALaEh8biTn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2visyYWQ4iYibNPFk8YnTn",
+        "title": "Barish Vibes",
+        "artist": "Pritam",
+        "type": "compilation",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eee0ec2ff43eab669d7122b6",
+        "url": "https://open.spotify.com/album/2visyYWQ4iYibNPFk8YnTn",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "5UlWq5479iD0AFiygiNMrU",
+        "title": "Allein",
+        "artist": "AFROJACK, Gil Glaze",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02030c180f9ea19810cff098ce",
+        "url": "https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0gvHmrlKzS8I0am7TKMWwc",
+        "title": "Desire (Official FIFA Anthem) (feat. Nicole Scherzinger & Laura Pausini)",
+        "artist": "Robbie Williams, Nicole Scherzinger, Laura Pausini, FIFA Sound",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6a3458c1d166348b15c1169",
+        "url": "https://open.spotify.com/album/0gvHmrlKzS8I0am7TKMWwc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "31Z3HVPuJA9O8FBUV73hbX",
+        "title": "Love Vibes Only",
+        "artist": "Arijit Singh, Shreya Ghoshal, Akhil Sachdeva",
+        "type": "compilation",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e32948cc416d846e18ccdf6f",
+        "url": "https://open.spotify.com/album/31Z3HVPuJA9O8FBUV73hbX",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5X6W4NQtTyyUiMrFECfh3c",
+        "title": "Chirurgie",
+        "artist": "La Rvfleuze",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5c4916ff3e44c6e0b5be2a6",
+        "url": "https://open.spotify.com/album/5X6W4NQtTyyUiMrFECfh3c",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2U2FzUoJagaeGPdyzF9Nx0",
+        "title": "媚人",
+        "artist": "Joker Xue",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a5c39713a3aebda5296703f",
+        "url": "https://open.spotify.com/album/2U2FzUoJagaeGPdyzF9Nx0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0be9RJySbvkMaeCqMytpcH",
+        "title": "Happiness Anytime: Part 1",
+        "artist": "Leon Bridges",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259adae48f8ee1de1369b837a",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1lBRtISOw0GRwNQTaAASEi",
+        "title": "Манго",
+        "artist": "Vintage",
+        "type": "single",
+        "release_date": "2026-07-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed2efdbd26b9a5bda6527ddd",
+        "url": "https://open.spotify.com/album/1lBRtISOw0GRwNQTaAASEi",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-18": [
+      {
+        "id": "6pHEI6UgQrfYkCW6K0irla",
+        "title": "F.A.C.E.",
+        "artist": "Tatsuya Kitani",
+        "type": "single",
+        "release_date": "2026-07-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c97b3b91183f522dfc42aebc",
+        "url": "https://open.spotify.com/album/6pHEI6UgQrfYkCW6K0irla",
         "total_tracks": 1,
         "genres": []
       }
