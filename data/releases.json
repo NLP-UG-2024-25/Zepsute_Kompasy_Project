@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-19T08:16:09.549Z",
-  "total": 1948,
+  "fetched_at": "2026-07-20T08:56:39.496Z",
+  "total": 1980,
   "by_date": {
     "2026-05-15": [
       {
@@ -17723,6 +17723,17 @@
         "url": "https://open.spotify.com/album/5ErMhH0BMJxtQnXCvw396m",
         "total_tracks": 15,
         "genres": []
+      },
+      {
+        "id": "6t7zfbbl4i5ATEvwzczwqn",
+        "title": "The Real Me",
+        "artist": "Future",
+        "type": "album",
+        "release_date": "2026-07-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209131fcfc305e56f841edf79",
+        "url": "https://open.spotify.com/album/6t7zfbbl4i5ATEvwzczwqn",
+        "total_tracks": 22,
+        "genres": []
       }
     ],
     "2026-07-10": [
@@ -20432,6 +20443,28 @@
         "url": "https://open.spotify.com/album/11fAJjqx0Dxki7fHwf3WoQ",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "41K5jLsbiHSIneJHTkcaar",
+        "title": "NORMAL",
+        "artist": "BTS",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9cb83c28ce6ce9d5c97cc1f",
+        "url": "https://open.spotify.com/album/41K5jLsbiHSIneJHTkcaar",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5TgS2IZQfWXmDnSl32mx3m",
+        "title": "Dead Fresh",
+        "artist": "Lil Baby",
+        "type": "single",
+        "release_date": "2026-07-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02828dfe7b937aca2767081455",
+        "url": "https://open.spotify.com/album/5TgS2IZQfWXmDnSl32mx3m",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-17": [
@@ -21503,6 +21536,17 @@
         "url": "https://open.spotify.com/album/0BFgisHltfhe890UTghvdV",
         "total_tracks": 30,
         "genres": []
+      },
+      {
+        "id": "0JFvz9pj9oM2CYRhNQom85",
+        "title": "MONTAGEM MECCK 2",
+        "artist": "Mc Magrinho, DJ VS DA DZ7",
+        "type": "single",
+        "release_date": "2026-07-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023fb819667cfde2641e3bdd09",
+        "url": "https://open.spotify.com/album/0JFvz9pj9oM2CYRhNQom85",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-19": [
@@ -21547,6 +21591,316 @@
         "release_date": "2026-07-19",
         "image": "https://i.scdn.co/image/ab67616d00001e026e1a0d9ac122b9d9c7794bd9",
         "url": "https://open.spotify.com/album/2HJR9YWxsXiSIh40KW5Mhp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7aDGB98GdB93SWYwW6tgSp",
+        "title": "Bollywood Dance Anthems",
+        "artist": "Sachin-Jigar, Tanishk Bagchi, Pritam, Arijit Singh",
+        "type": "compilation",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5163e36b1b9c6826482a122",
+        "url": "https://open.spotify.com/album/7aDGB98GdB93SWYwW6tgSp",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0Od4Ooh3Ileiaojv6f0ti6",
+        "title": "Ác Mộng Đẹp - Chapter 1",
+        "artist": "Đạt G",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f778cfa86fd95e7894356eed",
+        "url": "https://open.spotify.com/album/0Od4Ooh3Ileiaojv6f0ti6",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1hdtMg52QMtqsh6pdwDJSV",
+        "title": "Quiérete A Ti (Love Yourself)",
+        "artist": "Luana",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a219152b28b9cac8ddcb8884",
+        "url": "https://open.spotify.com/album/1hdtMg52QMtqsh6pdwDJSV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0c8P9PecI8B2hUBVu4bXGb",
+        "title": "See you again",
+        "artist": "Lil Kevcy",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f51d46a4724eeca63402c177",
+        "url": "https://open.spotify.com/album/0c8P9PecI8B2hUBVu4bXGb",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4UKt3p0W1Tn2NrKrQr11mD",
+        "title": "AUTOMOTIVO SEQUENCIA DO SENTA E TREPA",
+        "artist": "Mc Magrinho, DJ Caldas, DJ Artimundo",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4aafa41cebbdf824fed6725",
+        "url": "https://open.spotify.com/album/4UKt3p0W1Tn2NrKrQr11mD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2syK24qXteRGcYtp5grkOq",
+        "title": "Glaub an dich",
+        "artist": "BearyTunes",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f73cc5aa2d105fc8bbb8c44d",
+        "url": "https://open.spotify.com/album/2syK24qXteRGcYtp5grkOq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7m771lqG9IZB8ghMqDKnJe",
+        "title": "VIDEO SENSUAL - MANDA FOTO DO PAU",
+        "artist": "CACAU CHUU, Dj Vedana, VZMY",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5483de1e94703952b6541f8",
+        "url": "https://open.spotify.com/album/7m771lqG9IZB8ghMqDKnJe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bjShij2hdAoCaHhkTIaKT",
+        "title": "شوفت صحبي ميت من الخوف",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5a55c4d7326d41407f00a56",
+        "url": "https://open.spotify.com/album/0bjShij2hdAoCaHhkTIaKT",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-20": [
+      {
+        "id": "3QK8pfy4W9zt71z2EgjH68",
+        "title": "Si Te Pone En 4",
+        "artist": "Ezzy R",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b7cf04f86aa0d2f2a09df21",
+        "url": "https://open.spotify.com/album/3QK8pfy4W9zt71z2EgjH68",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32ThiIG1vml2xUjB25IrFt",
+        "title": "Sofoke + Kinky",
+        "artist": "Donaty",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de000519f5805695ee61ec01",
+        "url": "https://open.spotify.com/album/32ThiIG1vml2xUjB25IrFt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1F4RUycLIU7XmW54GDiVKQ",
+        "title": "vainglory",
+        "artist": "slxughter",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3771460f7445052b19b9412",
+        "url": "https://open.spotify.com/album/1F4RUycLIU7XmW54GDiVKQ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3PtfQJCbXoK02Hs5snuF0q",
+        "title": "Mc Jacaré - Pau Pra Toda Obra, Carnívoro, Voltei Pra Rua É Recente e mais...",
+        "artist": "Mc Jacaré",
+        "type": "compilation",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dff655b21df0fdf844589365",
+        "url": "https://open.spotify.com/album/3PtfQJCbXoK02Hs5snuF0q",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "3tq2tmkPoMnxrx520vIea7",
+        "title": "WILLY CAMPERO / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Willy Campero",
+        "type": "album",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec8fe53b5e69d2bd4e2f30e2",
+        "url": "https://open.spotify.com/album/3tq2tmkPoMnxrx520vIea7",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "5T2uRvrVEtcROzihQziks4",
+        "title": "ฉันทำอะไรได้.. (To Reach You)",
+        "artist": "MEAN Band, Karn The Parkinson",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f953f29e95ea50d8513e604",
+        "url": "https://open.spotify.com/album/5T2uRvrVEtcROzihQziks4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5HMbZ6uFzcWBI6KBxyU1Qs",
+        "title": "Palkhi Nighali Wari La",
+        "artist": "Shankar Mahadevan, Reewa, Roop Kumar Rathod",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259f2a8175a40b5d19769ebd5",
+        "url": "https://open.spotify.com/album/5HMbZ6uFzcWBI6KBxyU1Qs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3twKIixBlJfQUkCeME0qAc",
+        "title": "快照",
+        "artist": "Jason Chan",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e028726d56fcaa4341f3f1f3ee7",
+        "url": "https://open.spotify.com/album/3twKIixBlJfQUkCeME0qAc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "65mi0Luwqz1dj1pQ8C9Xjh",
+        "title": "1 of a kind",
+        "artist": "OG-ANIC",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cd0798e00a50371255b20b0",
+        "url": "https://open.spotify.com/album/65mi0Luwqz1dj1pQ8C9Xjh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04yz3K1vzsvMP05VN7WjoF",
+        "title": "BBB",
+        "artist": "HermesHermes, Stanley",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f2d08eaada73e8c9de7a115",
+        "url": "https://open.spotify.com/album/04yz3K1vzsvMP05VN7WjoF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "12VuQFhvCNIbwWzBM5Dd1d",
+        "title": "ECHO",
+        "artist": "Mihaela Marinova",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf9112e40edb9be7b7c6026e",
+        "url": "https://open.spotify.com/album/12VuQFhvCNIbwWzBM5Dd1d",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "73eTkyTiounCUMQofQfWvf",
+        "title": "Julieta mea (Acustic)",
+        "artist": "Lele, Manele VTM, Parlamentul Manelelor",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b003ec33195e7d0295fd032",
+        "url": "https://open.spotify.com/album/73eTkyTiounCUMQofQfWvf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uacH8b7V6ZUTBw6gCLCTP",
+        "title": "Yang Tinggal",
+        "artist": "Malique, Zizi Kirana, Yasin",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f22e04715b669eba830f4819",
+        "url": "https://open.spotify.com/album/1uacH8b7V6ZUTBw6gCLCTP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4D0mNBR5ss28oC0hlyskrj",
+        "title": "Jejak '98",
+        "artist": "Zynakal, MK K-Clique, Tuju",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec752e709c503795c0855ec0",
+        "url": "https://open.spotify.com/album/4D0mNBR5ss28oC0hlyskrj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0VJjk5G1dSWMuPtJBJlNgi",
+        "title": "Көңіл 2",
+        "artist": "MYNBAY",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f6901543ea7574f1c63ad78",
+        "url": "https://open.spotify.com/album/0VJjk5G1dSWMuPtJBJlNgi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79M8JJn7FXvSxs3gNkUFV2",
+        "title": "Raave Cheliya (From \"Srinivasa Mangapuram\")",
+        "artist": "G. V. Prakash, Kapil Kapilan, Nag Arjun Reddy",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203e4b2c1d89bda2482b584d5",
+        "url": "https://open.spotify.com/album/79M8JJn7FXvSxs3gNkUFV2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46qjfjeegLwu3aYJwx2VLU",
+        "title": "MAGRÃO ELETRÔNICO",
+        "artist": "Mc Magrinho, Mc Gw, DJ Dan zs",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bae36c9c38a6bf12664d7f24",
+        "url": "https://open.spotify.com/album/46qjfjeegLwu3aYJwx2VLU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cF9GzDTuiH8eC1dNFNsHX",
+        "title": "دنيا السواسه",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285359e7385484aeb5e1510f8",
+        "url": "https://open.spotify.com/album/6cF9GzDTuiH8eC1dNFNsHX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jyFVsY8I4MG6FnZpAPSse",
+        "title": "J.S. Bach: Fantasia and Fugue in G Minor, BWV 542 (Arr. for Solo Piano by Franz Liszt, S. 463): I. Fantasia",
+        "artist": "Johann Sebastian Bach, Shura Cherkassky",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02854c754fa2b1a2e2314a144c",
+        "url": "https://open.spotify.com/album/7jyFVsY8I4MG6FnZpAPSse",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dVSnSTIomyAvAQBEMQU1E",
+        "title": "LEILÃO DE XERECA",
+        "artist": "CACAU CHUU, Iraqui ZL, DJ Lano SP",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e9246e2e70bb8a16fd47fea",
+        "url": "https://open.spotify.com/album/4dVSnSTIomyAvAQBEMQU1E",
         "total_tracks": 1,
         "genres": []
       }
