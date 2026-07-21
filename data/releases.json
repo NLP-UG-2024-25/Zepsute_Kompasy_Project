@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-20T08:56:39.496Z",
-  "total": 1980,
+  "fetched_at": "2026-07-21T08:26:59.061Z",
+  "total": 2004,
   "by_date": {
     "2026-05-15": [
       {
@@ -21681,6 +21681,61 @@
         "url": "https://open.spotify.com/album/0bjShij2hdAoCaHhkTIaKT",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6IL9ejq9N4lQCt93ZMyUso",
+        "title": "Rasaagummadi (From \"Korean Kanakaraju\")",
+        "artist": "Thaman S, Nalgonda Gaddar Narsanna, Kasarla Shyam",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb379a0b11d60b97633eae10",
+        "url": "https://open.spotify.com/album/6IL9ejq9N4lQCt93ZMyUso",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Hs3JyVp2utVNuBbXig1Wf",
+        "title": "QUE FRIO E ESSE",
+        "artist": "MC Rick, Boladin 211, Dj Tj Do Mdp",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecd49324493ce0079f754b51",
+        "url": "https://open.spotify.com/album/7Hs3JyVp2utVNuBbXig1Wf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1X0QLuWyG6BZzPfx4fwFFJ",
+        "title": "ZIKIR KETIKA SEDIH LA HAWLA WALA QUWWATA ILLA BILLAH",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024008f647337bf8eeb1e38463",
+        "url": "https://open.spotify.com/album/1X0QLuWyG6BZzPfx4fwFFJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RGxX034CeTm9Vyg7R916V",
+        "title": "Brenda and Jake",
+        "artist": "Sezzjoni Zghazagh Dumnikani Beltin",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d19153b757b172aeaa4c7ed",
+        "url": "https://open.spotify.com/album/6RGxX034CeTm9Vyg7R916V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SScx5nAZQLUgB9PPKJsZq",
+        "title": "Afterglow Avenue",
+        "artist": "Livia Hart",
+        "type": "single",
+        "release_date": "2026-07-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021bf543afc41813a788c5baba",
+        "url": "https://open.spotify.com/album/0SScx5nAZQLUgB9PPKJsZq",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-20": [
@@ -21901,6 +21956,217 @@
         "release_date": "2026-07-20",
         "image": "https://i.scdn.co/image/ab67616d00001e024e9246e2e70bb8a16fd47fea",
         "url": "https://open.spotify.com/album/4dVSnSTIomyAvAQBEMQU1E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0HhoqCRYpuH5sc9mlgCgrF",
+        "title": "2000 TAPE",
+        "artist": "HAON, NOWIMYOUNG, JMIN, KC",
+        "type": "album",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c1d515c3665daf40c31c333",
+        "url": "https://open.spotify.com/album/0HhoqCRYpuH5sc9mlgCgrF",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "2I4TmQdZQmzTMha8iewVrD",
+        "title": "3ady Sahla (By Remix)",
+        "artist": "Marwan Moussa, Misty",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02956fa6be5c024ed4359b76dd",
+        "url": "https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZT8o4zFkEaKzPwgKP9KSo",
+        "title": "Blank Letter (feat. Seori, SHIRT)",
+        "artist": "PATEKO",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02886237e8ae336e76e691e7f3",
+        "url": "https://open.spotify.com/album/2ZT8o4zFkEaKzPwgKP9KSo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "54I8EMKaexbDnKWnf0wKnr",
+        "title": "HBK",
+        "artist": "Coogie",
+        "type": "album",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1b3dd9f4859be9f8ead42e9",
+        "url": "https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "0hIFyPmWU3NAJcXQjYfsWD",
+        "title": "Medley Putaria",
+        "artist": "Mc Paiva ZS, LeoZera, Love Funk",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f61123143fcb3a18cf53497",
+        "url": "https://open.spotify.com/album/0hIFyPmWU3NAJcXQjYfsWD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1OmF3w6Z6Egx7Fp5G9YkIA",
+        "title": "\"'Ongaku Kissa\": Classical Listening Room",
+        "artist": "Wolfgang Amadeus Mozart, Johann Sebastian Bach, Frédéric Chopin, Ludwig van Beethoven, Johannes Brahms, Antonio Vivaldi, Pyotr Ilyich Tchaikovsky, George Frideric Handel, Franz Liszt, Joseph Haydn",
+        "type": "album",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c451b9af9695d15b4126e6a",
+        "url": "https://open.spotify.com/album/1OmF3w6Z6Egx7Fp5G9YkIA",
+        "total_tracks": 80,
+        "genres": []
+      }
+    ],
+    "2026-07-21": [
+      {
+        "id": "25cTAo1aEDsyHJS6LVYbfy",
+        "title": "Please Don't Call Me a Koala Bear",
+        "artist": "The Wiggles",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a62c8afeb76f256ebedffda6",
+        "url": "https://open.spotify.com/album/25cTAo1aEDsyHJS6LVYbfy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0E0bcUP2tbMTEynWJ6SEdZ",
+        "title": "Оскар 2.0",
+        "artist": "Leningrad",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027514c5ceaa19a69ece3baad3",
+        "url": "https://open.spotify.com/album/0E0bcUP2tbMTEynWJ6SEdZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2uNMqTKICZE1UvLr80t9Yz",
+        "title": "Скажи мне/Asa du 2.0",
+        "artist": "JANAGA, Max Beatstone, FURSOV, Harddope",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02872e231baf210e90775c8a12",
+        "url": "https://open.spotify.com/album/2uNMqTKICZE1UvLr80t9Yz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Xdc7WZKWoxJQLCgHjNCm4",
+        "title": "Γαμώ Το Κκε",
+        "artist": "Sin Boy",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027556d32dd1afc0973a13ad15",
+        "url": "https://open.spotify.com/album/6Xdc7WZKWoxJQLCgHjNCm4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3w3Z2tPfHc2f9kt7alhOsX",
+        "title": "tip toe",
+        "artist": "moon tang",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e025576f81a300bb9c0d59c65a8",
+        "url": "https://open.spotify.com/album/3w3Z2tPfHc2f9kt7alhOsX",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1bQv0Lp8lL4oSTeBL2626g",
+        "title": "O Pai Não Namora",
+        "artist": "Dj Yuri Pedrada, MC Fioti",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e024802f0207a944231e9a0099e",
+        "url": "https://open.spotify.com/album/1bQv0Lp8lL4oSTeBL2626g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7gDP00FtOmGeCcDOsZefxj",
+        "title": "قلبلو نور اديلو اشارات ( الميديا خلت كلو يطير )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264ea03e437f75ea850816535",
+        "url": "https://open.spotify.com/album/7gDP00FtOmGeCcDOsZefxj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yTZLKP3SpWYERf9EShChQ",
+        "title": "Sig Godnat med Humle Brumle (Instrumental)",
+        "artist": "Humle Brumle",
+        "type": "album",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f1adb3171283887697b7a54",
+        "url": "https://open.spotify.com/album/0yTZLKP3SpWYERf9EShChQ",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6NjIh1cTd7LKO4NiQTOhpr",
+        "title": "MAROLENTO AUTOMOTIVO + PUTARIA TIPO AA",
+        "artist": "Mc Magrinho, MC Flavinho, Dj Qz Official, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e026baf1708b7fe30e73f20d577",
+        "url": "https://open.spotify.com/album/6NjIh1cTd7LKO4NiQTOhpr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wPsSgoXmJw8qmwYMMfPwn",
+        "title": "Chopin - Solo Piano Pieces",
+        "artist": "Frédéric Chopin, Various Artists",
+        "type": "compilation",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a040d9841ca29ab050c642b",
+        "url": "https://open.spotify.com/album/6wPsSgoXmJw8qmwYMMfPwn",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "5e0lFeln6T4cQeSskiGeaL",
+        "title": "ارض النفاق",
+        "artist": "7l2olo",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7d1b368f4d7f71cb3851f00",
+        "url": "https://open.spotify.com/album/5e0lFeln6T4cQeSskiGeaL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07YpHhinRkGLxyHbNrMY4O",
+        "title": "The Bach Album",
+        "artist": "Johann Sebastian Bach, Various Artists",
+        "type": "compilation",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad6b18d7b93992ccc7f9f3c4",
+        "url": "https://open.spotify.com/album/07YpHhinRkGLxyHbNrMY4O",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "1FCKn6fjoXrdfzZ1jZInyV",
+        "title": "Memories With You",
+        "artist": "Dim Angelo, Nikko Sunset",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d77d6bbbc2260d1baa3c39d3",
+        "url": "https://open.spotify.com/album/1FCKn6fjoXrdfzZ1jZInyV",
         "total_tracks": 1,
         "genres": []
       }
