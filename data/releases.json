@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-21T08:26:59.061Z",
-  "total": 2004,
+  "fetched_at": "2026-07-22T08:27:31.410Z",
+  "total": 2044,
   "by_date": {
     "2026-05-15": [
       {
@@ -22024,6 +22024,116 @@
         "url": "https://open.spotify.com/album/1OmF3w6Z6Egx7Fp5G9YkIA",
         "total_tracks": 80,
         "genres": []
+      },
+      {
+        "id": "3l83qf0otZwAAVztKlBqVQ",
+        "title": "Asalayavale (From \"Khalifa\")",
+        "artist": "Jakes Bejoy, Sid Sriram, Mohammed Maqbool Mansoor, Muthu",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a5baa1a8bdc84135d788166",
+        "url": "https://open.spotify.com/album/3l83qf0otZwAAVztKlBqVQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1yMgg1hKgdEGV7J1Hyt4RN",
+        "title": "Merayt El Hob",
+        "artist": "Tamer Ashour",
+        "type": "album",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d1e6991a1e7d60b667f2359",
+        "url": "https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3BrWwT6ZhsIMXbLIm5ifGz",
+        "title": "אהבה ממבט ראשון (כאן 11 מונדיאל 2026)",
+        "artist": "Noam Bettan, כאן - תאגיד השידור הישראלי",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbcb89e0991425fa12bc95bc",
+        "url": "https://open.spotify.com/album/3BrWwT6ZhsIMXbLIm5ifGz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "746sHFgmwOW4N4FdRhje9H",
+        "title": "Koi Fariyaad (Soul Edit)",
+        "artist": "Tulsi Kumar",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7692c41b7a051c950237a2c",
+        "url": "https://open.spotify.com/album/746sHFgmwOW4N4FdRhje9H",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73DBELkBVY0OWAbVUCbjq3",
+        "title": "Denia rahi kawyatni",
+        "artist": "Cheba Souad",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02864f6604bc5713e652ecbf0a",
+        "url": "https://open.spotify.com/album/73DBELkBVY0OWAbVUCbjq3",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5NSiKPREW5DAzzvClLT1CA",
+        "title": "Core",
+        "artist": "EK",
+        "type": "album",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b151ab1022b459330f92c3f",
+        "url": "https://open.spotify.com/album/5NSiKPREW5DAzzvClLT1CA",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7D09H3IMIA8OxU4rbOpKPq",
+        "title": "ZIKIR REDAKAN KERESAHAN YA LATIF",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218b871afdc5ea4b3b3bc85f5",
+        "url": "https://open.spotify.com/album/7D09H3IMIA8OxU4rbOpKPq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1dBG9RijUrkuxit1g6W6rw",
+        "title": "بعز الضهر",
+        "artist": "Nasrat Al Badr",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255603c72b79282d266b99e7a",
+        "url": "https://open.spotify.com/album/1dBG9RijUrkuxit1g6W6rw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JwFjfAZIo6PMn6w1D1Y6A",
+        "title": "Pana la rasarit (Live)",
+        "artist": "Luis Gabriel",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1173f66c0b78e29dd24ccc9",
+        "url": "https://open.spotify.com/album/5JwFjfAZIo6PMn6w1D1Y6A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0httRRlXY9IUWAyP7mVd6G",
+        "title": "CEARTA (RADIO SESSION)",
+        "artist": "Berechet",
+        "type": "single",
+        "release_date": "2026-07-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab1ddb4b70701a1038453496",
+        "url": "https://open.spotify.com/album/0httRRlXY9IUWAyP7mVd6G",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-21": [
@@ -22168,6 +22278,338 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02d77d6bbbc2260d1baa3c39d3",
         "url": "https://open.spotify.com/album/1FCKn6fjoXrdfzZ1jZInyV",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5V3gF2UBzIPJ6x9Ajz6ZMc",
+        "title": "ไม่มีวันไหนที่ไม่คิดถึง (starlost.) [Side by Side Session]",
+        "artist": "PURPEECH, BILLKIN",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b39c3c0f6dfb8c1951691d54",
+        "url": "https://open.spotify.com/album/5V3gF2UBzIPJ6x9Ajz6ZMc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Y6A8dStBTKSz5v8NHi5bf",
+        "title": "TINHTA",
+        "artist": "Minh Huy, Hành Or, Hổ",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022184db503ff7c36c12ba09d4",
+        "url": "https://open.spotify.com/album/5Y6A8dStBTKSz5v8NHi5bf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ShL6AibXcXnVm1b3goR1a",
+        "title": "BABY CACTUS",
+        "artist": "TRADE L",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299904ff72d784fbc1df9e5c2",
+        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6LME9l6jEm6o4rGUmI7Z22",
+        "title": "See You Somewhere (LIVE SESSION)",
+        "artist": "BILLKIN, PURPEECH",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209f382150d9be80273803dc0",
+        "url": "https://open.spotify.com/album/6LME9l6jEm6o4rGUmI7Z22",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0sOFx440hbrLgfNsP0tKnV",
+        "title": "Grand Soir",
+        "artist": "wane",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd7c90f658619bcf1b370526",
+        "url": "https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2P5WYw7vAwb5jeFPIU1lMc",
+        "title": "Camera",
+        "artist": "Charli xcx",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf5e9bd3c7533d7c3d471a62",
+        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zAweFf8kn6yl409deJvas",
+        "title": "В садах",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02baaf07aa84081ba48e7a03e6",
+        "url": "https://open.spotify.com/album/3zAweFf8kn6yl409deJvas",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5TavW70ILrvXyPabrm5z29",
+        "title": "Glow ME",
+        "artist": "fromis_9",
+        "type": "album",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b5faa87b39c22c153e85982",
+        "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0h84DVWx6Z7sXA2klbBvKy",
+        "title": "衛蘭Janice & Jill衛詩 2Vibes in Summer 2026",
+        "artist": "Janice Vidal, Jill Vidal",
+        "type": "album",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1404da9abf5ce4311f312d9",
+        "url": "https://open.spotify.com/album/0h84DVWx6Z7sXA2klbBvKy",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "12SUmyR2Z1UVhsK8DtZ7Oc",
+        "title": "衛蘭Janice & Jill衛詩 2Vibes in Summer 2026",
+        "artist": "Janice Vidal, Jill Vidal",
+        "type": "album",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0a063f08cd6455e9b238de3",
+        "url": "https://open.spotify.com/album/12SUmyR2Z1UVhsK8DtZ7Oc",
+        "total_tracks": 16,
+        "genres": []
+      }
+    ],
+    "2026-07-22": [
+      {
+        "id": "0izOOPv87i9EJ25MN0ibNt",
+        "title": "The Darkest Night",
+        "artist": "10CM",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253b9981b8b68e329f4d8729a",
+        "url": "https://open.spotify.com/album/0izOOPv87i9EJ25MN0ibNt",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5PyzukTBcLUY3CWpHgg8LA",
+        "title": "sex [last nite]",
+        "artist": "Lil Peep",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251aff1eea0b789ef30475adb",
+        "url": "https://open.spotify.com/album/5PyzukTBcLUY3CWpHgg8LA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6JIMB5E0g8XgwXd0sdS83S",
+        "title": "Hurt",
+        "artist": "2hollis",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f321e682d1a7ff27e0c707d",
+        "url": "https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13y0dC8wS6y9PeUsslK5gM",
+        "title": "Un Rato",
+        "artist": "Luis Brown",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b65350a94fde03681bb9af",
+        "url": "https://open.spotify.com/album/13y0dC8wS6y9PeUsslK5gM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40Zdy1Hmxwdegj5LLUMIKc",
+        "title": "Where I'm From (Live From History, Toronto)",
+        "artist": "Sticky Fingers",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e024aa2ce39a1394e25f8c19d0e",
+        "url": "https://open.spotify.com/album/40Zdy1Hmxwdegj5LLUMIKc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0YU5FA5JoARjY9bZAkJSDa",
+        "title": "A Shop for Killers Season 2 (Original Soundtrack)",
+        "artist": "Primary, GENESIO",
+        "type": "album",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b113bb1eb73a58dcc0e6eef",
+        "url": "https://open.spotify.com/album/0YU5FA5JoARjY9bZAkJSDa",
+        "total_tracks": 54,
+        "genres": []
+      },
+      {
+        "id": "3cYA4v77BEGvyFCAGt17cq",
+        "title": "Kraljica trotoara",
+        "artist": "Mile Kitic",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f197eb4e75f1f196519666a5",
+        "url": "https://open.spotify.com/album/3cYA4v77BEGvyFCAGt17cq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hDLIpjGgH6hKmObxBuR5o",
+        "title": "是非に及ばず (Special Edition)",
+        "artist": "Nogizaka46",
+        "type": "album",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f90e26bb5bbc1adcdfda337",
+        "url": "https://open.spotify.com/album/0hDLIpjGgH6hKmObxBuR5o",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4l5gU9zTfJWjlvvgxhy7y5",
+        "title": "Горлиці",
+        "artist": "SKYLERR",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9605795e6a331d18662ecb6",
+        "url": "https://open.spotify.com/album/4l5gU9zTfJWjlvvgxhy7y5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0muQlD92bPORIlWmINUINd",
+        "title": "PAS DE REFRAIN",
+        "artist": "Genezio",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cff41e7fd3324f87103c25f",
+        "url": "https://open.spotify.com/album/0muQlD92bPORIlWmINUINd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Fbz7ophVJlDqzORlzwCYo",
+        "title": "Sopot",
+        "artist": "Żabson, Hellfield, Sentino",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02806c394cf579b0573f51752d",
+        "url": "https://open.spotify.com/album/7Fbz7ophVJlDqzORlzwCYo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0pyLvKAdx8f1z9e2jn6IZw",
+        "title": "Mermaid",
+        "artist": "Shota Shimizu",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b95d71ea0a5ad6b1cd96382",
+        "url": "https://open.spotify.com/album/0pyLvKAdx8f1z9e2jn6IZw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "665GKJ3jyGgVlUJyTQcmJr",
+        "title": "ANXHELA",
+        "artist": "Likeboss",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a07a7130bf42655a76a18d4",
+        "url": "https://open.spotify.com/album/665GKJ3jyGgVlUJyTQcmJr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24YqZUlK8pvUq7Ntunoylw",
+        "title": "ΠΟΥΣΤΡΑ",
+        "artist": "YungKapa, Ar4b",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022113563ed3ea1b9426dd121f",
+        "url": "https://open.spotify.com/album/24YqZUlK8pvUq7Ntunoylw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2IpWDnbvL9dYKdjbJMCFhn",
+        "title": "Heartbeat",
+        "artist": "Ásgeir",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245bd8741778edc730fdfce48",
+        "url": "https://open.spotify.com/album/2IpWDnbvL9dYKdjbJMCFhn",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6gJPRh9u9BeqNIX4XK0X7g",
+        "title": "Carnaval",
+        "artist": "Alex Velea",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206b05ffe7c14dbf38fefdd71",
+        "url": "https://open.spotify.com/album/6gJPRh9u9BeqNIX4XK0X7g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bRKj27v0z7lqMVpqUQKRc",
+        "title": "ไม่มีวันจบลง",
+        "artist": "9tokyo",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a7758dd5362cf5868dc04d1",
+        "url": "https://open.spotify.com/album/0bRKj27v0z7lqMVpqUQKRc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hoe7GO555LEUoRGk2Qf9U",
+        "title": "At The Hundredth Meridian (Live July 22 - August 20, 2016)",
+        "artist": "The Tragically Hip",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e023de7b39ee1f01d57d25f0cb8",
+        "url": "https://open.spotify.com/album/3hoe7GO555LEUoRGk2Qf9U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6E9DHPIfxY7DAq73fWyfaa",
+        "title": "Zagen, zagen",
+        "artist": "Bumba",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251f647b6741d362e59ad70e2",
+        "url": "https://open.spotify.com/album/6E9DHPIfxY7DAq73fWyfaa",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4fRFWA8eVoZ9CZqviGB1c4",
+        "title": "霞日和 / Starry Smile Story",
+        "artist": "KOBUKURO",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f538d8587256375d3e5b1e3",
+        "url": "https://open.spotify.com/album/4fRFWA8eVoZ9CZqviGB1c4",
+        "total_tracks": 6,
         "genres": []
       }
     ]
