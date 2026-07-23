@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-22T08:27:31.410Z",
-  "total": 2044,
+  "fetched_at": "2026-07-23T08:28:24.537Z",
+  "total": 2080,
   "by_date": {
     "2026-05-15": [
       {
@@ -22389,6 +22389,50 @@
         "url": "https://open.spotify.com/album/12SUmyR2Z1UVhsK8DtZ7Oc",
         "total_tracks": 16,
         "genres": []
+      },
+      {
+        "id": "5tpyImVbj0H01pmBtnwelZ",
+        "title": "Khairiyat Lofi Mix",
+        "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya, Dj Psh",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e93f618aa31d82fd5d5f62e",
+        "url": "https://open.spotify.com/album/5tpyImVbj0H01pmBtnwelZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xDv2l8B1om6h0cR3or8ho",
+        "title": "Pehle Bhi Main Lofi Flip",
+        "artist": "Vishal Mishra, Raj Shekhar, Dj Psh",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2916aca3c324c8ffbb752e2",
+        "url": "https://open.spotify.com/album/7xDv2l8B1om6h0cR3or8ho",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ZHcmm6WFXSiHWk8AzFsJd",
+        "title": "Morina",
+        "artist": "Didine Canon 16",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292398d1e7dd26e475ab5fde1",
+        "url": "https://open.spotify.com/album/6ZHcmm6WFXSiHWk8AzFsJd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7tOqWJI74gKPsUGFHayuZr",
+        "title": "Tinta 90 (En Vivo)",
+        "artist": "DesaKTa2",
+        "type": "single",
+        "release_date": "2026-07-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efd282d36cf83d2bdef740cf",
+        "url": "https://open.spotify.com/album/7tOqWJI74gKPsUGFHayuZr",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-22": [
@@ -22610,6 +22654,360 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028f538d8587256375d3e5b1e3",
         "url": "https://open.spotify.com/album/4fRFWA8eVoZ9CZqviGB1c4",
         "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "24GhQrJxVWIbnRNLCrvdLx",
+        "title": "MILLONETA",
+        "artist": "Jere Klein, Blessd, Raven la R",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276ef3e2e93f8f7f051a46429",
+        "url": "https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63mrBSIe7fAxER3CyKVSDs",
+        "title": "Gigante - A COLORS SHOW",
+        "artist": "Mon Laferte, COLORS",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267c5ea2cbc2965ce5c2ccfa0",
+        "url": "https://open.spotify.com/album/63mrBSIe7fAxER3CyKVSDs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FDLvqBfXWVElySyTJa0om",
+        "title": "Oh Mother",
+        "artist": "Sam Smith",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee6d2e7b2d68f6a0f51d2c48",
+        "url": "https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7tzhA4pMXW1S2qnqaAg86M",
+        "title": "AMULETO (feat. Frank Louis)",
+        "artist": "Luar La L, C eLe, Rokero, Los Sobr3naturales",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18e4b36ef8f89b502a2ed3b",
+        "url": "https://open.spotify.com/album/7tzhA4pMXW1S2qnqaAg86M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FFkwNEUU5r3NlNSXNCmjH",
+        "title": "Habeitek",
+        "artist": "Amr Diab",
+        "type": "album",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e30a9797f3c50630515e402",
+        "url": "https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "4PdIcl4swrv6gta9ZSzLZG",
+        "title": "Please Summer!",
+        "artist": "BOL4",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02224571aa7884b5c07ed1e790",
+        "url": "https://open.spotify.com/album/4PdIcl4swrv6gta9ZSzLZG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4FefwyRCbRgFuC80AKodTy",
+        "title": "RAININ'",
+        "artist": "Topboy TGR, Fharid On the Beat",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6e0319a1fc56b969a0ed7a2",
+        "url": "https://open.spotify.com/album/4FefwyRCbRgFuC80AKodTy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7uX0KsERm8K9pr8svvbyoU",
+        "title": "Lindo Lindo",
+        "artist": "Luis Alfonso",
+        "type": "album",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f35f914eaec12a41485256c1",
+        "url": "https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "1UVdg4HiqygjEpJTYqlYLl",
+        "title": "Yuvan Shankar Raja Top Hits",
+        "artist": "Yuvan Shankar Raja",
+        "type": "compilation",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f37e6b0f8f94fa7c3f4fb6ce",
+        "url": "https://open.spotify.com/album/1UVdg4HiqygjEpJTYqlYLl",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "0LOzUiWHvDFY8VRqKomuZo",
+        "title": "كلام ماما",
+        "artist": "Pousi, Muslim",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250c72fc85629dfc3bfdbd8f7",
+        "url": "https://open.spotify.com/album/0LOzUiWHvDFY8VRqKomuZo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2d6ZBsNkOyYoYI2gSN535T",
+        "title": "Lifestyle (YA MAN)",
+        "artist": "Ayo Maff",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fe640cfe929445a77b478cf",
+        "url": "https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25zoOGW18DavmeytQmwrMn",
+        "title": "LAS VIBRAS NO MIENTEN",
+        "artist": "Julianno Sosa, Bayron Fire, l3tter",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02861e0ec70fc31cce520138c2",
+        "url": "https://open.spotify.com/album/25zoOGW18DavmeytQmwrMn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oGohIhSS6VY9JFNIqfdAu",
+        "title": "24/7 (SSBC Version)",
+        "artist": "DREAMS COME TRUE",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d33c8a74a8c37e3e258ae583",
+        "url": "https://open.spotify.com/album/6oGohIhSS6VY9JFNIqfdAu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0r3EbIYaiputU0gPoQREof",
+        "title": "Medley 2025",
+        "artist": "MC Rick, DJ PORIPA",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c57819bf1f06141990d7015",
+        "url": "https://open.spotify.com/album/0r3EbIYaiputU0gPoQREof",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ujRcmnMErVK1H5qgxzWt8",
+        "title": "كده في حب",
+        "artist": "Maha Ftouni",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecf159921e777c1c2202a053",
+        "url": "https://open.spotify.com/album/3ujRcmnMErVK1H5qgxzWt8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3JFMChc9NzIZ8QGFee3B4y",
+        "title": "انا المقاتل",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a65093c53569d3f7bc6ee65e",
+        "url": "https://open.spotify.com/album/3JFMChc9NzIZ8QGFee3B4y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3x2WQEvXP4Ek7bbnzKChMs",
+        "title": "Grammat Awards",
+        "artist": "Moro",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f5d1b58b449beaf80a76a45",
+        "url": "https://open.spotify.com/album/3x2WQEvXP4Ek7bbnzKChMs",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-23": [
+      {
+        "id": "74iUSIdgl8rOh9YJjKrC58",
+        "title": "Mala de Profesión",
+        "artist": "Yeison Jimenez",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a41402301e0f472239deff7d",
+        "url": "https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fpU3p9VuH941YMEVXaiqE",
+        "title": "A Parallel World (from Forgotten Island)",
+        "artist": "BINI",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02187e3f7ce45318dcbb548665",
+        "url": "https://open.spotify.com/album/1fpU3p9VuH941YMEVXaiqE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wWLZNNrRCxw6LvNc9GKYk",
+        "title": "Conversations",
+        "artist": "TJ Monterde",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f03faa8526f830b7947c01eb",
+        "url": "https://open.spotify.com/album/6wWLZNNrRCxw6LvNc9GKYk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1K4xiygLZHYc4iMyIJn7jx",
+        "title": "Toda Terra",
+        "artist": "Felipe Rodrigues",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a3793b9666e3713cbdd650b4",
+        "url": "https://open.spotify.com/album/1K4xiygLZHYc4iMyIJn7jx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2SuWY6PpdVBf2jmsZehxqH",
+        "title": "Date Com Pretão",
+        "artist": "DJ Oreia, MC GP, MC Ryan SP",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d32642b81c07588d6e305c2",
+        "url": "https://open.spotify.com/album/2SuWY6PpdVBf2jmsZehxqH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Y3X4PiLTTskoA58xGoEzk",
+        "title": "SHON PE (Count Your Money)",
+        "artist": "Tml Vibez",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ebc4aeee9e762f783673019c",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5zP1G8UYoDUsnAYyun7385",
+        "title": "Syndicate",
+        "artist": "Yan Ting, JFFT",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e43dabdfca7dfd4c6a133284",
+        "url": "https://open.spotify.com/album/5zP1G8UYoDUsnAYyun7385",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xX0kWW7AuoasVZq3RGYht",
+        "title": "23",
+        "artist": "HELLMERRY",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e17105fa50698628d476b9b",
+        "url": "https://open.spotify.com/album/7xX0kWW7AuoasVZq3RGYht",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jXv9Ipv3R9xAVkFjH1r8V",
+        "title": "Cahaya Hati",
+        "artist": "Raisa, Eross Candra, Joey Penny, Batavia Madrigal Singers",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260a2742eb7b209e717d1d88f",
+        "url": "https://open.spotify.com/album/6jXv9Ipv3R9xAVkFjH1r8V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5uVrLZSqVBmjJ2aNO5rAKu",
+        "title": "ไม่ได้ลืมแค่ไม่ได้เจอ (Live Session)",
+        "artist": "guncharlie, PURPEECH",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa2e33dc4a804c8eb02e92ef",
+        "url": "https://open.spotify.com/album/5uVrLZSqVBmjJ2aNO5rAKu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "60Pa5g1ZpmDiIFDXnuulUy",
+        "title": "ขึ้นใจ (3am call)",
+        "artist": "Mirrr, BLVCKHEART",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c94c223bcd576d2ca2c02a6e",
+        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2kbXtzCCdtfuln5SVoiyn2",
+        "title": "遲眠劑",
+        "artist": "陳卓賢 Ian",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ab070b3f37b095b995b5dcf",
+        "url": "https://open.spotify.com/album/2kbXtzCCdtfuln5SVoiyn2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5phVOaU4CxjVWAngurqi0U",
+        "title": "PAU",
+        "artist": "Costi, Jay Maly, Lavbbe",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299ff720f8c23140c9cd7938d",
+        "url": "https://open.spotify.com/album/5phVOaU4CxjVWAngurqi0U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Zkj0Ctvyi5kyAsAXVCbnu",
+        "title": "Pano Ap' Ti Gi",
+        "artist": "Logos Timis, Eleuthero Pneuma, Desbow",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02352cab8d65d7e88804604098",
+        "url": "https://open.spotify.com/album/0Zkj0Ctvyi5kyAsAXVCbnu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7bat1IYQy5FIaOC03dcBTa",
+        "title": "Lunar",
+        "artist": "RY-YR",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fc795d483ed0e1489f43153",
+        "url": "https://open.spotify.com/album/7bat1IYQy5FIaOC03dcBTa",
+        "total_tracks": 1,
         "genres": []
       }
     ]
