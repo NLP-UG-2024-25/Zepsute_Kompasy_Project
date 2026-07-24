@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-23T08:28:24.537Z",
-  "total": 2080,
+  "fetched_at": "2026-07-24T08:26:15.216Z",
+  "total": 2128,
   "by_date": {
     "2026-05-15": [
       {
@@ -22842,6 +22842,28 @@
         "url": "https://open.spotify.com/album/3x2WQEvXP4Ek7bbnzKChMs",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6a5bMb9m5LhzlsHj5ywTBc",
+        "title": "UUU (EN VIVO)",
+        "artist": "Rochy RD, Zofoke VAMO A ETO",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b161ff02cecb0836273ff4f1",
+        "url": "https://open.spotify.com/album/6a5bMb9m5LhzlsHj5ywTBc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5t8hpaO689ynbxHCa6AJZO",
+        "title": "Kalaroga (Innu San Duminku)",
+        "artist": "Sezzjoni Zghazagh Dumnikani Beltin",
+        "type": "single",
+        "release_date": "2026-07-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022ab08b197023cc1b798d3a57",
+        "url": "https://open.spotify.com/album/5t8hpaO689ynbxHCa6AJZO",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-23": [
@@ -23007,6 +23029,514 @@
         "release_date": "2026-07-23",
         "image": "https://i.scdn.co/image/ab67616d00001e022fc795d483ed0e1489f43153",
         "url": "https://open.spotify.com/album/7bat1IYQy5FIaOC03dcBTa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3g0PHy2BRa3ujyVpEMU5S5",
+        "title": "Vuelve",
+        "artist": "Grupo Firme",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b300b7539d40bc0e13cecff",
+        "url": "https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vlompiT1FQLKGUnUTKHme",
+        "title": "que te vaya bien",
+        "artist": "Ryan Castro",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e56c8a179b7754968407acfc",
+        "url": "https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3o0KBqscfhaIoqYJ6EnCzB",
+        "title": "M$NEY Live in London (Spotify Live)",
+        "artist": "Asake",
+        "type": "album",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230e8714c11da91a75e9bbde7",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "1bBAfhmPaPJUM6FEKuh8d6",
+        "title": "Te Dedico (Remix)",
+        "artist": "Carlos Vives, Jory Boy",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02793ab875be523661ad9ba673",
+        "url": "https://open.spotify.com/album/1bBAfhmPaPJUM6FEKuh8d6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bXdqd4NeCfNMVQJJWGVdM",
+        "title": "ASOT 1287 - A State of Trance Episode 1287 [Including Statement! - Friends of A State of Trance, Vol. 7 (Mixed by Ruben de Ronde)]",
+        "artist": "Armin van Buuren, Armin van Buuren ASOT Radio",
+        "type": "album",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0294d2f3d6cf5ea2c2733a0cae",
+        "url": "https://open.spotify.com/album/3bXdqd4NeCfNMVQJJWGVdM",
+        "total_tracks": 77,
+        "genres": []
+      },
+      {
+        "id": "5R26e1ugyCOL7NKmQMxWWN",
+        "title": "Galumph Went The Little Green Frog",
+        "artist": "The Wiggles",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c930896357510c31eb53b30",
+        "url": "https://open.spotify.com/album/5R26e1ugyCOL7NKmQMxWWN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VbzOUsk2rMlZwu9Oz5Rvl",
+        "title": "Ashan Habeeby",
+        "artist": "TUL8TE, Vodafone",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5c24f540298f2652f70465c",
+        "url": "https://open.spotify.com/album/1VbzOUsk2rMlZwu9Oz5Rvl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yWWNKkBJ2WPt3c9GDP1Yz",
+        "title": "No Se Olvida",
+        "artist": "Amenazzy, NTG",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02acb49444c533372866d1144d",
+        "url": "https://open.spotify.com/album/7yWWNKkBJ2WPt3c9GDP1Yz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5db1fh77jg5k3UO2JYdCUc",
+        "title": "Celosa",
+        "artist": "Kidd Voodoo",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f540d4979dd2f3e10e42dc2f",
+        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0mVnc9ICZa0cmzohe40WkC",
+        "title": "1001 câu trả lời",
+        "artist": "GREY D, Phùng Khánh Linh",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be61632cf5d720e78a392eca",
+        "url": "https://open.spotify.com/album/0mVnc9ICZa0cmzohe40WkC",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-24": [
+      {
+        "id": "3Y8tCScJlvlyZUhQdPmqSU",
+        "title": "Privacy",
+        "artist": "Pitbull, Jason Derulo",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb9e5af0921c601e5548b155",
+        "url": "https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ybCwWDhYDt2GYSCYFiF83",
+        "title": "Animal",
+        "artist": "KATSEYE",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e8d48f27391ce383862b8e8",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3ErrdBA5ZiII9WOb4QbJiD",
+        "title": "Where She Come From",
+        "artist": "HUGEL, Quavo",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3514ff97f0262a70d0726c3",
+        "url": "https://open.spotify.com/album/3ErrdBA5ZiII9WOb4QbJiD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2CW0gIlEO8iQBUdtRyxnb4",
+        "title": "Been By Now",
+        "artist": "Morgan Wallen",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02349f6c0133abbfca063891c1",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6paZ1REm9f4KE75egyuNGM",
+        "title": "Burn It Down (feat. Leon Bridges)",
+        "artist": "Shaboozey",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bac98a8aa7f61b78aadc053",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0PlelLEfPrffv3fayPmza9",
+        "title": "burger",
+        "artist": "bbno$",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dabb44bdaf6b3e88e160fa4",
+        "url": "https://open.spotify.com/album/0PlelLEfPrffv3fayPmza9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1TqRTGxpYFfwa3ub8Pqlqa",
+        "title": "Tough Town",
+        "artist": "Bryan Adams",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e23a5f653782372ac3ab5f4",
+        "url": "https://open.spotify.com/album/1TqRTGxpYFfwa3ub8Pqlqa",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6kkD5XCCkjk9zkafiOwPrY",
+        "title": "All Killer No Filler (25th Anniversary)",
+        "artist": "Sum 41",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022223329db1bb9e92f80c4183",
+        "url": "https://open.spotify.com/album/6kkD5XCCkjk9zkafiOwPrY",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "6VYjqAdWExFAfDdAudVT23",
+        "title": "Fireflies",
+        "artist": "Martin Garrix, U2",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0247ff4d4b28c0f4fad26667df",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5TZVkPE1yHRHn8WZqHJyx4",
+        "title": "ALL THE SWEETS // PULSAR STAR",
+        "artist": "Odetari",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fc62391cb7d717159b3444c",
+        "url": "https://open.spotify.com/album/5TZVkPE1yHRHn8WZqHJyx4",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6M29cFy55sW3mm0xdwcUrq",
+        "title": "VIRAL (Alan Walker Remix)",
+        "artist": "BOYNEXTDOOR, Alan Walker",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dff3d0bbf5f091c4b27adc04",
+        "url": "https://open.spotify.com/album/6M29cFy55sW3mm0xdwcUrq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6FEqKKl4tF5BKSzWBPKruX",
+        "title": "MONTAGEM CARIA",
+        "artist": "SEKIMANE",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d950ea6b8adedb7344db0ce",
+        "url": "https://open.spotify.com/album/6FEqKKl4tF5BKSzWBPKruX",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6T6sBfhpBEkxRQ6Va0YUIs",
+        "title": "Nomás Los Recuerdos",
+        "artist": "Los Invasores De Nuevo León",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ff642f735e2ad7d5d0951ae",
+        "url": "https://open.spotify.com/album/6T6sBfhpBEkxRQ6Va0YUIs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OWsNw2vvlZob0ltVjr9Eb",
+        "title": "Feel It (Oh My Days)",
+        "artist": "CYRIL, Wudhouse",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fcdaa96f5c766e008eb2eb0",
+        "url": "https://open.spotify.com/album/0OWsNw2vvlZob0ltVjr9Eb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2tsuz3c4fhwpZJPD8tfvOg",
+        "title": "Best Of Lullabies",
+        "artist": "Nursery Rhymes 123",
+        "type": "compilation",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e023600f2ee9dba30de665b8f8a",
+        "url": "https://open.spotify.com/album/2tsuz3c4fhwpZJPD8tfvOg",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "3BvzzBbaWVxfSYnmT2XBIY",
+        "title": "A Matter of Time",
+        "artist": "Air Supply",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280c89fc28b94a8d65f396910",
+        "url": "https://open.spotify.com/album/3BvzzBbaWVxfSYnmT2XBIY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Ot2EAeM6AWOYMrnba7amz",
+        "title": "Tell Me",
+        "artist": "54 Ultra",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c8dcd0c23faf10129fdb2b7",
+        "url": "https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "008GDVsgpJywRcdwbhydvI",
+        "title": "Ludovico Einaudi: Experience",
+        "artist": "Ludovico Einaudi, Claudio Ferrarini",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255ba45f8a39f878c87fca016",
+        "url": "https://open.spotify.com/album/008GDVsgpJywRcdwbhydvI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6OPKLtP2TsldxBFUOIhXZ3",
+        "title": "Dima",
+        "artist": "Trinix, Ouidad",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022abf8c32ddd2092d7d1898a5",
+        "url": "https://open.spotify.com/album/6OPKLtP2TsldxBFUOIhXZ3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nHWkApzpUt3pRHZQjEipH",
+        "title": "AMOR PASIONADO",
+        "artist": "DJ Javi26, SamuelCG",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c0d6e31f9d0f0250676e50c",
+        "url": "https://open.spotify.com/album/1nHWkApzpUt3pRHZQjEipH",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2ibZ4AWTPuBgvD4gazX8E1",
+        "title": "Dumb Decisions",
+        "artist": "Ely Oaks, LAVINIA",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f2e91a42104350795dd6684",
+        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5lfQndF3mfuRl7mQQ9jqHK",
+        "title": "MTG ROSALIA POLO",
+        "artist": "SASORIIXPP, TXKYO, Zenos!",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe02473a03f18b1e72757418",
+        "url": "https://open.spotify.com/album/5lfQndF3mfuRl7mQQ9jqHK",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6d9I4Fr7wF3edbZfl8TiBi",
+        "title": "FANTAISIE",
+        "artist": "GIMS",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eef38c877b0b9e0712232ab5",
+        "url": "https://open.spotify.com/album/6d9I4Fr7wF3edbZfl8TiBi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1r3SvTDd5DCy9GsN5ttxcL",
+        "title": "Flow Marino",
+        "artist": "El Americano 4KT",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028dcef1da9d4bb321ec693920",
+        "url": "https://open.spotify.com/album/1r3SvTDd5DCy9GsN5ttxcL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4qZ4Bl9hjSZjID4wr6s28N",
+        "title": "wake up x_x",
+        "artist": "akkiemi",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e3d4b19e278b33fca99155a",
+        "url": "https://open.spotify.com/album/4qZ4Bl9hjSZjID4wr6s28N",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3CzmngQynWM7xY9HlNm8Xx",
+        "title": "Good Girl",
+        "artist": "Cloonee, Prospa, Tristan Henry",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3571d042e1945b430985d08",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "36LrsbsV2fQBAnXMTDWkqv",
+        "title": "С тобой",
+        "artist": "JONY, Tasso",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eecfffd4e68c33367e1d6a3e",
+        "url": "https://open.spotify.com/album/36LrsbsV2fQBAnXMTDWkqv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0AKItcNg4t6CC2nOu8yv98",
+        "title": "第三惑星 - The Third Planet",
+        "artist": "tuki.",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259b9742ba04e91360175dc49",
+        "url": "https://open.spotify.com/album/0AKItcNg4t6CC2nOu8yv98",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6lGIOAghlUq5lYi6Gzy1Vn",
+        "title": "Ketchup",
+        "artist": "Naza",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c44cc48f970c3f3b72ceaa9",
+        "url": "https://open.spotify.com/album/6lGIOAghlUq5lYi6Gzy1Vn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0PFTMjw4ODWOQFOoiiadKI",
+        "title": "Business",
+        "artist": "Mavo",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0239c703350723897e8c96dd87",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "1631YAX4PBZH3CwYoHDH5T",
+        "title": "Abacaxi Pegou Preço (Ao Vivo em Goiânia) Ep.02",
+        "artist": "Jeninho",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fccb20256c3ea4c996fd9c42",
+        "url": "https://open.spotify.com/album/1631YAX4PBZH3CwYoHDH5T",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1OqODdQYaOgSftAb3DV3qq",
+        "title": "We don't talk (anymore)",
+        "artist": "Niklas Dee, Oaks",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264c5d5ee5f595e5c9897502f",
+        "url": "https://open.spotify.com/album/1OqODdQYaOgSftAb3DV3qq",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2O9TdXfuQg9T1nxEevvpT9",
+        "title": "Los Éxitos del Rey",
+        "artist": "Darío Gómez",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d19e758c147c0791f69a4f65",
+        "url": "https://open.spotify.com/album/2O9TdXfuQg9T1nxEevvpT9",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "7Jq9knVspdcWmRGfOSoYu1",
+        "title": "Willow Song",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02586c4f15b4a7a2c1e7c5ed55",
+        "url": "https://open.spotify.com/album/7Jq9knVspdcWmRGfOSoYu1",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6kfzInEq7MP3gwjxUdusf6",
+        "title": "Famous to You",
+        "artist": "Max McNown",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02671582e9020c883b9bed52dd",
+        "url": "https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BDOkdqkK9nXk5jRoccHty",
+        "title": "Disgruntled (feat. J Hus & IRAH)",
+        "artist": "Chase & Status, J Hus, IRAH",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cca34c85477995b069f13273",
+        "url": "https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty",
         "total_tracks": 1,
         "genres": []
       }
