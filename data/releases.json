@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-24T08:26:15.216Z",
-  "total": 2128,
+  "fetched_at": "2026-07-25T08:04:56.078Z",
+  "total": 2145,
   "by_date": {
     "2026-05-15": [
       {
@@ -23141,6 +23141,61 @@
         "url": "https://open.spotify.com/album/0mVnc9ICZa0cmzohe40WkC",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "65jjbesYWCmUM1tq73shbZ",
+        "title": "Red People",
+        "artist": "The Game, YG, Swizz Beatz, Timbaland",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fae9f9a1a940229b5888162e",
+        "url": "https://open.spotify.com/album/65jjbesYWCmUM1tq73shbZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4treNrODWT0CIVFIWiUxXq",
+        "title": "Mejor que Yo",
+        "artist": "Maisak",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02722cd955185f9fd81c887536",
+        "url": "https://open.spotify.com/album/4treNrODWT0CIVFIWiUxXq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3S76tPQflMK1QhzZBZNw1t",
+        "title": "¿QUÉ PASÓ AYER?",
+        "artist": "Jessi Uribe",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02186e373ace237db3304b81b4",
+        "url": "https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5tZv2OhfujVzqFHwarueye",
+        "title": "LeoRD Live #6: La Boo",
+        "artist": "Leo RD, La Boo, h1ddenxx",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1ea1eefec2f965ad08ed3c2",
+        "url": "https://open.spotify.com/album/5tZv2OhfujVzqFHwarueye",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4nnlr9hM65GqPkaKa7xuKO",
+        "title": "Xandar tal-Grazzja",
+        "artist": "Sezzjoni Zghazagh Dumnikani Beltin",
+        "type": "single",
+        "release_date": "2026-07-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c879954d932f6b62530a565",
+        "url": "https://open.spotify.com/album/4nnlr9hM65GqPkaKa7xuKO",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-24": [
@@ -23538,6 +23593,138 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02cca34c85477995b069f13273",
         "url": "https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4bR7pd6TVS53l24qFV4wI8",
+        "title": "Music, Fashion, Film",
+        "artist": "Charli xcx",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02238e2ff91714a8db91b8a64d",
+        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "0SU1jLaS0QasvGqIT8XIVg",
+        "title": "EQUILIBRIVM II",
+        "artist": "Anitta",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc561bc173dc5cf4a08e0ab7",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg",
+        "total_tracks": 32,
+        "genres": []
+      },
+      {
+        "id": "72xUZR7nfwWpzYpNNKpFoj",
+        "title": "ANTIMATERIA",
+        "artist": "cape",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfae27d2a087cf1e3ceb609c",
+        "url": "https://open.spotify.com/album/72xUZR7nfwWpzYpNNKpFoj",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5KNkZxe9l1U7mOvJEvqYih",
+        "title": "Ustedes",
+        "artist": "Ezzy R",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a38850a5ae1c9c927554bdb7",
+        "url": "https://open.spotify.com/album/5KNkZxe9l1U7mOvJEvqYih",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3UEYD6ZbFAhNJ2RVk9sGK2",
+        "title": "Drifter",
+        "artist": "Klangkarussell, Tailor",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dd686f120976cf338755dee2",
+        "url": "https://open.spotify.com/album/3UEYD6ZbFAhNJ2RVk9sGK2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46I9p8xZmYec27ppxJdbR2",
+        "title": "Assunto / Window Shake",
+        "artist": "Argy, SOLANCE",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fde820cd18437cc7ec7eb4e6",
+        "url": "https://open.spotify.com/album/46I9p8xZmYec27ppxJdbR2",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7DijESNKToR0E0v9X72ksc",
+        "title": "Dis-le (Acoustic)",
+        "artist": "Angèle",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227fe9bc62b0964dc16997954",
+        "url": "https://open.spotify.com/album/7DijESNKToR0E0v9X72ksc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hQwOaSboWqEXPVw2Zy499",
+        "title": "Zack Tabudlo: The Complete Collection",
+        "artist": "Zack Tabudlo",
+        "type": "compilation",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235274781f9580ac007c74805",
+        "url": "https://open.spotify.com/album/0hQwOaSboWqEXPVw2Zy499",
+        "total_tracks": 32,
+        "genres": []
+      },
+      {
+        "id": "0pDU9QXpxlhrQMm7hS5T4P",
+        "title": "i'm way too self aware",
+        "artist": "oskar med k",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02884afb36fd3eda1c28e87f02",
+        "url": "https://open.spotify.com/album/0pDU9QXpxlhrQMm7hS5T4P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6x0nmCMjHeuN3rYBmI5Bor",
+        "title": "Reality Awaits",
+        "artist": "The Strokes",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b458d1409d938dad4e3ba2c",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1ZXHaS3S2SULUnJyVX9WJQ",
+        "title": "MONTAGEM RINGO",
+        "artist": "SCHWVFTY",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c1c08d00f2e9a9910f6cff4",
+        "url": "https://open.spotify.com/album/1ZXHaS3S2SULUnJyVX9WJQ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4zeTx0UVhpy5sI7C4ux9Y8",
+        "title": "Samierināšanās mehānisms",
+        "artist": "Krāsa",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca10d89d0725d358abe4c3ba",
+        "url": "https://open.spotify.com/album/4zeTx0UVhpy5sI7C4ux9Y8",
+        "total_tracks": 10,
         "genres": []
       }
     ]
