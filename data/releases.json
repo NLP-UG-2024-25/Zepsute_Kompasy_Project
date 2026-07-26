@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-25T08:04:56.078Z",
-  "total": 2145,
+  "fetched_at": "2026-07-26T08:25:36.940Z",
+  "total": 2190,
   "by_date": {
     "2026-05-15": [
       {
@@ -23725,6 +23725,507 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02ca10d89d0725d358abe4c3ba",
         "url": "https://open.spotify.com/album/4zeTx0UVhpy5sI7C4ux9Y8",
         "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0fjs4nBJ9w4qk1A9mg90HW",
+        "title": "MATADORA",
+        "artist": "KAROL G",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a28f412a17d863410ff9cfbf",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4vGk8lHLXxfMFOCIkuJVjP",
+        "title": "Pvtero (Remix)",
+        "artist": "Rochy RD, Papo El Maxx, Mr Plata, Victor Capra",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02870ce0848c3850a640536d36",
+        "url": "https://open.spotify.com/album/4vGk8lHLXxfMFOCIkuJVjP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6dZmnyIxUUyJZvqVPTEDcJ",
+        "title": "DC (Original Motion Picture Soundtrack)",
+        "artist": "Anirudh Ravichander, Heisenberg, Vedan, Ashwin Krishna",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b90520d9172e8beeaeb6449b",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "6cuWtedBPcK63jf0wHn9BX",
+        "title": "你笑起来",
+        "artist": "姚晓棠",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285aa589b8e5d8146400fb8ed",
+        "url": "https://open.spotify.com/album/6cuWtedBPcK63jf0wHn9BX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FLjAJXanysV83gydmHCVB",
+        "title": "Dembow Pa 2",
+        "artist": "Mc Morena, Skorps, REYNALDII, TRATTO DE LA CALLE",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278ef61721d12284fb0377656",
+        "url": "https://open.spotify.com/album/1FLjAJXanysV83gydmHCVB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7aenOx63RkYZxQ6ZDJ7vs7",
+        "title": "DEJA VU",
+        "artist": "LFERDA",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3d794c6aea767a2f78ac4ca",
+        "url": "https://open.spotify.com/album/7aenOx63RkYZxQ6ZDJ7vs7",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "5Jkknduct4LhXGUPrUZa61",
+        "title": "Ne Kadar Varsa",
+        "artist": "Yıldız Tilbe",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021612be015de814ae5caf4d9d",
+        "url": "https://open.spotify.com/album/5Jkknduct4LhXGUPrUZa61",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0UQFwEDeXStw4ieM2wR7Nq",
+        "title": "Amore",
+        "artist": "Lidia",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260b1d8d20197c4b4716adff7",
+        "url": "https://open.spotify.com/album/0UQFwEDeXStw4ieM2wR7Nq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7zmbgzCZ2irUMAatRHNMkB",
+        "title": "BOOMPALA (feat. Ayra Starr)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0c0b3cb8b6dd894069783f9",
+        "url": "https://open.spotify.com/album/7zmbgzCZ2irUMAatRHNMkB",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "34l3eBsb2NFoVUdBqmF2Hd",
+        "title": "Mira Bebé",
+        "artist": "La Arrolladora Banda El Limón De Rene Camacho",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02050e9140866789dea5bb37b0",
+        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0aZBaidFJ4TMQKosqGHjxo",
+        "title": "Phantom",
+        "artist": "Didine Canon 16",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dca2935ead3a754f660b7ad0",
+        "url": "https://open.spotify.com/album/0aZBaidFJ4TMQKosqGHjxo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5QBGeIDpzzqfRCJWdIQ6xX",
+        "title": "كنت اصيل اتشافت عويل",
+        "artist": "Magdy El Zahar",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc52dd754eb7fca9df365ce8",
+        "url": "https://open.spotify.com/album/5QBGeIDpzzqfRCJWdIQ6xX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YelZbxAGXdkKUP6pMXsrn",
+        "title": "Less than a Lover",
+        "artist": "JENNIE",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021568796289f10031724bc780",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0CnRdkRsL51kz0ehoB0tBV",
+        "title": "STRAIGHT OUTTA CRACKHOUSE",
+        "artist": "CrackHouse, Bandura, Divix, Macias",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b43801cbbf259770d8494bea",
+        "url": "https://open.spotify.com/album/0CnRdkRsL51kz0ehoB0tBV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uXmYoFQLXnZb9WNOzk3kb",
+        "title": "Bhola Ke Mandiriya",
+        "artist": "Shilpi Raj, Power Pyare",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289a15018525fcd83a9c7db47",
+        "url": "https://open.spotify.com/album/1uXmYoFQLXnZb9WNOzk3kb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4nHjJdyZGEbDdGRChOfPWU",
+        "title": "Yaaran Khaatir",
+        "artist": "Masoom Sharma, Amar Karnawal, Pinna Music",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f688e5d9275a80fa412fa265",
+        "url": "https://open.spotify.com/album/4nHjJdyZGEbDdGRChOfPWU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6zGTNW6WWQIjGy2I2FA3VK",
+        "title": "EU VOU VIVER COM ELAS - VARIAS NAMORADA",
+        "artist": "Mc Rodrigo do CN, DJ BL",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02518a82bc147b8d430dda69cf",
+        "url": "https://open.spotify.com/album/6zGTNW6WWQIjGy2I2FA3VK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "302AProwV3w8ZinWaz1G6C",
+        "title": "MTG Primeiro Me Mama",
+        "artist": "Yuri Redicopa, Mc 2g, DJ WZL",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0a4ef7982e848e0d177251c",
+        "url": "https://open.spotify.com/album/302AProwV3w8ZinWaz1G6C",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Ko4FMec43K97Kdyz4kc5S",
+        "title": "انتو لو شوفتوني متشقلب ( الشعار هنا ش ش ش )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c494c24b721d6e1809db02f5",
+        "url": "https://open.spotify.com/album/5Ko4FMec43K97Kdyz4kc5S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ytZM0Helf7xn03FUokbAr",
+        "title": "NICO MATTIOLI / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Nico Mattioli",
+        "type": "album",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029adc43b3cffae0d351a0a2ab",
+        "url": "https://open.spotify.com/album/0ytZM0Helf7xn03FUokbAr",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "3RVZ1KQYVP3OSZbY0FmBKq",
+        "title": "Tu Dolor - Versión Cumbia (En Vivo)",
+        "artist": "Luciano Pereyra, Uriel Lozano",
+        "type": "single",
+        "release_date": "2026-07-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b9663e4bb139d0cfdc2f0927",
+        "url": "https://open.spotify.com/album/3RVZ1KQYVP3OSZbY0FmBKq",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-25": [
+      {
+        "id": "4tCRCJcrLwh1r8qNNP5rbP",
+        "title": "Los Compas Reloaded",
+        "artist": "Ñejo, Pj Sin Suela, Los Compas",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea6232bca4b5763f67bc7529",
+        "url": "https://open.spotify.com/album/4tCRCJcrLwh1r8qNNP5rbP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23mc0N5STqjjenelkilOTB",
+        "title": "ditch (versions)",
+        "artist": "laydownrot, lateatmidnite",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200d1c64bf15f8ceeacd0aba7",
+        "url": "https://open.spotify.com/album/23mc0N5STqjjenelkilOTB",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1ngxlYj0pHPA54D4yGNsdh",
+        "title": "TINH HÀ \"SAY HI\", TẬP 4",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecbec3da3fc21b7b720f652e",
+        "url": "https://open.spotify.com/album/1ngxlYj0pHPA54D4yGNsdh",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6wsi1o6Vq5ULAD6OedEJYS",
+        "title": "CÔNG DIỄN 1 (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "album",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02683251993c47f813d7416743",
+        "url": "https://open.spotify.com/album/6wsi1o6Vq5ULAD6OedEJYS",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "66eB94jy3AbV9lfu8JThtX",
+        "title": "Hoovina Santhege (Lo Fi)",
+        "artist": "Sonu Nigam, Shreya Ghoshal, VDJ Fly",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02762a8320561d008edd89a638",
+        "url": "https://open.spotify.com/album/66eB94jy3AbV9lfu8JThtX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3C0yf5SGLasC9XJfaeDUPI",
+        "title": "Emang Boleh?",
+        "artist": "Akbar Chalay, Remora Xian",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021cd287ceeb5709f751b17aea",
+        "url": "https://open.spotify.com/album/3C0yf5SGLasC9XJfaeDUPI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4bxsb2T4nHwAxASKwrpAE2",
+        "title": "Aap Jaisa",
+        "artist": "Sunidhi Chauhan, Shashi Preetam",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02788eb042aa2af750e6db7467",
+        "url": "https://open.spotify.com/album/4bxsb2T4nHwAxASKwrpAE2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "75L4r6d6Myb17wNyKr95Bd",
+        "title": "Lepotan",
+        "artist": "Azis",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb3a9d076b9095d1f7004537",
+        "url": "https://open.spotify.com/album/75L4r6d6Myb17wNyKr95Bd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ik1qK4UNZKzMU1h3mGOEB",
+        "title": "Jalan Jalan",
+        "artist": "Denny Caknan",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261b887d4f48ea15e03f839e1",
+        "url": "https://open.spotify.com/album/2ik1qK4UNZKzMU1h3mGOEB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0PI0aLVKl5wqUhB4Srfbe5",
+        "title": "Nresnani (Live Session)",
+        "artist": "Lavora",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021352e34ba752dc74a1f76743",
+        "url": "https://open.spotify.com/album/0PI0aLVKl5wqUhB4Srfbe5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1azHObcGNx65a0iYx0Etx1",
+        "title": "Țara Oașului",
+        "artist": "Lele, Sami",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02683a5a263c2e45cb3316cdfa",
+        "url": "https://open.spotify.com/album/1azHObcGNx65a0iYx0Etx1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41ejO7TONBYyznKBjXW2dj",
+        "title": "GO CRAZY",
+        "artist": "Rizziatta",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cd0c0243c5f74dcfe896067",
+        "url": "https://open.spotify.com/album/41ejO7TONBYyznKBjXW2dj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1MvhiKHrn6m2EwIU8dQvO5",
+        "title": "Hum To Bhole Hai",
+        "artist": "Masoom Sharma, Srishati Sharma, Amar Karnawal",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b4b736d2f2c4e10cec904d6",
+        "url": "https://open.spotify.com/album/1MvhiKHrn6m2EwIU8dQvO5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7vZoS9VUB5LDjT7ebc0ruY",
+        "title": "МИ НА РІЗНИХ БЕРЕГАХ",
+        "artist": "Dj NACZALNIK Boss",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d22a2a0c6f7d98b1e6b87974",
+        "url": "https://open.spotify.com/album/7vZoS9VUB5LDjT7ebc0ruY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XjWhky6piciPqVekjqTnR",
+        "title": "Twoface 2027",
+        "artist": "Sjakklubb, Kushko",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f75addcc6ca497658c7d2409",
+        "url": "https://open.spotify.com/album/5XjWhky6piciPqVekjqTnR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4oXcTkTXooUnsG7WXP4ovE",
+        "title": "Pălăria Jos",
+        "artist": "Leo de la Rosiori, Denis Ramniceanu, Taraful Leo de la Rosiori",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243e1934894b7d6af2d289c7f",
+        "url": "https://open.spotify.com/album/4oXcTkTXooUnsG7WXP4ovE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02G6oanleXh3L7fBv3PbTV",
+        "title": "SABOR COLOMBIANO / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Sabor Colombiano",
+        "type": "album",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f911c3acd61e939bcd8f4ab",
+        "url": "https://open.spotify.com/album/02G6oanleXh3L7fBv3PbTV",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "4Eq3cTm5OgQ5sMfhIKOyX3",
+        "title": "EL NEGRO TECLA / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, El negro tecla",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3516f2e3b05f0a3887a95db",
+        "url": "https://open.spotify.com/album/4Eq3cTm5OgQ5sMfhIKOyX3",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5IWgmCjKBb4yJk4SHwkfOH",
+        "title": "LUCKSMITH VOL.4",
+        "artist": "Layone, LUCKSMITH",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e024729b3ba347aaeda4d0c36bb",
+        "url": "https://open.spotify.com/album/5IWgmCjKBb4yJk4SHwkfOH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "21w7UvB9eqfCQlGwCZeSB3",
+        "title": "Unikezile",
+        "artist": "Cardinal X25",
+        "type": "single",
+        "release_date": "2026-07-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027379afa2168286159448717f",
+        "url": "https://open.spotify.com/album/21w7UvB9eqfCQlGwCZeSB3",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-26": [
+      {
+        "id": "7Am0PvxtFWNhK3s1L2iz6C",
+        "title": "In My Lifetime",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-07-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243b847576e63dc3613254948",
+        "url": "https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6WEAgfxhu69DCfdWLYGICl",
+        "title": "Voz da Sabedoria",
+        "artist": "João Neto & Frederico, Frederico Nunes, Felipe Cesar",
+        "type": "single",
+        "release_date": "2026-07-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e020265535df8445110762bbe4a",
+        "url": "https://open.spotify.com/album/6WEAgfxhu69DCfdWLYGICl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2JEaHV8x0hMajRbGJk39GW",
+        "title": "BANANA TELEPHONE 2",
+        "artist": "DJ DIGIDON",
+        "type": "single",
+        "release_date": "2026-07-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4672d3cd16f14b308b168ed",
+        "url": "https://open.spotify.com/album/2JEaHV8x0hMajRbGJk39GW",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-27": [
+      {
+        "id": "1LrWl0TSIQb496YdgQQKce",
+        "title": "כולי תפילה",
+        "artist": "Eden Hason, Meydad Tasa",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c32bafec7c0feac429c3001",
+        "url": "https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce",
+        "total_tracks": 1,
         "genres": []
       }
     ]
