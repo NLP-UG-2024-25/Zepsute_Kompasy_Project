@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-27T09:50:32.034Z",
-  "total": 2229,
+  "fetched_at": "2026-07-28T08:32:42.952Z",
+  "total": 2254,
   "by_date": {
     "2026-05-15": [
       {
@@ -24379,6 +24379,28 @@
         "url": "https://open.spotify.com/album/3T9gfzeefSc6Qn6Ve2oYbh",
         "total_tracks": 80,
         "genres": []
+      },
+      {
+        "id": "7AtMT8e2Lr78V549WujEIW",
+        "title": "Mahsobek Akhtar Sayea",
+        "artist": "Hamo ElTikha",
+        "type": "single",
+        "release_date": "2026-07-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce9a99582afa4fa44db050c1",
+        "url": "https://open.spotify.com/album/7AtMT8e2Lr78V549WujEIW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Tm1hhPJejaQEhPFnflUzw",
+        "title": "Champions 27",
+        "artist": "Floriana FC",
+        "type": "single",
+        "release_date": "2026-07-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209058343da4a40375639d777",
+        "url": "https://open.spotify.com/album/5Tm1hhPJejaQEhPFnflUzw",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-07-27": [
@@ -24654,6 +24676,261 @@
         "release_date": "2026-07-27",
         "image": "https://i.scdn.co/image/ab67616d00001e0203e741ead993247f1b0432e8",
         "url": "https://open.spotify.com/album/51Xf8dFV5xw9oaKVnsFlIL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19T0bG3OXAXTePmYZCVK9Z",
+        "title": "Animal (on the dance floor)",
+        "artist": "KATSEYE",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249a77dd9bebee5e1185f03ae",
+        "url": "https://open.spotify.com/album/19T0bG3OXAXTePmYZCVK9Z",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2UQiY52UWsfyJ7eVORSryP",
+        "title": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
+        "artist": "TEN",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c28e386522dea30cf757654c",
+        "url": "https://open.spotify.com/album/2UQiY52UWsfyJ7eVORSryP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7EAshI20RwWEFLHhuxhKbb",
+        "title": "Sudah Tahu Tuhan Kita Berbeda",
+        "artist": "eńau, Momo",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02974997089428969e7fc5c7f6",
+        "url": "https://open.spotify.com/album/7EAshI20RwWEFLHhuxhKbb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3gNGoCA3TDr4g93DEyKWzj",
+        "title": "البوم كاسح الجدارة",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bb5b9821a0beed046e738a7",
+        "url": "https://open.spotify.com/album/3gNGoCA3TDr4g93DEyKWzj",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "10QCwfRAZ5isjZaIpY59hK",
+        "title": "v mojich snoch",
+        "artist": "Sara Rikas",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5e31399e72cc75e2dbdfea4",
+        "url": "https://open.spotify.com/album/10QCwfRAZ5isjZaIpY59hK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2V6iyCBDNHqgzm3bqcjHSr",
+        "title": "Mắt Nhắm Mắt Mở (Studio Live Session)",
+        "artist": "HIEUTHUHAI",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f17236804496ea8598f87334",
+        "url": "https://open.spotify.com/album/2V6iyCBDNHqgzm3bqcjHSr",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4Cn9bu4UpxbppbK31bUcxl",
+        "title": "Dellijiet",
+        "artist": "The Travellers",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ecd452439dd83005c05dcdf",
+        "url": "https://open.spotify.com/album/4Cn9bu4UpxbppbK31bUcxl",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-28": [
+      {
+        "id": "4yHRfdd23yDmOJU6CMy6my",
+        "title": "Sooiyan - Arijit Singh & Chinmayi Vocals Only",
+        "artist": "Arijit Singh, Chinmayi, Amit Trivedi, Irshad Kamil",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd319bb4edfc9663e82d2080",
+        "url": "https://open.spotify.com/album/4yHRfdd23yDmOJU6CMy6my",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24d8LHiwxqcPtPCDoRO4Rd",
+        "title": "El canto no calla",
+        "artist": "Agua Marina",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2bbfaae572737b8dc6d3c4b",
+        "url": "https://open.spotify.com/album/24d8LHiwxqcPtPCDoRO4Rd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "62yQFSmx6nIwnl24mDKxkB",
+        "title": "Утром",
+        "artist": "NЮ",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcf44deddb224323d5eccfcd",
+        "url": "https://open.spotify.com/album/62yQFSmx6nIwnl24mDKxkB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0jNwQy4pyoKGbNja17JxRi",
+        "title": "Terserah Kamu",
+        "artist": "Marcell",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b731b8736e6ae5c8507dafbe",
+        "url": "https://open.spotify.com/album/0jNwQy4pyoKGbNja17JxRi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4QKVlXdkVeTmNd6cYEU3LY",
+        "title": "人間缺憾美",
+        "artist": "Jay Fung",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd6def71f6226007cc0444b0",
+        "url": "https://open.spotify.com/album/4QKVlXdkVeTmNd6cYEU3LY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2nw0UQFlhUKGrn6PtIWirI",
+        "title": "Jhama Jham",
+        "artist": "Sameer Anjaan, NIRAJ, Manasi Ghosh, Neil-Niraj",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02609cc313856a7e550ec9220c",
+        "url": "https://open.spotify.com/album/2nw0UQFlhUKGrn6PtIWirI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YBtYeiMvZOqc6ZUf9NGTH",
+        "title": "Троянда колюча",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef152278838866cd1259dd7a",
+        "url": "https://open.spotify.com/album/2YBtYeiMvZOqc6ZUf9NGTH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5LrrLcVnJKPYhFvGftLdrn",
+        "title": "Something On (Live July 22 - August 20, 2016)",
+        "artist": "The Tragically Hip",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0239da74cc52554638c572c6a9",
+        "url": "https://open.spotify.com/album/5LrrLcVnJKPYhFvGftLdrn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0zMJoB9PzAqOu3ejesaxnM",
+        "title": "Na Contramão",
+        "artist": "MC Leozinho ZS",
+        "type": "album",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a223b4d087bb5c11bb07050",
+        "url": "https://open.spotify.com/album/0zMJoB9PzAqOu3ejesaxnM",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "0oHozoyyDMK8Txgqf3e6xk",
+        "title": "I Miss You Every Brand New Day (From \"Spider-Man: Brand New Day\" Movie)",
+        "artist": "For Revenge",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e046b43a9c247be0934f599",
+        "url": "https://open.spotify.com/album/0oHozoyyDMK8Txgqf3e6xk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6fy3IyWkhH3Gz2BPiGvnBp",
+        "title": "PEIPPER / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Peipper",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d76d3d6c41b065fed353229",
+        "url": "https://open.spotify.com/album/6fy3IyWkhH3Gz2BPiGvnBp",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "0p7QzyZobqNephZMXbOday",
+        "title": "Andhadhun - Deluxe Version (Original Motion Picture Soundtrack)",
+        "artist": "Amit Trivedi, Raftaar, Girish Nakod",
+        "type": "album",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a35917c8be721c9c97102bab",
+        "url": "https://open.spotify.com/album/0p7QzyZobqNephZMXbOday",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "33s5ZLjM3BPkBnKqdsd05e",
+        "title": "Ela Perguntou",
+        "artist": "Dj Yuri Pedrada",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cca4166149c76c587006a38a",
+        "url": "https://open.spotify.com/album/33s5ZLjM3BPkBnKqdsd05e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5clsGLBVvpD9v4rIhAVQg2",
+        "title": "Ela Rebolou",
+        "artist": "Yuri Redicopa",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209efc11df00d9fd7203f65c2",
+        "url": "https://open.spotify.com/album/5clsGLBVvpD9v4rIhAVQg2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04BTNhfqBLIDJdKVSEmkpm",
+        "title": "Вишнёвые очки",
+        "artist": "Luna",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d7d391673f701e42183e1fc6",
+        "url": "https://open.spotify.com/album/04BTNhfqBLIDJdKVSEmkpm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vBvUlAq24d8hYZPaId5HD",
+        "title": "Arise, My Beloved",
+        "artist": "Karm Debattista Mssp",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206fa411dc22ab449607634ba",
+        "url": "https://open.spotify.com/album/1vBvUlAq24d8hYZPaId5HD",
         "total_tracks": 1,
         "genres": []
       }
