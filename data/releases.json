@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-28T08:32:42.952Z",
-  "total": 2254,
+  "fetched_at": "2026-07-29T08:39:17.841Z",
+  "total": 2293,
   "by_date": {
     "2026-05-15": [
       {
@@ -24755,6 +24755,72 @@
         "url": "https://open.spotify.com/album/4Cn9bu4UpxbppbK31bUcxl",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "32HaLHT6mqvleKQv8LrWYG",
+        "title": "Leebat Al Ayam",
+        "artist": "Elissa",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e021398be9fb2868477cb7af73a",
+        "url": "https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "67rc2FjJu9qDWzHz85TYUX",
+        "title": "Dose",
+        "artist": "Gopi Sundar, Rafeeq Ahamed, Nithin K. Cheriyan",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02748a8a191301c7f1adf2b039",
+        "url": "https://open.spotify.com/album/67rc2FjJu9qDWzHz85TYUX",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5Y4zMILlGoKnq1RDJoCFhh",
+        "title": "Chahun Main Ya Naa Lofi Mix",
+        "artist": "Jeet Gannguli, Irshad Kamil, DJ Ankur",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238a26fc51060478603ecf8dc",
+        "url": "https://open.spotify.com/album/5Y4zMILlGoKnq1RDJoCFhh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1R2NqE4Iq5iLpliT8gmTqm",
+        "title": "Maun Tu Maun Mee Unplugged (From \"Tula Pahta\")",
+        "artist": "Sonu Nigam, Rohan Rohan, Mandar Cholkar",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205db0a2989ef655190fe65b2",
+        "url": "https://open.spotify.com/album/1R2NqE4Iq5iLpliT8gmTqm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4nW9bo5JtDyxiP1AYFpWnt",
+        "title": "Lonely",
+        "artist": "Little Loove, DJ Leury Prod",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e020029b6a4c29a1e548250f557",
+        "url": "https://open.spotify.com/album/4nW9bo5JtDyxiP1AYFpWnt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5dNUEOBVwV0yEQRlRMWjeH",
+        "title": "Tebe dokato ne te vidyah",
+        "artist": "Fiki",
+        "type": "single",
+        "release_date": "2026-07-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c873b0070fd7e29bd893dcf",
+        "url": "https://open.spotify.com/album/5dNUEOBVwV0yEQRlRMWjeH",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-07-28": [
@@ -24931,6 +24997,371 @@
         "release_date": "2026-07-28",
         "image": "https://i.scdn.co/image/ab67616d00001e0206fa411dc22ab449607634ba",
         "url": "https://open.spotify.com/album/1vBvUlAq24d8hYZPaId5HD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44ruPTIqJ6EaEFAxOPvXVI",
+        "title": "JJK (with Yuki Chiba)",
+        "artist": "mgk, 千葉雄喜",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a2464e14f8f6e4256252781",
+        "url": "https://open.spotify.com/album/44ruPTIqJ6EaEFAxOPvXVI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FVjSZcB5DqJ2TC5VGPgEu",
+        "title": "BAD (Japanese Ver.)",
+        "artist": "ATEEZ",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5b2ab50321a2bccc7883f8a",
+        "url": "https://open.spotify.com/album/3FVjSZcB5DqJ2TC5VGPgEu",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2bmmQr0lrasdXgyfwuHpV6",
+        "title": "The Way You Are",
+        "artist": "Electric Callboy",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02978b226bae45321c5600cb2f",
+        "url": "https://open.spotify.com/album/2bmmQr0lrasdXgyfwuHpV6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3BjWqPumCa1U3POBgkkGiH",
+        "title": "Maiyya Mainu - Sachet-Parampara Vocals Only",
+        "artist": "Sachet-Parampara, Shellee",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c513d9e8df2c3c19d9c74d84",
+        "url": "https://open.spotify.com/album/3BjWqPumCa1U3POBgkkGiH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Onyl3anWpgJQ1TpDm2WBe",
+        "title": "ngủ ngoan em nhé (demo)",
+        "artist": "GREY D",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296b3f082237b5e65ce854ec9",
+        "url": "https://open.spotify.com/album/5Onyl3anWpgJQ1TpDm2WBe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vmzS2oS3iLrmKVNTu9rQ9",
+        "title": "Sfera",
+        "artist": "Thug Slime, Saint Cactus",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad82bf41f77f3f3891f169d6",
+        "url": "https://open.spotify.com/album/3vmzS2oS3iLrmKVNTu9rQ9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "56ZZkomGAYuLu16cKfIiYs",
+        "title": "אלה",
+        "artist": "Sarit Hadad",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d3864b8a20011cef3c3643a",
+        "url": "https://open.spotify.com/album/56ZZkomGAYuLu16cKfIiYs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GUrS69rJyguxlnCYXly2Z",
+        "title": "Mauvais Garçon (remix)",
+        "artist": "Helena",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236b661f07b9ab09eb7b379b8",
+        "url": "https://open.spotify.com/album/5GUrS69rJyguxlnCYXly2Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2KHlCNM7tHqxZ6XBmpxNPK",
+        "title": "ايه يا صورمو لما انا بظهر بحرق دمو",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c60610aab2bee11d317be775",
+        "url": "https://open.spotify.com/album/2KHlCNM7tHqxZ6XBmpxNPK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QvB5rBuRvc9n6m0P5mom7",
+        "title": "Sordo Mudo y Ciego",
+        "artist": "Juanjo Morgade, kid wazi, ONE PLAY",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a968f3d8b016284af912840",
+        "url": "https://open.spotify.com/album/6QvB5rBuRvc9n6m0P5mom7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24c6kjy4fpdvC5HF5PU9EM",
+        "title": "اسد الغابة قد المغامرة ( احنا اتنين نوقع 200 )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a98b2ce43beda34124b8a74a",
+        "url": "https://open.spotify.com/album/24c6kjy4fpdvC5HF5PU9EM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1qbzzrdbpgXkXL9nOtMXnG",
+        "title": "next",
+        "artist": "Han Yo Han",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02113dd375ded08fffa0471254",
+        "url": "https://open.spotify.com/album/1qbzzrdbpgXkXL9nOtMXnG",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4AxWLuxYovYYHrKO3LXjiH",
+        "title": "Allo Benti",
+        "artist": "Hichem Smati, Cheb Abbas Kahla",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a8c1171957b37d444584568f",
+        "url": "https://open.spotify.com/album/4AxWLuxYovYYHrKO3LXjiH",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-07-29": [
+      {
+        "id": "6r4iLpQblsOsMClZ0KqKTN",
+        "title": "GO GHOST",
+        "artist": "King Gnu",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289f64a56f9c086a08fcac39d",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0BQWCmMSvwJfFn5BDkfu6h",
+        "title": "lo mejor siempre SE DEMORA",
+        "artist": "Yeyo",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02200e2fa9592806376bbf6670",
+        "url": "https://open.spotify.com/album/0BQWCmMSvwJfFn5BDkfu6h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "78RpNOe76RHMhCRZbJS68n",
+        "title": "Pandemonium (Original Soundtrack from League of Legends)",
+        "artist": "League of Legends",
+        "type": "album",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e47944c18fb8508ed89df5d3",
+        "url": "https://open.spotify.com/album/78RpNOe76RHMhCRZbJS68n",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "0A8R2io6mfXEIgOFZk65kx",
+        "title": "¡Que los Cumplas Feliz!",
+        "artist": "El Reino Infantil",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02105880633457da163bec0fb7",
+        "url": "https://open.spotify.com/album/0A8R2io6mfXEIgOFZk65kx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6I2rQjYY50AgLJ9SuhLYaI",
+        "title": "Não Fica Triste",
+        "artist": "Mc Jacaré, MC Lobão, DJ MOTTA, RAPHAANJOS",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5ff260b7eba6e527aa79e31",
+        "url": "https://open.spotify.com/album/6I2rQjYY50AgLJ9SuhLYaI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5UoURokHO3jkzPDGQTBZlN",
+        "title": "Anlatırım ben",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252d349314cfcd785579a085f",
+        "url": "https://open.spotify.com/album/5UoURokHO3jkzPDGQTBZlN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SKqpV3v5PYM5soTFl4ueG",
+        "title": "またな",
+        "artist": "WANIMA",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbd325e0dd16c3f37abde6c4",
+        "url": "https://open.spotify.com/album/5SKqpV3v5PYM5soTFl4ueG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qVLboIquXt3xdBG1VbhYa",
+        "title": "To Be Continued",
+        "artist": "QWER",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240d6bdcc57adbf196b5fb946",
+        "url": "https://open.spotify.com/album/0qVLboIquXt3xdBG1VbhYa",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2z7Aq6XTtaWBt5ni5alK81",
+        "title": "MENTALITE",
+        "artist": "Ivan Greko, DON LEON, Tr4cer",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02446c8d70d9fb74b429d34891",
+        "url": "https://open.spotify.com/album/2z7Aq6XTtaWBt5ni5alK81",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Pd5gF3Icv4G5zj22bhPVT",
+        "title": "By Now",
+        "artist": "Evado, Bella Shmurda",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff4e44e6f44727f20ba1fd3b",
+        "url": "https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DlVUX8ynmaM4n6a768WYI",
+        "title": "Na Afa Nna (Freestyle)",
+        "artist": "Phyno",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d6ac6acb8d0dc436dff52e7",
+        "url": "https://open.spotify.com/album/2DlVUX8ynmaM4n6a768WYI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0KlUKaSSx57e4ealwtsNTp",
+        "title": "MARRAKECH",
+        "artist": "Genezio",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d87a13d35574fab5bd587dd7",
+        "url": "https://open.spotify.com/album/0KlUKaSSx57e4ealwtsNTp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "201fM79xUdtKgHSv3VALmO",
+        "title": "Main",
+        "artist": "Hivi!",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242db06d2b6aa537a522fa47c",
+        "url": "https://open.spotify.com/album/201fM79xUdtKgHSv3VALmO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xFAmgtwkQT8so8qjq1tLj",
+        "title": "ביום הכי יפה",
+        "artist": "Amir Dadon",
+        "type": "album",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ef82026bf2981e7ee31aaca",
+        "url": "https://open.spotify.com/album/4xFAmgtwkQT8so8qjq1tLj",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1TZKtwcv6xEk5wjHYmBe4w",
+        "title": "Złamane Serce",
+        "artist": "David Tango, SxK",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8f7775ddf12587bd2dcf6d4",
+        "url": "https://open.spotify.com/album/1TZKtwcv6xEk5wjHYmBe4w",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MAcuhd7aeoYITkhGlPYlT",
+        "title": "Пума",
+        "artist": "Anelia, VANE$$A",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be237adc543f5c2837460f51",
+        "url": "https://open.spotify.com/album/5MAcuhd7aeoYITkhGlPYlT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "68tJI2YyRkIixsQmyzVHuQ",
+        "title": "I Found You",
+        "artist": "Kaleb J",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c30c7ee087a3c29b443488e",
+        "url": "https://open.spotify.com/album/68tJI2YyRkIixsQmyzVHuQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6sjJs20iDwc6YxX7FVS93z",
+        "title": "Cere-mi tot ce vrei",
+        "artist": "Leo de la Rosiori, Roxana Chirita",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02935c815b9af3d96f1333add8",
+        "url": "https://open.spotify.com/album/6sjJs20iDwc6YxX7FVS93z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YC83lGAwZwjl3g7vkNEtf",
+        "title": "We stegen met een zucht",
+        "artist": "Bumba",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02657d952fcc55a3ccccb7522c",
+        "url": "https://open.spotify.com/album/4YC83lGAwZwjl3g7vkNEtf",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "29KpVdiKRWKsoOxgVmkf2f",
+        "title": "1001 nakts",
+        "artist": "Dārta Stepanova",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b4736283d006cc2cddf84dc",
+        "url": "https://open.spotify.com/album/29KpVdiKRWKsoOxgVmkf2f",
         "total_tracks": 1,
         "genres": []
       }
