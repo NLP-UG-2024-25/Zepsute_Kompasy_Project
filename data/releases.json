@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-29T08:39:17.841Z",
-  "total": 2293,
+  "fetched_at": "2026-07-30T08:25:13.596Z",
+  "total": 2322,
   "by_date": {
     "2026-05-15": [
       {
@@ -25142,6 +25142,17 @@
         "url": "https://open.spotify.com/album/4AxWLuxYovYYHrKO3LXjiH",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4GjyB4PATHCxgydRO0wh6W",
+        "title": "清除阴影",
+        "artist": "颜人中",
+        "type": "single",
+        "release_date": "2026-07-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229b842ab3b4f9c3feffa45b5",
+        "url": "https://open.spotify.com/album/4GjyB4PATHCxgydRO0wh6W",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-07-29": [
@@ -25362,6 +25373,316 @@
         "release_date": "2026-07-29",
         "image": "https://i.scdn.co/image/ab67616d00001e021b4736283d006cc2cddf84dc",
         "url": "https://open.spotify.com/album/29KpVdiKRWKsoOxgVmkf2f",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3tUeyucSQP4QdGyf02wKDN",
+        "title": "DNH",
+        "artist": "Tove Lo",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ec0fcdbad8ad5ec82c7c921",
+        "url": "https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7Hmd3ib7dTNXd6OkB317Bl",
+        "title": "LeoRD Live: JONDELL 22",
+        "artist": "Leo RD, JONDELL 22, h1ddenxx",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020fc3d8d86a8a1be9f9461a9f",
+        "url": "https://open.spotify.com/album/7Hmd3ib7dTNXd6OkB317Bl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7dJHHdpAT4X6XM40MgjklB",
+        "title": "Keda Keda",
+        "artist": "Ahmed Saad, Judy Ahmed Saad",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6a3058b26dca8ad5f09cf25",
+        "url": "https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BSNh9DOcw3giOwnBAv3qA",
+        "title": "Eja Meja",
+        "artist": "BNXN, Asake",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a7fa1aa096871716cda8bdc",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OWqXbZV0nMapvO0r5ukLq",
+        "title": "PRESIDENT MIXTAPE",
+        "artist": "Topboy TGR, Fharid On the Beat",
+        "type": "album",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02804c3b995b603e14e273ab29",
+        "url": "https://open.spotify.com/album/0OWqXbZV0nMapvO0r5ukLq",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2TUXoQcdff7FuRXRzFEW7w",
+        "title": "Hopeful Romantic",
+        "artist": "BIG Naughty",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7cf0ba073ff3ab392bf5d9b",
+        "url": "https://open.spotify.com/album/2TUXoQcdff7FuRXRzFEW7w",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "2LJ7GlCrPSBiD7v6wMDggV",
+        "title": "Ekavali (From \"Renigunta 2\")",
+        "artist": "Sid Sriram, Yugabharathi, Manu Ravichandran",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f37f17ad9bf1bf55413aa138",
+        "url": "https://open.spotify.com/album/2LJ7GlCrPSBiD7v6wMDggV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XeMSUKrfqkafydd4Lf7pd",
+        "title": "لو نرجع تاني عيال ( في الاستلواح بتموت )",
+        "artist": "Ameen Khattab",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02308706d5242de445824679d8",
+        "url": "https://open.spotify.com/album/4XeMSUKrfqkafydd4Lf7pd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2v8heqC55R3DFE9jWUiSyP",
+        "title": "Tanha Labon Pe (From \"Ishq Barsa De Piya\")",
+        "artist": "Javed Ali, Ashish Dev",
+        "type": "single",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f764fc798c415482c6fdc3c",
+        "url": "https://open.spotify.com/album/2v8heqC55R3DFE9jWUiSyP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fJDkyPRqtWG4eSnENOVNT",
+        "title": "Into The Light",
+        "artist": "Owen Leuellen",
+        "type": "album",
+        "release_date": "2026-07-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206601f5f3a662493b024e9b4",
+        "url": "https://open.spotify.com/album/1fJDkyPRqtWG4eSnENOVNT",
+        "total_tracks": 15,
+        "genres": []
+      }
+    ],
+    "2026-07-30": [
+      {
+        "id": "3qXzZAgoFihs94yboDzhn9",
+        "title": "Yo y La Luna",
+        "artist": "Herencia De Grandes",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02967a1c3c0a52023c7a7b3daa",
+        "url": "https://open.spotify.com/album/3qXzZAgoFihs94yboDzhn9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nAwOsqNuM303oFYOdeXtd",
+        "title": "Boohe Baarian",
+        "artist": "Aditya Rikhari, Rochak Kohli, Kumaar, Sharan Rawat",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235b717e9ea8568b8c25c7085",
+        "url": "https://open.spotify.com/album/1nAwOsqNuM303oFYOdeXtd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0KMdOXDlZsAAvgFk1yoM5D",
+        "title": "Perfil #147 Réplicas",
+        "artist": "Pineapple StormTv, Romano",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e023691abb408b9f9f8b4409a63",
+        "url": "https://open.spotify.com/album/0KMdOXDlZsAAvgFk1yoM5D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7A1vUbfPSBsoSdhvqSdayY",
+        "title": "Gamanava (Lo Fi)",
+        "artist": "Shreya Ghoshal, Javed Ali, VDJ Fly",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa7ccf28f726eb33fb18aac3",
+        "url": "https://open.spotify.com/album/7A1vUbfPSBsoSdhvqSdayY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0lRqv8RSwhPow1eidF9DL8",
+        "title": "О ней",
+        "artist": "LOBODA",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02194cfc0fb21629cfc02e0e72",
+        "url": "https://open.spotify.com/album/0lRqv8RSwhPow1eidF9DL8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Lh96OK9UoR8pDDzeBsuzI",
+        "title": "Secrets of the WRLD",
+        "artist": "JAZZWRLD",
+        "type": "album",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207654a918a6faff19405aece",
+        "url": "https://open.spotify.com/album/0Lh96OK9UoR8pDDzeBsuzI",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "3RAevkXe0xuObe3O7Ip7Ng",
+        "title": "放棄的界限",
+        "artist": "Hins Cheung",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bdf376702a6ce9ea0a588fc",
+        "url": "https://open.spotify.com/album/3RAevkXe0xuObe3O7Ip7Ng",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5B2Xg9LC9UR008loRO5DN4",
+        "title": "As Melhores do Forró 2026 (Ao Vivo)",
+        "artist": "Henry Freitas, Os Barões Da Pisadinha",
+        "type": "compilation",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5790011991dd2b85d6520da",
+        "url": "https://open.spotify.com/album/5B2Xg9LC9UR008loRO5DN4",
+        "total_tracks": 35,
+        "genres": []
+      },
+      {
+        "id": "0pFO5aQxkAvHEba7bbKQVi",
+        "title": "Bada Pachtaoge Mix",
+        "artist": "Kumar Sanu, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e0ce2f5335c2b18ffcce84b",
+        "url": "https://open.spotify.com/album/0pFO5aQxkAvHEba7bbKQVi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3IgrTa1Tv8I15vHjvxrnFw",
+        "title": "De Uma Cota",
+        "artist": "Kako, Mc Angelin, Dj Murilo e Lt No Beat, Galdino",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b53d2c61af4f778a7082dc42",
+        "url": "https://open.spotify.com/album/3IgrTa1Tv8I15vHjvxrnFw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0TqwDBBNBiv9ivmcmwH2XT",
+        "title": "廢活量",
+        "artist": "Dear Jane",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1e8d633a87a97f30ad5bccd",
+        "url": "https://open.spotify.com/album/0TqwDBBNBiv9ivmcmwH2XT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5QgjPhbtwUg5jog1x7RV9F",
+        "title": "Скользкий блюз",
+        "artist": "M'Dee",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3e12aaa13f9a3d44b0c10af",
+        "url": "https://open.spotify.com/album/5QgjPhbtwUg5jog1x7RV9F",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6BdLETG8blclUTz8q36vQT",
+        "title": "Бонсуа",
+        "artist": "SHUMEI",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02296f413f2bc76cd19e9df3b3",
+        "url": "https://open.spotify.com/album/6BdLETG8blclUTz8q36vQT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2KH0hDbeOI7MmFLwJBGz3b",
+        "title": "NYR",
+        "artist": "Bensoul, Scar Mkadinali",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270c891bf50e250d6d09f7bf9",
+        "url": "https://open.spotify.com/album/2KH0hDbeOI7MmFLwJBGz3b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1AJkPPsiUcwth3GrT74sGJ",
+        "title": "Bez nas nie zaczną",
+        "artist": "Pezet, BeMelo",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282382a9ee796e1bcbb6f8559",
+        "url": "https://open.spotify.com/album/1AJkPPsiUcwth3GrT74sGJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "64j1DDjbc7iXFFdbSfT574",
+        "title": "Core Blue",
+        "artist": "EK",
+        "type": "album",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bad1597ed3d55ba0c775e097",
+        "url": "https://open.spotify.com/album/64j1DDjbc7iXFFdbSfT574",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3Gcxg4obtKfIpYBdl1HfcF",
+        "title": "Just Say The Right Pronoun",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f13b950f0a81ab929824098",
+        "url": "https://open.spotify.com/album/3Gcxg4obtKfIpYBdl1HfcF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2TbCyt10yfR61w0jvShg9p",
+        "title": "Arise, My Beloved",
+        "artist": "Karm Debattista Mssp",
+        "type": "single",
+        "release_date": "2026-07-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e028350c655c06cada8645e1768",
+        "url": "https://open.spotify.com/album/2TbCyt10yfR61w0jvShg9p",
         "total_tracks": 1,
         "genres": []
       }
