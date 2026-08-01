@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-31T08:48:01.679Z",
-  "total": 2373,
+  "fetched_at": "2026-08-01T08:19:36.572Z",
+  "total": 2374,
   "by_date": {
     "2026-05-15": [
       {
@@ -26246,6 +26246,19 @@
         "release_date": "2026-07-31",
         "image": "https://i.scdn.co/image/ab67616d00001e0280affa426a076edb6505e32d",
         "url": "https://open.spotify.com/album/10DqOMn7v1WmVoSyhpa35q",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-01": [
+      {
+        "id": "1CA6hlWBQA5BuPh4zH0YN8",
+        "title": "I LOVE TO GROOM",
+        "artist": "pupsies",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249f7cd1c2bf85305a9d91815",
+        "url": "https://open.spotify.com/album/1CA6hlWBQA5BuPh4zH0YN8",
         "total_tracks": 1,
         "genres": []
       }
