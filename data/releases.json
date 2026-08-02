@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-01T08:19:36.572Z",
-  "total": 2374,
+  "fetched_at": "2026-08-02T08:22:44.637Z",
+  "total": 2391,
   "by_date": {
     "2026-05-15": [
       {
@@ -26259,6 +26259,195 @@
         "release_date": "2026-08-01",
         "image": "https://i.scdn.co/image/ab67616d00001e0249f7cd1c2bf85305a9d91815",
         "url": "https://open.spotify.com/album/1CA6hlWBQA5BuPh4zH0YN8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3o8U7oJI6GRhVJqJkrfJvj",
+        "title": "Where the Waves Touch the Sky",
+        "artist": "Banda Pequeños Musical",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ba9f419fb574ed153859ce1",
+        "url": "https://open.spotify.com/album/3o8U7oJI6GRhVJqJkrfJvj",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3jif79fUEqc0TxVaRDxhBu",
+        "title": "Rain Zone (Live Session)",
+        "artist": "Maiyarap",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02420c4cf0f5d48b7c98d8a72c",
+        "url": "https://open.spotify.com/album/3jif79fUEqc0TxVaRDxhBu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NWMCIcqulhY2WC2SbBs0P",
+        "title": "MTG - DAS MADRUGADAS",
+        "artist": "MC Rick, MC Saci, DJ PORIPA, MC GN SHEIK",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a00ec655f13407683e88640",
+        "url": "https://open.spotify.com/album/2NWMCIcqulhY2WC2SbBs0P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "31UKPaYtPyfAR9LGtc2WIa",
+        "title": "A Bona fide Killer, Pt. 1 (Original Soundtrack)",
+        "artist": "LEEHI",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e020158e87ccb4e0f2b815e761b",
+        "url": "https://open.spotify.com/album/31UKPaYtPyfAR9LGtc2WIa",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3Fuop3f9MNz1GVoISH7tVH",
+        "title": "Твоето секси аз",
+        "artist": "Miro",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02482bc75388deca234245e6ae",
+        "url": "https://open.spotify.com/album/3Fuop3f9MNz1GVoISH7tVH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7nQPMovHbvbttFirtUpFZZ",
+        "title": "Išpildyk Mano Norus (OG Remix)",
+        "artist": "OG Version, Olialia Pupytės",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c418c4d57c7405e795ecd33",
+        "url": "https://open.spotify.com/album/7nQPMovHbvbttFirtUpFZZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39SZu9dFt0fMe9PYOJkdZE",
+        "title": "Eu zi de zi te voi iubii",
+        "artist": "Mariano",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8dbf4ddab979ce56fd5ea10",
+        "url": "https://open.spotify.com/album/39SZu9dFt0fMe9PYOJkdZE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7qaZXR7enyTma6e3tBoKvk",
+        "title": "В дорогу",
+        "artist": "DJ KAIFAR",
+        "type": "album",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e026952f0664f0fe8a399b2f7d0",
+        "url": "https://open.spotify.com/album/7qaZXR7enyTma6e3tBoKvk",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7scZM5bMw8ni2Q6fCHupAW",
+        "title": "Rahi Jat Laaroussa",
+        "artist": "Hichem Smati, Amar Staifi",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02205c295eda7210b41187584e",
+        "url": "https://open.spotify.com/album/7scZM5bMw8ni2Q6fCHupAW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RCeDmIa2mSbG56Q1D3vAq",
+        "title": "سبريم (old) [feat. LUIGII, TheRealDinho, Darky & 74 Original Suppa]",
+        "artist": "DEE PRODUCTION",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3b4f23bc022569444e2dca1",
+        "url": "https://open.spotify.com/album/5RCeDmIa2mSbG56Q1D3vAq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0CulMtEGkRoGTVZ35VFT4y",
+        "title": "Bobcaygeon (Live July 22 - August 20, 2016)",
+        "artist": "The Tragically Hip",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225e3726700e039dd72dcdc70",
+        "url": "https://open.spotify.com/album/0CulMtEGkRoGTVZ35VFT4y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4m1Eq2B28r0T720d8MP5QR",
+        "title": "The Collections: Wings | Biru Mata Hitamku",
+        "artist": "Wings",
+        "type": "album",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6d43c74451c0239ea33a8ab",
+        "url": "https://open.spotify.com/album/4m1Eq2B28r0T720d8MP5QR",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "5ozfhlSuOaQ71Ijaqn3Br7",
+        "title": "Golf Club",
+        "artist": "Rim'K, Guy2Bezbar",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271d4f627fa0829b2fcc30109",
+        "url": "https://open.spotify.com/album/5ozfhlSuOaQ71Ijaqn3Br7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5iyt1hymoGFHIreGfpoKQm",
+        "title": "NENĀC TUVUMĀ",
+        "artist": "skabe",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0232181e1f36fae9cabdf93159",
+        "url": "https://open.spotify.com/album/5iyt1hymoGFHIreGfpoKQm",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-02": [
+      {
+        "id": "0BTFYxrEKtqZ02rUhECdy2",
+        "title": "Луд скандал",
+        "artist": "Emilia, DJ Damyan",
+        "type": "single",
+        "release_date": "2026-08-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296859254cae2e8709d95d8d2",
+        "url": "https://open.spotify.com/album/0BTFYxrEKtqZ02rUhECdy2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "657Xlvq05D7ZrjvepMDXnL",
+        "title": "Hometown Hero",
+        "artist": "Papi",
+        "type": "single",
+        "release_date": "2026-08-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02316c5f6a654987c57341439c",
+        "url": "https://open.spotify.com/album/657Xlvq05D7ZrjvepMDXnL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1NoCj1IGxZ3MdS7dal4ynp",
+        "title": "DANCE LIKE A PRINTER",
+        "artist": "DJ DIGIDON",
+        "type": "single",
+        "release_date": "2026-08-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209f676bf627d16b2b3a64b14",
+        "url": "https://open.spotify.com/album/1NoCj1IGxZ3MdS7dal4ynp",
         "total_tracks": 1,
         "genres": []
       }
