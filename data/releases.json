@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-03T09:42:14.315Z",
-  "total": 2431,
+  "fetched_at": "2026-08-04T08:34:54.745Z",
+  "total": 2457,
   "by_date": {
     "2026-05-15": [
       {
@@ -26714,6 +26714,28 @@
         "url": "https://open.spotify.com/album/0gHoJjy8wVRs3cQYUQG0Rd",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2Joz7JD1jmUY3EmIMTF0EK",
+        "title": "MARI BERSATU",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-08-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eb460c4abcbd318fb179eb6",
+        "url": "https://open.spotify.com/album/2Joz7JD1jmUY3EmIMTF0EK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hcfEcXgmT3nan9VWjY8PY",
+        "title": "SELAWAT NABI MAULIDUR RASUL",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-08-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f72f549ad2874ddcd485d4fd",
+        "url": "https://open.spotify.com/album/6hcfEcXgmT3nan9VWjY8PY",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-03": [
@@ -26890,6 +26912,272 @@
         "release_date": "2026-08-03",
         "image": "https://i.scdn.co/image/ab67616d00001e023df160174c379ca0f9bb7c18",
         "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4mfH51Wz82x07QupDT7fMc",
+        "title": "Yaalalo Yaalalo (From \"Irumudi\")",
+        "artist": "G. V. Prakash, Hesham Abdul Wahab, Sadhika K R, Anantha Sreeram",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203a92ba598d12a974a61139a",
+        "url": "https://open.spotify.com/album/4mfH51Wz82x07QupDT7fMc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6bMRDWTllCiFBjlbVwiKUh",
+        "title": "Supernova",
+        "artist": "Cairokee",
+        "type": "album",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ee7d1ab9cde15ab301f2463",
+        "url": "https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "43GAiC3c1qUXMnQfzS3mIE",
+        "title": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
+        "artist": "Yzomandias",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02363017396272c68eff83885d",
+        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4Qom4mIj8Kimw0WrT8k4bl",
+        "title": "Taking A Break",
+        "artist": "14 Casper",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e027247fa83dd856ef6ee8b2068",
+        "url": "https://open.spotify.com/album/4Qom4mIj8Kimw0WrT8k4bl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2QMq0dzS8yorenna0TIoe4",
+        "title": "PETARDA",
+        "artist": "Per Dżinn",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b39aa530aebb57c20889bae3",
+        "url": "https://open.spotify.com/album/2QMq0dzS8yorenna0TIoe4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4coXTSKswUXRn5EmVIegJh",
+        "title": "SODA SODA",
+        "artist": "TWS",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d38af7827286a68ff1829699",
+        "url": "https://open.spotify.com/album/4coXTSKswUXRn5EmVIegJh",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0lvAHiRXyhPL4sWC1n94t5",
+        "title": "Sundown Ritual",
+        "artist": "Miguel Lima",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a82fb8a6005496435cc3c875",
+        "url": "https://open.spotify.com/album/0lvAHiRXyhPL4sWC1n94t5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Wk2lsa6vAXR0sIn1fpxPL",
+        "title": "Ħallih Iħabbat",
+        "artist": "Daniel Cauchi",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c61d36b68008231d01dd9ccd",
+        "url": "https://open.spotify.com/album/1Wk2lsa6vAXR0sIn1fpxPL",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-04": [
+      {
+        "id": "5uaLezy2KU0dsLldTwbuU2",
+        "title": "HOPE",
+        "artist": "Leehom Wang",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c810c4a0433ebaca2e3975d",
+        "url": "https://open.spotify.com/album/5uaLezy2KU0dsLldTwbuU2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xTNp38iJkLO2h5mTGXwj2",
+        "title": "Você Mereceu",
+        "artist": "Mc Lele JP, TrapLaudo, Mc IG, MC Meno K",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1f8108080f92bb6d493818a",
+        "url": "https://open.spotify.com/album/4xTNp38iJkLO2h5mTGXwj2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6zcalpgHBfPWyFUIVoleH5",
+        "title": "The Play List Vol. 4",
+        "artist": "J Alvarez",
+        "type": "album",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d01831f35a58d846f62836d",
+        "url": "https://open.spotify.com/album/6zcalpgHBfPWyFUIVoleH5",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "680NcyVLxvvmJ2YQ8HpJsK",
+        "title": "If You Leave Me Now",
+        "artist": "Music Travel Love",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bad966af7ebdd95191ec530f",
+        "url": "https://open.spotify.com/album/680NcyVLxvvmJ2YQ8HpJsK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0exT03Tq90Jaq2WFZ09aYJ",
+        "title": "NYTC",
+        "artist": "Kid Milli, Jeffrey White, MASON HOME, MATTHEW",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f58985b3e73acfc55327217c",
+        "url": "https://open.spotify.com/album/0exT03Tq90Jaq2WFZ09aYJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Q7laUojElZ1E6eHsClmBH",
+        "title": "你我他",
+        "artist": "en王翊恩",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a3f61b4146fd0abec4bc031",
+        "url": "https://open.spotify.com/album/0Q7laUojElZ1E6eHsClmBH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7wFStDk5zqnR0gWPRN1Hwv",
+        "title": "恋、はじめました。",
+        "artist": "=LOVE",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d6f969b277e5f515eeb2209",
+        "url": "https://open.spotify.com/album/7wFStDk5zqnR0gWPRN1Hwv",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7tlGLdSdyFELrIg46B0l57",
+        "title": "Natural",
+        "artist": "Nasty C, Tellaman",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b679b7968a9fca4c78db5149",
+        "url": "https://open.spotify.com/album/7tlGLdSdyFELrIg46B0l57",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aPSsJzEkjBA5Y5qLKlIV2",
+        "title": "整個世界，只有你連上了我 (《整個世界，只有你連上了我》影集主題曲)",
+        "artist": "理想混蛋",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e028436533a348725587eaaba5e",
+        "url": "https://open.spotify.com/album/4aPSsJzEkjBA5Y5qLKlIV2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1hpyjMerSaXpx3RlJIJvPF",
+        "title": "МАҐУРА 47",
+        "artist": "NORD DIVISION, SERGIO TACCHINI, Культурні сили",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243100d15f49d50e8e14984b8",
+        "url": "https://open.spotify.com/album/1hpyjMerSaXpx3RlJIJvPF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4P28mwcb0zybaGX7ThgPBL",
+        "title": "TAVA REVOLTADA",
+        "artist": "dj andreoli, DJ MATHEUS PDS, Dj Novvas, dj fonseca 062",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d54c9a41b4edc9fca0f11ca",
+        "url": "https://open.spotify.com/album/4P28mwcb0zybaGX7ThgPBL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GWQNBkxwaoZkRn98dXhZI",
+        "title": "Disparo al Corazón",
+        "artist": "Pushi",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bbb29b853acfe26e44e7e23",
+        "url": "https://open.spotify.com/album/5GWQNBkxwaoZkRn98dXhZI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1bexSWTVzS0DFD0aP8Llg5",
+        "title": "Endless Summer",
+        "artist": "Ludovico Einaudi",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02273bb83165079453645b6fb4",
+        "url": "https://open.spotify.com/album/1bexSWTVzS0DFD0aP8Llg5",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0efK3caC1OsdoNdSc4hHqc",
+        "title": "Main hoe",
+        "artist": "Sofi",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a6ad2822c7708c5b232cfa3",
+        "url": "https://open.spotify.com/album/0efK3caC1OsdoNdSc4hHqc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3mOaQWXMW7YjPNMef7HZDm",
+        "title": "GLOBAL",
+        "artist": "Pusher, Oska030, Baba Hassan, DeeVoe",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e022134af2ecf42cd34c290186c",
+        "url": "https://open.spotify.com/album/3mOaQWXMW7YjPNMef7HZDm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pNlVa2szvlJp1wtTP0vBS",
+        "title": "BOILING POOP FOR GROOMING (including grail)",
+        "artist": "pupsies",
+        "type": "album",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b5f74fb42a672c5d6a5b570",
+        "url": "https://open.spotify.com/album/1pNlVa2szvlJp1wtTP0vBS",
         "total_tracks": 5,
         "genres": []
       }
