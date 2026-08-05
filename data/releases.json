@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-04T08:34:54.745Z",
-  "total": 2457,
+  "fetched_at": "2026-08-05T08:34:06.046Z",
+  "total": 2490,
   "by_date": {
     "2026-05-15": [
       {
@@ -27002,6 +27002,138 @@
         "url": "https://open.spotify.com/album/1Wk2lsa6vAXR0sIn1fpxPL",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6jZTITUVKwNeHC8Ag2m2lE",
+        "title": "mây",
+        "artist": "Obito",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225c79c73f6076b2b623cda07",
+        "url": "https://open.spotify.com/album/6jZTITUVKwNeHC8Ag2m2lE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6JxiUgYeFmKTsig5wl4kJE",
+        "title": "Do Numbari (From “Mirzapur The Movie”)",
+        "artist": "Dhanda Nyoliwala",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292eaf3601f19ba618f3bb63a",
+        "url": "https://open.spotify.com/album/6JxiUgYeFmKTsig5wl4kJE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2i5YI3EFisB2BRXM3wmjRK",
+        "title": "اصالة",
+        "artist": "Assala",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d78aa95df7642cbbeb016d5",
+        "url": "https://open.spotify.com/album/2i5YI3EFisB2BRXM3wmjRK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2SdeNvYje3TPkbs8jjlMve",
+        "title": "Doamne Ferrari",
+        "artist": "Florin Salam, Marius Olandezu, Susanu",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d66c27da943caaf5c850d384",
+        "url": "https://open.spotify.com/album/2SdeNvYje3TPkbs8jjlMve",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7F9v7ul475a7fWoFAFDesn",
+        "title": "La Créme A La Vanille",
+        "artist": "Cheba Warda",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d18179e61b371be16a1abd25",
+        "url": "https://open.spotify.com/album/7F9v7ul475a7fWoFAFDesn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bRimUYB5rAX5jRSXk9lyX",
+        "title": "Lucio Battisti - Le migliori canzoni",
+        "artist": "Lucio Battisti",
+        "type": "compilation",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221c5c329ac38009fba196fc1",
+        "url": "https://open.spotify.com/album/0bRimUYB5rAX5jRSXk9lyX",
+        "total_tracks": 45,
+        "genres": []
+      },
+      {
+        "id": "5kuWligFHzRWhG3UGELkMp",
+        "title": "Bate vantule mai tare",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c1f4688b10bfbc0baf9d66e",
+        "url": "https://open.spotify.com/album/5kuWligFHzRWhG3UGELkMp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2n1ZbzxDB6FcxzmuIyv2j4",
+        "title": "MEAN To You Series",
+        "artist": "MEAN Band",
+        "type": "album",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b65ebf52a53599d166176a05",
+        "url": "https://open.spotify.com/album/2n1ZbzxDB6FcxzmuIyv2j4",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "5hC6bHzaf6Gn8EpbNNtdU6",
+        "title": "Se misca fetele",
+        "artist": "Costel Biju",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dee6ded6a212ac4c479e97b1",
+        "url": "https://open.spotify.com/album/5hC6bHzaf6Gn8EpbNNtdU6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2JVlUAgyYBTwzqGbtkCZWO",
+        "title": "NÃO PERCIBI",
+        "artist": "Maman Fvndy, Joseph Brim Lamon",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200d8986154a5262fb11cf711",
+        "url": "https://open.spotify.com/album/2JVlUAgyYBTwzqGbtkCZWO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1rbFkDMbluqWuLXBtii9d0",
+        "title": "Deepest Red",
+        "artist": "INXS",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e022800acd0182a34f29f3ec1ac",
+        "url": "https://open.spotify.com/album/1rbFkDMbluqWuLXBtii9d0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72XG0ceuD9fqe83jSlfJlR",
+        "title": "Parce que",
+        "artist": "Cheb Bilal, Abdelkader Benachour",
+        "type": "single",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f21d5c697d7397f904ec3fe",
+        "url": "https://open.spotify.com/album/72XG0ceuD9fqe83jSlfJlR",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-04": [
@@ -27179,6 +27311,239 @@
         "image": "https://i.scdn.co/image/ab67616d00001e026b5f74fb42a672c5d6a5b570",
         "url": "https://open.spotify.com/album/1pNlVa2szvlJp1wtTP0vBS",
         "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4f0YTBqSbvM1iJpuY9r3yQ",
+        "title": "ZIZI",
+        "artist": "Ozuna, Omar Courtz",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cba03bc439a607aea873cc5b",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uJWs1MBJAVQngtqPRmi0d",
+        "title": "Phùng Khánh Linh Concert Liners",
+        "artist": "Phùng Khánh Linh",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02245fe3830195033609a0604e",
+        "url": "https://open.spotify.com/album/1uJWs1MBJAVQngtqPRmi0d",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4v0DrbTVFhUftEG8PHkKEY",
+        "title": "Somewhere I Belong - Unshatter Film Soundtrack (Live in São Paulo)",
+        "artist": "Linkin Park",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e025957df00da51b2fc841132de",
+        "url": "https://open.spotify.com/album/4v0DrbTVFhUftEG8PHkKEY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "22AnBcMvI4apa2ly1hM1Xm",
+        "title": "לילה לא רגוע",
+        "artist": "Idan Raichel",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ac21cb3a760b1e1dc8f2255",
+        "url": "https://open.spotify.com/album/22AnBcMvI4apa2ly1hM1Xm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "65C9kgdzmaf2dUyTEtz5fw",
+        "title": "Cumbias DesaKTadas (En Vivo)",
+        "artist": "DesaKTa2",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02126daf387ac013a61e6d017c",
+        "url": "https://open.spotify.com/album/65C9kgdzmaf2dUyTEtz5fw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yEWhrGAxvMhNtL4TuO2rq",
+        "title": "SWEAT",
+        "artist": "KISS OF LIFE",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02473b380c12e0b95969a89b9e",
+        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "43Z1G5Ckwika15jPbZlrm5",
+        "title": "My Bias, My Boss, Pt. 1 (Original Soundtrack)",
+        "artist": "Wonstein",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe7bfc471523ad06410d72e4",
+        "url": "https://open.spotify.com/album/43Z1G5Ckwika15jPbZlrm5",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4cWmU8k1zLik5fbaUlaYMK",
+        "title": "Baby plz",
+        "artist": "3D",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02719b072b92a3a8e4a21de4eb",
+        "url": "https://open.spotify.com/album/4cWmU8k1zLik5fbaUlaYMK",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-05": [
+      {
+        "id": "7oX6hTwhWvNsD3xl4Kp5dA",
+        "title": "When He’s Gone",
+        "artist": "Sam Smith",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243e8084e30508e6141180587",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0G3D7qNBsbUPLgxl2WhiXn",
+        "title": "Mesh Hatkarar",
+        "artist": "Tamer Hosny",
+        "type": "album",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d115b5f144b90394483b84cf",
+        "url": "https://open.spotify.com/album/0G3D7qNBsbUPLgxl2WhiXn",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "0fHDVxeLaVosk2hNYpRoWz",
+        "title": "Andrés Cepeda Big Band 2 (En Vivo)",
+        "artist": "Andrés Cepeda",
+        "type": "album",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a71e3967d040c68947d1bf19",
+        "url": "https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "6ukDd8i7mHHBeXEnicGh7W",
+        "title": "ITALAWA",
+        "artist": "Zlatan",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252aa6cf8745e51c4321c444e",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Cz5uLBTpnuWtvsDAG67FZ",
+        "title": "Next In Line (From \"Rosario\")",
+        "artist": "Amiel Sol",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262b7853130f6981cf199b07c",
+        "url": "https://open.spotify.com/album/4Cz5uLBTpnuWtvsDAG67FZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4bp2xlLNp5xihbm8CA8ibg",
+        "title": "Lakire Ishq Ki Hongyi",
+        "artist": "Kumar Sanu, Rachna Chopra",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02990376bd729f5a0615d76bae",
+        "url": "https://open.spotify.com/album/4bp2xlLNp5xihbm8CA8ibg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4cVVeSZj5DgYvOQiyh34vB",
+        "title": "Truth in the dark",
+        "artist": "LANA",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b05744be893297fa6e1320d8",
+        "url": "https://open.spotify.com/album/4cVVeSZj5DgYvOQiyh34vB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QtLNqAjNXxIP5Fo0vJBHV",
+        "title": "20 MILLIONS",
+        "artist": "Genezio",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253b4682a17b41860edd2f000",
+        "url": "https://open.spotify.com/album/6QtLNqAjNXxIP5Fo0vJBHV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FDu5s5EFgJVro0M2D6P2G",
+        "title": "LA LA LA",
+        "artist": "SURIYA MQT",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c399c6a66d5821095cc9f629",
+        "url": "https://open.spotify.com/album/1FDu5s5EFgJVro0M2D6P2G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aS2304a8u7JFFI5Bdm0qd",
+        "title": "Гладиатор",
+        "artist": "Danna",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214cc516f65bfeea1853971ca",
+        "url": "https://open.spotify.com/album/4aS2304a8u7JFFI5Bdm0qd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vc6fnVrDYkXnMOYmxqCDt",
+        "title": "Sin Ropa",
+        "artist": "Vali Miron",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02291b89745fff1cc955167cba",
+        "url": "https://open.spotify.com/album/3vc6fnVrDYkXnMOYmxqCDt",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0mYTOBcqWfaYuraLGpcyas",
+        "title": "In View (Live July 22 - August 20, 2016)",
+        "artist": "The Tragically Hip",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c69aed791117a3f718c8070",
+        "url": "https://open.spotify.com/album/0mYTOBcqWfaYuraLGpcyas",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "06BBEdt6SZqGHFMTw7hL14",
+        "title": "Shaping the 80s",
+        "artist": "MySoul",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da02a55e742e90440cfbd322",
+        "url": "https://open.spotify.com/album/06BBEdt6SZqGHFMTw7hL14",
+        "total_tracks": 4,
         "genres": []
       }
     ]
