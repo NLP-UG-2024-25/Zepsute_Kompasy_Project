@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-05T08:34:06.046Z",
-  "total": 2490,
+  "fetched_at": "2026-08-06T08:34:04.316Z",
+  "total": 2530,
   "by_date": {
     "2026-05-15": [
       {
@@ -27400,6 +27400,50 @@
         "url": "https://open.spotify.com/album/4cWmU8k1zLik5fbaUlaYMK",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3sVs6V7GaRucFMYw2dPped",
+        "title": "Rockstar RP",
+        "artist": "Rey Tony, Helabusador, 6ix9ine",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0294d43140554a8d938069327b",
+        "url": "https://open.spotify.com/album/3sVs6V7GaRucFMYw2dPped",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50adiYmTKxsL7b5XQByShr",
+        "title": "بيان هام (من فيلم محمود التانى)",
+        "artist": "Essam Sasa, Kozbara",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e029edc8e473bd4fd9fa43e6dc8",
+        "url": "https://open.spotify.com/album/50adiYmTKxsL7b5XQByShr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "52Rz5Xga3TThggAQrBuWdP",
+        "title": "The Life I Choose",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240158cb77720e576100ffb3f",
+        "url": "https://open.spotify.com/album/52Rz5Xga3TThggAQrBuWdP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BLGuuenDRRdScUon9Bsxz",
+        "title": "I Am Grateful",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e41903dc9c5cb4474a6e0d8e",
+        "url": "https://open.spotify.com/album/7BLGuuenDRRdScUon9Bsxz",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-05": [
@@ -27544,6 +27588,404 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02da02a55e742e90440cfbd322",
         "url": "https://open.spotify.com/album/06BBEdt6SZqGHFMTw7hL14",
         "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2AGo1KB2oK2dA5OzkH6Uln",
+        "title": "ELECTRO ALBUM",
+        "artist": "Ahmed Saad",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02003df2e4a5d5e615859ba40b",
+        "url": "https://open.spotify.com/album/2AGo1KB2oK2dA5OzkH6Uln",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6SeRzhmhpvWliemVB1hCrx",
+        "title": "ANTE LOS 20",
+        "artist": "Lucky Brown, Drakomafia, Piero 47",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac72724c7a4bd946ed4731af",
+        "url": "https://open.spotify.com/album/6SeRzhmhpvWliemVB1hCrx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3g8ysnApXw2VJI6o8IQJ4w",
+        "title": "一诺 (《花开锦绣》电视剧主题曲/片尾曲)",
+        "artist": "刘宇宁",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02928c73b70378b8680840e4a4",
+        "url": "https://open.spotify.com/album/3g8ysnApXw2VJI6o8IQJ4w",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4koSwd9nFH8Ai8edKqYeFS",
+        "title": "Te vi",
+        "artist": "La Joaqui, Callejero Fino",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292c238e75111ff4d1b6d9442",
+        "url": "https://open.spotify.com/album/4koSwd9nFH8Ai8edKqYeFS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5f53l1zTq6PbjZFUqnsktY",
+        "title": "Nói Nhỏ Em Nghe",
+        "artist": "Hoàng Dũng, Dept",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b147ce0bbdf145584f845160",
+        "url": "https://open.spotify.com/album/5f53l1zTq6PbjZFUqnsktY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0rZjzFrknOGiZ2I41kKsoy",
+        "title": "Літо на репіті",
+        "artist": "kavabanga Depo kolibri",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d48fd32300394a55b46aaefe",
+        "url": "https://open.spotify.com/album/0rZjzFrknOGiZ2I41kKsoy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Zn1B2A7EulYTxVh23SzI6",
+        "title": "تيكي تاكا",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249825f49c844bb7c4687365b",
+        "url": "https://open.spotify.com/album/2Zn1B2A7EulYTxVh23SzI6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1gv6w4PZnlNl8cWHVvapWC",
+        "title": "有限世上 (Feat. Leellamarz)",
+        "artist": "TOIL, Choi Seong, Jayci yucca",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298d2453e5253d568815f9668",
+        "url": "https://open.spotify.com/album/1gv6w4PZnlNl8cWHVvapWC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01jh0svzT8sxJuVxgVD1hF",
+        "title": "Juana",
+        "artist": "Amo, Cave",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e025336c09a6058a58a9d6c76e4",
+        "url": "https://open.spotify.com/album/01jh0svzT8sxJuVxgVD1hF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5P6WJWqwUkzi5sKGcGhlNG",
+        "title": "Bhole Ke Premi (DJ Remix)",
+        "artist": "Masoom Sharma, DJ Swam",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022228e21585cff1ba157ea8df",
+        "url": "https://open.spotify.com/album/5P6WJWqwUkzi5sKGcGhlNG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4jLIjmfkRz1jIZinv6BtFU",
+        "title": "Ravers",
+        "artist": "Ellie Goulding",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ebc19ee0b9e84eb0454781a",
+        "url": "https://open.spotify.com/album/4jLIjmfkRz1jIZinv6BtFU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6whb8Pjv4sR63GJyxeP1Hk",
+        "title": "Ravers",
+        "artist": "Ellie Goulding",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d125243cfb5efdb89548c2b9",
+        "url": "https://open.spotify.com/album/6whb8Pjv4sR63GJyxeP1Hk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Q3Gt1mOEnsSZTxyARBj93",
+        "title": "ROLE MODEL - Spotify Live Room",
+        "artist": "ROLE MODEL",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb129bc52d4884fd173954fe",
+        "url": "https://open.spotify.com/album/1Q3Gt1mOEnsSZTxyARBj93",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2Dz6Nq8S39pOnRiSwSDCSa",
+        "title": "Просто неба (BID0NCI0N Remix)",
+        "artist": "DOVI",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280f223c81c026a8c04bae6d2",
+        "url": "https://open.spotify.com/album/2Dz6Nq8S39pOnRiSwSDCSa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jTrzha6NyxFt7T2ghrTvr",
+        "title": "Mi Señora",
+        "artist": "Gino Mella, Matt Hunter",
+        "type": "single",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e027272b21c51d48cef5fdd52ec",
+        "url": "https://open.spotify.com/album/6jTrzha6NyxFt7T2ghrTvr",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-06": [
+      {
+        "id": "4F7aLIs0UqEc1jD5aiX9VA",
+        "title": "Golden Bird",
+        "artist": "Alan Walker, 刘宇, Chuanzi",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02946b76b7791432aeaf4a251d",
+        "url": "https://open.spotify.com/album/4F7aLIs0UqEc1jD5aiX9VA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0AVa6arfnKUwuyLbUG4LJH",
+        "title": "Completa",
+        "artist": "Alex Rose",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c767e42d5ab3aafc3f57925",
+        "url": "https://open.spotify.com/album/0AVa6arfnKUwuyLbUG4LJH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GH8hyS9kFWIu5m0EE2kvn",
+        "title": "Sadeek El Bernameg",
+        "artist": "TUL8TE",
+        "type": "album",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a18f4a190692590da7fdc898",
+        "url": "https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0wvNIvURjXYBazdw9ZReFV",
+        "title": "FINE SHYT",
+        "artist": "Guru Randhawa, Yashvi Desai, Gurjit Gill, Black Virus",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc3443465e76146b5f70601c",
+        "url": "https://open.spotify.com/album/0wvNIvURjXYBazdw9ZReFV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7HLlLApPYIuMGwBurqLxuS",
+        "title": "Me Pides Tu Libertad",
+        "artist": "Los Rehenes, Guardianes Del Amor De Arturo Rodriguez",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02391592f666c6907427335e33",
+        "url": "https://open.spotify.com/album/7HLlLApPYIuMGwBurqLxuS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5HbdBdN9DLLhzFor0lK7YR",
+        "title": "Andromeda",
+        "artist": "Millonario, Bicho Alcaraz",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef993361b9bcc583a23ad31f",
+        "url": "https://open.spotify.com/album/5HbdBdN9DLLhzFor0lK7YR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ouCYVy5RHmpKdJfAvpWAF",
+        "title": "Easy and Fever",
+        "artist": "Imael Angel",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0005eda6b8641caefda9fb1",
+        "url": "https://open.spotify.com/album/7ouCYVy5RHmpKdJfAvpWAF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1qHUQosiU3mCcGKFkP82OM",
+        "title": "Yo Soy",
+        "artist": "Los Palmeras, Fede Mestre, Chofer",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7fd970c4a10253ca920c9cb",
+        "url": "https://open.spotify.com/album/1qHUQosiU3mCcGKFkP82OM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bDmTYJxrUlLdVEWdtsyg5",
+        "title": "COMUNHÃO - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
+        "artist": "Fernandinho",
+        "type": "album",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e86f21b9a507d1c8a1c89a25",
+        "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "79Ih66zmo7cjihw7V4KXo2",
+        "title": "Alô Prefeito",
+        "artist": "Rafael Quadros",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7f973d09cac2c359951bb22",
+        "url": "https://open.spotify.com/album/79Ih66zmo7cjihw7V4KXo2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MMrvbCfBc4Xx7GtGFFAWv",
+        "title": "Taras Afro Tech Mix",
+        "artist": "Sachin-Jigar, Jasmine Sandlas, Dj Raahul Pai",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4a4e06260d43cb7d1bec544",
+        "url": "https://open.spotify.com/album/5MMrvbCfBc4Xx7GtGFFAWv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Ikvb1dGtkJm2rggk6uOIR",
+        "title": "Pozovi me ti (Anksiozna)",
+        "artist": "Severina",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b593e6dcb9f99ea311b8cd5",
+        "url": "https://open.spotify.com/album/4Ikvb1dGtkJm2rggk6uOIR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4k8XmbXrzaCz43qddXGwy4",
+        "title": "חושב שאתה מסי (Neevos Remix)",
+        "artist": "Noa Kirel, Neevos",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b87ac55b92933cd7ddf4a5e",
+        "url": "https://open.spotify.com/album/4k8XmbXrzaCz43qddXGwy4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23nnOASAxodFC2N2iOyD1N",
+        "title": "Mile voli disko",
+        "artist": "Ceca, Tijana Bogicevic",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219a11107d0999d61793d53b0",
+        "url": "https://open.spotify.com/album/23nnOASAxodFC2N2iOyD1N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1TgtP0A49ybucbs2Dd9jT8",
+        "title": "Flower in the desert",
+        "artist": "Woody",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af9b171d84c27e75b9f5f197",
+        "url": "https://open.spotify.com/album/1TgtP0A49ybucbs2Dd9jT8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3J3ITSVDv3uw2gdOB2EtRR",
+        "title": "747",
+        "artist": "DOROFEEVA",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2f169f9a9d73249953ebae0",
+        "url": "https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25CdIqdSTWvMXFjTTxuKA2",
+        "title": "Kolchi Mprogrami",
+        "artist": "Cheba Souad",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d6a77a1eb091cfcfede32a3",
+        "url": "https://open.spotify.com/album/25CdIqdSTWvMXFjTTxuKA2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DkzMGv2MHuTlUykn4seX1",
+        "title": "Espejo",
+        "artist": "Lyon la f, Nacho G Flow",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b5260c5611f72af58233ab9",
+        "url": "https://open.spotify.com/album/0DkzMGv2MHuTlUykn4seX1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6nOSxZyl7SXbQsp5TG1Yit",
+        "title": "Kim ol?",
+        "artist": "Moldanazar",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8ede9ce94a896fc7e1c7bfa",
+        "url": "https://open.spotify.com/album/6nOSxZyl7SXbQsp5TG1Yit",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6f8t3CYByKFuKuUBRHEjzf",
+        "title": "Gangsta Luv",
+        "artist": "Lazy Ed, VANILLA",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bb16cfff3a7acc82befd8e8",
+        "url": "https://open.spotify.com/album/6f8t3CYByKFuKuUBRHEjzf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24GAA5dZ0aHsdcrw26octF",
+        "title": "Havoc",
+        "artist": "Kacper HTA, Raff J.R.",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa1c8daf95a9c2ff1a1e45b7",
+        "url": "https://open.spotify.com/album/24GAA5dZ0aHsdcrw26octF",
+        "total_tracks": 1,
         "genres": []
       }
     ]
