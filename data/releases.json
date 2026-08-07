@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-06T08:34:04.316Z",
-  "total": 2530,
+  "fetched_at": "2026-08-07T07:13:20.753Z",
+  "total": 2574,
   "by_date": {
     "2026-05-15": [
       {
@@ -27134,6 +27134,17 @@
         "url": "https://open.spotify.com/album/72XG0ceuD9fqe83jSlfJlR",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3ARD5Ebe0H9TFjTXAvlzND",
+        "title": "FunParty Deluxe",
+        "artist": "DANIXIR",
+        "type": "album",
+        "release_date": "2026-08-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263297f1068c432cfbd392934",
+        "url": "https://open.spotify.com/album/3ARD5Ebe0H9TFjTXAvlzND",
+        "total_tracks": 15,
+        "genres": []
       }
     ],
     "2026-08-04": [
@@ -27754,6 +27765,28 @@
         "url": "https://open.spotify.com/album/6jTrzha6NyxFt7T2ghrTvr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2RuAIMYv41Ughe3G8gojlT",
+        "title": "DC (Original Motion Picture Soundtrack)",
+        "artist": "Anirudh Ravichander, Sri Sai Kiran, Ritesh G Rao, Heisenberg",
+        "type": "album",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9646f64e7d540b592ba3c25",
+        "url": "https://open.spotify.com/album/2RuAIMYv41Ughe3G8gojlT",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "6I6X9K7yvWXTPfq7TLOcHU",
+        "title": "Romance with Hariharan",
+        "artist": "Hariharan",
+        "type": "album",
+        "release_date": "2026-08-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae5bd3ee47e46d53cfcf240e",
+        "url": "https://open.spotify.com/album/6I6X9K7yvWXTPfq7TLOcHU",
+        "total_tracks": 15,
+        "genres": []
       }
     ],
     "2026-08-06": [
@@ -27986,6 +28019,459 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02aa1c8daf95a9c2ff1a1e45b7",
         "url": "https://open.spotify.com/album/24GAA5dZ0aHsdcrw26octF",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4b0rAUWZJA6s3RQC3zIguc",
+        "title": "Love Sensation",
+        "artist": "Madonna, Kylie Minogue",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb584852c5b5a471223774be",
+        "url": "https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0pfzeRGfexQROcWybyxDt6",
+        "title": "Mentira",
+        "artist": "Ryan Castro, Feid",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab4564a12e7d0a9e1c36bb8d",
+        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5xNpY6LGUqNbluWuLJRNSl",
+        "title": "Mi Carpe Diem",
+        "artist": "De La Rose",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f609b7233a8f84bcba4ff774",
+        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5IMFKuyTeFTBonyFPWPzMW",
+        "title": "Hickory Dickory Dock",
+        "artist": "The Wiggles",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f3c2383877de7e3415fe68b",
+        "url": "https://open.spotify.com/album/5IMFKuyTeFTBonyFPWPzMW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1h6wucpBxsra7kyxw0yAEw",
+        "title": "MOONLIGHT",
+        "artist": "Yo Yo Honey Singh",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e020594d04ca02604a5ba860bde",
+        "url": "https://open.spotify.com/album/1h6wucpBxsra7kyxw0yAEw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5urtVhXHdXiKCGSL2nyTwT",
+        "title": "ROOF VOLLER STARS",
+        "artist": "Ufo361",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc852a672ba51b2cd4f00fd7",
+        "url": "https://open.spotify.com/album/5urtVhXHdXiKCGSL2nyTwT",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3XiuHB4LgEsbgNc26452Ba",
+        "title": "tlinh - Mixset at Unveiled Rebellion (Machiot Remix)",
+        "artist": "tlinh",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293c11e1bda280de757d425fe",
+        "url": "https://open.spotify.com/album/3XiuHB4LgEsbgNc26452Ba",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6gOGOu9v766JJZbKGr6Die",
+        "title": "Bob & The Luxus Redux Project Pt. 2",
+        "artist": "Bob Sylvester",
+        "type": "album",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4d996bf4e684d77708b2c3b",
+        "url": "https://open.spotify.com/album/6gOGOu9v766JJZbKGr6Die",
+        "total_tracks": 15,
+        "genres": []
+      }
+    ],
+    "2026-08-07": [
+      {
+        "id": "7a0lnWtCz0eW15WsWu3dHQ",
+        "title": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "artist": "KAROL G",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221deb742375f88edfb2e7368",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4bWpmQ8V75q46zbIfjVkdT",
+        "title": "RIKI",
+        "artist": "Neton Vega",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02476b0e8446a0724a7adcd02b",
+        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3u6kbKgAZyBMCHSMT39ATq",
+        "title": "RESCUER",
+        "artist": "Alex Warren",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02675aa54a5a4d3fd4ae3cfa05",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0mi47rdTlmgbB1INvs5tBB",
+        "title": "Vacation (Anywhere You Wanna Go)",
+        "artist": "Flo Rida",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02836a74270fcc8c64ddc4403d",
+        "url": "https://open.spotify.com/album/0mi47rdTlmgbB1INvs5tBB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7dUxfVqKIjBK0vqR1GxAjr",
+        "title": "More Than We Ever Imagined (Live in Mexico City)",
+        "artist": "Twenty One Pilots",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb06f482433f7adb145bcab3",
+        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "7MT9amGXSnTJpeC2ATgNnc",
+        "title": "Signs",
+        "artist": "Luke Bryan",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca5191d965932a04c85fc02c",
+        "url": "https://open.spotify.com/album/7MT9amGXSnTJpeC2ATgNnc",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4ZpjEHPet3Osu8J8wsLUjL",
+        "title": "Benz Truck Pt. 2",
+        "artist": "Lil Peep",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f44264c0e2428baf2728e030",
+        "url": "https://open.spotify.com/album/4ZpjEHPet3Osu8J8wsLUjL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6HDOmDgxzVWIhBAKDGI4tV",
+        "title": "Icon (Director's Cut)",
+        "artist": "Brent Faiyaz",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251f13c12b530bb0215cd0d89",
+        "url": "https://open.spotify.com/album/6HDOmDgxzVWIhBAKDGI4tV",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3FbC4QiZOBbpKENEnk1Wj6",
+        "title": "Lean In, Kiss Me",
+        "artist": "STELLA LEFTY",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b2575f441d103b8f1eaf0e5",
+        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1rxJ0bA6PWSyd8R0jurIOJ",
+        "title": "How I Feel",
+        "artist": "Marshmello, Viperactive",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e3e51d08a0e164c6f78d85a",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6YdzDIoIBFtwvEkF2Idsr0",
+        "title": "Stand On Business",
+        "artist": "Sean Paul, King Jammy",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec9958d1f5f59f5ab8b385a0",
+        "url": "https://open.spotify.com/album/6YdzDIoIBFtwvEkF2Idsr0",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0jBiIpjj0iQhMDFRa80xNh",
+        "title": "Wanna Be Loved (feat. Moa Lisa)",
+        "artist": "Timmy Trumpet, Moa Lisa",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200bf6d807d303e257c058f63",
+        "url": "https://open.spotify.com/album/0jBiIpjj0iQhMDFRa80xNh",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6ypD23tp3wECaBpN14ATKD",
+        "title": "My People",
+        "artist": "Jazzy",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d3aa04a11edb2aa1667c5c7",
+        "url": "https://open.spotify.com/album/6ypD23tp3wECaBpN14ATKD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7I4OxTeNnQgLalOEJZzBqG",
+        "title": "Blue Island",
+        "artist": "Ravyn Lenae",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ab7676f57b866dd4bb04805",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "3jl6pFX25FF50m9Ghe8NZP",
+        "title": "Love is a Dog from Hell .",
+        "artist": "fakemink",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b916fac4180bd68f75372f57",
+        "url": "https://open.spotify.com/album/3jl6pFX25FF50m9Ghe8NZP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SslkIkplzx4UT2XSYO2Rp",
+        "title": "Jag Ki Koi Reet Na Jaane",
+        "artist": "Tanishk Bagchi, Yasser Desai, Asees Kaur",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240d0efde6628ad87228f7258",
+        "url": "https://open.spotify.com/album/0SslkIkplzx4UT2XSYO2Rp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6xi9IqY00Ip9MXX8IJO616",
+        "title": "Wagyu",
+        "artist": "Mauvais djo",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0239e3936f624d7008e2018fad",
+        "url": "https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4rpZ2o8pnwhR3MxkcQ3F5Q",
+        "title": "TANZNEID",
+        "artist": "Electric Callboy",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2647e4c1a5695a3bc5dac78",
+        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6M2aEq2gXHxpXyqBfxmbJ2",
+        "title": "DND TOY",
+        "artist": "Yk It’s Junaa",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae938d451cacd2bc519bb344",
+        "url": "https://open.spotify.com/album/6M2aEq2gXHxpXyqBfxmbJ2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2f8F4hhjQyxPdRMV33iiLN",
+        "title": "MONTAGEM TEMPLARIO",
+        "artist": "Sayfalse, IXZIYOL, PLAYA SSK",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024094ba9c74112701a1b96bbc",
+        "url": "https://open.spotify.com/album/2f8F4hhjQyxPdRMV33iiLN",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4Q4eiFX8IaMYRoIsVCG9GE",
+        "title": "R.U. (Raw & Unfiltered) Vol.1",
+        "artist": "Ruger",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021a85f2ef1c514cbea30bcb7a",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1g89fiLvtWT88O045YtOCs",
+        "title": "Too Sweet (Deluxe Edit)",
+        "artist": "Trinix, The Macarons Project",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f435f7fe16085ef4f16fe2c9",
+        "url": "https://open.spotify.com/album/1g89fiLvtWT88O045YtOCs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6P3WV75iGQ05K2pxREqbbb",
+        "title": "NO WAHALA",
+        "artist": "Palm Monkey",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02211524f27369a05051da1a01",
+        "url": "https://open.spotify.com/album/6P3WV75iGQ05K2pxREqbbb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HKIMycHxoWSETjXKFDnQT",
+        "title": "Hennessy Cypher 2026",
+        "artist": "Sarz",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d61482b528b35a851d108a24",
+        "url": "https://open.spotify.com/album/2HKIMycHxoWSETjXKFDnQT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "16I9h5FmkLKaCOEALzGSPK",
+        "title": "Luto En Mi Corazón",
+        "artist": "Los inquietos del vallenato",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299cc918ba19829abf12f2b11",
+        "url": "https://open.spotify.com/album/16I9h5FmkLKaCOEALzGSPK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yiD3SpT58G9WdYLjyTcJg",
+        "title": "el invierno",
+        "artist": "ooes",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0a8fbbb119557fcffc2b597",
+        "url": "https://open.spotify.com/album/4yiD3SpT58G9WdYLjyTcJg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4flu9oo7QZQmRRP8tzR4j5",
+        "title": "I fall you fade",
+        "artist": "akkiemi",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0210f6aec465fb5389fa0dd7ab",
+        "url": "https://open.spotify.com/album/4flu9oo7QZQmRRP8tzR4j5",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7Flh5KSoB8UBkV82vmt3IT",
+        "title": "More Dancehall: Ruckus Riddim - The Sequel",
+        "artist": "Vybz Kartel, Bounty Killer, Lukie D, Capleton",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e022efe48c26cbc257aca1d0696",
+        "url": "https://open.spotify.com/album/7Flh5KSoB8UBkV82vmt3IT",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6zkjKikCifosx4L1TOW5pc",
+        "title": "Pulse React",
+        "artist": "Gabry Ponte",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c97c33d29aab7ae3c722bfcb",
+        "url": "https://open.spotify.com/album/6zkjKikCifosx4L1TOW5pc",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3Y4Nji85kbce99ejt4IdY9",
+        "title": "The Shrine Bell",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f90de57780057027cfef9875",
+        "url": "https://open.spotify.com/album/3Y4Nji85kbce99ejt4IdY9",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "20yc9IRtzw7V3zYVBjbVbf",
+        "title": "Salo",
+        "artist": "Tayc, Didi B",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c55039171d159a1dc3e2d94f",
+        "url": "https://open.spotify.com/album/20yc9IRtzw7V3zYVBjbVbf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LoWWZRhmFR4IhUQryJhup",
+        "title": "Bedtime Stories",
+        "artist": "El Manu, Jessy Kang",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4cf4a2475b88c3c2fdec11b",
+        "url": "https://open.spotify.com/album/2LoWWZRhmFR4IhUQryJhup",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5PBLSfLuYTuBEGMprzaTjm",
+        "title": "mājās//atstāj to fonā",
+        "artist": "Zieds', Desire Flomo",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02407350508dc5f167e38b6623",
+        "url": "https://open.spotify.com/album/5PBLSfLuYTuBEGMprzaTjm",
+        "total_tracks": 2,
         "genres": []
       }
     ]
