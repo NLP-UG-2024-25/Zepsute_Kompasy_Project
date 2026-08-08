@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-07T07:13:20.753Z",
-  "total": 2574,
+  "fetched_at": "2026-08-08T06:51:04.755Z",
+  "total": 2590,
   "by_date": {
     "2026-05-15": [
       {
@@ -28108,6 +28108,39 @@
         "url": "https://open.spotify.com/album/6gOGOu9v766JJZbKGr6Die",
         "total_tracks": 15,
         "genres": []
+      },
+      {
+        "id": "0tVa9DMxb0AazelG7tItOE",
+        "title": "Where Are You Now (5 Year Anniversary)",
+        "artist": "Lost Frequencies",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea072f28415efbfbc8b1b2c5",
+        "url": "https://open.spotify.com/album/0tVa9DMxb0AazelG7tItOE",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "70GTD1MhzMfy9GpJpXgTLm",
+        "title": "LA MUÑEQUITA",
+        "artist": "Raúl Beltran, Jesús Uriarte",
+        "type": "single",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9450ad6165dc588807c2112",
+        "url": "https://open.spotify.com/album/70GTD1MhzMfy9GpJpXgTLm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oqAsaPN3b6jhC7Bi9sWKX",
+        "title": "La Bachata Volvió",
+        "artist": "Dalvin La Melodia",
+        "type": "album",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b766cac233616d27c690d0c",
+        "url": "https://open.spotify.com/album/7oqAsaPN3b6jhC7Bi9sWKX",
+        "total_tracks": 13,
+        "genres": []
       }
     ],
     "2026-08-07": [
@@ -28472,6 +28505,151 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02407350508dc5f167e38b6623",
         "url": "https://open.spotify.com/album/5PBLSfLuYTuBEGMprzaTjm",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0Q01cgQeoWTETkOvpoeng9",
+        "title": "Dai Dai",
+        "artist": "Shakira, Burna Boy",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d6361334830bc095079d5eb",
+        "url": "https://open.spotify.com/album/0Q01cgQeoWTETkOvpoeng9",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1gLNpzHiiyg9aeGa3JH96T",
+        "title": "Spirit of India - Yeh Naya Hindustan Hai!",
+        "artist": "Shashwat Sachdev, Sukhwinder Singh, B Praak, Daler Mehndi",
+        "type": "compilation",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288f309f5c8180fe4efcc2cd4",
+        "url": "https://open.spotify.com/album/1gLNpzHiiyg9aeGa3JH96T",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6GmRL1IwZjDeVxZJBwf8Oq",
+        "title": "7 Days",
+        "artist": "MEDUZA, Kevin de Vries",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223e3f9e371052fc1589a3659",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7fZFja60WuvgF48NW1au0R",
+        "title": "Chuck Timely & The Hourglass",
+        "artist": "ROLE MODEL",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f5ddf938d46602daf217e9f",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "1jlkXa3MFPL3XY73AdcG2d",
+        "title": "BICHOS ESCROTOS (Música do Filme Original \"Corrida dos Bichos\")",
+        "artist": "Anitta",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f44403ef65b5f8db6968818",
+        "url": "https://open.spotify.com/album/1jlkXa3MFPL3XY73AdcG2d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xsd8zw2uoqMXFZ14yD1aQ",
+        "title": "MONTAGEM PIXELORA A2",
+        "artist": "DJ Javi26, SASORIIXPP",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296b9a9574bcea5a4e3846df9",
+        "url": "https://open.spotify.com/album/4xsd8zw2uoqMXFZ14yD1aQ",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4UrAeqVP26FX3P6UywkQKC",
+        "title": "Oblivion",
+        "artist": "UdieNnx",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ea614a5684850679911c393",
+        "url": "https://open.spotify.com/album/4UrAeqVP26FX3P6UywkQKC",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2IcNmYGjDug2nEzCD0LiTp",
+        "title": "DUMB HOT!",
+        "artist": "izna",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216faafe6a4a30c3d652fac1d",
+        "url": "https://open.spotify.com/album/2IcNmYGjDug2nEzCD0LiTp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2BPyoyZiXKgXDJ0qdXgKd2",
+        "title": "2010 - Mr. October (Oli Remix)",
+        "artist": "Wyclef Jean, Oli",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245c9b9a67fd95950579ed350",
+        "url": "https://open.spotify.com/album/2BPyoyZiXKgXDJ0qdXgKd2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6xYYlhqRtQKkxMLUaLZysw",
+        "title": "Tabassum (From \"Batwara 1947\")",
+        "artist": "A.R. Rahman, Javed Akhtar, Sonu Nigam, Heer",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecbf83534226f2c1b953267a",
+        "url": "https://open.spotify.com/album/6xYYlhqRtQKkxMLUaLZysw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5tg0sMjQJcjAUZ8DV5fIZk",
+        "title": "Sensimillia",
+        "artist": "Katchafire, Mike Love",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c0355e974876a55819532f3",
+        "url": "https://open.spotify.com/album/5tg0sMjQJcjAUZ8DV5fIZk",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-08": [
+      {
+        "id": "7idsjZmuhHBgLHKmNEBVHP",
+        "title": "Toyfriend",
+        "artist": "SB19, BE:FIRST",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a128b81dced355144228a88",
+        "url": "https://open.spotify.com/album/7idsjZmuhHBgLHKmNEBVHP",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4Qqf6S1kyqzWLfvDvTb8xZ",
+        "title": "Gus: The Polar Bear From Central Park (Live July 22 - August 20, 2016)",
+        "artist": "The Tragically Hip",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2e67659ff3df4e302c86af4",
+        "url": "https://open.spotify.com/album/4Qqf6S1kyqzWLfvDvTb8xZ",
+        "total_tracks": 1,
         "genres": []
       }
     ]
