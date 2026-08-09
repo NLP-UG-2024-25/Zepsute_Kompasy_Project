@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-08T06:51:04.755Z",
-  "total": 2590,
+  "fetched_at": "2026-08-09T06:54:39.903Z",
+  "total": 2634,
   "by_date": {
     "2026-05-15": [
       {
@@ -28141,6 +28141,17 @@
         "url": "https://open.spotify.com/album/7oqAsaPN3b6jhC7Bi9sWKX",
         "total_tracks": 13,
         "genres": []
+      },
+      {
+        "id": "0pFlE0rc68RS8f3UHzioQY",
+        "title": "The Real Me",
+        "artist": "Future",
+        "type": "album",
+        "release_date": "2026-08-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5f832caa741f9360c5b2753",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY",
+        "total_tracks": 22,
+        "genres": []
       }
     ],
     "2026-08-07": [
@@ -28627,6 +28638,237 @@
         "url": "https://open.spotify.com/album/5tg0sMjQJcjAUZ8DV5fIZk",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5w4RclcQoq5M6qOLOdnXBf",
+        "title": "Dai Dai",
+        "artist": "Shakira",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4fa4b117586ba82a91708ea",
+        "url": "https://open.spotify.com/album/5w4RclcQoq5M6qOLOdnXBf",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6mJdMnYc66iK2pQJLnASem",
+        "title": "Thudakkam (Original Motion Picture Soundtrack)",
+        "artist": "Jakes Bejoy, Joe Paul",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a88c199030b64acd6b25472",
+        "url": "https://open.spotify.com/album/6mJdMnYc66iK2pQJLnASem",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0G6s8aI0yLiFTsKhKeDcIW",
+        "title": "Main Tera Hone Laga",
+        "artist": "Vishal Dadlani",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b565013ef26118513093066a",
+        "url": "https://open.spotify.com/album/0G6s8aI0yLiFTsKhKeDcIW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fpLMCLosCc3MDQRThHrFR",
+        "title": "Eduardo Costa do Velho Testamento, Ep. 1 (Ao Vivo)",
+        "artist": "Eduardo Costa",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02067c3ed264a574d7c6e70665",
+        "url": "https://open.spotify.com/album/1fpLMCLosCc3MDQRThHrFR",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2hjvB3uy3RhzV0mzCeGWCT",
+        "title": "QUÊ HƯƠNG TRONG HUYẾT LỆ",
+        "artist": "Bùi Anh Tuấn, GITA Centre",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024573f93f38494a6fa1a94609",
+        "url": "https://open.spotify.com/album/2hjvB3uy3RhzV0mzCeGWCT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Okp3FxpqVo6GM4ATtzdL6",
+        "title": "Mundo Frio",
+        "artist": "Little Loove, DJ Leury Prod",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e020da7a09bb6001d347476f810",
+        "url": "https://open.spotify.com/album/5Okp3FxpqVo6GM4ATtzdL6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18P8xgTcXzZH3JqlCnrDxw",
+        "title": "Mtwaqaa",
+        "artist": "Sabah Mahmod",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205a5926b5973465cac23929e",
+        "url": "https://open.spotify.com/album/18P8xgTcXzZH3JqlCnrDxw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6whd7hAtI7Q6OICAlpB8Cb",
+        "title": "Mi Realidad",
+        "artist": "Ateriko",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec1281850510f23626d155b5",
+        "url": "https://open.spotify.com/album/6whd7hAtI7Q6OICAlpB8Cb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1tc9ikx4fSwCAoZKctv8Yt",
+        "title": "Bunatatea Nu Se Poarta La Costum",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4c665e383665dc6ca296733",
+        "url": "https://open.spotify.com/album/1tc9ikx4fSwCAoZKctv8Yt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49zgn4gAnjKZfe2XsiKZ1k",
+        "title": "Baba Ke Nayanawa",
+        "artist": "Pawan Singh",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7c4b520d036f6697712f607",
+        "url": "https://open.spotify.com/album/49zgn4gAnjKZfe2XsiKZ1k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Vn8pesphnIfwl0oDnW4lj",
+        "title": "TEA",
+        "artist": "Rema",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb053c289f43a1baa247e1b5",
+        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4R8EESNE81YaF6xBamLsjW",
+        "title": "Mi Problema",
+        "artist": "Calibre 50",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296a042687af83687fdd38d54",
+        "url": "https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vyo8Ev3o6olStojgqpS6U",
+        "title": "bad pieces",
+        "artist": "wave to earth",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a03ff40f308fea55054aa68",
+        "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "21Gy00zj1PTAup2SWyzikW",
+        "title": "Korean Kanakaraju - Teaser Ost",
+        "artist": "Thaman S",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e305ef50ef9e6f60534b30aa",
+        "url": "https://open.spotify.com/album/21Gy00zj1PTAup2SWyzikW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1v5wDtNlp9fqnxwJqaxnAa",
+        "title": "Korean Kanakaraju",
+        "artist": "Thaman S, Kasarla Shyam, Sreejo, Adviteeya Vojjala",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f9bbdddd85ec312c25d50b5",
+        "url": "https://open.spotify.com/album/1v5wDtNlp9fqnxwJqaxnAa",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7KwBoaRMp8I5hjq2Hbe250",
+        "title": "Айта берсiн (OYU Live)",
+        "artist": "Zhanar Dugalova, OYU",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271637008bacbaf43d71af9e6",
+        "url": "https://open.spotify.com/album/7KwBoaRMp8I5hjq2Hbe250",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7arbjPYIMje06w77k6joYT",
+        "title": "Bhasad Macha Remix",
+        "artist": "Vishal Mishra, Mika Singh, Jyotica Tangri, Dj Raahul Pai",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d7a0fabd53658c2bbff67e0",
+        "url": "https://open.spotify.com/album/7arbjPYIMje06w77k6joYT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2k5BF1JguN0uDurX32WEV4",
+        "title": "Zax or Die",
+        "artist": "PORZAX",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021bc19d6c433cb97c6d0f05fe",
+        "url": "https://open.spotify.com/album/2k5BF1JguN0uDurX32WEV4",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7zIu1nvz8WYsHoazQ6GJbR",
+        "title": "Seremos Amantes (En Vivo)",
+        "artist": "La banda de Carlitos",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a8387df1e0dd2b518d78e8da",
+        "url": "https://open.spotify.com/album/7zIu1nvz8WYsHoazQ6GJbR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2WkqCyA6ax08s5bA7CBW1D",
+        "title": "F'Qalbna f'Kull Ħin",
+        "artist": "St Catherine Band Club Zurrieq",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cab55afc13b628b6e78b5004",
+        "url": "https://open.spotify.com/album/2WkqCyA6ax08s5bA7CBW1D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5OIja8re4xMdyw1eocndjr",
+        "title": "Ave Virgo Deo Digna",
+        "artist": "St Catherine Band Club Zurrieq",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef8ca5589a7dae4b96411f49",
+        "url": "https://open.spotify.com/album/5OIja8re4xMdyw1eocndjr",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-08": [
@@ -28649,6 +28891,250 @@
         "release_date": "2026-08-08",
         "image": "https://i.scdn.co/image/ab67616d00001e02e2e67659ff3df4e302c86af4",
         "url": "https://open.spotify.com/album/4Qqf6S1kyqzWLfvDvTb8xZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5cyk2uXAfA6KFtxW9Fw7TO",
+        "title": "TINH HÀ \"SAY HI\", TẬP 6",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa545713f7c1bd393afe0cb8",
+        "url": "https://open.spotify.com/album/5cyk2uXAfA6KFtxW9Fw7TO",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6MTfGMNETk4s6kYm30QBnF",
+        "title": "CÔNG DIỄN 2 (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ba53d38b291c31e4f116c96",
+        "url": "https://open.spotify.com/album/6MTfGMNETk4s6kYm30QBnF",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5R43vFnHfmrU5ev4pBzMSa",
+        "title": "尚能独舞",
+        "artist": "Justin Lo",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e910999ceb6c10b3ae1eae6b",
+        "url": "https://open.spotify.com/album/5R43vFnHfmrU5ev4pBzMSa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1sbnRoeF2lmnW9zpB3WECH",
+        "title": "HIGH EGO",
+        "artist": "Fishy, yb.rookie, Xuanpac",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbb1129bf763c2aa7d1fa10d",
+        "url": "https://open.spotify.com/album/1sbnRoeF2lmnW9zpB3WECH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3qIZorcuKlVb4G4186L2Xr",
+        "title": "IBRA (Remix)",
+        "artist": "Akim, Elty, N0 FACE, Don Pablo Mures",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f511b4551141ba0ce7db3ad",
+        "url": "https://open.spotify.com/album/3qIZorcuKlVb4G4186L2Xr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "51ARzrWimrJNCnPpM0TDQk",
+        "title": "Wahshaney",
+        "artist": "Muslim - مُسلِم",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203d1b4a2aa05a979fc53bf77",
+        "url": "https://open.spotify.com/album/51ARzrWimrJNCnPpM0TDQk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MYdTemDFPmjXNrdv5uhoG",
+        "title": "Рози",
+        "artist": "DNK",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208289ef5935953b5cf4e4211",
+        "url": "https://open.spotify.com/album/0MYdTemDFPmjXNrdv5uhoG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "15ELa2vbQikW4EkvzTwL1g",
+        "title": "ÉLORLYFE",
+        "artist": "Royal 44",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d54bf6a85b1c6915f4d6b24b",
+        "url": "https://open.spotify.com/album/15ELa2vbQikW4EkvzTwL1g",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1uP4wBPulejvSucBlYl8Sv",
+        "title": "VERSACE",
+        "artist": "Likeboss, Arab, HermesHermes, Echo",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217d2166937bf516b1abe71f9",
+        "url": "https://open.spotify.com/album/1uP4wBPulejvSucBlYl8Sv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Rmy2rocJzlfzbsYNhuYPF",
+        "title": "The Essence Of House",
+        "artist": "Egyptian Pharaoh",
+        "type": "album",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eeaec3bc8ac854b13b09a76e",
+        "url": "https://open.spotify.com/album/0Rmy2rocJzlfzbsYNhuYPF",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4yNuBpZmjiv4OE0cjijKWo",
+        "title": "Duniya Alag - Arijit Singh Vocals Only",
+        "artist": "Arijit Singh, Shreyas Puranik, Siddharth - Garima",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243a678556e97fd8c551e7056",
+        "url": "https://open.spotify.com/album/4yNuBpZmjiv4OE0cjijKWo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40EDeEvt7X9m4S5KEsw7A0",
+        "title": "Асыл жарым",
+        "artist": "Kairat Nurtas",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b528b56c46823559418dce89",
+        "url": "https://open.spotify.com/album/40EDeEvt7X9m4S5KEsw7A0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08jlcxLE4ZrkPwZBXVYoeK",
+        "title": "Darumenim",
+        "artist": "Abzal Uteshov",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dcfe8485600754cd364e3b1",
+        "url": "https://open.spotify.com/album/08jlcxLE4ZrkPwZBXVYoeK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oZbR2CO7SL7reJIRHTPED",
+        "title": "The Einaudi Experience",
+        "artist": "Ludovico Einaudi",
+        "type": "album",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028421d700df35378de5951803",
+        "url": "https://open.spotify.com/album/7oZbR2CO7SL7reJIRHTPED",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "6I217n5nr8p7vY4yH33rCq",
+        "title": "KO STAA",
+        "artist": "Rizziatta",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02154bd9b82c3f69ba6fa4bcfd",
+        "url": "https://open.spotify.com/album/6I217n5nr8p7vY4yH33rCq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0nOx92YDM4B6KLWeTVhbhc",
+        "title": "888",
+        "artist": "Aerozen",
+        "type": "album",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02536068853ba778734fd0aa17",
+        "url": "https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2CMcgA8g89TIVV86kzhCFP",
+        "title": "Tere Saaye Me Chalta Hu Saath Tere",
+        "artist": "Arijit Singh",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023da538c78a01a73114d82b61",
+        "url": "https://open.spotify.com/album/2CMcgA8g89TIVV86kzhCFP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2tFNAmJMInfBsKuNeCZqiF",
+        "title": "Alvida - Vishal Mishra Vocals Only",
+        "artist": "Vishal Mishra",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02677826e4e2dc935469f18a9d",
+        "url": "https://open.spotify.com/album/2tFNAmJMInfBsKuNeCZqiF",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-09": [
+      {
+        "id": "7AV3YJiFdmgoQLB352PT0w",
+        "title": "Comments",
+        "artist": "Popcaan",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02190aefc4eeb58919cda90637",
+        "url": "https://open.spotify.com/album/7AV3YJiFdmgoQLB352PT0w",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7H5qM8fiFTwxURNLEDw0HE",
+        "title": "Girl's Best Friend",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02415a85140a36649b39050baf",
+        "url": "https://open.spotify.com/album/7H5qM8fiFTwxURNLEDw0HE",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1OvlNqE9mYCfd1dGoVh4rm",
+        "title": "05 (Live)",
+        "artist": "Itay Levi",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02faad4b372c235540790505d9",
+        "url": "https://open.spotify.com/album/1OvlNqE9mYCfd1dGoVh4rm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6CPYWWHm2lxMooc4kMXx1h",
+        "title": "Ғашық екенмін",
+        "artist": "Duman",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e025259df8a11ef4881c9a32e86",
+        "url": "https://open.spotify.com/album/6CPYWWHm2lxMooc4kMXx1h",
         "total_tracks": 1,
         "genres": []
       }
