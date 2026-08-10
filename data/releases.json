@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-09T06:54:39.903Z",
-  "total": 2634,
+  "fetched_at": "2026-08-10T07:38:55.939Z",
+  "total": 2667,
   "by_date": {
     "2026-05-15": [
       {
@@ -28869,6 +28869,17 @@
         "url": "https://open.spotify.com/album/5OIja8re4xMdyw1eocndjr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "46TYlDjLrEsOLFgxfxNiUy",
+        "title": "THIS & THAT",
+        "artist": "Stray Kids",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237f636fa384b48481241cbd3",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy",
+        "total_tracks": 8,
+        "genres": []
       }
     ],
     "2026-08-08": [
@@ -29091,6 +29102,39 @@
         "url": "https://open.spotify.com/album/2tFNAmJMInfBsKuNeCZqiF",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2wKNJKE2KlBQl1WiEg7vN2",
+        "title": "اركب الدبابه",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd49575a0448ff96b3e5c465",
+        "url": "https://open.spotify.com/album/2wKNJKE2KlBQl1WiEg7vN2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JDRPB5UJ4I2ZPGnTgMGOl",
+        "title": "مقصودة",
+        "artist": "Nasrat Al Badr, Zaid Al Rashed",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb1aa45a28391f4148b88577",
+        "url": "https://open.spotify.com/album/0JDRPB5UJ4I2ZPGnTgMGOl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "56y4QCY4DvwTci1x2u0Vtl",
+        "title": "FUN",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-08-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2c76a13b3aea0ce01801043",
+        "url": "https://open.spotify.com/album/56y4QCY4DvwTci1x2u0Vtl",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-09": [
@@ -29135,6 +29179,327 @@
         "release_date": "2026-08-09",
         "image": "https://i.scdn.co/image/ab67616d00001e025259df8a11ef4881c9a32e86",
         "url": "https://open.spotify.com/album/6CPYWWHm2lxMooc4kMXx1h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yGIibObNeYQ37RunoFjtG",
+        "title": "SYNK : aeXIS LINE - 2026 Special Digital Single",
+        "artist": "aespa",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a0e88eef1c0bc3247e03a0f",
+        "url": "https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2fgSGj2ZEbUgJfoe0qi4mL",
+        "title": "3amla Feha Mn Egypt",
+        "artist": "Mahmoud El Esseily",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02713303ba1b3fc74b64a95ec3",
+        "url": "https://open.spotify.com/album/2fgSGj2ZEbUgJfoe0qi4mL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "337CTgSMpCJrrK6BihJmPW",
+        "title": "ICONIC HEART",
+        "artist": "Hearts2Hearts",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ccf2a687cd03daa7c9696e73",
+        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4wX046bMBG4PCRrpz8k8Ix",
+        "title": "Melting",
+        "artist": "Jayci yucca",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02550537587e40a0d96947a8b7",
+        "url": "https://open.spotify.com/album/4wX046bMBG4PCRrpz8k8Ix",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GAO3wMVmOK7RQdj4Kflj6",
+        "title": "This & That (This Remixes)",
+        "artist": "Stray Kids",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f995dcd88629106f70b1ad2f",
+        "url": "https://open.spotify.com/album/1GAO3wMVmOK7RQdj4Kflj6",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6tw5xaBLFG3WKr6mxMaRAR",
+        "title": "Mappillai Singam (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+        "artist": "Yuvan Shankar Raja, Lakshmi Jai, Madurai saroja",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211a7ab83133a3613a7c45f22",
+        "url": "https://open.spotify.com/album/6tw5xaBLFG3WKr6mxMaRAR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2RUlcuAJHE2rCWo5xnsqLu",
+        "title": "مين قال انها خلصانة ( دايسين بنزين شارخين )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c3fe4c22029731361b5fbda",
+        "url": "https://open.spotify.com/album/2RUlcuAJHE2rCWo5xnsqLu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RiwlL85mAy22VTOvKgQYr",
+        "title": "Ne racunaj na mene",
+        "artist": "Ceca, Jovana Pajic",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2b2ab051db7aa22dd7ec74d",
+        "url": "https://open.spotify.com/album/5RiwlL85mAy22VTOvKgQYr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5TLeAR4WG54wOTMZjdedzn",
+        "title": "Muita Putari4 Brasileira",
+        "artist": "Yuri Redicopa, Konddrake",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2ce04363295ba8a6f0d7099",
+        "url": "https://open.spotify.com/album/5TLeAR4WG54wOTMZjdedzn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0PuPFo4V7NM6BNmzWL5SbM",
+        "title": "Under the Canopy",
+        "artist": "Luna Blaze",
+        "type": "album",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223ef4e68ce6d941ab0c58809",
+        "url": "https://open.spotify.com/album/0PuPFo4V7NM6BNmzWL5SbM",
+        "total_tracks": 10,
+        "genres": []
+      }
+    ],
+    "2026-08-10": [
+      {
+        "id": "39vk2GxCiAHs7FJfvdXvSy",
+        "title": "Banger",
+        "artist": "Badshah, Hiten, Sharvi Yadav",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cc4a50a33dddc3e86984df9",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4n0AhTcVXAhcIqmDANqYZa",
+        "title": "Ae Ajnabee | Coke Studio Bharat (Acoustic)",
+        "artist": "Aditya Rikhari, Ravator, UNPLG'd",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284732aa17198a3f562fc8030",
+        "url": "https://open.spotify.com/album/4n0AhTcVXAhcIqmDANqYZa",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6KxWUx7L90nnGLC47GjyqC",
+        "title": "Gaadi Jeevan Ki",
+        "artist": "B Praak, Paradox, Lakshay, Dhrruv Yogi",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cba8b30754bde6ee75a9a42d",
+        "url": "https://open.spotify.com/album/6KxWUx7L90nnGLC47GjyqC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7F367iAu6GawJID4ENvBAQ",
+        "title": "Jana Gana Mana",
+        "artist": "Shreya Ghoshal",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e020aa4dcf3b1b5608d8b378c4d",
+        "url": "https://open.spotify.com/album/7F367iAu6GawJID4ENvBAQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ev4Swf56LgJKruHsLuJhl",
+        "title": "Alexander",
+        "artist": "Niska",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a68a5b6edc0b67e38038a858",
+        "url": "https://open.spotify.com/album/2ev4Swf56LgJKruHsLuJhl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73fpPhc8XejcEU6OZOZjFa",
+        "title": "Kamata",
+        "artist": "Mbosso",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d09dea5b63d5c49afd1efc85",
+        "url": "https://open.spotify.com/album/73fpPhc8XejcEU6OZOZjFa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kzz8GuERLlgljHbQoPdTi",
+        "title": "Simples Rumores (En Vivo En La Trastienda)",
+        "artist": "LA NUEVA ESCUELA",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213ec868c86af6bf6c1f8d9c8",
+        "url": "https://open.spotify.com/album/7kzz8GuERLlgljHbQoPdTi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Epk8eTVltDZ6mcnUwSuxV",
+        "title": "Sumabay Ka",
+        "artist": "Ben&Ben, KZ Tandingan, Al James",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dbf4af4061342d19ef0992f",
+        "url": "https://open.spotify.com/album/2Epk8eTVltDZ6mcnUwSuxV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1SkojqzU2AQIPpSrmei9y3",
+        "title": "請圍著火焰保護我",
+        "artist": "Vicky Chen",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02acfb977c6f5d77183465603e",
+        "url": "https://open.spotify.com/album/1SkojqzU2AQIPpSrmei9y3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Lrtyf9G9DSO9dBp7xdK3i",
+        "title": "Medellin yatusabes",
+        "artist": "Sin Boy",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273bdd3e9fc7d46b8a8a65386",
+        "url": "https://open.spotify.com/album/3Lrtyf9G9DSO9dBp7xdK3i",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zIfXlDw6grgMKMl7FnO1D",
+        "title": "Ishq-E-Ch Kee Rakhia (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae0d27e6aa27e64724d9c09d",
+        "url": "https://open.spotify.com/album/3zIfXlDw6grgMKMl7FnO1D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5UYynrChAKpodRnnqGYHiH",
+        "title": "Da li to ljubav pravi od nas slabice",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e020054268f86c88b2734ba1ef4",
+        "url": "https://open.spotify.com/album/5UYynrChAKpodRnnqGYHiH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YZNacLRd0eXCiiPu7cfYn",
+        "title": "Okreces mi ledja",
+        "artist": "Ceca",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c1b2154117498e21bf4e534",
+        "url": "https://open.spotify.com/album/4YZNacLRd0eXCiiPu7cfYn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4SLcBbM8IZXLrt9GR4XIN9",
+        "title": "Fiebre de Enamorados",
+        "artist": "Soy tu Sol",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c35665a058dbf1ce0c30851e",
+        "url": "https://open.spotify.com/album/4SLcBbM8IZXLrt9GR4XIN9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7LcC6gX7tOwjNfEofeYrCs",
+        "title": "Shiv Ke Kanwariya",
+        "artist": "Shilpi Raj, Vishal Singh, Raushan Singh, Vinay Bihari",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e025802d19c02c3cb01682d02f4",
+        "url": "https://open.spotify.com/album/7LcC6gX7tOwjNfEofeYrCs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2j7Wa2INhaC5TSgmGXKjfG",
+        "title": "BREGADEIRA INDUSTRIAL",
+        "artist": "CACAU CHUU, Mc Gw, DJ Negritto",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02332732e3944493b5ceafcadd",
+        "url": "https://open.spotify.com/album/2j7Wa2INhaC5TSgmGXKjfG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yd53CwBJO9szEPZPFi7V3",
+        "title": "Aquecimento Da Potranca",
+        "artist": "MC Nito, RAPHAANJOS, Fluxo Nas Quebradas",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217a7611d846764a69ffcd7de",
+        "url": "https://open.spotify.com/album/3yd53CwBJO9szEPZPFi7V3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VnLtFbRo9IZGSxytUDTJG",
+        "title": "VIDA DO JOB",
+        "artist": "MC Nito, DJ PERERA MC",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2c7dd7c75ef77eb601328d4",
+        "url": "https://open.spotify.com/album/4VnLtFbRo9IZGSxytUDTJG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0mNrxJR4wmvUHxsSyU4QhP",
+        "title": "Putekļi Un Atmiņas",
+        "artist": "St4rface",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e0eb99c9cbbe1eaec874de7",
+        "url": "https://open.spotify.com/album/0mNrxJR4wmvUHxsSyU4QhP",
         "total_tracks": 1,
         "genres": []
       }
