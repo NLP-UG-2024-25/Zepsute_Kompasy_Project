@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-10T07:38:55.939Z",
-  "total": 2667,
+  "fetched_at": "2026-08-11T07:05:28.392Z",
+  "total": 2688,
   "by_date": {
     "2026-05-15": [
       {
@@ -29291,6 +29291,17 @@
         "url": "https://open.spotify.com/album/0PuPFo4V7NM6BNmzWL5SbM",
         "total_tracks": 10,
         "genres": []
+      },
+      {
+        "id": "7iE8cw0jyIMhfsF74Vbl4E",
+        "title": "SELAWAT TAWASSALNA BI BISMILLAH SELAWAT PELINDUNG DIRI",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-08-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e134f2fce4ee4d29fcb04c51",
+        "url": "https://open.spotify.com/album/7iE8cw0jyIMhfsF74Vbl4E",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-10": [
@@ -29500,6 +29511,228 @@
         "release_date": "2026-08-10",
         "image": "https://i.scdn.co/image/ab67616d00001e023e0eb99c9cbbe1eaec874de7",
         "url": "https://open.spotify.com/album/0mNrxJR4wmvUHxsSyU4QhP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "65gngJ6yLvU2BPzmAhgMQv",
+        "title": "ที่ที่ปลอดภัย",
+        "artist": "Yes'sir Days",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8a0515122206fc86a66c144",
+        "url": "https://open.spotify.com/album/65gngJ6yLvU2BPzmAhgMQv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RrIZArw9cEz8gbpiylYFz",
+        "title": "WhyKiiiKiii",
+        "artist": "KiiiKiii",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e6090052314604f93f1ebe4",
+        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6JyD3Ufl3n30ECr9dnAEnO",
+        "title": "Slinkumdziesma",
+        "artist": "Tutas Lietas",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d559211433333c55b1a2aefc",
+        "url": "https://open.spotify.com/album/6JyD3Ufl3n30ECr9dnAEnO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3qyxj00QPvnuRSF6JWptgg",
+        "title": "Meine Tante aus Mallorca",
+        "artist": "Yves DESQUIOTZ",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fccee6745edfd89806f8be93",
+        "url": "https://open.spotify.com/album/3qyxj00QPvnuRSF6JWptgg",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-11": [
+      {
+        "id": "77XwGMgmzDHPN8UK3QEQxZ",
+        "title": "Iss Baarish Mein",
+        "artist": "Palak Muchhal, Faisal Miya Photuwale",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bc316e8eb8a2d861206ab4d",
+        "url": "https://open.spotify.com/album/77XwGMgmzDHPN8UK3QEQxZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6qksIvKRkilcpniBiIQmRv",
+        "title": "22",
+        "artist": "Agam Buhbut",
+        "type": "album",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02366bf9c410199523e24c7a0e",
+        "url": "https://open.spotify.com/album/6qksIvKRkilcpniBiIQmRv",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "6Zi8DBrJfOKnHb3ieVkuHP",
+        "title": "I Miss You Every Brand New Day (From \"Spider-Man: Brand New Day\" Movie) [English Ver.]",
+        "artist": "For Revenge",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff8e39315c3642998d806d35",
+        "url": "https://open.spotify.com/album/6Zi8DBrJfOKnHb3ieVkuHP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ymhtkA6s0diNC71vDoZFL",
+        "title": "Ha Leylim",
+        "artist": "Mabel Matiz",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d587da1d6bc0dcecaeb553ec",
+        "url": "https://open.spotify.com/album/1ymhtkA6s0diNC71vDoZFL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48vs0oAFIzF2SpovRwszy8",
+        "title": "รักที่พอดี (enough)",
+        "artist": "fellow fellow",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203725fda4af5a0196b1ea69f",
+        "url": "https://open.spotify.com/album/48vs0oAFIzF2SpovRwszy8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pioiLCM2qtFwd3mBab4xK",
+        "title": "PARABÉNS POR SER GOSTOSA",
+        "artist": "MC Rick, Aaron Modesto, MC Jvila, MC Meno K",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dbb21d7ab7da56a9ba9010df",
+        "url": "https://open.spotify.com/album/1pioiLCM2qtFwd3mBab4xK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6aScZdRffQ3AhOnh7Yfpl3",
+        "title": "LATTE",
+        "artist": "Tachi, DJ Maff",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02582c6f2ae91f8cb972857d63",
+        "url": "https://open.spotify.com/album/6aScZdRffQ3AhOnh7Yfpl3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5dyvEY9NepxqSafQEIWt8w",
+        "title": "maybesome",
+        "artist": "YEW",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230151e11a12087831aeb2346",
+        "url": "https://open.spotify.com/album/5dyvEY9NepxqSafQEIWt8w",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5W3CiV7i1x416pdVc0tvIv",
+        "title": "Through the Stars",
+        "artist": "Hatsune Miku, Ricardo Padua",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cfd8f86e0ace38d006ddfa7f",
+        "url": "https://open.spotify.com/album/5W3CiV7i1x416pdVc0tvIv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2C5n0wdSPIvu3FRY89YzvE",
+        "title": "Sefela sa Lekompo",
+        "artist": "Shandesh, Hitboss SA",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b86911b8828b53a6dc2c4670",
+        "url": "https://open.spotify.com/album/2C5n0wdSPIvu3FRY89YzvE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1kgUGyLl6YEQtADcAcTtNJ",
+        "title": "Я полечу",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286b70d60a1ed459eb1462217",
+        "url": "https://open.spotify.com/album/1kgUGyLl6YEQtADcAcTtNJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Gj2djVVLKMOUlaACVVOD9",
+        "title": "Tørst",
+        "artist": "Breizaas, Aileen Aasland",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02794ec86bf10252b90800ae9d",
+        "url": "https://open.spotify.com/album/2Gj2djVVLKMOUlaACVVOD9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OO0QKjySSi86LkZaOarHc",
+        "title": "Meet The Redds (feat. Sexyy Red)",
+        "artist": "Trippie Redd, Sexyy Red",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5fa1ff3cac5b813d3c2c3fa",
+        "url": "https://open.spotify.com/album/0OO0QKjySSi86LkZaOarHc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SUGB5fUfzuF6oGygy9eY6",
+        "title": "El Corazòn Se Quedò",
+        "artist": "Fede Rojas",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e022143d42e97a003c7c656ef17",
+        "url": "https://open.spotify.com/album/5SUGB5fUfzuF6oGygy9eY6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48OZAqmVDQCGiGV15m5kHT",
+        "title": "paGGodin3 (Ao Vivo)",
+        "artist": "Léo Santana",
+        "type": "album",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc52571e3e3666f2c1cc4aff",
+        "url": "https://open.spotify.com/album/48OZAqmVDQCGiGV15m5kHT",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3C5lRZu5ZuCX8QMLkHGvCd",
+        "title": "Coleção / A Lua Q Eu T Dei (Ao Vivo)",
+        "artist": "Léo Santana, Ivete Sangalo",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236d004c2d5f0ea707d3df130",
+        "url": "https://open.spotify.com/album/3C5lRZu5ZuCX8QMLkHGvCd",
         "total_tracks": 1,
         "genres": []
       }
