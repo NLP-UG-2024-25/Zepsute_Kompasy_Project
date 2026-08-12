@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-11T07:05:28.392Z",
-  "total": 2688,
+  "fetched_at": "2026-08-12T07:22:50.498Z",
+  "total": 2730,
   "by_date": {
     "2026-05-15": [
       {
@@ -29557,6 +29557,127 @@
         "url": "https://open.spotify.com/album/3qyxj00QPvnuRSF6JWptgg",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6qUg3c6l37bFClwblfcYXq",
+        "title": "MARBELLA NIGHTS",
+        "artist": "Farruko, Juan Magán",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296f18a88167ef75f272a1839",
+        "url": "https://open.spotify.com/album/6qUg3c6l37bFClwblfcYXq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Oo9rck7n2LaxhvfqHrBOa",
+        "title": "Titli Lofi Mix",
+        "artist": "Vishal-Shekhar, Chinmayi, Amitabh Bhattacharya, DJ ALONE",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258980c71d7c9e0c4c20b5b98",
+        "url": "https://open.spotify.com/album/1Oo9rck7n2LaxhvfqHrBOa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0r3zdYIsdAB0HxBQnxfy63",
+        "title": "Dil Mera Ro Raha",
+        "artist": "Sonu Nigam, Jackie Vanjari, Sameer Anjaan",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02733b82f3a35936f823ba5d1f",
+        "url": "https://open.spotify.com/album/0r3zdYIsdAB0HxBQnxfy63",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4PVDl9XGDhX4XhAdbFmlc7",
+        "title": "الشباب نباره",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d749f90c0dbe2462e0bf216",
+        "url": "https://open.spotify.com/album/4PVDl9XGDhX4XhAdbFmlc7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5OyQ8ItSoV3Fzztq3cy2M7",
+        "title": "الضربة هيا هيا والفتها معكسا",
+        "artist": "Cheba Warda",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d75d05872664a70652962528",
+        "url": "https://open.spotify.com/album/5OyQ8ItSoV3Fzztq3cy2M7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5xqP8f78CS6aroh8byyeKz",
+        "title": "Omri Jwadki",
+        "artist": "Cheba Souad",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9837c097fbb3eb226934383",
+        "url": "https://open.spotify.com/album/5xqP8f78CS6aroh8byyeKz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "14AE3M2aJCyzRoiSEPAIhh",
+        "title": "Anh Vẫn Giữ (Winz X Lucak Remix)",
+        "artist": "Duongg",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef463151fc42618dba90ebae",
+        "url": "https://open.spotify.com/album/14AE3M2aJCyzRoiSEPAIhh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4FtF81eK8hMU73GT3V3OXx",
+        "title": "هنا I`m اهو I`m",
+        "artist": "Eslam Kabonga, حوده بوده",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a935739abeba9ab5d1964e41",
+        "url": "https://open.spotify.com/album/4FtF81eK8hMU73GT3V3OXx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0eN4IhIknvDupEqPR2nAyg",
+        "title": "يا تاجر الاحباب (Live)",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a16c49c7e640a4c48ef6671f",
+        "url": "https://open.spotify.com/album/0eN4IhIknvDupEqPR2nAyg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "76ZRXWUswEY2Y6BB6r88yH",
+        "title": "AJ",
+        "artist": "Tedi Aleksandrova",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027fd529ab0b97bdce59173ece",
+        "url": "https://open.spotify.com/album/76ZRXWUswEY2Y6BB6r88yH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BrLyYioqKkpfuz500nS8V",
+        "title": "Bhayati Akbar Ghalat",
+        "artist": "Naser Albhar",
+        "type": "single",
+        "release_date": "2026-08-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6cfbeedfd8575af086803b0",
+        "url": "https://open.spotify.com/album/5BrLyYioqKkpfuz500nS8V",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-11": [
@@ -29733,6 +29854,349 @@
         "release_date": "2026-08-11",
         "image": "https://i.scdn.co/image/ab67616d00001e0236d004c2d5f0ea707d3df130",
         "url": "https://open.spotify.com/album/3C5lRZu5ZuCX8QMLkHGvCd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4EuIzkTvqh6YAYd4lrkbbR",
+        "title": "estrella fugaz (si el cielo me permite)",
+        "artist": "Beéle",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02569841f45b17d33683a72629",
+        "url": "https://open.spotify.com/album/4EuIzkTvqh6YAYd4lrkbbR",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2yOHR3vwMZxt7MuQklWt7p",
+        "title": "G. Catán",
+        "artist": "LIT killah",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb19ffcf99f8e277416b8344",
+        "url": "https://open.spotify.com/album/2yOHR3vwMZxt7MuQklWt7p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4sUnKjSfl7GmXBkg6lFa0E",
+        "title": "Eu e Você De Novo",
+        "artist": "Mc IG, Mc Jacaré, MC Ryan SP, TrapLaudo",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0215c54770989fa4a1b8be0355",
+        "url": "https://open.spotify.com/album/4sUnKjSfl7GmXBkg6lFa0E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FdpQG2FzaPEWQY4AJd5R5",
+        "title": "Teri Ore (Chillout LoFi Remix)",
+        "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal, VDJ Fly",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9395a46b90066e7451680cb",
+        "url": "https://open.spotify.com/album/0FdpQG2FzaPEWQY4AJd5R5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ps1EnoRoTMzZJPLvcGZdl",
+        "title": "GIỮA MỘT VẠN NGƯỜI (MỞ RỘNG)",
+        "artist": "Phùng Khánh Linh",
+        "type": "album",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c690d86d9195af259c91b1e5",
+        "url": "https://open.spotify.com/album/4ps1EnoRoTMzZJPLvcGZdl",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "1UpcXPXQSUBKh3cClfy0l1",
+        "title": "هطلع علي الساحل هاخد السيزون ده مراحل",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b77702a2345c3f5183b4f2ec",
+        "url": "https://open.spotify.com/album/1UpcXPXQSUBKh3cClfy0l1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0TN7XWnF6a7t5mNeIIVdAH",
+        "title": "Patru anotimpuri",
+        "artist": "F.Charm",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8c4eb0f3e34c7f5829c22c1",
+        "url": "https://open.spotify.com/album/0TN7XWnF6a7t5mNeIIVdAH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5QcfodgaXvDCZNm0waFcBZ",
+        "title": "Gabi",
+        "artist": "Carson Coma",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026fd13521041a75ad8fef36e4",
+        "url": "https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0KKU0vZJAAPRxJ2Y0ANJxI",
+        "title": "The Hands That Come Home",
+        "artist": "Kingshadow",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab4451d69e55cfdf0d5fc6f9",
+        "url": "https://open.spotify.com/album/0KKU0vZJAAPRxJ2Y0ANJxI",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-12": [
+      {
+        "id": "6LPtBXqIhjKRdGfSekbHcW",
+        "title": "vengeance",
+        "artist": "slxughter",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275c85907aa8161f08196eba7",
+        "url": "https://open.spotify.com/album/6LPtBXqIhjKRdGfSekbHcW",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0YmmkLfWLiudSmlxlzRdfl",
+        "title": "VEM SENTAR PRO PAI",
+        "artist": "Mc Jacaré, DJ 2G, Mc Gordinho do Catarina, MC LORIN DA ZL",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdd9b8cd2307d64b6ff0df15",
+        "url": "https://open.spotify.com/album/0YmmkLfWLiudSmlxlzRdfl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0AdWol9lj8HHZJuWewMNi7",
+        "title": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "artist": "Yuvan Shankar Raja",
+        "type": "album",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c0bf329750adbeaf3bdc5728",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "4WvbcJLTRdYDa8heb0RzkA",
+        "title": "Chinaron Se",
+        "artist": "Amit Trivedi, Swanand Kirkire",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208c2613489303b75cfce73cd",
+        "url": "https://open.spotify.com/album/4WvbcJLTRdYDa8heb0RzkA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7HSwd38W6t4KTf8NmHR5cu",
+        "title": "Dito Sa Amin",
+        "artist": "Gloc-9",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dbbc750f756ad50dce4b3c9",
+        "url": "https://open.spotify.com/album/7HSwd38W6t4KTf8NmHR5cu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5t8LQcx22u43fWLRlrP6jb",
+        "title": "Partido En Dos",
+        "artist": "The La Planta, Daniel Agostini",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028bec261f5b7065e32c4e684f",
+        "url": "https://open.spotify.com/album/5t8LQcx22u43fWLRlrP6jb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jZ0wob2gDlB1NvxORTkbz",
+        "title": "Across the Pond",
+        "artist": "Ghostly Kisses",
+        "type": "album",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292493381884d5983dc0c7862",
+        "url": "https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0F7rpr361pdsoKSsj7Mx9x",
+        "title": "Rosas / A Dónde Fue (Somewhere Only We Know)",
+        "artist": "La Juntada De Los Artistas, Mica Barreto",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286cb665b1b598645688b9bd8",
+        "url": "https://open.spotify.com/album/0F7rpr361pdsoKSsj7Mx9x",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1A8oyeeAFqCeSbtTE96dJx",
+        "title": "Fred De Palma - Summer Hits",
+        "artist": "Fred De Palma",
+        "type": "compilation",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027511fd5f699e16cd11d42e36",
+        "url": "https://open.spotify.com/album/1A8oyeeAFqCeSbtTE96dJx",
+        "total_tracks": 40,
+        "genres": []
+      },
+      {
+        "id": "7LvsKgiK0gNhTg3CTxQXXr",
+        "title": "MANIFEST (ภาวนา)",
+        "artist": "ALIE BLACKCOBRA",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029df262b6d9e49903f63718d0",
+        "url": "https://open.spotify.com/album/7LvsKgiK0gNhTg3CTxQXXr",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5lGVJIcVMOuNcEbK6jbquy",
+        "title": "ÇA C'EST MON LOSSA",
+        "artist": "Genezio",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029556201ce8539a9815259724",
+        "url": "https://open.spotify.com/album/5lGVJIcVMOuNcEbK6jbquy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "54oprxnwgZwhrsFKo0IGdO",
+        "title": "Kiliye Kiliye - Afrobeat Mix (Eclipsa Audio)",
+        "artist": "S. Janaki, The Independeners",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2e9ba5375688a9a0c5c6691",
+        "url": "https://open.spotify.com/album/54oprxnwgZwhrsFKo0IGdO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01qlRnf6IIXGPAVzD6dZPN",
+        "title": "Fenomeno",
+        "artist": "Ezzy R, Song Jhay",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02535252856bffbf2d9d9288b5",
+        "url": "https://open.spotify.com/album/01qlRnf6IIXGPAVzD6dZPN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13oq7iGQByCsubtNm2EQZH",
+        "title": "Faz O Procedimento",
+        "artist": "DJ BOY, Mc Dkziin, MC Vine7, Mc Lekão",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e444e2be6cd7f029724279b",
+        "url": "https://open.spotify.com/album/13oq7iGQByCsubtNm2EQZH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4RyxCYRdLLLKvxMfVUbzgT",
+        "title": "Schaapje schaapje, heb je witte wol?",
+        "artist": "Juf Roos",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5f9c82dd67d801c1cc2878f",
+        "url": "https://open.spotify.com/album/4RyxCYRdLLLKvxMfVUbzgT",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5GuQ6KSDOjRMkdpshmKtyD",
+        "title": "Slaap Liedjes",
+        "artist": "Alles Kids, Kinderliedjes Om Mee Te Zingen, Slaapliedjes Alles Kids",
+        "type": "album",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7aba1cec71585cc7f0ba337",
+        "url": "https://open.spotify.com/album/5GuQ6KSDOjRMkdpshmKtyD",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3PYXrccgRAZZrLBC0hkkPU",
+        "title": "Мигалю",
+        "artist": "QANO",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f32a531bd3df8b5df32e9860",
+        "url": "https://open.spotify.com/album/3PYXrccgRAZZrLBC0hkkPU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4jntlpAqQrzRmhjfUMK4zr",
+        "title": "BLUE CURACAO",
+        "artist": "Hawk",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c6da4655da9bae122abb948",
+        "url": "https://open.spotify.com/album/4jntlpAqQrzRmhjfUMK4zr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6uoPJnJtzaBa5yyDN7y6m3",
+        "title": "ANELIA DELUXE ARCHIVES, PT. 3 (Live)",
+        "artist": "Anelia",
+        "type": "album",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288c40562c2322ccec46ab934",
+        "url": "https://open.spotify.com/album/6uoPJnJtzaBa5yyDN7y6m3",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7hrELUILynI4iuUSmjzkX3",
+        "title": "Het orkest",
+        "artist": "Bumba",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028aba69db91f44534978ffb29",
+        "url": "https://open.spotify.com/album/7hrELUILynI4iuUSmjzkX3",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6tuKDdRG1ufAQHmCtfTxux",
+        "title": "Vasaras ceļos",
+        "artist": "Jānis Moisejs, Vokālā grupa \"Putnu dārzs\"",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255432cd24d0c1712af4476dc",
+        "url": "https://open.spotify.com/album/6tuKDdRG1ufAQHmCtfTxux",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wCkZxF3hgAfoMlKCUoG45",
+        "title": "Margrietiņa",
+        "artist": "PĖRLE",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da6f1ab71f280aae21637e0c",
+        "url": "https://open.spotify.com/album/6wCkZxF3hgAfoMlKCUoG45",
         "total_tracks": 1,
         "genres": []
       }
