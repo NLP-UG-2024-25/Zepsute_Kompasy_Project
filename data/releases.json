@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-12T07:22:50.498Z",
-  "total": 2730,
+  "fetched_at": "2026-08-13T07:25:06.938Z",
+  "total": 2760,
   "by_date": {
     "2026-05-15": [
       {
@@ -29955,6 +29955,28 @@
         "url": "https://open.spotify.com/album/0KKU0vZJAAPRxJ2Y0ANJxI",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5K1voHwG5I3ybwWtk0ls2L",
+        "title": "This & That (That Remixes)",
+        "artist": "Stray Kids",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248effc4a7a518e1a94377f1c",
+        "url": "https://open.spotify.com/album/5K1voHwG5I3ybwWtk0ls2L",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4HG87cDhXhM5DwghimCbmy",
+        "title": "Janmam Nalkiya Nadinuvendi",
+        "artist": "K. J. Yesudas",
+        "type": "single",
+        "release_date": "2026-08-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b26421f01e5f00ff84f3dec",
+        "url": "https://open.spotify.com/album/4HG87cDhXhM5DwghimCbmy",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-12": [
@@ -30197,6 +30219,316 @@
         "release_date": "2026-08-12",
         "image": "https://i.scdn.co/image/ab67616d00001e02da6f1ab71f280aae21637e0c",
         "url": "https://open.spotify.com/album/6wCkZxF3hgAfoMlKCUoG45",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DpCVfdtF5alKkKMKLCG8V",
+        "title": "me asfixia LA CIUDAD",
+        "artist": "Paulo Londra",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb7fad7d6c34fa1de9aa8598",
+        "url": "https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02tGyoGJrqa02D3OIAFG4c",
+        "title": "Sam Smith - Spotify Live Room",
+        "artist": "Sam Smith",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279b8ac72b7eea480d1dec537",
+        "url": "https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5Lx68EmFKrQKNHj9Kkkgcb",
+        "title": "Cuanto",
+        "artist": "Donaty",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023416a116ff2681de5f7eaeae",
+        "url": "https://open.spotify.com/album/5Lx68EmFKrQKNHj9Kkkgcb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02XtoOnK9btJCcMgVpk11Z",
+        "title": "Robotboy",
+        "artist": "Yung Lean",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02217c05e0d1a84204306f34c6",
+        "url": "https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QXBeYfIJwESRTbgIrSdoa",
+        "title": "Fanny Pack",
+        "artist": "Juhn, Luar La L",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e026aed350462cbb3b61feeba9a",
+        "url": "https://open.spotify.com/album/6QXBeYfIJwESRTbgIrSdoa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5AsjQL9ljC412GUxmhV4CR",
+        "title": "Tameni Aal Habayeb",
+        "artist": "George Wassouf",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcb151308bb41c1bb31533d0",
+        "url": "https://open.spotify.com/album/5AsjQL9ljC412GUxmhV4CR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RkucYuabaDBHDib5JgYbc",
+        "title": "Five Minutes With God",
+        "artist": "Fiji, Nomad",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029510981da8d083122dc75f28",
+        "url": "https://open.spotify.com/album/5RkucYuabaDBHDib5JgYbc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EmRlpucBjK4cok64C3A73",
+        "title": "Rebola e Tal",
+        "artist": "Boladin 211, DJ DREY",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02651df31366bd920e65861eab",
+        "url": "https://open.spotify.com/album/1EmRlpucBjK4cok64C3A73",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3fbiInrJN3oDkFHqOqrBQV",
+        "title": "7AQIBA",
+        "artist": "Afroto",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02006042aa753e19ad7aa5271b",
+        "url": "https://open.spotify.com/album/3fbiInrJN3oDkFHqOqrBQV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5gYZ5RbAYv3N6Xrdf9NQOs",
+        "title": "Khalifa (Original Motion Picture Soundtrack)",
+        "artist": "Jakes Bejoy",
+        "type": "album",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025098e07a0f458f8bdc7152ca",
+        "url": "https://open.spotify.com/album/5gYZ5RbAYv3N6Xrdf9NQOs",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4i3w8s0buplk3oljPT0IHq",
+        "title": "WEHYAT 3YONO",
+        "artist": "ZIAD ZAZA, Zeina",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b62b8edcebfbafb5675e9b4",
+        "url": "https://open.spotify.com/album/4i3w8s0buplk3oljPT0IHq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5IYgBLwxT2RDGvpRffyjiD",
+        "title": "Run Run! (From \"America America 2\")",
+        "artist": "Shankar Mahadevan, Shreya Ghoshal, Mano Murthy",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af382c35e311ed9710421553",
+        "url": "https://open.spotify.com/album/5IYgBLwxT2RDGvpRffyjiD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13Y85LdSyH5XtzSwqiCjkg",
+        "title": "Naam Na Jana (From \"Keu Bole Biplobi, Keu bole Dakat\")",
+        "artist": "Shreya Ghoshal, Shantanu Moitra, Barish",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02416f37b2e5c37c7d080817c7",
+        "url": "https://open.spotify.com/album/13Y85LdSyH5XtzSwqiCjkg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48IRHg31PDKj6r0rkniPYm",
+        "title": "Go, Go!",
+        "artist": "M.C the Max",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e24cc1060130fa6ba3a47e5",
+        "url": "https://open.spotify.com/album/48IRHg31PDKj6r0rkniPYm",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6BWhjk7HLsHaVdG9vGsDOO",
+        "title": "RỰC RỠ (Theme Song From \"Nghỉ Hè Sợ Nghỉ Hưu\")",
+        "artist": "CODYNAMVO, 17 PRODUCTION",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0d6ea93a65dea7a2c5c9fde",
+        "url": "https://open.spotify.com/album/6BWhjk7HLsHaVdG9vGsDOO",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-13": [
+      {
+        "id": "4l7vIfTp8YGRH0DDRdSfLv",
+        "title": "Por Eso Te Quiero, Teletón",
+        "artist": "Banda El Recodo, Teletón México",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d584515dc58fdb697769e627",
+        "url": "https://open.spotify.com/album/4l7vIfTp8YGRH0DDRdSfLv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4zC8NSzZJ6VTMj74A5WLuu",
+        "title": "Estoy Pa' Ti",
+        "artist": "Brytiago",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255952199337ba567182f1f1b",
+        "url": "https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5eTYBGecA9ecqpvuIV1FVH",
+        "title": "Nos vai ficar, sem se sufocar",
+        "artist": "Mc Lele JP, Dj Andrabeat, Pêpa Beatmaker",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bafae5c99c5ef8210611ca83",
+        "url": "https://open.spotify.com/album/5eTYBGecA9ecqpvuIV1FVH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6VwiR2NrHWfMieaYPOmmdL",
+        "title": "Meu Prazer (Ao Vivo)",
+        "artist": "Felipe Rodrigues",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02653a17bd46ff4c717b491cbf",
+        "url": "https://open.spotify.com/album/6VwiR2NrHWfMieaYPOmmdL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pD7bu0pnbeIahhVZ4j5Mr",
+        "title": "Fazendo A Minha",
+        "artist": "Kako, DJ BOY",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02337cda4f340da9b24f355800",
+        "url": "https://open.spotify.com/album/1pD7bu0pnbeIahhVZ4j5Mr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4UOa2v1xkSYxk9Fu9hmNfG",
+        "title": "Live & Learn (Chilled House Version)",
+        "artist": "Boyd Kosiyabong",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02195331346c64aa6b14210102",
+        "url": "https://open.spotify.com/album/4UOa2v1xkSYxk9Fu9hmNfG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3F8MNX7L05p9DxGmidHF3W",
+        "title": "Eskortki",
+        "artist": "Sequento, Maka, Pancio",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e021655a41a6b03b2e34d3d541a",
+        "url": "https://open.spotify.com/album/3F8MNX7L05p9DxGmidHF3W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "59uaYMoGcUPKqxbugOYG01",
+        "title": "Mundo Moderno",
+        "artist": "MC Cebezinho, DJ Hyago, MUC4, Love Funk",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d8b28dd11a07d57f4d48b60",
+        "url": "https://open.spotify.com/album/59uaYMoGcUPKqxbugOYG01",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7M3eML8GKtFv3Q8pWca870",
+        "title": "ALEMANIA",
+        "artist": "Sentino, BNP, Schwesta Ewa",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029528aecf1ab634a4b239d621",
+        "url": "https://open.spotify.com/album/7M3eML8GKtFv3Q8pWca870",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1gaAWhnMVydvFe302mydYI",
+        "title": "Live Session",
+        "artist": "Season Five",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f38573f126eb85d894b12866",
+        "url": "https://open.spotify.com/album/1gaAWhnMVydvFe302mydYI",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4HSRht1yY9yUNojxAazZVy",
+        "title": "Cinta Diri Sendiri",
+        "artist": "Budi Doremi",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0272389efed8dd953642ea7417",
+        "url": "https://open.spotify.com/album/4HSRht1yY9yUNojxAazZVy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vplQgAYc01bPdgzJqPH2s",
+        "title": "Ahí Ahí",
+        "artist": "Juancho De La Espriella, Los de Juancho",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029811fb8e5d0adbd3537b8b20",
+        "url": "https://open.spotify.com/album/6vplQgAYc01bPdgzJqPH2s",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "61MNkYY2N4F8Lv1Piu6ROc",
+        "title": "ארץ נהדרת",
+        "artist": "Bar Tzabary",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dd261fd09283d8bcf20ef34",
+        "url": "https://open.spotify.com/album/61MNkYY2N4F8Lv1Piu6ROc",
         "total_tracks": 1,
         "genres": []
       }
