@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-13T07:25:06.938Z",
-  "total": 2760,
+  "fetched_at": "2026-08-14T07:22:26.108Z",
+  "total": 2811,
   "by_date": {
     "2026-05-15": [
       {
@@ -26503,6 +26503,17 @@
         "url": "https://open.spotify.com/album/3APJKZPOlV6OTFBSoMDZwp",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7yDAG5V0zs4rnrnuuHOuAW",
+        "title": "Если не любовь (DVINA BEATS remix)",
+        "artist": "man_on_line_68",
+        "type": "single",
+        "release_date": "2026-08-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f84d97eb0410f63ccc0cb8cf",
+        "url": "https://open.spotify.com/album/7yDAG5V0zs4rnrnuuHOuAW",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-02": [
@@ -30386,6 +30397,28 @@
         "url": "https://open.spotify.com/album/6BWhjk7HLsHaVdG9vGsDOO",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4PakWlB9cr29WRkfwxVCrb",
+        "title": "Alaakaa Loova Unplugged (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+        "artist": "Sai Abhyankkar, Rokesh",
+        "type": "single",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca2efa994564dc3df504b40c",
+        "url": "https://open.spotify.com/album/4PakWlB9cr29WRkfwxVCrb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GrWszaiEMT6ueCTzjPmZs",
+        "title": "Heartbeats Bollywood",
+        "artist": "Sachin-Jigar, Arijit Singh, Jyotica Tangri, Akhil Sachdeva",
+        "type": "compilation",
+        "release_date": "2026-08-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e0072ecd50ed02841a9625f",
+        "url": "https://open.spotify.com/album/0GrWszaiEMT6ueCTzjPmZs",
+        "total_tracks": 10,
+        "genres": []
       }
     ],
     "2026-08-13": [
@@ -30529,6 +30562,536 @@
         "release_date": "2026-08-13",
         "image": "https://i.scdn.co/image/ab67616d00001e029dd261fd09283d8bcf20ef34",
         "url": "https://open.spotify.com/album/61MNkYY2N4F8Lv1Piu6ROc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1KoUyx6tosCXD7qidBRXae",
+        "title": "La Cherokee",
+        "artist": "Natanael Cano, Gabito Ballesteros",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258279f1d0b0ae917de242291",
+        "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZsqkEcR7NVtW65rRDTQoO",
+        "title": "Verschwommen",
+        "artist": "Ski Aggu",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207db0d5eff2936e95ae8eb9c",
+        "url": "https://open.spotify.com/album/2ZsqkEcR7NVtW65rRDTQoO",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2SzRs9nHryc8OE4NcjsjY7",
+        "title": "「最好的地方II」演唱會主題曲",
+        "artist": "Leehom Wang",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5ee3363e5898efb10aa2869",
+        "url": "https://open.spotify.com/album/2SzRs9nHryc8OE4NcjsjY7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79sjPi90kBaLgE9Hyv1vzg",
+        "title": "El Ba7r El Shamaly",
+        "artist": "Mahmoud El Esseily, Aly Fathalla, HEIDI",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a66ef39c475e459f5a346bfa",
+        "url": "https://open.spotify.com/album/79sjPi90kBaLgE9Hyv1vzg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4GXzgF5llx2GbPLZjTP1Ge",
+        "title": "STUCK!",
+        "artist": "pH-1",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d7cae8fbdfe9fe24686a93f7",
+        "url": "https://open.spotify.com/album/4GXzgF5llx2GbPLZjTP1Ge",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3g0J73UzqE9DmNVqbJ0p9a",
+        "title": "DJ",
+        "artist": "Frenna, 3DDY",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da1f327e96eaec5f14baea94",
+        "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5KXp5Jd5WZCyB7xNxRMbu7",
+        "title": "BAD TIMES MSSNGRS EXTENDED CLUB MIX",
+        "artist": "Imael Angel",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e020501fbfe513d2a4d4dd4ff4e",
+        "url": "https://open.spotify.com/album/5KXp5Jd5WZCyB7xNxRMbu7",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-14": [
+      {
+        "id": "2d0AkZUJV30oIOJAeEyzC6",
+        "title": "WILD",
+        "artist": "KATSEYE",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025631546bdc010851494d88ba",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6J0O8voti0gyJo8qZY05mH",
+        "title": "Dot Dot Dot",
+        "artist": "Natasha Bedingfield",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da84c8d6c0bc675cf9816347",
+        "url": "https://open.spotify.com/album/6J0O8voti0gyJo8qZY05mH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7dshKDUxacZlgqJp0x1eNh",
+        "title": "Jeremih: Say Oui",
+        "artist": "Jeremih",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026a42bc4a8d3f89b52e287645",
+        "url": "https://open.spotify.com/album/7dshKDUxacZlgqJp0x1eNh",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "0cY57f2PZcmGaJ2KOYP7NC",
+        "title": "The User's Guide to Being Human",
+        "artist": "The Script",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb7932642e62f815d8e5ed4d",
+        "url": "https://open.spotify.com/album/0cY57f2PZcmGaJ2KOYP7NC",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2NSzwyYvQvdOQAoEjrlw9c",
+        "title": "Lost Weekend",
+        "artist": "Phoebe Bridgers",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225a647ace83ba32770ab5d0f",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "2aYx5bILXACvHEaUXFJkc7",
+        "title": "La Cheyenne (Remix)",
+        "artist": "El De Las R's, Yng Lvcas",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a49da73ca49664f476440c9",
+        "url": "https://open.spotify.com/album/2aYx5bILXACvHEaUXFJkc7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6L4SxtZZYtbp7uLYz37guc",
+        "title": "Lift Me Up",
+        "artist": "Skillet",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02088f396b1251a88eb336323c",
+        "url": "https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "68cC5stW1SQBptOMnywDbs",
+        "title": "Katy Bar the Door / Living Undercover",
+        "artist": "Rise Against",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d77d8a88a067e1f5aba41d5",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7MwgfDkiNM51w3v3gf145j",
+        "title": "Ponte Bonita",
+        "artist": "LOS DOS DE TAMAULIPAS, Clave Especial",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f083000ca813823d0665fcac",
+        "url": "https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1amxeKLCkKqHmSLOGGs6Wr",
+        "title": "Walking On A Dream (Reimagined)",
+        "artist": "Empire Of The Sun",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d87e2daee030df976291f795",
+        "url": "https://open.spotify.com/album/1amxeKLCkKqHmSLOGGs6Wr",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "5aglfekM0ZJCRb83xKQ2Re",
+        "title": "Qué Andas Haciendo",
+        "artist": "Carín León, Ke Personajes",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025475b7859617e6876d88ca0b",
+        "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2trA95Z02RNetnEYpheGlt",
+        "title": "En Vivo Desde El Estadio GNP",
+        "artist": "Grupo Firme",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b72f1cc59a924af0d0ab93eb",
+        "url": "https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3m2EjQxk9IRrrrlae3MjJj",
+        "title": "Tomorrow Never Knows (Outtake)",
+        "artist": "Phil Collins",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026efcd4baa25605c701f24ae5",
+        "url": "https://open.spotify.com/album/3m2EjQxk9IRrrrlae3MjJj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1B8QJFOcpBeycykDaWttDY",
+        "title": "BARAJA BENDITA",
+        "artist": "Becky G",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e020af5edf88b6f19f1205ecf1e",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "3VSPApAscAKQvMYgdGBzJK",
+        "title": "Cero Miedo",
+        "artist": "Grupo Marca Registrada",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e029453fdca6130cf7ee0a404dc",
+        "url": "https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34RSKUCy1a3HdbInB9fZFB",
+        "title": "Good Times",
+        "artist": "Lukas Graham",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e2ffc4178d0bf19350317b8",
+        "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "2dLD8W5hQ5XNagwy212lH2",
+        "title": "One Assassination Under God - Chapter 2",
+        "artist": "Marilyn Manson",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7ff9b0a24626affdcc1dcaf",
+        "url": "https://open.spotify.com/album/2dLD8W5hQ5XNagwy212lH2",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "6YqKAzbFOYIzT9YOXIR7Sd",
+        "title": "Para Ti Nuestra Historia (Vol. 2)",
+        "artist": "Cardenales De Nuevo León",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218445b2bf9616284a6183d72",
+        "url": "https://open.spotify.com/album/6YqKAzbFOYIzT9YOXIR7Sd",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3EiskK3w8yBIIiqncC8jV7",
+        "title": "D Vn Plomazo (Remix)",
+        "artist": "Hades66, 26is, Louis Producer",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae06b5e5358252418928e46f",
+        "url": "https://open.spotify.com/album/3EiskK3w8yBIIiqncC8jV7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jLVDlQGAhXz7OZSyS8C1W",
+        "title": "Other Dimension",
+        "artist": "Anyma, Volkoder",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02509c22db83c1b2ce958a6785",
+        "url": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2v2jnLryCxrIfs41virTsj",
+        "title": "Einaudi: Flora (Arr. for Harp by Danielle Riegel)",
+        "artist": "Ludovico Einaudi, Danielle Riegel",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a21b45504f5e614001ac08a3",
+        "url": "https://open.spotify.com/album/2v2jnLryCxrIfs41virTsj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4h6tmjBOUtmMaULZOeKDK7",
+        "title": "Natural Blues (TECIE)",
+        "artist": "Moby, Jacob Lusk, BLOND:ISH, Kiko Franco",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7ff68ee45cfd8094b5877ed",
+        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4rZS12vxBAD9mOvuVwnUJD",
+        "title": "Jelly On A Plate",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bef95f61f7cb98a7af6e2d5f",
+        "url": "https://open.spotify.com/album/4rZS12vxBAD9mOvuVwnUJD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4LLlQtvQNtrVM7sMRLrSGi",
+        "title": "For The Boys",
+        "artist": "Kingfishr",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b74ae6e52441282e4ca5b29",
+        "url": "https://open.spotify.com/album/4LLlQtvQNtrVM7sMRLrSGi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OfSt9oA1KHSCDQFn9GN9Y",
+        "title": "Last Rites",
+        "artist": "Amble",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022143cf034b7c112df898f1c7",
+        "url": "https://open.spotify.com/album/0OfSt9oA1KHSCDQFn9GN9Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50Dwqrslqw8tIb2IsQb1I1",
+        "title": "SHOULD I CALL?",
+        "artist": "Palm Monkey, DALEXO, Dan Hammond, Tom Polo",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d915c30a16ea191a469671e",
+        "url": "https://open.spotify.com/album/50Dwqrslqw8tIb2IsQb1I1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4mKJqk3KewFenP35YHmjPw",
+        "title": "8D Memory Trace Dynamics",
+        "artist": "Brain Floss",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c1459d62ef42136ea43c6cc",
+        "url": "https://open.spotify.com/album/4mKJqk3KewFenP35YHmjPw",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "78x7kwNhr4mlt5xUFE4UFz",
+        "title": "Bahut Khubsoorat Ho",
+        "artist": "Mithoon, Arijit Singh",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02711ac7e0ebad9f1ccf16bbeb",
+        "url": "https://open.spotify.com/album/78x7kwNhr4mlt5xUFE4UFz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Kmepe8BIgqaega0xj2EVO",
+        "title": "Monopoly Man",
+        "artist": "AFROJACK",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c942b4b8b6b429b0c483c5d0",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1iSeB8yexvX6qukP1I3Vvh",
+        "title": "bonfire (booty bounce)",
+        "artist": "felix jaehn, ALMA",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e020829d90445e562916045cbc2",
+        "url": "https://open.spotify.com/album/1iSeB8yexvX6qukP1I3Vvh",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "47UJFaFsvclmVI5eO4duWo",
+        "title": "acostumando",
+        "artist": "DJ Javi26",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9e91faeacaf72115b21c64e",
+        "url": "https://open.spotify.com/album/47UJFaFsvclmVI5eO4duWo",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3KbHerZoJsZgUQUmPmA1t8",
+        "title": "Lunar Snow",
+        "artist": "NBSPLV",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285abda22db8bdba5d9c17a35",
+        "url": "https://open.spotify.com/album/3KbHerZoJsZgUQUmPmA1t8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6KaoRDGh6iAMXdxLol1YYH",
+        "title": "Zelle",
+        "artist": "Vybz Kartel, Fixaveli",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022177ca9ea016ea667f374cee",
+        "url": "https://open.spotify.com/album/6KaoRDGh6iAMXdxLol1YYH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pJKuilwPcS2Mrh5nj0aHZ",
+        "title": "Nazara - Vishal Mishra Vocals Only",
+        "artist": "Vishal Mishra",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287c64b251ac6c0759ee72f4e",
+        "url": "https://open.spotify.com/album/1pJKuilwPcS2Mrh5nj0aHZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41CxI0cDFQdDNevAyAMngF",
+        "title": "тупая сука",
+        "artist": "lightprey",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6d94964d1711a322358d5e5",
+        "url": "https://open.spotify.com/album/41CxI0cDFQdDNevAyAMngF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5cN7VC4h7p2bGmAuAlnb7p",
+        "title": "Little Angel",
+        "artist": "onokami",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028eaf9c142ae934941e9f2f7f",
+        "url": "https://open.spotify.com/album/5cN7VC4h7p2bGmAuAlnb7p",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3QQK6y8BeM20qZuaIr9Doj",
+        "title": "The Old Railway",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025835cca4d3684f91931ed028",
+        "url": "https://open.spotify.com/album/3QQK6y8BeM20qZuaIr9Doj",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "52PPYiG3UTlJpSNia9JZyq",
+        "title": "LALAGPAS",
+        "artist": "archangel",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c327caa11d088db01e4b39c8",
+        "url": "https://open.spotify.com/album/52PPYiG3UTlJpSNia9JZyq",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "1aTg4M6tZrIO3QKLVXM1gj",
+        "title": "Kingshadow 2000 (Still Standing)",
+        "artist": "Kingshadow",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e99ee886c11304a198f0e486",
+        "url": "https://open.spotify.com/album/1aTg4M6tZrIO3QKLVXM1gj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2eZMDTbtgXQlxNEYhOvLcl",
+        "title": "Stung but Still Standing",
+        "artist": "Kingshadow",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224bb80a92d2ee09a9f680ce0",
+        "url": "https://open.spotify.com/album/2eZMDTbtgXQlxNEYhOvLcl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5baqChnh2BIj52L2vbOd3T",
+        "title": "House on the Rock (Her Version)",
+        "artist": "Kingshadow",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266a7e798cc0b0315d7bee4c8",
+        "url": "https://open.spotify.com/album/5baqChnh2BIj52L2vbOd3T",
         "total_tracks": 1,
         "genres": []
       }
