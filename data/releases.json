@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-14T07:22:26.108Z",
-  "total": 2811,
+  "fetched_at": "2026-08-15T06:35:50.633Z",
+  "total": 2824,
   "by_date": {
     "2026-05-15": [
       {
@@ -30641,6 +30641,39 @@
         "url": "https://open.spotify.com/album/5KXp5Jd5WZCyB7xNxRMbu7",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0opXTeDZShv3Si2I2XWJsi",
+        "title": "Renacer",
+        "artist": "Edgardo Nuñez",
+        "type": "album",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a004320437abb2759f17b760",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4UrOmsEbfdkcdmLmzpmHsp",
+        "title": "Ese Peñon",
+        "artist": "Rochy RD",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b2078b10aa65304ca8e4bcf",
+        "url": "https://open.spotify.com/album/4UrOmsEbfdkcdmLmzpmHsp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QIwV37yURJkdZg5dm9pCL",
+        "title": "É Ruim Ver Os Outros Vivendo (Ex É Ex)",
+        "artist": "Mc Jacaré, Mc IG, MC Tuto",
+        "type": "single",
+        "release_date": "2026-08-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02140cfe115eace6a5290bd641",
+        "url": "https://open.spotify.com/album/6QIwV37yURJkdZg5dm9pCL",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-14": [
@@ -31092,6 +31125,118 @@
         "release_date": "2026-08-14",
         "image": "https://i.scdn.co/image/ab67616d00001e0266a7e798cc0b0315d7bee4c8",
         "url": "https://open.spotify.com/album/5baqChnh2BIj52L2vbOd3T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50AYDE2EHtdousV5nZ4S17",
+        "title": "Pain is the Heart of Love",
+        "artist": "Alex G",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af96e01c5fffd8c2183df057",
+        "url": "https://open.spotify.com/album/50AYDE2EHtdousV5nZ4S17",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hyjCpbJz8IQAvIU13xbiL",
+        "title": "Donde Hubo Fuego Cenizas Quedan",
+        "artist": "Anuel AA",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7e1e401bfc22ce7839fa800",
+        "url": "https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4geb7MWezHnJEZJDsTMnvP",
+        "title": "Tuwi Tuwi (Rmx)",
+        "artist": "Jey One, Donaty, Dani Masi",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026323cd84ad55d400e2ea131a",
+        "url": "https://open.spotify.com/album/4geb7MWezHnJEZJDsTMnvP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3dqM86ds9jPhODJFP27ADV",
+        "title": "Private Chef (featuring MC Morena)",
+        "artist": "Ruger, Mc Morena",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d7f420d5c09971c1ad37ab80",
+        "url": "https://open.spotify.com/album/3dqM86ds9jPhODJFP27ADV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1W5Rf5GWApgwvQzPbsKwm5",
+        "title": "Independence Day Mashup",
+        "artist": "Pritam, Amit Trivedi, VDJ Fly, Goldie Khristi",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022951e3bc10ace04014e25c15",
+        "url": "https://open.spotify.com/album/1W5Rf5GWApgwvQzPbsKwm5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37Cr7YrTrdsgqP9Z11Ae1Y",
+        "title": "Буду всегда с тобой",
+        "artist": "Basta, AMCHI",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02303292063c9f120d6e5230e0",
+        "url": "https://open.spotify.com/album/37Cr7YrTrdsgqP9Z11Ae1Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3RVconbFm940ATIgqLC4sd",
+        "title": "Batwara 1947 (Original Motion Picture Soundtrack)",
+        "artist": "A.R. Rahman, Javed Akhtar",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b9a1aa87baa8ff58ed9c8388",
+        "url": "https://open.spotify.com/album/3RVconbFm940ATIgqLC4sd",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "76ThthchnyANx9FJUhFkPX",
+        "title": "CHAMPION SOUND",
+        "artist": "Endspiel, TumaniYO",
+        "type": "album",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcfefb5d5298be1dce47c0e5",
+        "url": "https://open.spotify.com/album/76ThthchnyANx9FJUhFkPX",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1OZgmXIuH7zYmJBxzJ1dra",
+        "title": "CALM DOWN",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-08-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269c24579fdbb0b2e42cbbac6",
+        "url": "https://open.spotify.com/album/1OZgmXIuH7zYmJBxzJ1dra",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-15": [
+      {
+        "id": "37u5p7k2tQp4p2XjmOunWE",
+        "title": "Sin Temor (En Vivo)",
+        "artist": "Raulin Rodriguez",
+        "type": "single",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c4fe671bc5ea44839f1c81f",
+        "url": "https://open.spotify.com/album/37u5p7k2tQp4p2XjmOunWE",
         "total_tracks": 1,
         "genres": []
       }
