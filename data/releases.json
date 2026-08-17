@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-16T06:38:01.673Z",
-  "total": 2866,
+  "fetched_at": "2026-08-17T06:52:47.317Z",
+  "total": 2897,
   "by_date": {
     "2026-05-15": [
       {
@@ -28891,6 +28891,28 @@
         "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy",
         "total_tracks": 8,
         "genres": []
+      },
+      {
+        "id": "5bSBopVXXVyJlVCL5Lv7LI",
+        "title": "All Eyes on Shiest",
+        "artist": "Pooh Shiesty",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bfa7efeb2685f73675cade4",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "7t1WO4ZSi2mDzvYWFPBfka",
+        "title": "Jaded (feat. Ella Langley)",
+        "artist": "Koe Wetzel, Ella Langley",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adc10aa4274224af9a0e76c6",
+        "url": "https://open.spotify.com/album/7t1WO4ZSi2mDzvYWFPBfka",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-08": [
@@ -31602,6 +31624,72 @@
         "url": "https://open.spotify.com/album/4Zhz3W9VGh0cyfbVbq4ES4",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "39eWes8OoQRLSYhDp79DdC",
+        "title": "На пожар",
+        "artist": "Galin, KSIOR",
+        "type": "single",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260d04c298701e239642c63d1",
+        "url": "https://open.spotify.com/album/39eWes8OoQRLSYhDp79DdC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WXR4bCBbb3YAjcmkkZ62V",
+        "title": "Gulaabo Club Mix",
+        "artist": "Amit Trivedi, Vishal Dadlani, Dj Raahul Pai, Sanju Purohit",
+        "type": "single",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de9a77f1bdefb1e6fb234700",
+        "url": "https://open.spotify.com/album/1WXR4bCBbb3YAjcmkkZ62V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5oB6JpoxEywMn2Gukbkpc8",
+        "title": "Não Manda Toma no C#",
+        "artist": "CACAU CHUU, MC Luana SP, Konddrake",
+        "type": "single",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275896114ad3cfe9533454890",
+        "url": "https://open.spotify.com/album/5oB6JpoxEywMn2Gukbkpc8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "758Srnj0cN9iZFbbtvUKXG",
+        "title": "Ēnas uz planētu sienām",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230a3ce767c4db799f05b33be",
+        "url": "https://open.spotify.com/album/758Srnj0cN9iZFbbtvUKXG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2H3L27inhyJm0xZIOw7Oan",
+        "title": "Marci Brijuzi 2004",
+        "artist": "Soc. Filar. Maria Mater Gratiæ Żabbar AD 1883",
+        "type": "album",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af7d5b4ada3058a064176d3",
+        "url": "https://open.spotify.com/album/2H3L27inhyJm0xZIOw7Oan",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "01WESp3au0CkABJkMRnMbo",
+        "title": "Marci Brijuzi 2012",
+        "artist": "Soc. Filar. Maria Mater Gratiæ Żabbar AD 1883",
+        "type": "album",
+        "release_date": "2026-08-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238e373fe63e9ba48d3dc77bc",
+        "url": "https://open.spotify.com/album/01WESp3au0CkABJkMRnMbo",
+        "total_tracks": 8,
+        "genres": []
       }
     ],
     "2026-08-16": [
@@ -31701,6 +31789,261 @@
         "release_date": "2026-08-16",
         "image": "https://i.scdn.co/image/ab67616d00001e028d8ec21867062605a190c6c3",
         "url": "https://open.spotify.com/album/3GSETPVRBZ2g2ljsFqP5VL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "78Izh4YH1rf7dgYko5ZegJ",
+        "title": "Nava Suit",
+        "artist": "Neha Kakkar, Rohanpreet Singh",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276dad962a3ac9aa0b85e44b3",
+        "url": "https://open.spotify.com/album/78Izh4YH1rf7dgYko5ZegJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zWqyu7P02AZnAtvKKYWlR",
+        "title": "I Got Your Back (Korean Ver.)",
+        "artist": "ILLIT, HANA",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d406bcfa8a6f9adbee2554a",
+        "url": "https://open.spotify.com/album/5zWqyu7P02AZnAtvKKYWlR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7JtNCroStG20fvqj1pHSUM",
+        "title": "Still Missing You",
+        "artist": "Punch",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e020dce83f4284997dafa0f2017",
+        "url": "https://open.spotify.com/album/7JtNCroStG20fvqj1pHSUM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5iOSz0XYAtXGo83TZhZuRw",
+        "title": "عارف عارف ليه بيكرف ( مفيش طيارة بتعدي )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0210dd9477963445ec90f21ead",
+        "url": "https://open.spotify.com/album/5iOSz0XYAtXGo83TZhZuRw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1qa6PpCZqOV4Fge1QL3OoY",
+        "title": "セツナハナビ (Setsuna Hanabi)",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d966ebebd0eeebc68e1545ef",
+        "url": "https://open.spotify.com/album/1qa6PpCZqOV4Fge1QL3OoY",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5YIhbaABIePjaJO4CPogiz",
+        "title": "Uyi Amma Remix",
+        "artist": "Amit Trivedi, Madhubanti Bagchi, Dj Raahul Pai, Sanju Purohit",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ebbe11d9fe8587483f3419c9",
+        "url": "https://open.spotify.com/album/5YIhbaABIePjaJO4CPogiz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7rgE5tR57pQtngYIzL1axF",
+        "title": "Embrazada Pelada",
+        "artist": "CACAU CHUU, Mc Vert7, Mc Lobo Do Recife",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227947f7e8a8aa174b6e2c863",
+        "url": "https://open.spotify.com/album/7rgE5tR57pQtngYIzL1axF",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-17": [
+      {
+        "id": "60TJIE59hiM4fMvmnwFKdq",
+        "title": "Panamera",
+        "artist": "Dhanda Nyoliwala, Romeoz",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce21d58869641c27017a1a57",
+        "url": "https://open.spotify.com/album/60TJIE59hiM4fMvmnwFKdq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "648Jb5O4tzU3cWCmVDofM6",
+        "title": "DON'T HUG ME, I'M SCARED",
+        "artist": "Credo V Daniels",
+        "type": "album",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd74a21bd7486357e5a14f11",
+        "url": "https://open.spotify.com/album/648Jb5O4tzU3cWCmVDofM6",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "47aXAOxiP01Y1jR0SCgxeT",
+        "title": "Ride Slow",
+        "artist": "Al James",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223c41cfde2aeed872d1839ed",
+        "url": "https://open.spotify.com/album/47aXAOxiP01Y1jR0SCgxeT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5To3OpktDwrSi9VIqpQ6sZ",
+        "title": "Laapata",
+        "artist": "Bir, Daaku, Kunwarr",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211b81920c42764e43552d421",
+        "url": "https://open.spotify.com/album/5To3OpktDwrSi9VIqpQ6sZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qAf6r5tUzxFwbJcrkV2lX",
+        "title": "Baybayin",
+        "artist": "Ben&Ben",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02500de4fe3e9ccfc7fe02aafd",
+        "url": "https://open.spotify.com/album/5qAf6r5tUzxFwbJcrkV2lX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0pQKak97n5W8ZlyW2TnyU4",
+        "title": "逆風 （傳說對決 GCS 2026 主題曲）",
+        "artist": "玖壹壹",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02836e6c10aeff38009e2ba608",
+        "url": "https://open.spotify.com/album/0pQKak97n5W8ZlyW2TnyU4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1CVIQt0AYiwwwkXRvsWu7S",
+        "title": "AI / IA, vamos conversar?",
+        "artist": "Bárbara Tinoco, Carlão",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02502e9e39b9d108a79655db64",
+        "url": "https://open.spotify.com/album/1CVIQt0AYiwwwkXRvsWu7S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YoFOhdY71AccIHwsMm80E",
+        "title": "Солнце вернётся",
+        "artist": "COMEDOZ",
+        "type": "album",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adc11efdfd0238942bb38895",
+        "url": "https://open.spotify.com/album/3YoFOhdY71AccIHwsMm80E",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2nCLIQsYQReI2jw7a5NC4z",
+        "title": "40 de muzicanti (Live)",
+        "artist": "Tzanca Uraganu, Toni de la Brasov",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026126ecd374ff464c4f0dd15d",
+        "url": "https://open.spotify.com/album/2nCLIQsYQReI2jw7a5NC4z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1wxwmkhbc5JWkYq2tIyhSn",
+        "title": "Beh Ja Mahi (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4f3f9091d42bd15a075f86b",
+        "url": "https://open.spotify.com/album/1wxwmkhbc5JWkYq2tIyhSn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0KRHOGl26Mx9UvS1wYep1p",
+        "title": "NAZDRAVE",
+        "artist": "Emil TRF, Garjoka, MOMO RECORDS",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02addabeebed2bd10f973721d0",
+        "url": "https://open.spotify.com/album/0KRHOGl26Mx9UvS1wYep1p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4MrK9UhbOkJ4Nu8kzdSxys",
+        "title": "До талого",
+        "artist": "Kolibri",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b22939a30167275fb8938e43",
+        "url": "https://open.spotify.com/album/4MrK9UhbOkJ4Nu8kzdSxys",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kxTYggIkhfGgLcdzAw1Jl",
+        "title": "Papa Khojihe Laika (Remix)",
+        "artist": "Shilpi Raj, Sunil Yadav Golu, Jammy Weirdo",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a05dba3f1fa3005fe102e864",
+        "url": "https://open.spotify.com/album/5kxTYggIkhfGgLcdzAw1Jl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GQGdGES6xOQM3WI8eLVj8",
+        "title": "ولفوها البنا",
+        "artist": "Cheb Mustapha",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f0c13c294d211b21ba01651",
+        "url": "https://open.spotify.com/album/1GQGdGES6xOQM3WI8eLVj8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VROuNrr7FUBj070kni1OT",
+        "title": "Nỗi Đau Tận Cùng (Remix)",
+        "artist": "Quốc Thiên, Sáng SG",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269201fc90e6cff81c4f7fca4",
+        "url": "https://open.spotify.com/album/1VROuNrr7FUBj070kni1OT",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6PME6cVnUOYJubRSyq5x6L",
+        "title": "Es un Tu",
+        "artist": "Aleksa Valtere",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286b748a66c74bea946201a5d",
+        "url": "https://open.spotify.com/album/6PME6cVnUOYJubRSyq5x6L",
         "total_tracks": 1,
         "genres": []
       }
