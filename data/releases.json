@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-17T06:52:47.317Z",
-  "total": 2897,
+  "fetched_at": "2026-08-18T06:40:25.792Z",
+  "total": 2924,
   "by_date": {
     "2026-05-15": [
       {
@@ -31868,6 +31868,72 @@
         "url": "https://open.spotify.com/album/7rgE5tR57pQtngYIzL1axF",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7KJzzgm4kC5SZHrxTVfSV3",
+        "title": "YOU FOUND ME",
+        "artist": "ZWOTHE KEYS",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a6d803dc9ca748a90045bce",
+        "url": "https://open.spotify.com/album/7KJzzgm4kC5SZHrxTVfSV3",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4p4QUwVwfEJ3FWoVishnKe",
+        "title": "كي تظلام الظلمة نتوحش حنانتك ها ما (Live)",
+        "artist": "Amine Choupot",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d8735723170c8033f17323c",
+        "url": "https://open.spotify.com/album/4p4QUwVwfEJ3FWoVishnKe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1iRUb8UEyQhmlOevh0vvHa",
+        "title": "Чао Какао (DVINA BEATS remix)",
+        "artist": "man_on_line_68",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222af069d0776d9c4aeeaad8b",
+        "url": "https://open.spotify.com/album/1iRUb8UEyQhmlOevh0vvHa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wNIU7iYi9ZjGBg6tYoyuK",
+        "title": "Tavas zilās acis",
+        "artist": "No Sirds",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02333e9ea85eccc4278fb91e94",
+        "url": "https://open.spotify.com/album/6wNIU7iYi9ZjGBg6tYoyuK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3MvnQHaAwNQLChaS4EwhBO",
+        "title": "Vēstule debesīm",
+        "artist": "No Sirds",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0ff285c557c4e712d271ea2",
+        "url": "https://open.spotify.com/album/3MvnQHaAwNQLChaS4EwhBO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LGdBBMkf9dOxdSxRRiuFw",
+        "title": "Mākoņi skrien",
+        "artist": "No Sirds",
+        "type": "single",
+        "release_date": "2026-08-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c114b55d4c162ef2cc7f3f67",
+        "url": "https://open.spotify.com/album/2LGdBBMkf9dOxdSxRRiuFw",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-17": [
@@ -32044,6 +32110,239 @@
         "release_date": "2026-08-17",
         "image": "https://i.scdn.co/image/ab67616d00001e0286b748a66c74bea946201a5d",
         "url": "https://open.spotify.com/album/6PME6cVnUOYJubRSyq5x6L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Zud59rZnh7krQPXgH9Lgq",
+        "title": "Рассвет",
+        "artist": "vers1zee, itzice",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02426184579c2e52ab9034aca1",
+        "url": "https://open.spotify.com/album/5Zud59rZnh7krQPXgH9Lgq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02kjR76VrVOyF4yrFEe5mw",
+        "title": "Boom Boom Boom",
+        "artist": "BOYNEXTDOOR",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7bd1272b9fc86366047bd7f",
+        "url": "https://open.spotify.com/album/02kjR76VrVOyF4yrFEe5mw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OhJGdVkk009uOaDiDze5P",
+        "title": "Tahtadan Sal",
+        "artist": "Sagopa Kajmer, Nun Sultan",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3365d95b933ce360cdc444d",
+        "url": "https://open.spotify.com/album/0OhJGdVkk009uOaDiDze5P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Y2kAd4mys1MOlTyRd087H",
+        "title": "We Gotta Get Love",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e818b1c42fc04bf39e57e16f",
+        "url": "https://open.spotify.com/album/3Y2kAd4mys1MOlTyRd087H",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-18": [
+      {
+        "id": "5oMP777LvyxGa0NDFSGgQm",
+        "title": "MI GALLERY",
+        "artist": "Lenny Tavárez",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cb53459910e1824f0155843",
+        "url": "https://open.spotify.com/album/5oMP777LvyxGa0NDFSGgQm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1AfufT8KoAvz4salIqVhpN",
+        "title": "Love's The Only Drug (Bok Bok vs Adam Rios Mix)",
+        "artist": "Ultra Naté",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a73ae126101c77055b233937",
+        "url": "https://open.spotify.com/album/1AfufT8KoAvz4salIqVhpN",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4bApxs83Qw6ww6Rohes1KD",
+        "title": "Cypher PSG (Nova Geração 4M)",
+        "artist": "DJ Oreia, mc henryk, SEDEXXX, MC Bezinho",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256f7b9ed344e7414da93dc57",
+        "url": "https://open.spotify.com/album/4bApxs83Qw6ww6Rohes1KD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6iQIT5EMASrFpNirBqGv0s",
+        "title": "Нравится",
+        "artist": "Женя Трофимов, Комната культуры",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217e6e04a2320d5155a5b4f72",
+        "url": "https://open.spotify.com/album/6iQIT5EMASrFpNirBqGv0s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0taVXcQQQtEga2gC8IyAaa",
+        "title": "逆風之意",
+        "artist": "Yan Ting",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c0ee3b4322e955cc4b0e736",
+        "url": "https://open.spotify.com/album/0taVXcQQQtEga2gC8IyAaa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SqKvmiG150o3t2FbYtdUm",
+        "title": "人類愛情學",
+        "artist": "Panther Chan",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d2540ce063674428b942542",
+        "url": "https://open.spotify.com/album/0SqKvmiG150o3t2FbYtdUm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6w5h6xJ7eaXRIVjwLdkdTH",
+        "title": "Боса",
+        "artist": "kavabanga Depo kolibri",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca1d2cfd89da307d3885f75d",
+        "url": "https://open.spotify.com/album/6w5h6xJ7eaXRIVjwLdkdTH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "16DDzULjZEw1stQzVfYLAB",
+        "title": "Tipo Vagalume",
+        "artist": "Mc IG, MC Meno K, MC GP, Gubeatz",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229e8fa74bc0d545bc1a2c4ac",
+        "url": "https://open.spotify.com/album/16DDzULjZEw1stQzVfYLAB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4E1Vb9PrBGDU4TE6xu1vLH",
+        "title": "О чём душа поёт",
+        "artist": "KhaliF, SAMIIYA",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ef77dda7886da91d048320a",
+        "url": "https://open.spotify.com/album/4E1Vb9PrBGDU4TE6xu1vLH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "42u2gtEhPcL8ycsVliIndv",
+        "title": "Bilsem Ki",
+        "artist": "Mela Bedel",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02066ba6e5078478ad0fc7e344",
+        "url": "https://open.spotify.com/album/42u2gtEhPcL8ycsVliIndv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Wp0w4DM7Gk9rOE9Bz9d4R",
+        "title": "Kaadhal",
+        "artist": "Chinmayi, Shaan Rahman, Hanan Shaah",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289b4b6e0c50ac3682bd12dfe",
+        "url": "https://open.spotify.com/album/3Wp0w4DM7Gk9rOE9Bz9d4R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DEQefEiJESCEaHyofamVQ",
+        "title": "YUNG TONY STARK (slowed +reverb)",
+        "artist": "SURIYA MQT",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c09a52f30a7a0f5f3636d33b",
+        "url": "https://open.spotify.com/album/5DEQefEiJESCEaHyofamVQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AuLOLw8hZibvQVq0ka1YU",
+        "title": "หันมาเมื่อไหร่ก็เจอ (one more time)",
+        "artist": "guncharlie",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e028bd2fd3aabf72d6f4920097b",
+        "url": "https://open.spotify.com/album/3AuLOLw8hZibvQVq0ka1YU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6weajmlUkxrYknM4cn8ddo",
+        "title": "2 PROMILA",
+        "artist": "SST",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281a69ec249e5fad3fd14753f",
+        "url": "https://open.spotify.com/album/6weajmlUkxrYknM4cn8ddo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0aFnAtqzAwaKOgryI1hWk0",
+        "title": "DESIGNERR",
+        "artist": "Jokhay, Umair",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8bb0e7ea20cdb3ea8a86330",
+        "url": "https://open.spotify.com/album/0aFnAtqzAwaKOgryI1hWk0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5OacQutyRcTGndW3ggrnWB",
+        "title": "New Orleans Is Sinking (Live July 22 - August 20, 2016)",
+        "artist": "The Tragically Hip",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e022516375528f440e6e6387564",
+        "url": "https://open.spotify.com/album/5OacQutyRcTGndW3ggrnWB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YoagFVV27w6VHIQL15JbN",
+        "title": "Kol",
+        "artist": "BB band",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9a1ac0e8ca0a93cca5900e3",
+        "url": "https://open.spotify.com/album/2YoagFVV27w6VHIQL15JbN",
         "total_tracks": 1,
         "genres": []
       }
