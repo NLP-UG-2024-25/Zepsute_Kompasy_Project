@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-18T06:40:25.792Z",
-  "total": 2924,
+  "fetched_at": "2026-08-19T06:41:14.875Z",
+  "total": 2962,
   "by_date": {
     "2026-05-15": [
       {
@@ -32156,6 +32156,72 @@
         "url": "https://open.spotify.com/album/3Y2kAd4mys1MOlTyRd087H",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2MIL7U7zxY7KqUbyZ1CuXg",
+        "title": "Chinni Chinni (From \"Itllu Arjuna\")",
+        "artist": "Thaman S, Mohit Chauhan, Kalyan Chakravarthy",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d67863e493d80a9304d6d18",
+        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38r5N6xNyBAATMfzlCfdTn",
+        "title": "Full Volume Bollywood",
+        "artist": "Jasmine Sandlas, Badshah, Sachin-Jigar, Ajay-Atul",
+        "type": "compilation",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e023091f369a61b99eabee1789c",
+        "url": "https://open.spotify.com/album/38r5N6xNyBAATMfzlCfdTn",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3q4HEHv14teWqfmtsADIzz",
+        "title": "Ya Hawa",
+        "artist": "Reda El Bahrawy",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026db25e9d0a8b2b298b6b946d",
+        "url": "https://open.spotify.com/album/3q4HEHv14teWqfmtsADIzz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4QuJLWGj1pvuWhgFzQn0lo",
+        "title": "VICTIMA",
+        "artist": "Berechet, DZWS, Liviu Teodorescu",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245599735b4d958627a0eb0ca",
+        "url": "https://open.spotify.com/album/4QuJLWGj1pvuWhgFzQn0lo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3tayj1nbL5bYcyALsca1qd",
+        "title": "We Gotta Get Love",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dbee8d785e16eee2c4c5f7d",
+        "url": "https://open.spotify.com/album/3tayj1nbL5bYcyALsca1qd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4SOnrJH48Uop126Jt5xbIG",
+        "title": "Dvēseļu deja",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-08-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201966c8e7a7163bb8dd69004",
+        "url": "https://open.spotify.com/album/4SOnrJH48Uop126Jt5xbIG",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-18": [
@@ -32343,6 +32409,362 @@
         "release_date": "2026-08-18",
         "image": "https://i.scdn.co/image/ab67616d00001e02c9a1ac0e8ca0a93cca5900e3",
         "url": "https://open.spotify.com/album/2YoagFVV27w6VHIQL15JbN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47z2mDkaSQCdMUBBlltCJB",
+        "title": "Curazao (Chipeo En Vivo)",
+        "artist": "El Alfa",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f027c77675f5d9925fc4ffc",
+        "url": "https://open.spotify.com/album/47z2mDkaSQCdMUBBlltCJB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6T6JGWHEqKRnGJ8kb1vCXw",
+        "title": "Street World Fighter : Directors' War (SDF) Original Vol. 1 (Original Television Soundtrack)",
+        "artist": "YEONJUN, KimYeji",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264d1b49f619ce71caa3ec7c7",
+        "url": "https://open.spotify.com/album/6T6JGWHEqKRnGJ8kb1vCXw",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3WaS00RS5sFTPK5RNLDRMR",
+        "title": "Mercy (Live From Montreal)",
+        "artist": "Shawn Mendes",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e57f5ccf55521ba15de224f4",
+        "url": "https://open.spotify.com/album/3WaS00RS5sFTPK5RNLDRMR",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3DWP3j1ZNxx2UsFGBsGFp9",
+        "title": "Marianne",
+        "artist": "Fontaines D.C.",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264096943f064249144d1a972",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Fn5Bb6ty5IpOkhSJhaNCh",
+        "title": "The Team",
+        "artist": "Central Cee",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200fb914bd37458fd374e3ea8",
+        "url": "https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6X0UvwYvqImcAA1knJR4RA",
+        "title": "Next On Repeat",
+        "artist": "Arijit Singh, Akhil Sachdeva, Shreya Ghoshal, Stebin Ben",
+        "type": "compilation",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209e26db18659a5a498b4348d",
+        "url": "https://open.spotify.com/album/6X0UvwYvqImcAA1knJR4RA",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3Z9nEOl5fo7PzP9feRWyz4",
+        "title": "attention!",
+        "artist": "FOLA",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e020302f9fba824f255060f1595",
+        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5f7uijdhmSECO0m7jXHpPt",
+        "title": "Bollywood Through The Years",
+        "artist": "Badshah, Atif Aslam, Arko, Jyotica Tangri",
+        "type": "compilation",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e024503dcdc74bf3d0a9241452b",
+        "url": "https://open.spotify.com/album/5f7uijdhmSECO0m7jXHpPt",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4kIYJzc4kN2W8jxEsYs7zd",
+        "title": "Küss mich (Ivo Martin x Techno Mix)",
+        "artist": "Niklas Dee",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fec73f23c95dbc6347db1d1b",
+        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2EpmPez9oEaub9CyYM3do4",
+        "title": "שקרים יפים",
+        "artist": "Itay Levi",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a4492d14b825560ff748e54",
+        "url": "https://open.spotify.com/album/2EpmPez9oEaub9CyYM3do4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ACI48LtGKgwuUaPuIxXr5",
+        "title": "Níu Kéo Mãi Không Phải Cách (Solo Version)",
+        "artist": "Bảo Anh",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02355884151bcf4a1a9ae60705",
+        "url": "https://open.spotify.com/album/0ACI48LtGKgwuUaPuIxXr5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1hLx4lbtbE7QgAbUxJSdHz",
+        "title": "Godspeed!",
+        "artist": "HYUKOH",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263b458552c6161b562ff027f",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40CmjpOzcK33M5uHEAn9PG",
+        "title": "MIDNIGHT WAVE #01 : KIM SEUNGMIN",
+        "artist": "Kim Seungmin",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242475fcf36efd27563261704",
+        "url": "https://open.spotify.com/album/40CmjpOzcK33M5uHEAn9PG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RU1Iahe1NeoM7mMmk4QNl",
+        "title": "Da se znae",
+        "artist": "Krisko",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6e3e2599d2ca07bcc97dea3",
+        "url": "https://open.spotify.com/album/5RU1Iahe1NeoM7mMmk4QNl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5crKBVQ9Tp0yMZJrgDCNG7",
+        "title": "daj mi znak",
+        "artist": "Zalia",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222ec35510bd30fbf2b22e82e",
+        "url": "https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-19": [
+      {
+        "id": "046nzm7oipvLuxPMFrlb7e",
+        "title": "Running Wheel",
+        "artist": "Creepy Nuts",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02458597bc71de177ce8fbe481",
+        "url": "https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1wGMxU6nYYV8KeCeaJorzt",
+        "title": "Face Card",
+        "artist": "Sean Paul, Seanizzle",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e029264c5eabe2d1e86eaefc278",
+        "url": "https://open.spotify.com/album/1wGMxU6nYYV8KeCeaJorzt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Mags1nOOjDgrLzhba75MM",
+        "title": "Dios De Milagros (En Vivo Desde México)",
+        "artist": "Miel San Marcos, Kim Richards",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02393a85ccbc29e7a27b414a70",
+        "url": "https://open.spotify.com/album/6Mags1nOOjDgrLzhba75MM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0tMhQ7575iGeWlTGPUfNxh",
+        "title": "MARZI",
+        "artist": "Guru Randhawa, Gurjit Gill, JSL Singh",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dffd4a4b5b92154e7beb81c1",
+        "url": "https://open.spotify.com/album/0tMhQ7575iGeWlTGPUfNxh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ByqNmtKhIlBEMXnuqWXO6",
+        "title": "Livin' On A Prayer",
+        "artist": "Yuuri",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a83206217d8600eb056d4998",
+        "url": "https://open.spotify.com/album/3ByqNmtKhIlBEMXnuqWXO6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6C2D6zIALC1KXOf6oGxeEE",
+        "title": "至少相擁沒錯",
+        "artist": "MC 張天賦",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237d84a6087e499e02addbf9b",
+        "url": "https://open.spotify.com/album/6C2D6zIALC1KXOf6oGxeEE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KXjNrBstU9WhhuscVxzaf",
+        "title": "Akhian Udeek Diyan (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292ef64d9717981663399af80",
+        "url": "https://open.spotify.com/album/3KXjNrBstU9WhhuscVxzaf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1XZLVOtEnIUfpnAUf7IG6b",
+        "title": "Onam 2026",
+        "artist": "Shankar Mahadevan, Sujatha, P. Jayachandran, M. G. Sreekumar",
+        "type": "album",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02879bcb2334d907fed3340500",
+        "url": "https://open.spotify.com/album/1XZLVOtEnIUfpnAUf7IG6b",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5kjPpnjsjQTD7NokzMyCBQ",
+        "title": "Avisa que é o Funk + Contra Nós + Funkeiros na Cena (Red Bull Symphonic)",
+        "artist": "MC Hariel",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daeaad7fc418fca5d64603f6",
+        "url": "https://open.spotify.com/album/5kjPpnjsjQTD7NokzMyCBQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yxoIdJEoigkkoOoHAX8VY",
+        "title": "愛情長跑",
+        "artist": "PIZZALI, 洋蔥",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c8533413c9e2f408728aeef",
+        "url": "https://open.spotify.com/album/7yxoIdJEoigkkoOoHAX8VY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RALgM42xYvGj9XdyNm0bJ",
+        "title": "Cand tu ai inima buna (Live)",
+        "artist": "Florin Salam, Toni de la Brasov, Narcisa, Kristian de la Craiova",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0204fd78230ae5faa4abc486d2",
+        "url": "https://open.spotify.com/album/6RALgM42xYvGj9XdyNm0bJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oQ6cqaYbUAzOOv9Niwtca",
+        "title": "スト夏の思い出2026",
+        "artist": "SixTONES",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4d7c9b4be37ae2cd2c75a7f",
+        "url": "https://open.spotify.com/album/6oQ6cqaYbUAzOOv9Niwtca",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2o6bJFAx9041j2AGP5VZpd",
+        "title": "BLOQUÉ",
+        "artist": "Genezio",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad6ea416a11c40729cb93906",
+        "url": "https://open.spotify.com/album/2o6bJFAx9041j2AGP5VZpd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7vpJwn0Hy04zVfSRxfD81Q",
+        "title": "นอนก่อนแพ้",
+        "artist": "MaxMillor",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021775972aa3ed488cd9871d48",
+        "url": "https://open.spotify.com/album/7vpJwn0Hy04zVfSRxfD81Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0iEYEZqvG6pH7X6fp5t5sG",
+        "title": "Ceritanya Jatuh Cinta (Ceritanya Live Session)",
+        "artist": "Aku Jeje",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7403360fdfbaeb5e89c6fb0",
+        "url": "https://open.spotify.com/album/0iEYEZqvG6pH7X6fp5t5sG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48cyb2zARYAHsN6G42LAe4",
+        "title": "ไม่รักดีกว่า",
+        "artist": "Z9",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027cf9bc636cfb2421c17bff33",
+        "url": "https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-21": [
+      {
+        "id": "6rYIRIR0W5PwTCFCQUOv36",
+        "title": "Anii mei",
+        "artist": "Nicolae Guta",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c96ed37b0b3b1adc46064d68",
+        "url": "https://open.spotify.com/album/6rYIRIR0W5PwTCFCQUOv36",
         "total_tracks": 1,
         "genres": []
       }
