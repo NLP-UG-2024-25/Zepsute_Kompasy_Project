@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-19T06:41:14.875Z",
-  "total": 2962,
+  "fetched_at": "2026-08-20T06:42:43.072Z",
+  "total": 2989,
   "by_date": {
     "2026-05-15": [
       {
@@ -32576,6 +32576,50 @@
         "url": "https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4N44YKdlvz13w6Ik3V2vnZ",
+        "title": "Pawan Ke Pukaar",
+        "artist": "Pawan Singh, Sargam Akash, Durgesh Bhatt",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f2805d6b03e0342925a7671",
+        "url": "https://open.spotify.com/album/4N44YKdlvz13w6Ik3V2vnZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Nsg68KgtwDO4cOhyuDLsY",
+        "title": "خذني",
+        "artist": "خالد الحنين",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242c1cea19f8f22e5bd339d60",
+        "url": "https://open.spotify.com/album/4Nsg68KgtwDO4cOhyuDLsY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0emERBZFDquq4pphqIjGQL",
+        "title": "Pink Pink[Malyalam Version]",
+        "artist": "Kaithapram, Naati Bhaii",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ef52a6a440119a34156590d",
+        "url": "https://open.spotify.com/album/0emERBZFDquq4pphqIjGQL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7df2pAlpAHIBTDJqiULxWW",
+        "title": "Informal",
+        "artist": "Josuan",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eefc933c6d1ad5490bd639f2",
+        "url": "https://open.spotify.com/album/7df2pAlpAHIBTDJqiULxWW",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-19": [
@@ -32754,6 +32798,83 @@
         "url": "https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "72fKROtde4M6Rv14mgIOpm",
+        "title": "CARITA FELIZ",
+        "artist": "Myke Towers",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02473607ed589132daa78ca202",
+        "url": "https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NTQXhPSUNgFi2GLfez8jH",
+        "title": "Trái Tim Này Được Yêu Em (Mùa Hè Năm Ấy Original Soundtrack)",
+        "artist": "Emcee L (Da LAB), Việt Anh, Jane Quỳnh Anh",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a21f82ac1fd7c138a6a6c678",
+        "url": "https://open.spotify.com/album/2NTQXhPSUNgFi2GLfez8jH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4cTzf9wwxcGotiJdsPFn2d",
+        "title": "Aquellas Noches",
+        "artist": "Kchiporros, Tierra Adentro",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023abd20c600326f25cd422ff3",
+        "url": "https://open.spotify.com/album/4cTzf9wwxcGotiJdsPFn2d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6efkKiB2wfJGh8LuVMwZH1",
+        "title": "OFFLINE",
+        "artist": "Kizo, Culten",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e0206e41dfb6027559e94cb",
+        "url": "https://open.spotify.com/album/6efkKiB2wfJGh8LuVMwZH1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GD1opsygIx4GnLTpUkXDq",
+        "title": "CONTIGO TODO ES FIESTA",
+        "artist": "Alanys Lagos",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02edfcd4cf500411ad1816d015",
+        "url": "https://open.spotify.com/album/1GD1opsygIx4GnLTpUkXDq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02WO9HR9AiL9Io1Ku1HFVH",
+        "title": "Pronto",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d335b52b2f0024867d563c5",
+        "url": "https://open.spotify.com/album/02WO9HR9AiL9Io1Ku1HFVH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5vMjUZDFcrieM25WgZWZrh",
+        "title": "TIRADO",
+        "artist": "Cruzando El Charco",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e6afae3caa6efc47d0b34f8",
+        "url": "https://open.spotify.com/album/5vMjUZDFcrieM25WgZWZrh",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-21": [
@@ -32765,6 +32886,184 @@
         "release_date": "2026-08-21",
         "image": "https://i.scdn.co/image/ab67616d00001e02c96ed37b0b3b1adc46064d68",
         "url": "https://open.spotify.com/album/6rYIRIR0W5PwTCFCQUOv36",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-20": [
+      {
+        "id": "33Mfzj0B0jfExUap38bJYE",
+        "title": "Didn't Mean To Turn You On (with Rochelle Jordan)",
+        "artist": "Mariah Carey",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e23231cace412e5c2b89bb04",
+        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0VEjAhhbwuy5S5ocKZhB5h",
+        "title": "Je Andhare (From \"Winkle Twinkle\")",
+        "artist": "Shreya Ghoshal",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf576f85891e0bbcdc9fc914",
+        "url": "https://open.spotify.com/album/0VEjAhhbwuy5S5ocKZhB5h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6kUxGqfJXm2C64BQWqviHO",
+        "title": "Rocky (Original Motion Picture Soundtrack / Remastered)",
+        "artist": "R. D. Burman",
+        "type": "album",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6950673ff9cf5007ea17f1b",
+        "url": "https://open.spotify.com/album/6kUxGqfJXm2C64BQWqviHO",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4Xe8TWpPLCP7xcq5HWt4wB",
+        "title": "Baixa o tom de voz aí",
+        "artist": "Matheus & Kauan",
+        "type": "compilation",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021bbee902f5c9522b1228e026",
+        "url": "https://open.spotify.com/album/4Xe8TWpPLCP7xcq5HWt4wB",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "3Rq1eggjKkrLlMeQXFQdWb",
+        "title": "Музико",
+        "artist": "Alena Omargalieva",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2e893d9868acda58e09b9ef",
+        "url": "https://open.spotify.com/album/3Rq1eggjKkrLlMeQXFQdWb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1rHsDupbNCpmRKFuomlzeN",
+        "title": "White Summer Unboxing",
+        "artist": "Terence Lam",
+        "type": "album",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b34b98604f9db1d795f35aa5",
+        "url": "https://open.spotify.com/album/1rHsDupbNCpmRKFuomlzeN",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "0cvvDW04KiOXnJKN4rqEKn",
+        "title": "oasis (feat. D Gerrard)",
+        "artist": "atom chanakan, D Gerrard",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02680cb2b8a40108aa8579d4bd",
+        "url": "https://open.spotify.com/album/0cvvDW04KiOXnJKN4rqEKn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7zmctmV7KQcsjuTlQMytnr",
+        "title": "Nada Pra Fazer (feat. Mc Dena, Brenninho VJ, MC Jvila, Mc Negão Original, Vulgo FK, Mc IG, DJ Glenner, Dj Daltin no Beat, DJ Menor PR)",
+        "artist": "MC GP, MC Meno K, Aaron Modesto, MC Ryan SP",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02377be24b2bac2fb47c5270e7",
+        "url": "https://open.spotify.com/album/7zmctmV7KQcsjuTlQMytnr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7q8rlF5uxhj78bGzx55jft",
+        "title": "Pudahuel",
+        "artist": "Movimiento Original, ESTEREO FAM",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02310684ff3b11a4a7f13ef7e7",
+        "url": "https://open.spotify.com/album/7q8rlF5uxhj78bGzx55jft",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5pCvXE0w0TOZ4xaHLvFPdO",
+        "title": "Mone Holo Kyano (From \"Erao Manush\")",
+        "artist": "Javed Ali, Sumona",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dcecf54aa19232da0592c75",
+        "url": "https://open.spotify.com/album/5pCvXE0w0TOZ4xaHLvFPdO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "15XKJU4SaMD3FJvHSlVMVi",
+        "title": "И один в поле - воин!",
+        "artist": "M'Dee, Андрей Чиков",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268b6ee4fdd695287ada1c56c",
+        "url": "https://open.spotify.com/album/15XKJU4SaMD3FJvHSlVMVi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "100DeUeCjmsfTWuMQGW09z",
+        "title": "Просто би хотіла",
+        "artist": "Kristonko",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4c2c443bcaba351bd9801a6",
+        "url": "https://open.spotify.com/album/100DeUeCjmsfTWuMQGW09z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3UomWRkUyNpaIbeBxE5wOL",
+        "title": "ได้โปรดอยู่ตรงนี้ (Upside Down)",
+        "artist": "BLVCKHEART",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0294dbf3897226935a3b854032",
+        "url": "https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jQYQQHdNM8t72aFTVrcgs",
+        "title": "อารมณ์สีเทา",
+        "artist": "SEA., Saran",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd8b47daf83a3612c70d8b78",
+        "url": "https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "33oKBW7NFUmlottuyFlHWj",
+        "title": "l a u l u . s e e s t . v ä l j a . e i . s a a",
+        "artist": "SADU",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264c3d121366687f90f188072",
+        "url": "https://open.spotify.com/album/33oKBW7NFUmlottuyFlHWj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38wk9eBZQTsIF456u4iYdQ",
+        "title": "คนขี้น้อยใจ (My Fault)",
+        "artist": "SERIOUS BACON",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f9682d84e3be3ddf0808781",
+        "url": "https://open.spotify.com/album/38wk9eBZQTsIF456u4iYdQ",
         "total_tracks": 1,
         "genres": []
       }
