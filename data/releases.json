@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-20T06:42:43.072Z",
-  "total": 2989,
+  "fetched_at": "2026-08-21T06:43:19.341Z",
+  "total": 3038,
   "by_date": {
     "2026-05-15": [
       {
@@ -32875,6 +32875,50 @@
         "url": "https://open.spotify.com/album/5vMjUZDFcrieM25WgZWZrh",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0oXBYVfEooLliKC5TYO6Ba",
+        "title": "Mere Hero Hai Woh (From \"Haiwaan\")",
+        "artist": "Pritam, Shaan, Javed Akhtar, Vanika Nayak",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021aae4b2165e2eef8de3a7dd3",
+        "url": "https://open.spotify.com/album/0oXBYVfEooLliKC5TYO6Ba",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zjCZF11rd2jq8TVG1UIqV",
+        "title": "Raakhi Special Songs",
+        "artist": "Himesh Reshammiya, Shreya Ghoshal, Mithoon, Amit Trivedi",
+        "type": "compilation",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264a85c467608cd1d60625d62",
+        "url": "https://open.spotify.com/album/2zjCZF11rd2jq8TVG1UIqV",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "6ORU420Fy2vRGvi8ZaTIYh",
+        "title": "Chennai Love Story (Dialogues) [TELUGU]",
+        "artist": "Mani Sharma",
+        "type": "album",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213b1b572c213a4da68c25e1b",
+        "url": "https://open.spotify.com/album/6ORU420Fy2vRGvi8ZaTIYh",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2imJzh6sZCwqMic69YWBrw",
+        "title": "Big and Juicy",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e026edfe8a829559585e3cd53c8",
+        "url": "https://open.spotify.com/album/2imJzh6sZCwqMic69YWBrw",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-21": [
@@ -32886,6 +32930,347 @@
         "release_date": "2026-08-21",
         "image": "https://i.scdn.co/image/ab67616d00001e02c96ed37b0b3b1adc46064d68",
         "url": "https://open.spotify.com/album/6rYIRIR0W5PwTCFCQUOv36",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0inYFsNCyffdWte267wXRW",
+        "title": "Long Way Home",
+        "artist": "STELLA LEFTY",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b6c2112750367e20464b6b7",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "3xXlXmguiTfRYGtPwYYtv9",
+        "title": "Maneater (RITUAL Version)",
+        "artist": "Nelly Furtado",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02071d26f8915d63a3fffe5a64",
+        "url": "https://open.spotify.com/album/3xXlXmguiTfRYGtPwYYtv9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6WxOLlIblUtwDp03fLZBmW",
+        "title": "Butterflies",
+        "artist": "Mac Miller",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f62fb3f9c34749f3063be0f0",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oqmKpIuMmk0fMZ42k4Mfd",
+        "title": "bloodstream (mother's version)",
+        "artist": "Alyssa Grace",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e63fe10113ba51aee921efb2",
+        "url": "https://open.spotify.com/album/7oqmKpIuMmk0fMZ42k4Mfd",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0PTnNwY4AWv7JaUJlq3IiE",
+        "title": "Leave Me Behind",
+        "artist": "Nickelback",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e13ba1fefbbb2adf5fafdfc3",
+        "url": "https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7EaFbFXzgMJDKfZBdLDCRb",
+        "title": "Danceteria (Harry Romero Remix)",
+        "artist": "Madonna, Harry Romero",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02776acc8b79af2cfb7183822b",
+        "url": "https://open.spotify.com/album/7EaFbFXzgMJDKfZBdLDCRb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4vV3soJyvhbQBNsCKgeq4R",
+        "title": "Teenage Sex and Death at Camp Miasma (Soundtrack Score Selections)",
+        "artist": "Alex G",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b7bf6dd91a34d2fe55a679c",
+        "url": "https://open.spotify.com/album/4vV3soJyvhbQBNsCKgeq4R",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "7rZ5B8fvXmFZv5x8fjoWj1",
+        "title": "FREAKED OUT",
+        "artist": "Ian Asher",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258c000c6284baacaba8ea2b0",
+        "url": "https://open.spotify.com/album/7rZ5B8fvXmFZv5x8fjoWj1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5j6nS3lE5dyWjrTGGiZ2a2",
+        "title": "The One",
+        "artist": "Alesso",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a501477c8e3f925fd2f7f8b9",
+        "url": "https://open.spotify.com/album/5j6nS3lE5dyWjrTGGiZ2a2",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7mj5fvMdUDCtTy9HPpjBHr",
+        "title": "STARLIFE",
+        "artist": "Victony",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0220bffd40d4575c660138051c",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "0HcALYkoekvTsjRo56mzMz",
+        "title": "Bad Bitch",
+        "artist": "HUGEL, Sexyy Red, Gatano",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a93cbed14ee1b3d064e01de2",
+        "url": "https://open.spotify.com/album/0HcALYkoekvTsjRo56mzMz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7G8gqx5GoTSdTJ41gU0d6i",
+        "title": "Say Something",
+        "artist": "Sonny Fodera, Becky Hill",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219cea88e45b669c90c80f1e7",
+        "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cZ2pTAd5EIarfnB2JGaUE",
+        "title": "AFANDI / افندي",
+        "artist": "Saint Levant",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d6a9543c6afc2677a2add7a",
+        "url": "https://open.spotify.com/album/1cZ2pTAd5EIarfnB2JGaUE",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "0RCn9v4fJwbhe6qc2tzfnk",
+        "title": "FUNK PHOBIA",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e028528cd01c81289a09d6ca9b1",
+        "url": "https://open.spotify.com/album/0RCn9v4fJwbhe6qc2tzfnk",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4scN1RtQsBUkj2TfRq492A",
+        "title": "Rancheras y Adictivas, Vol. 2",
+        "artist": "La Adictiva",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02395f911f3b601b0bd5f53bd6",
+        "url": "https://open.spotify.com/album/4scN1RtQsBUkj2TfRq492A",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "2tVjW0aNtReqROYYZOfD1S",
+        "title": "Bye Bye .",
+        "artist": "fakemink",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020605beeb6e0332ca00a25ccf",
+        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wkd115wLpSfGKS4bFlQsx",
+        "title": "Lucky Ones",
+        "artist": "Topic, carteblanche",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed6ca415b4cbd65b8c42d778",
+        "url": "https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5UQTz5sk1ltZica5WxEYZp",
+        "title": "Sirius",
+        "artist": "UdieNnx",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02edd2d704743cd17179166d67",
+        "url": "https://open.spotify.com/album/5UQTz5sk1ltZica5WxEYZp",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2yblsBzKxJlA8pfYXn5hSk",
+        "title": "SENTADA FUNK",
+        "artist": "Dj Samir, Nulteex, Mc Gw",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dae10d29e9b4bc3b66c737ce",
+        "url": "https://open.spotify.com/album/2yblsBzKxJlA8pfYXn5hSk",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "0FrZrKOFCp84GTMdSSqKDE",
+        "title": "ONE NIGHT",
+        "artist": "Palm Monkey, DALEXO",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248aa10f610c7f9f22d009dd1",
+        "url": "https://open.spotify.com/album/0FrZrKOFCp84GTMdSSqKDE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ds30YAW221nHF5Jtegsw7",
+        "title": "Night Garden",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02222bd789136f89ca78073a23",
+        "url": "https://open.spotify.com/album/1ds30YAW221nHF5Jtegsw7",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4YypTuVjdrjAO0POW8exbj",
+        "title": "Photo",
+        "artist": "Tayc",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020011d1a5afa03c69c8fb96b2",
+        "url": "https://open.spotify.com/album/4YypTuVjdrjAO0POW8exbj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1neHnGFA0qW58HwrnODAjf",
+        "title": "У Меня Всё Есть",
+        "artist": "MIA BOYKA",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a1e02436c762e1c572e829b",
+        "url": "https://open.spotify.com/album/1neHnGFA0qW58HwrnODAjf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4DawOkyWBTkqAVhorPMeiz",
+        "title": "永不失聯的愛(國風R&B版) - 華為音悅家APP改編",
+        "artist": "Eric Chou",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023364140c78107ef1f9e31126",
+        "url": "https://open.spotify.com/album/4DawOkyWBTkqAVhorPMeiz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bMxH33c1zbqUpSTX7naWA",
+        "title": "Düşünmezdim bile",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abb615c9b3702912301c94b1",
+        "url": "https://open.spotify.com/album/0bMxH33c1zbqUpSTX7naWA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Ecfq8Pw9x0TjDkCrStD3X",
+        "title": "Our Yesterday's Escape (A Viva One Original Series Soundtrack)",
+        "artist": "Earl Agustin, Amiel Sol, Migs, Le John",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f992558833174c03085dc2f",
+        "url": "https://open.spotify.com/album/0Ecfq8Pw9x0TjDkCrStD3X",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3YohhcwKzNTLeugJX5SuJv",
+        "title": "Назад в Кресты",
+        "artist": "dabbackwood",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230014e0df054ef41a97f5438",
+        "url": "https://open.spotify.com/album/3YohhcwKzNTLeugJX5SuJv",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1hvFnDu5h6JzFPi7u3vIKv",
+        "title": "Anybody",
+        "artist": "Kidd Carder",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fb4d083f0ec9ae83f467d92",
+        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GUdYsEPbk81o0gnSlcoDE",
+        "title": "算我输",
+        "artist": "承桓",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d74bc4a0e97e0a797526ad0c",
+        "url": "https://open.spotify.com/album/0GUdYsEPbk81o0gnSlcoDE",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5lo1kL5810RO87dXiA3cO1",
+        "title": "Pivete",
+        "artist": "Mc Livinho",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243cac359e2b09d129962cdaa",
+        "url": "https://open.spotify.com/album/5lo1kL5810RO87dXiA3cO1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4DyxwNZkZA3OJWt5ZSmcLN",
+        "title": "SWEET TALK",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298c59d9a4d3373b6133c0c42",
+        "url": "https://open.spotify.com/album/4DyxwNZkZA3OJWt5ZSmcLN",
         "total_tracks": 1,
         "genres": []
       }
@@ -33065,6 +33450,160 @@
         "image": "https://i.scdn.co/image/ab67616d00001e023f9682d84e3be3ddf0808781",
         "url": "https://open.spotify.com/album/38wk9eBZQTsIF456u4iYdQ",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5lqmvYYODVFgrFTObdKwRr",
+        "title": "Memories",
+        "artist": "beabadoobee",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02068caa28105743b03ac6ee0f",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0flSfhX5KyQiVrX1Dn2NoY",
+        "title": "This Old Man",
+        "artist": "The Wiggles",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7fb1b3c207e2398c64fc1bd",
+        "url": "https://open.spotify.com/album/0flSfhX5KyQiVrX1Dn2NoY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00zVD6CI5uL5co5xzUjTS1",
+        "title": "I Will Find You",
+        "artist": "BUNT.",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c85de2fdf1834542f74790a",
+        "url": "https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FDRHQZ14TUixAZwwYLQXP",
+        "title": "Gimidi",
+        "artist": "Kybba, Kapo, Busy Signal",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cec5dca486c2eb8ced6e11b2",
+        "url": "https://open.spotify.com/album/3FDRHQZ14TUixAZwwYLQXP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4qerWCBmbhQUlPVbzFbMr9",
+        "title": "SUPERARTE: EXHIBICIÓN 2.0",
+        "artist": "Justin Quiles, Lenny Tavárez",
+        "type": "album",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2880025f97da72f4bfa116e",
+        "url": "https://open.spotify.com/album/4qerWCBmbhQUlPVbzFbMr9",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "06FQ9rtgFgKt4g1rBG1Hj2",
+        "title": "Sertanejo Série A (Ao Vivo Em Araguaína)",
+        "artist": "Maiara & Maraisa, Naiara Azevedo, Fred & Fabrício",
+        "type": "album",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c28e6d97f4a090fc8831d1f",
+        "url": "https://open.spotify.com/album/06FQ9rtgFgKt4g1rBG1Hj2",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "2QX7YR9lBSYEtZQoWb6fri",
+        "title": "אוגוסט דאמפ 2026",
+        "artist": "Osher Cohen",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e024944845ae523ab8f7c641c40",
+        "url": "https://open.spotify.com/album/2QX7YR9lBSYEtZQoWb6fri",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "79taJ0VPE9ZfJZvra8DCSw",
+        "title": "Perigosa",
+        "artist": "Jeninho",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02078e573f2a91af1f4f3d200d",
+        "url": "https://open.spotify.com/album/79taJ0VPE9ZfJZvra8DCSw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3W9Y7r2e1cQaeEQLu9aSva",
+        "title": "Falta (Remix)",
+        "artist": "Ramy Sabry, Paakman",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffabc792ead5f97c5086928c",
+        "url": "https://open.spotify.com/album/3W9Y7r2e1cQaeEQLu9aSva",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43o6bPsTE8EoXNnlkpOTaF",
+        "title": "ISALE EKO",
+        "artist": "ODUMODUBLVCK",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02844f3ff93e14d865c77125ff",
+        "url": "https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72TTHz1EZYNY0w2cL4p7ib",
+        "title": "Fully Loaded",
+        "artist": "D-Block Europe, French Montana",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027009a305bdf54bfa2ab2fa95",
+        "url": "https://open.spotify.com/album/72TTHz1EZYNY0w2cL4p7ib",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jdgaOCik27TmKvxVniKOx",
+        "title": "Griselda",
+        "artist": "GeezyDee, Fronti",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02766e0bfb7cc4b022a2019570",
+        "url": "https://open.spotify.com/album/6jdgaOCik27TmKvxVniKOx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ilOf5Qk16SJV80oSqXbTt",
+        "title": "LOS LIRIOS / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Los Lirios De Santa Fe",
+        "type": "album",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290ae8b219f3430c1189f5f43",
+        "url": "https://open.spotify.com/album/2ilOf5Qk16SJV80oSqXbTt",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "0AfnwegDE4N2E6l1Hiewfz",
+        "title": "O Décimo Vol. 02 (Ao Vivo)",
+        "artist": "Diego & Victor Hugo",
+        "type": "album",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d7e5eb76cfe2ab6595c7136",
+        "url": "https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz",
+        "total_tracks": 12,
         "genres": []
       }
     ]
