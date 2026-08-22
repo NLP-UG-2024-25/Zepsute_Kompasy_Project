@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-21T06:43:19.341Z",
-  "total": 3038,
+  "fetched_at": "2026-08-22T06:37:42.022Z",
+  "total": 3055,
   "by_date": {
     "2026-05-15": [
       {
@@ -33273,6 +33273,171 @@
         "url": "https://open.spotify.com/album/4DyxwNZkZA3OJWt5ZSmcLN",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4X3LhfPfmdcMQblc5k11WC",
+        "title": "Weezer",
+        "artist": "Weezer",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bab93e255f1e165f062503b9",
+        "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4uC0Siq07QpZ1h5H7sTgK5",
+        "title": "Meet Me by the Ocean",
+        "artist": "Stick Figure",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262c4d0b6341d41e4c2eb991b",
+        "url": "https://open.spotify.com/album/4uC0Siq07QpZ1h5H7sTgK5",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5gZI5HLIPee7zPNhbI5VfW",
+        "title": "These Alarms (Roy Kerr Remix)",
+        "artist": "Snow Patrol",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf1006bb0d5db23cbb233a1b",
+        "url": "https://open.spotify.com/album/5gZI5HLIPee7zPNhbI5VfW",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1X4mvMQbVYOymacfaPjDWq",
+        "title": "MONTAGEM YUREZE KAKA",
+        "artist": "SASORIIXPP, valkou",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226d21834726f4b230105e20d",
+        "url": "https://open.spotify.com/album/1X4mvMQbVYOymacfaPjDWq",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "22Ex4JoN7aIaj1hVldegqp",
+        "title": "LUNATIC",
+        "artist": "ZMAJOR, zxroth",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e025aea6ca4d42e28be3aeb7e2a",
+        "url": "https://open.spotify.com/album/22Ex4JoN7aIaj1hVldegqp",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3wQeApJ63jTGhdyvzYMvLX",
+        "title": "Ain't No Game",
+        "artist": "Duke Dumont",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b94600480674a608dc68a315",
+        "url": "https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6iSPFaKuE74RX6l0hhhR4s",
+        "title": "Её парень",
+        "artist": "Shluzov, qwzbtw0, DJ SENSX",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e021221bfcfe64f48a3bb1f29f9",
+        "url": "https://open.spotify.com/album/6iSPFaKuE74RX6l0hhhR4s",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "72guPjc4D04PxlzO9FwRjr",
+        "title": "Live July 22 – August 20, 2016",
+        "artist": "The Tragically Hip",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f288b42099d3f77a4adef32",
+        "url": "https://open.spotify.com/album/72guPjc4D04PxlzO9FwRjr",
+        "total_tracks": 29,
+        "genres": []
+      },
+      {
+        "id": "3cJGN8fnh4ZTxrc4FHIpPe",
+        "title": "Mast Malang Jhoom Club Remix",
+        "artist": "Vishal Mishra, Arijit Singh, Dj Raahul Pai, Sanju Purohit",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff075cfbfedcb7c946ea406f",
+        "url": "https://open.spotify.com/album/3cJGN8fnh4ZTxrc4FHIpPe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2eGcjwgs9cvK5ObrpuJE4F",
+        "title": "Thumkeshwari Club Remix",
+        "artist": "Sachin-Jigar, Ash King, Dj Raahul Pai, Sanju Purohit",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d4375a022e27ed78a02e55a",
+        "url": "https://open.spotify.com/album/2eGcjwgs9cvK5ObrpuJE4F",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6BnsEGulWjyl063nGUQh9L",
+        "title": "All Eyes on Shiest",
+        "artist": "Pooh Shiesty",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcd9d96dee0f18579bcf4169",
+        "url": "https://open.spotify.com/album/6BnsEGulWjyl063nGUQh9L",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "4wAuas56CfyAbNVR3GIRVo",
+        "title": "The Documentary III",
+        "artist": "The Game",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bf04b4b1ca56a809f48ed29",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "2v5hG9MkfmRGgiwyIRRZ3P",
+        "title": "Digital Dancer",
+        "artist": "6arelyhuman",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9907a1fab7cfa5e8371a249",
+        "url": "https://open.spotify.com/album/2v5hG9MkfmRGgiwyIRRZ3P",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "4q0OlO3Gkx6O947qMut86b",
+        "title": "FUNK KAZO",
+        "artist": "ICEDMANE, REGXRD",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c992ace4e5178831cee24da",
+        "url": "https://open.spotify.com/album/4q0OlO3Gkx6O947qMut86b",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "52vOBHrySeWFmZs9Mb92EA",
+        "title": "4 MY HOMIE",
+        "artist": "Vieze Asbak, Rocket Rese",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f778b172dbc381746572aa7d",
+        "url": "https://open.spotify.com/album/52vOBHrySeWFmZs9Mb92EA",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-20": [
@@ -33604,6 +33769,30 @@
         "image": "https://i.scdn.co/image/ab67616d00001e021d7e5eb76cfe2ab6595c7136",
         "url": "https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz",
         "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3StQSwD5C6leWnoN7jCJXd",
+        "title": "ילדה מטורפת (מיוחד למצעד השנתי תשפ\"ו)",
+        "artist": "Itay Levi, Mor, כאן גימל",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277841133d2e0d9f5cca47a4e",
+        "url": "https://open.spotify.com/album/3StQSwD5C6leWnoN7jCJXd",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-22": [
+      {
+        "id": "3FMmbSr5sqY1IXpyavdL30",
+        "title": "Can I Get A...",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e026982ba2fd53dc3377835d171",
+        "url": "https://open.spotify.com/album/3FMmbSr5sqY1IXpyavdL30",
+        "total_tracks": 2,
         "genres": []
       }
     ]
