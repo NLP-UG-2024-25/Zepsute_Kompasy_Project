@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-23T06:38:45.150Z",
-  "total": 3105,
+  "fetched_at": "2026-08-24T06:55:46.520Z",
+  "total": 3138,
   "by_date": {
     "2026-05-15": [
       {
@@ -34223,6 +34223,72 @@
         "url": "https://open.spotify.com/album/44gKKXpqVgni7zu7mYZ6tV",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2CMdJ8TOrFWekPJbs4AGw1",
+        "title": "2016",
+        "artist": "vers1zee, kepkafied",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e1e42650c1469b40a1b609a",
+        "url": "https://open.spotify.com/album/2CMdJ8TOrFWekPJbs4AGw1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5xJIxm0ayE3IZomDEfWcP7",
+        "title": "Google Se Puch Leta Raja Jal Kaise Chadaib Ho",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b4c63a60032e8c356baf9ce",
+        "url": "https://open.spotify.com/album/5xJIxm0ayE3IZomDEfWcP7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ptkIUrvlqwD2ToCjP3LoR",
+        "title": "Kalyana Virundhu (From \"Dorothy\")",
+        "artist": "Ilaiyaraaja, Yugendran Vasudevan, Anthony Daasan, Priya Jerson",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce1309ac32d2ac82fa1b91b1",
+        "url": "https://open.spotify.com/album/1ptkIUrvlqwD2ToCjP3LoR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6XFYMbddED2b01g6W7bGZj",
+        "title": "Silicon Valley (Hefner)",
+        "artist": "Sjakklubb, Roc Meiniac",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022ced0808c3f0164bc8ad7bd3",
+        "url": "https://open.spotify.com/album/6XFYMbddED2b01g6W7bGZj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hRhFcKv6uRyUuHSRgwBTh",
+        "title": "Life Loves Me",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdc687947ee2f114c88a888d",
+        "url": "https://open.spotify.com/album/0hRhFcKv6uRyUuHSRgwBTh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6VWWfvkKPmFLRXMFspcb2y",
+        "title": "Money Comes Easy",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d215793e68273ece8b14b49e",
+        "url": "https://open.spotify.com/album/6VWWfvkKPmFLRXMFspcb2y",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-23": [
@@ -34344,6 +34410,305 @@
         "release_date": "2026-08-23",
         "image": "https://i.scdn.co/image/ab67616d00001e0299aef31a097bc5d58b981106",
         "url": "https://open.spotify.com/album/4aZqWKaLtZX1W1JpL7FuiY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26w4RoexAyiXRogASNJDZj",
+        "title": "GREENGREEN_playextended",
+        "artist": "CORTIS",
+        "type": "album",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da2a04ef57dfebfb8946fd49",
+        "url": "https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "1xXuANR6HjHbqnNlvPfptT",
+        "title": "NASTY",
+        "artist": "Ufo361",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02233d733fd75872b617bdb8ad",
+        "url": "https://open.spotify.com/album/1xXuANR6HjHbqnNlvPfptT",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5b3qWLuFRWqqZvlVnaapaG",
+        "title": "عفريت دايرتي ( في مجلة ميكي كلكو )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217d3991626f3abf41d856c7b",
+        "url": "https://open.spotify.com/album/5b3qWLuFRWqqZvlVnaapaG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4tNpNBsMBNejVHNbkYqMaJ",
+        "title": "Half My Life",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026df1d152a429c8b9c3e06cf6",
+        "url": "https://open.spotify.com/album/4tNpNBsMBNejVHNbkYqMaJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2epTbaecUsR9h79XHQ16co",
+        "title": "A Reason",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02836bb4c607707ba3901fd2a0",
+        "url": "https://open.spotify.com/album/2epTbaecUsR9h79XHQ16co",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NxXW41SrBER6HNRbFZJ25",
+        "title": "Tarada Toma",
+        "artist": "Yuri Redicopa, Mc Elison SP, DJ Vida Incrivel",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9131aaf0c5afd25f7744a9f",
+        "url": "https://open.spotify.com/album/2NxXW41SrBER6HNRbFZJ25",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-24": [
+      {
+        "id": "07fSu4bKsacHu4z96zCtMT",
+        "title": "PITALE",
+        "artist": "Dowba Montana",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0220fb77217aef9b0856f527ba",
+        "url": "https://open.spotify.com/album/07fSu4bKsacHu4z96zCtMT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3rCATxMlWUGHKw5DTBJhrO",
+        "title": "Hotel I Party",
+        "artist": "Voyage",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0228d351274a7cf83260e6c233",
+        "url": "https://open.spotify.com/album/3rCATxMlWUGHKw5DTBJhrO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "42Ozuzf4mWqHqLyRTA3wcy",
+        "title": "I Miss You Every Brand New Day (From \"Spider-Man: Brand New Day\" Movie)",
+        "artist": "For Revenge",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0d4094bb677c12cfe9e37cf",
+        "url": "https://open.spotify.com/album/42Ozuzf4mWqHqLyRTA3wcy",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4Pt9F2Dq29tnMjOUnRlmmp",
+        "title": "Sanam Teri Kasam (Original Motion Picture Soundtrack / Remastered)",
+        "artist": "R. D. Burman, Gulshan Bawra",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021defe8fd7f05b8e8c8ce051a",
+        "url": "https://open.spotify.com/album/4Pt9F2Dq29tnMjOUnRlmmp",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "22lpKJXnJAiRHXhzWcLbO4",
+        "title": "KOI SUM KAI SUM",
+        "artist": "MOMO RECORDS",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5c62ba0bc3b662979cc12da",
+        "url": "https://open.spotify.com/album/22lpKJXnJAiRHXhzWcLbO4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6aEBnBIfPvLSedFSC3UjRJ",
+        "title": "AMENITY",
+        "artist": "Snow Man",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d7561e5bbaa5145533cac1d1",
+        "url": "https://open.spotify.com/album/6aEBnBIfPvLSedFSC3UjRJ",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "0V2WcO985KMTwuBCFrbmYE",
+        "title": "Raja's Playlist Teaser Theme Music (From \"Raja's Playlist\")",
+        "artist": "Ilaiyaraaja, Yuvan Shankar Raja",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfee900c05e1502909829079",
+        "url": "https://open.spotify.com/album/0V2WcO985KMTwuBCFrbmYE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5VoESWODoLuzUxnlrtZ3kj",
+        "title": "Цілуй",
+        "artist": "Kolibri",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8a80c2315a38303fc495f39",
+        "url": "https://open.spotify.com/album/5VoESWODoLuzUxnlrtZ3kj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Hcyse9Px0jbnWrXacn6iS",
+        "title": "Vreau să beau (Afro House Remix)",
+        "artist": "Leo de la Kuweit, Manele VTM",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9b00da36a5b0011fc99b0db",
+        "url": "https://open.spotify.com/album/2Hcyse9Px0jbnWrXacn6iS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6SlozVh3AWRs85aq6sKebu",
+        "title": "Leave It Behind",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265114a944fd2dbef9d0bd3a6",
+        "url": "https://open.spotify.com/album/6SlozVh3AWRs85aq6sKebu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DzzwtO1ycZcJkYWwGuK2N",
+        "title": "Thhori Der Hor Thhehr Ja (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e63b030f622c34d5d3fd1b4",
+        "url": "https://open.spotify.com/album/6DzzwtO1ycZcJkYWwGuK2N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2v9MMRuccd01pHbtZmRYlT",
+        "title": "THE SIN : BLISS (JUNGWON Ver.)",
+        "artist": "ENHYPEN",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f50a951ab884ba1c2fb3e854",
+        "url": "https://open.spotify.com/album/2v9MMRuccd01pHbtZmRYlT",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6M0icjGGD0SJYYAqOGjgFS",
+        "title": "THE SIN : BLISS (SUNOO Ver.)",
+        "artist": "ENHYPEN",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028203cc1a69922491fa6e94e5",
+        "url": "https://open.spotify.com/album/6M0icjGGD0SJYYAqOGjgFS",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "4KMdztcskDA8eTVRDR6roe",
+        "title": "THE SIN : BLISS (JAKE Ver.)",
+        "artist": "ENHYPEN",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e5f8482eb17843840fd8173",
+        "url": "https://open.spotify.com/album/4KMdztcskDA8eTVRDR6roe",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "4kAI7MNUqDDcW7vwjvoy72",
+        "title": "THE SIN : BLISS (NI-KI Ver.)",
+        "artist": "ENHYPEN",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02167fa71a619e9a78a629e66e",
+        "url": "https://open.spotify.com/album/4kAI7MNUqDDcW7vwjvoy72",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "3UEUirHyrHciEcd589D0td",
+        "title": "THE SIN : BLISS (SUNGHOON Ver.)",
+        "artist": "ENHYPEN",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ba2da1529e72e7fe13de423",
+        "url": "https://open.spotify.com/album/3UEUirHyrHciEcd589D0td",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6nvN59P9vZ3XBtv7eWN70w",
+        "title": "THE SIN : BLISS (JAY Ver.)",
+        "artist": "ENHYPEN",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020005cb9bd3e4452aad510eef",
+        "url": "https://open.spotify.com/album/6nvN59P9vZ3XBtv7eWN70w",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "1mVCYkZNfDJhwpjbgFtcLu",
+        "title": "MACETE COM A TCHECA",
+        "artist": "MC Nito, MENOO DH, DJ ZITO, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230d005d9acd64000041b98a1",
+        "url": "https://open.spotify.com/album/1mVCYkZNfDJhwpjbgFtcLu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0BnHXSnNawsDlcHoHcw0N7",
+        "title": "Ocean Breezes - Music for an Offshore Voyage",
+        "artist": "Wolfgang Amadeus Mozart, Frédéric Chopin, Johann Sebastian Bach, Ludwig van Beethoven, Claude Debussy, Adolphe Adam, Alexander Borodin, Alexander Glazunov, Alexander Scriabin, Alexander von Zemlinsky",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02664c3f37d1860a4d7fb6e9c1",
+        "url": "https://open.spotify.com/album/0BnHXSnNawsDlcHoHcw0N7",
+        "total_tracks": 146,
+        "genres": []
+      },
+      {
+        "id": "7v8OROvbjG8Mid61AbyKsR",
+        "title": "Mēs no DAILES",
+        "artist": "GraBulis",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8b85f8f20d2ad1511b10f82",
+        "url": "https://open.spotify.com/album/7v8OROvbjG8Mid61AbyKsR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Sju7W6KDqbDtsEXvK21hC",
+        "title": "Imbierek int",
+        "artist": "Karm Debattista Mssp",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f79f1f5ceb3e5813723c75da",
+        "url": "https://open.spotify.com/album/6Sju7W6KDqbDtsEXvK21hC",
         "total_tracks": 1,
         "genres": []
       }
