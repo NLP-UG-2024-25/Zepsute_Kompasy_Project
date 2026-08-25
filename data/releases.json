@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-24T06:55:46.520Z",
-  "total": 3138,
+  "fetched_at": "2026-08-25T06:43:21.585Z",
+  "total": 3166,
   "by_date": {
     "2026-05-15": [
       {
@@ -34478,6 +34478,17 @@
         "url": "https://open.spotify.com/album/2NxXW41SrBER6HNRbFZJ25",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7hItW64BTnEvoGHXjltcXK",
+        "title": "Svakalega Sexý",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c49dacc7d58b25360085c8c",
+        "url": "https://open.spotify.com/album/7hItW64BTnEvoGHXjltcXK",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-24": [
@@ -34709,6 +34720,305 @@
         "release_date": "2026-08-24",
         "image": "https://i.scdn.co/image/ab67616d00001e02f79f1f5ceb3e5813723c75da",
         "url": "https://open.spotify.com/album/6Sju7W6KDqbDtsEXvK21hC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2g6XbbyPIPRMa2P1ildhza",
+        "title": "serena joy",
+        "artist": "Olivia Rodrigo",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aeb1724f09a75effb3879bf8",
+        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "68StQRtOUcywtJN19YKfcZ",
+        "title": "Send Shots",
+        "artist": "Rudimental, Original Koffee, Winny",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e023aeb63110f653e95f2745242",
+        "url": "https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6q3fsRJeID2rKGgHRF8Uh3",
+        "title": "Monday Afternoon",
+        "artist": "Dionela",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c67512e0fd0b6e8bf8f243c6",
+        "url": "https://open.spotify.com/album/6q3fsRJeID2rKGgHRF8Uh3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "310oP2yzQUQOBf3GV9q0p4",
+        "title": "Mahboubi",
+        "artist": "Wael Kfoury",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8e414ea17172bb52bacaf18",
+        "url": "https://open.spotify.com/album/310oP2yzQUQOBf3GV9q0p4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3y1lZHPTTC0KA6QejRh5hH",
+        "title": "Eri Naam Prem (Original Motion Picture Soundtrack)",
+        "artist": "Sonu Nigam, Jolly Mukherjee, Jeet Gannguli",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288039fb996f380f6c55ec643",
+        "url": "https://open.spotify.com/album/3y1lZHPTTC0KA6QejRh5hH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4Dqp0AYq5QNcuhrQKFglFP",
+        "title": "lowa seni seviyorum",
+        "artist": "CRUSH",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026671009ed7a10e409deb2d73",
+        "url": "https://open.spotify.com/album/4Dqp0AYq5QNcuhrQKFglFP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zeIVZ5GdSxbDocLKktxCl",
+        "title": "Haqeeqat",
+        "artist": "Pawan Singh",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02beb864bf2cbbe0c76509d59a",
+        "url": "https://open.spotify.com/album/2zeIVZ5GdSxbDocLKktxCl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qKjtx3yu8HMRUIT0tPFkc",
+        "title": "Exclusive",
+        "artist": "DILLAN",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f54045b052d8c1fd3fe7708",
+        "url": "https://open.spotify.com/album/5qKjtx3yu8HMRUIT0tPFkc",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2fKTvk10Z4OzMXHVAEix5J",
+        "title": "Mon Amar Sudhu Tomar (Original Motion Picture Soundtrack)",
+        "artist": "Javed Ali, Shahid",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6a66884f970658d174f8656",
+        "url": "https://open.spotify.com/album/2fKTvk10Z4OzMXHVAEix5J",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1UbfZkwgxzPUjHQoJDYBiu",
+        "title": "Tomay Bhalobeshechhi (From \"Aamar Mayer Shapath\") - Single",
+        "artist": "Udit Narayan, Pomila",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207fe940c3eb1ccf12ec95b78",
+        "url": "https://open.spotify.com/album/1UbfZkwgxzPUjHQoJDYBiu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26dvxCzAbBhM6bHx8xKZyW",
+        "title": "Ekhane Shudhu Ami - Duet Version (From \"Rajmahal\") - Single",
+        "artist": "Udit Narayan, Anuradha Paudwal",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd0c52f39055fb7e8a86022b",
+        "url": "https://open.spotify.com/album/26dvxCzAbBhM6bHx8xKZyW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6HYTwHcRSPOzSBFwz0p9YK",
+        "title": "Plan",
+        "artist": "Drill, Reta",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02000085030a8e56efb0d51a6b",
+        "url": "https://open.spotify.com/album/6HYTwHcRSPOzSBFwz0p9YK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4DCHaVbna69RgDIBh6hOFk",
+        "title": "Ogo Sathi Amar - Male Version (From \"Mahaguru\") - Single",
+        "artist": "Kumar Sanu",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252a204c7cdb07e4b388c6d92",
+        "url": "https://open.spotify.com/album/4DCHaVbna69RgDIBh6hOFk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44kvnCrnu42rsR3j5cdzWT",
+        "title": "Shukh Jodi Eshechhile (From \"Criminal\") - Single",
+        "artist": "Kumar Sanu",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b790435ff25c08b4fdada70",
+        "url": "https://open.spotify.com/album/44kvnCrnu42rsR3j5cdzWT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Gi9OwSugn37Lsi1A5tCzr",
+        "title": "Kíkja í pakann",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c6903f7854bbf7612c4fdbe",
+        "url": "https://open.spotify.com/album/2Gi9OwSugn37Lsi1A5tCzr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Q1dwkdmlyvCk9HTjNJAYj",
+        "title": "N.E.K.O.",
+        "artist": "Starins",
+        "type": "album",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab0eff5943ab2a042d492aa1",
+        "url": "https://open.spotify.com/album/0Q1dwkdmlyvCk9HTjNJAYj",
+        "total_tracks": 7,
+        "genres": []
+      }
+    ],
+    "2026-08-25": [
+      {
+        "id": "3TitwHbdEHxzKJiWNmlxzG",
+        "title": "No Son Como Nosotros (EN VIVO)",
+        "artist": "Rochy RD, Zofoke VAMO A ETO",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02453007270fb16cc421b58ccf",
+        "url": "https://open.spotify.com/album/3TitwHbdEHxzKJiWNmlxzG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2OT8CkIbkLtyClN4fMlTLP",
+        "title": "Pronta pro Combate",
+        "artist": "Mc Pedrinho, DJ Granette",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7fb84d3bbe85a18c3d401bd",
+        "url": "https://open.spotify.com/album/2OT8CkIbkLtyClN4fMlTLP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6tKALhYWbeArLAgzTblz6n",
+        "title": "Всім своїм (Із к/ф \"Готель \"Соколине сяйво\"\")",
+        "artist": "Parfeniuk",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246abdcb3f2447072b3296a94",
+        "url": "https://open.spotify.com/album/6tKALhYWbeArLAgzTblz6n",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xcBs8B1DzYXUmG7h9Rtjj",
+        "title": "昨天，今天",
+        "artist": "Karen Mok",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200682d5e25eff511666aa56c",
+        "url": "https://open.spotify.com/album/4xcBs8B1DzYXUmG7h9Rtjj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1c9b7QWsEeM1PJxRsR7eVt",
+        "title": "Are Hlomphane",
+        "artist": "Natiey Lepaka",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d723619fc6368f04073a01ec",
+        "url": "https://open.spotify.com/album/1c9b7QWsEeM1PJxRsR7eVt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5EmUhczxGhp9XTLnPBsMG7",
+        "title": "Покажи доріженька",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d45c354714dd21ecf9f1df9a",
+        "url": "https://open.spotify.com/album/5EmUhczxGhp9XTLnPBsMG7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3dOwV91Y3BPu0GAkL2ZDTj",
+        "title": "Känguru",
+        "artist": "Schwiizergoofe",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a49784a9be321f8a6106862c",
+        "url": "https://open.spotify.com/album/3dOwV91Y3BPu0GAkL2ZDTj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6evjIqKReXz0Zm9E4nIH3R",
+        "title": "COLLEDG",
+        "artist": "Sjakklubb, Smokken",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0bbc1c9e3f267fb3951e0f5",
+        "url": "https://open.spotify.com/album/6evjIqKReXz0Zm9E4nIH3R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qmKByYCe2ysGVfuF3a6mh",
+        "title": "マジカルスターシャインメイクアップ☆ - From THE FIRST TAKE",
+        "artist": "Kana Nishino",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273f23c151d07026b48d5ff91",
+        "url": "https://open.spotify.com/album/2qmKByYCe2ysGVfuF3a6mh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08NUAfwE9Q7ICcYUC3Fc6o",
+        "title": "会いたくて 会いたくて - From THE FIRST TAKE",
+        "artist": "Kana Nishino",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a070cbba3877313c5b8bf41c",
+        "url": "https://open.spotify.com/album/08NUAfwE9Q7ICcYUC3Fc6o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0TZsDdPE0OrTPyPgm5NTpM",
+        "title": "Intrigante",
+        "artist": "Dj Krankenwagen",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5b67b18fe9fa7c5053bad0f",
+        "url": "https://open.spotify.com/album/0TZsDdPE0OrTPyPgm5NTpM",
         "total_tracks": 1,
         "genres": []
       }
