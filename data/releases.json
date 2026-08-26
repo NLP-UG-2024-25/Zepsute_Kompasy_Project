@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-25T06:43:21.585Z",
-  "total": 3166,
+  "fetched_at": "2026-08-26T06:46:43.186Z",
+  "total": 3205,
   "by_date": {
     "2026-05-15": [
       {
@@ -32919,6 +32919,17 @@
         "url": "https://open.spotify.com/album/2imJzh6sZCwqMic69YWBrw",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5CZmhlen4SSeTm9Vo2RWcg",
+        "title": "It's Important to Reflect",
+        "artist": "Red_Neb",
+        "type": "album",
+        "release_date": "2026-08-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fdb909ae151f9551710939da",
+        "url": "https://open.spotify.com/album/5CZmhlen4SSeTm9Vo2RWcg",
+        "total_tracks": 13,
+        "genres": []
       }
     ],
     "2026-08-21": [
@@ -34898,6 +34909,116 @@
         "url": "https://open.spotify.com/album/0Q1dwkdmlyvCk9HTjNJAYj",
         "total_tracks": 7,
         "genres": []
+      },
+      {
+        "id": "7hgwwDIBJe548XPBJ0zIuq",
+        "title": "Radhimaa (From \"Think Indie\")",
+        "artist": "Sai Abhyankkar, Nargis Teji, Asma Teji, Vivek",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f63daf1ceb765b962560ff3",
+        "url": "https://open.spotify.com/album/7hgwwDIBJe548XPBJ0zIuq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1PqWyuOam9bq12KaXsK6HB",
+        "title": "Aap Humari Jaan Ban Gaye",
+        "artist": "Mithoon, Vishal Mishra, Asees Kaur",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f802c4da8f73a06eb04a69e",
+        "url": "https://open.spotify.com/album/1PqWyuOam9bq12KaXsK6HB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0gnNzU2rtGoVUCc3SPiKff",
+        "title": "Que Hiciste",
+        "artist": "Luis Brown",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281d2560277d83c10df64488d",
+        "url": "https://open.spotify.com/album/0gnNzU2rtGoVUCc3SPiKff",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0d9IJo6tl5zyCK67rJsgng",
+        "title": "Ander Da Kutta",
+        "artist": "Vishal Dadlani, Amit Trivedi",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3bdd289694cf6a19d66cc44",
+        "url": "https://open.spotify.com/album/0d9IJo6tl5zyCK67rJsgng",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0PAo5naYJSjvsDA60qx77u",
+        "title": "سهل اني اكسر نفسك (بكيفك وكيف كيف كيفك)",
+        "artist": "Eslam Kabonga",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d2d1bb6091d289525a192d7",
+        "url": "https://open.spotify.com/album/0PAo5naYJSjvsDA60qx77u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HwNkQ7Tan1uO5rhA1dtld",
+        "title": "Facile Macile",
+        "artist": "Cheb Nassim",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02682d6099427bfc97daf5ac88",
+        "url": "https://open.spotify.com/album/2HwNkQ7Tan1uO5rhA1dtld",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "640oNlUNCHF5YjSPkatlFS",
+        "title": "Galou tbat bra",
+        "artist": "Cheba Souad",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0148ca235ed3710a3bab9dc",
+        "url": "https://open.spotify.com/album/640oNlUNCHF5YjSPkatlFS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DLMfn8X7cjBBrV5CgA5cx",
+        "title": "Ghadi Nejbed Men Milieux (Live)",
+        "artist": "Bilal Sghir",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205285737463445518fa56c3d",
+        "url": "https://open.spotify.com/album/2DLMfn8X7cjBBrV5CgA5cx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "15YpkskAK3DoEvsQ8Ew67a",
+        "title": "Mera Dil Tere Pyaar Mein",
+        "artist": "Kumar Sanu, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6ff994d2713a7baaf3c21ea",
+        "url": "https://open.spotify.com/album/15YpkskAK3DoEvsQ8Ew67a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2UbAbRepYjRxtl45PWbqC9",
+        "title": "I Attract Wealth",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9c6443ea41f1ceabf893f28",
+        "url": "https://open.spotify.com/album/2UbAbRepYjRxtl45PWbqC9",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-25": [
@@ -35019,6 +35140,316 @@
         "release_date": "2026-08-25",
         "image": "https://i.scdn.co/image/ab67616d00001e02d5b67b18fe9fa7c5053bad0f",
         "url": "https://open.spotify.com/album/0TZsDdPE0OrTPyPgm5NTpM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "33rxXe2Uf426Us5eJUzcNW",
+        "title": "Afsaana Banaaya Aapne (From \"Gun Maaster G9\") (Resonance)",
+        "artist": "Himesh Reshammiya",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027718efd0a8ea35048d5b8dcb",
+        "url": "https://open.spotify.com/album/33rxXe2Uf426Us5eJUzcNW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NyHAm70HZj8zhzoGj2kSV",
+        "title": "CORAÇÃO MALUCO",
+        "artist": "DJ Oreia, Mc IG, MC GP, MC Marks",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275c79b01c9acc1ac97ca29dc",
+        "url": "https://open.spotify.com/album/2NyHAm70HZj8zhzoGj2kSV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5eHTzkiuEXeufk22XAnzJa",
+        "title": "8",
+        "artist": "PATEKO, Choi Seong",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bad712e121bf806e3fd4c9d6",
+        "url": "https://open.spotify.com/album/5eHTzkiuEXeufk22XAnzJa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CnRtsyyJaf6J6PVGxgQyh",
+        "title": "شخص تاني (من فيلم محمود التانى)",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cb0386b7acb4a4a814b581b",
+        "url": "https://open.spotify.com/album/7CnRtsyyJaf6J6PVGxgQyh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0wMIZ7J5UNuuMpIMgQbniK",
+        "title": "WHO YOU ARE? (ตะโกน!)",
+        "artist": "ASIA7",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ca2a4ee384c80fdb6608fb0",
+        "url": "https://open.spotify.com/album/0wMIZ7J5UNuuMpIMgQbniK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7EHjqv4Eu3nt81MgZoNh9Y",
+        "title": "GIŃ ZA MNIE",
+        "artist": "Otsochodzi, lohleq",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aaac7229086daaa0ab69b134",
+        "url": "https://open.spotify.com/album/7EHjqv4Eu3nt81MgZoNh9Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6YqSjD3nf6hVrXa5JKdEuj",
+        "title": "Corazón Infiel (En Vivo)",
+        "artist": "Ulises Bueno",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226d2be59f71fa817b7eb390f",
+        "url": "https://open.spotify.com/album/6YqSjD3nf6hVrXa5JKdEuj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4b4hsCfyJEbVnlkP9ss4Yn",
+        "title": "שירת חיי",
+        "artist": "Sarit Hadad",
+        "type": "album",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e023658fd433c2c6c8d687b44d8",
+        "url": "https://open.spotify.com/album/4b4hsCfyJEbVnlkP9ss4Yn",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "07qwmLPLYw1jJr2ma4gXuK",
+        "title": "Đôi Mi Chẳng Ướt (with Negav)",
+        "artist": "Pháp Kiều, Negav",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020eb72291219243dc73a85f43",
+        "url": "https://open.spotify.com/album/07qwmLPLYw1jJr2ma4gXuK",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3VFPTuFy8M9vOTQsI1xW2Y",
+        "title": "معرفش عيد وانت بعيد ( تقدر تقول ماشي باصول )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021681099d6ebfac5377094856",
+        "url": "https://open.spotify.com/album/3VFPTuFy8M9vOTQsI1xW2Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18aK8ACV0UkinLH1CUWToa",
+        "title": "Let´s Go",
+        "artist": "Summer Cem",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0215e4b7d6f1ee3dcf17f1781a",
+        "url": "https://open.spotify.com/album/18aK8ACV0UkinLH1CUWToa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Yj7RAYDsGCcb06sm7sb3m",
+        "title": "Sunburst",
+        "artist": "RIIZE",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2ec1c9752322acfd282b4fe",
+        "url": "https://open.spotify.com/album/0Yj7RAYDsGCcb06sm7sb3m",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5H2ehOYYU4GiPuSNhLTyiL",
+        "title": "يسـألوا عنك",
+        "artist": "Mohamed Mounir",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0294c666e7556b58353b20e193",
+        "url": "https://open.spotify.com/album/5H2ehOYYU4GiPuSNhLTyiL",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-26": [
+      {
+        "id": "2IZRTt70Ri8I5G9clDfJEO",
+        "title": "Silip",
+        "artist": "Adie",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7952985d1538a0970138a08",
+        "url": "https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50zFt2TgGXsfDnf6W0gYys",
+        "title": "YoYo",
+        "artist": "Joshua Baraka",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b31c991aa3cad016c08b2173",
+        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7HiYt8N8x3zvrAjNaoxbvx",
+        "title": "ขี้แง (Boys Don't Cry) [Another Session PROXIE X SAUCE BKK]",
+        "artist": "PROXIE",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd76deae24286e6de279cc67",
+        "url": "https://open.spotify.com/album/7HiYt8N8x3zvrAjNaoxbvx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6NR3x6Epq5M7f07qkzaOMr",
+        "title": "Healing",
+        "artist": "Phyno",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025fa49c50f1a60f74f17aa233",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7zaKraS3qvdF3SQClTXRMZ",
+        "title": "Paraíso da Pretenção Impossível",
+        "artist": "Mc IG, Mc Thales 4M, Gubeatz, DJ Hyago",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211d41439790e24c46388db21",
+        "url": "https://open.spotify.com/album/7zaKraS3qvdF3SQClTXRMZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BE9BCipCOJ3URXXyWUTNo",
+        "title": "Adam",
+        "artist": "Pamungkas",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e020eff5c00a3498aab5d1e60c4",
+        "url": "https://open.spotify.com/album/4BE9BCipCOJ3URXXyWUTNo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2lGyzFZJWQ1l7lkUDnGn6t",
+        "title": "Conexão Funk: SP x RJ x BH",
+        "artist": "MC Tuto, MC Kevin o Chris, GORDÃO DO PC",
+        "type": "compilation",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253616fc27e3447f7d618d087",
+        "url": "https://open.spotify.com/album/2lGyzFZJWQ1l7lkUDnGn6t",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "6plj5TlnaY3rCX0wDoulQc",
+        "title": "August 26",
+        "artist": "Post Malone",
+        "type": "album",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c74f1b6b6aca1217a9bb8943",
+        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4YdCEB8fSXfRuxN6xucQwt",
+        "title": "ผลข้างเคียง (Love Effects)",
+        "artist": "Ink Waruntorn",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277704e6d266e70b8ad9f75da",
+        "url": "https://open.spotify.com/album/4YdCEB8fSXfRuxN6xucQwt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6CAUCuwfvTGy5hfWjrYlJQ",
+        "title": "恋、はじめました。",
+        "artist": "=LOVE",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c44396d0fd4fd8de3858faf0",
+        "url": "https://open.spotify.com/album/6CAUCuwfvTGy5hfWjrYlJQ",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5XFfuWZKrakFaMtKIkMTwc",
+        "title": "SOLIDE",
+        "artist": "Genezio",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223b93c3515cc1d4f4e4d5d49",
+        "url": "https://open.spotify.com/album/5XFfuWZKrakFaMtKIkMTwc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03kIZb2D0dQmlyrQnGwsgm",
+        "title": "Semiluna",
+        "artist": "Babasha",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218ed7230f0e4aa4cd78a8c39",
+        "url": "https://open.spotify.com/album/03kIZb2D0dQmlyrQnGwsgm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3NENjjJPVWcqTTZBCs4yFS",
+        "title": "Chapa na Madrugada",
+        "artist": "Mc Kadu, Mc Don Juan, MC Neguin da 20, MC Kadinho",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02547e9440026af4a0e18286ce",
+        "url": "https://open.spotify.com/album/3NENjjJPVWcqTTZBCs4yFS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0xX14LV8P8ZI2GZZNjHsqx",
+        "title": "TWICE BEST ALBUM「#BEST 2015-2025」 (Japanese ver.)",
+        "artist": "TWICE",
+        "type": "compilation",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c8e29b16731f4f235b7b8f5",
+        "url": "https://open.spotify.com/album/0xX14LV8P8ZI2GZZNjHsqx",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "3Ww3NeU8SH826XGKm3D3yw",
+        "title": "Ambitny Twórca",
+        "artist": "Bonus RPK, O.S.T.R., KRS-One, DJ HWR",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf5af47edb37a6302ccaa44c",
+        "url": "https://open.spotify.com/album/3Ww3NeU8SH826XGKm3D3yw",
         "total_tracks": 1,
         "genres": []
       }
