@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-26T06:46:43.186Z",
-  "total": 3205,
+  "fetched_at": "2026-08-27T17:21:23.121Z",
+  "total": 3258,
   "by_date": {
     "2026-05-15": [
       {
@@ -33713,6 +33713,17 @@
         "url": "https://open.spotify.com/album/3CtCK7x93pjgkZzUkjE9T7",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0N1xP9sFvFFeOi157S7eQn",
+        "title": "Forevermore",
+        "artist": "Mia Lanzon",
+        "type": "single",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02498526aba6e78bf02884e1f7",
+        "url": "https://open.spotify.com/album/0N1xP9sFvFFeOi157S7eQn",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-20": [
@@ -35019,6 +35030,17 @@
         "url": "https://open.spotify.com/album/2UbAbRepYjRxtl45PWbqC9",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6XgW9Fw1bsyou751fPNyXE",
+        "title": "Fortune Finds Me",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a8dbbdbf7a2be8b13498a6f",
+        "url": "https://open.spotify.com/album/6XgW9Fw1bsyou751fPNyXE",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-25": [
@@ -35450,6 +35472,571 @@
         "release_date": "2026-08-26",
         "image": "https://i.scdn.co/image/ab67616d00001e02bf5af47edb37a6302ccaa44c",
         "url": "https://open.spotify.com/album/3Ww3NeU8SH826XGKm3D3yw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0pmGnlSL15kAFrftVmfPsx",
+        "title": "Bloody Paradise (English Ver.) (Feat. Luísa Sonza)",
+        "artist": "ENHYPEN, Luísa Sonza",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02047400b851d961872fced03a",
+        "url": "https://open.spotify.com/album/0pmGnlSL15kAFrftVmfPsx",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "65MjEtYWhPJ320kJE1NrIc",
+        "title": "That's Just Me",
+        "artist": "Riley Green",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ccb1e461a225504c4c12e9e",
+        "url": "https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4CQt7a2x2cDrZEuygB2IHC",
+        "title": "Taiobeiras (folha grande)",
+        "artist": "Marina Sena",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a00ed86c55e908005bf558a",
+        "url": "https://open.spotify.com/album/4CQt7a2x2cDrZEuygB2IHC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6CDSg44HrSEctXd3TU3kWV",
+        "title": "Raanjhan Remix",
+        "artist": "Sachet-Parampara, Parampara Tandon, Kausar Munir, DJ Ankur",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a722545c0580eb940fffa4",
+        "url": "https://open.spotify.com/album/6CDSg44HrSEctXd3TU3kWV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QfA7CzzOMVpj5aVMGGLbF",
+        "title": "Nogha",
+        "artist": "Haifa Wehbe",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02222a0b2dacb45e85d57c30c2",
+        "url": "https://open.spotify.com/album/6QfA7CzzOMVpj5aVMGGLbF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2uwhoQabKL48rUr0dpvWsZ",
+        "title": "Mente do Bandido (feat. Melt77)",
+        "artist": "Boladin 211, Bielzin, MC Rick, Mc Rodson",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02131074efcee379574f36f318",
+        "url": "https://open.spotify.com/album/2uwhoQabKL48rUr0dpvWsZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2mlYsmMWzrmpojFUVhQ6jS",
+        "title": "Shyama Aan Baso",
+        "artist": "Jubin Nautiyal, Manoj Muntashir, Raaj Aashoo",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5dcf9c9ea47fac4be698347",
+        "url": "https://open.spotify.com/album/2mlYsmMWzrmpojFUVhQ6jS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oiqrQ9EoE8hcOJFlBItN9",
+        "title": "Medley #001",
+        "artist": "Zé Felipe",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256d148c0af10fedec64ff220",
+        "url": "https://open.spotify.com/album/1oiqrQ9EoE8hcOJFlBItN9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ly0cvZ4sfNubp4hyOoe0z",
+        "title": "ยอมหมดใจ (To Be Fair) [From Fairway of Love รักออกรอบ]",
+        "artist": "BOWKYLION",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1dbf92a391e038eb5d3a588",
+        "url": "https://open.spotify.com/album/7ly0cvZ4sfNubp4hyOoe0z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1s70dAtNGUddM6SeTeY7A5",
+        "title": "Chaos",
+        "artist": "Apache 207",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e021670c2b0100e1edb19d888a8",
+        "url": "https://open.spotify.com/album/1s70dAtNGUddM6SeTeY7A5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ELCPcCQRvuC9cV4WMOBYG",
+        "title": "i REVOLUTION",
+        "artist": "iLiFE!, Fear, and Loathing in Las Vegas",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02039ad4057171d663e8a487c5",
+        "url": "https://open.spotify.com/album/2ELCPcCQRvuC9cV4WMOBYG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5oEY7qOdeJPvB02EwK4Jvp",
+        "title": "Langit Merah Muda (Original Soundtrack from 'Agensi Rumah Tangga')",
+        "artist": "Afgan",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027204093ab6cbc6b6004fa5c3",
+        "url": "https://open.spotify.com/album/5oEY7qOdeJPvB02EwK4Jvp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0lKQ8I7aQaGHdWnsyJDwgp",
+        "title": "not the words",
+        "artist": "Whatcharawalee",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b3fef5f766c8bb6317754f9",
+        "url": "https://open.spotify.com/album/0lKQ8I7aQaGHdWnsyJDwgp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0azq9ZozxB9pULKAebjlg1",
+        "title": "Tự",
+        "artist": "Thịnh Suy, Lazii",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e029850313d31b676c7414d0bb3",
+        "url": "https://open.spotify.com/album/0azq9ZozxB9pULKAebjlg1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yAkRP95MnetxqZqDc6lme",
+        "title": "Red Bull Weiss",
+        "artist": "Amo",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276b080f4a7343c23a4479696",
+        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "61b1NDNuPDXSMXaqJHrqid",
+        "title": "พระจันทร์ที่ไม่เต็มดวง",
+        "artist": "KLEAR",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291c29c0470d6fb36f2deb89b",
+        "url": "https://open.spotify.com/album/61b1NDNuPDXSMXaqJHrqid",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "683CyNFfE0yGYDiGnn5Fze",
+        "title": "موال اقرب ماليا مشمتين فيا الغريب",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1e0aa5b762900c6ab4b2c8c",
+        "url": "https://open.spotify.com/album/683CyNFfE0yGYDiGnn5Fze",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1K0xTETNsIPbRfphohZmW1",
+        "title": "Mortel",
+        "artist": "Djalil Palermo, Phobia Isaac",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02258875edfb50d27f13a93307",
+        "url": "https://open.spotify.com/album/1K0xTETNsIPbRfphohZmW1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6UpnREhzFqJjLyNUOT9KRR",
+        "title": "Spotify Carnival Sounds",
+        "artist": "Shenseea",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9a127c9f937400c59943de8",
+        "url": "https://open.spotify.com/album/6UpnREhzFqJjLyNUOT9KRR",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0cA8CJGC0piSQVutbbnSCS",
+        "title": "Gone Too Far (feat. Debbie)",
+        "artist": "Chase & Status, Debbie",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fdcfe84174351f9973908b6",
+        "url": "https://open.spotify.com/album/0cA8CJGC0piSQVutbbnSCS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "05GPqTPwPe9SFsZe89OVj3",
+        "title": "En Data",
+        "artist": "Italian Somali",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b55e3f619a35e0fb360f537a",
+        "url": "https://open.spotify.com/album/05GPqTPwPe9SFsZe89OVj3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5wqIPprGWI5UBDL6nrxutM",
+        "title": "Kanha aa Jaana",
+        "artist": "Udit Narayan, Shubham Agrawal",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec04dfcb4645e3d6005be0d2",
+        "url": "https://open.spotify.com/album/5wqIPprGWI5UBDL6nrxutM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2w1t1RPcZJgWsZEBHFFCVI",
+        "title": "Money Grows for Me",
+        "artist": "The Abundance Gate",
+        "type": "single",
+        "release_date": "2026-08-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025500e457a4f01d1824d583c7",
+        "url": "https://open.spotify.com/album/2w1t1RPcZJgWsZEBHFFCVI",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-27": [
+      {
+        "id": "57iGR84BHy4SlXzBYhLHfI",
+        "title": "The Ballad Of Terry Fox",
+        "artist": "Bryan Adams",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c41f879f17d9f869290fa493",
+        "url": "https://open.spotify.com/album/57iGR84BHy4SlXzBYhLHfI",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0BxECKDt2N9ls03VIC8qmr",
+        "title": "Si no le contesto",
+        "artist": "Yandel",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce3f5b79e955dc7b6f15505f",
+        "url": "https://open.spotify.com/album/0BxECKDt2N9ls03VIC8qmr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23mpLYp1CECNRnK9Xy7xgu",
+        "title": "A CRISTO SEJA A GLÓRIA",
+        "artist": "Julliany Souza, Gabriela Rocha",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282b63f06f988aaf984fac175",
+        "url": "https://open.spotify.com/album/23mpLYp1CECNRnK9Xy7xgu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5G7zRieZzU8aFQJiHxrwlU",
+        "title": "RICO",
+        "artist": "D-Block Europe, French Montana",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e6c4897795956305611ef1c",
+        "url": "https://open.spotify.com/album/5G7zRieZzU8aFQJiHxrwlU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0y63Fn0s0lWv1xAXDgScHH",
+        "title": "DÂN CHƠI DÂN CA",
+        "artist": "Phương Mỹ Chi, DTAP",
+        "type": "album",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218e7ed72e0d6d4747bba36f5",
+        "url": "https://open.spotify.com/album/0y63Fn0s0lWv1xAXDgScHH",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "54fEGQyEy3HEM2mimhBgjZ",
+        "title": "Big Plans",
+        "artist": "Dhanda Nyoliwala",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e89bd8ce5c6fc5a04106fc2c",
+        "url": "https://open.spotify.com/album/54fEGQyEy3HEM2mimhBgjZ",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5TvChx29MTUHYx9Xw9Hgnn",
+        "title": "Dantata",
+        "artist": "Zinoleesky",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02747d8ac3d890278f048bd627",
+        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QAsv9txdt2gdOKQ7OmkEG",
+        "title": "Bugie",
+        "artist": "Shiva",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202518e6574bdad039186474d",
+        "url": "https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oiN1KtjZd4ZN4BbaQUpXZ",
+        "title": "Let's Go / Sunset",
+        "artist": "Full Trunk, Pettra",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0215dca3512e001502617bb70f",
+        "url": "https://open.spotify.com/album/7oiN1KtjZd4ZN4BbaQUpXZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6POwamm5ofdjxPbpz5yljA",
+        "title": "Ghyiabk",
+        "artist": "Husam Al Rassam",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252237b11bba9b11d1ad5c50d",
+        "url": "https://open.spotify.com/album/6POwamm5ofdjxPbpz5yljA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6uqzygx33jbkCIrTzfAFOb",
+        "title": "חושב שאתה מסי (Dj Smiley Remix)",
+        "artist": "Noa Kirel, Dj Smiley",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02319159f88d373d666a388398",
+        "url": "https://open.spotify.com/album/6uqzygx33jbkCIrTzfAFOb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7uAdEJ4r2KmxNy8HoZ5iAG",
+        "title": "A Gente Separou (Ao Vivo)",
+        "artist": "Yan, Dilsinho",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f9dc4b9fac99de6cfe09719",
+        "url": "https://open.spotify.com/album/7uAdEJ4r2KmxNy8HoZ5iAG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Agu1qD7Tut7REbPqFjGZH",
+        "title": "Desperado",
+        "artist": "Sequento, Maka, Pancio",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b25e6d038b6659937f464df8",
+        "url": "https://open.spotify.com/album/5Agu1qD7Tut7REbPqFjGZH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hQLS35OdWHfHcRg5rE49t",
+        "title": "九點花 (鋼琴版)",
+        "artist": "Jesse T",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f79a53f0da63c1a4899c426",
+        "url": "https://open.spotify.com/album/3hQLS35OdWHfHcRg5rE49t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "31FakrQn9OoaZEVzQ4UwTZ",
+        "title": "Deus é Maravilhoso",
+        "artist": "Perera DJ",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284ce38ab7229e84ac5c99be6",
+        "url": "https://open.spotify.com/album/31FakrQn9OoaZEVzQ4UwTZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KfOFeChbBlDUbBAnkmueB",
+        "title": "Серенада",
+        "artist": "Medi",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2e842388b465d481067cbaf",
+        "url": "https://open.spotify.com/album/3KfOFeChbBlDUbBAnkmueB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1lQIjnHBgf4OTAKRkuIZZX",
+        "title": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
+        "artist": "Calin, CA$HANOVA BULHAR",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e608d15d04705e7bb8425f1",
+        "url": "https://open.spotify.com/album/1lQIjnHBgf4OTAKRkuIZZX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13YZD2lSOQDtPvonMaeB4E",
+        "title": "แค่คนคุย (Just Friends)",
+        "artist": "MEYOU",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263bec0488505946da507fd59",
+        "url": "https://open.spotify.com/album/13YZD2lSOQDtPvonMaeB4E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "05zhHUmxZtceGg2Gc1J5aN",
+        "title": "Bến Mẹ",
+        "artist": "Lâm Bảo Ngọc, Nguyễn Bá Phú Quý",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e028093e4d350d88de3dab479b9",
+        "url": "https://open.spotify.com/album/05zhHUmxZtceGg2Gc1J5aN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0rgjGVoe7SN7GgGkNOOAPx",
+        "title": "WAY2HIGH",
+        "artist": "Kazior, Lot808, Sieczko",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e024abd09f00eb6b062bce8780c",
+        "url": "https://open.spotify.com/album/0rgjGVoe7SN7GgGkNOOAPx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ys5KsyhClRIU2DF0TwJsx",
+        "title": "اطرب !",
+        "artist": "DEE PRODUCTION, 74 Original Suppa, NAZY",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240bbcf3c3cc7e77ac9b899c7",
+        "url": "https://open.spotify.com/album/2ys5KsyhClRIU2DF0TwJsx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Ruyntu766HQpUoEiM2xbS",
+        "title": "Raaton Mein Aana (From \"Vibe\")",
+        "artist": "Amit Trivedi, Kumaar",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ffc0043067b8608100abb88",
+        "url": "https://open.spotify.com/album/4Ruyntu766HQpUoEiM2xbS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5dH8jFRtcEeYN2DtCqIDTd",
+        "title": "RAUNSÆR",
+        "artist": "Izleifur",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249766586e174f9c4b554350d",
+        "url": "https://open.spotify.com/album/5dH8jFRtcEeYN2DtCqIDTd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5x9HxD0DKKhjOa5QaPTk5Z",
+        "title": "MHD FLASHBACK",
+        "artist": "Gleb",
+        "type": "album",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02758073436a8a9805bbc7ad44",
+        "url": "https://open.spotify.com/album/5x9HxD0DKKhjOa5QaPTk5Z",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "19D2E2n4tigW6HVZKfJgCU",
+        "title": "KoK",
+        "artist": "HYUKOH, Yu Su",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae5dc074c3e11c3f2488675e",
+        "url": "https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-28": [
+      {
+        "id": "2rhs0Xx0DaRl3JYsxyarpz",
+        "title": "Up and Down（快照 Demo）",
+        "artist": "Jason Chan, Jay Fung",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a80ea00c03c6d29b24a3d22",
+        "url": "https://open.spotify.com/album/2rhs0Xx0DaRl3JYsxyarpz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wsEJfRBeIgxTka8xHvZsw",
+        "title": "混帳",
+        "artist": "Pakho Chau",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269f0a81e8d637dc1a6aabe64",
+        "url": "https://open.spotify.com/album/6wsEJfRBeIgxTka8xHvZsw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7wJ9FUg102EIWYaFytKSkI",
+        "title": "Rahsia Pohon Cemara",
+        "artist": "Exists",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02340c167e68e99289bb51ee97",
+        "url": "https://open.spotify.com/album/7wJ9FUg102EIWYaFytKSkI",
         "total_tracks": 1,
         "genres": []
       }
