@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-27T17:21:23.121Z",
-  "total": 3258,
+  "fetched_at": "2026-08-28T18:14:13.392Z",
+  "total": 3308,
   "by_date": {
     "2026-05-15": [
       {
@@ -35307,6 +35307,17 @@
         "url": "https://open.spotify.com/album/5H2ehOYYU4GiPuSNhLTyiL",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5dOe1dWNpuZIZBsq3wpLYp",
+        "title": "Paliec",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263d06319ffd6d2f21126aaa4",
+        "url": "https://open.spotify.com/album/5dOe1dWNpuZIZBsq3wpLYp",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-26": [
@@ -36004,6 +36015,116 @@
         "url": "https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6XeYRwn2Db1C0g78HoXxn7",
+        "title": "xperiment - cartunez",
+        "artist": "Ken Carson",
+        "type": "album",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b637cdd5d2df5a1f47883029",
+        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7",
+        "total_tracks": 35,
+        "genres": []
+      },
+      {
+        "id": "013rm1MUOcX2rHjpWKhNZV",
+        "title": "ANUEL CON KAROL",
+        "artist": "Martinwhite, Loyaltty",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1ea50f31d0167706929fcc1",
+        "url": "https://open.spotify.com/album/013rm1MUOcX2rHjpWKhNZV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7uNr2HQBIkX1WTVvWAN6K1",
+        "title": "Bandela",
+        "artist": "Mauvais djo, Armageddon, Anderson",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b706a1b3d8f432d784368b86",
+        "url": "https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QfA7CzzOMVpj5aVMGGLbF",
+        "title": "Nogha",
+        "artist": "Haifa Wehbe",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02222a0b2dacb45e85d57c30c2",
+        "url": "https://open.spotify.com/album/6QfA7CzzOMVpj5aVMGGLbF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ND26lhhl4JSbIOVgJiY42",
+        "title": "Yo Solo Quería Divertirme",
+        "artist": "Lauta",
+        "type": "album",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e027546b2f574f7d1d435b640e5",
+        "url": "https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "71bBDVXVYNdENOzyZKDCeZ",
+        "title": "Evento do Ano (Ao Vivo)",
+        "artist": "Bruno & Marrone",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e2eee4336e439291433d8b6",
+        "url": "https://open.spotify.com/album/71bBDVXVYNdENOzyZKDCeZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DZcguKrqF2GKsDBBfYvhi",
+        "title": "Du Nada (Ao Vivo)",
+        "artist": "Murilo Huff",
+        "type": "album",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02733360369483263e6745ca3c",
+        "url": "https://open.spotify.com/album/3DZcguKrqF2GKsDBBfYvhi",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3Jn6F3rYZfU6N88ZWWLuuF",
+        "title": "How Much",
+        "artist": "La Mano 1.9, PLK",
+        "type": "single",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e8f06d8d291b28243442c4d",
+        "url": "https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5rtEfnCj7N4mt9HvWCfWlk",
+        "title": "Malayalam Trending Hits",
+        "artist": "Sushin Shyam, Hesham Abdul Wahab, Gopi Sundar",
+        "type": "compilation",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8fc1cb320ee910ca4aad262",
+        "url": "https://open.spotify.com/album/5rtEfnCj7N4mt9HvWCfWlk",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7x5pvaSONi1XnZk292XfXg",
+        "title": "Kay Tse I",
+        "artist": "Kay Tse",
+        "type": "compilation",
+        "release_date": "2026-08-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c70eba318ab3638ab7f16cc5",
+        "url": "https://open.spotify.com/album/7x5pvaSONi1XnZk292XfXg",
+        "total_tracks": 10,
+        "genres": []
       }
     ],
     "2026-08-28": [
@@ -36037,6 +36158,435 @@
         "release_date": "2026-08-28",
         "image": "https://i.scdn.co/image/ab67616d00001e02340c167e68e99289bb51ee97",
         "url": "https://open.spotify.com/album/7wJ9FUg102EIWYaFytKSkI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1es3JGBHQfFNXd4xVktkSs",
+        "title": "WILDCHILD",
+        "artist": "Alex Warren",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02507a7ea86dcdc02754aecd44",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "43xlz2NkEE6ScD7HMXiSRh",
+        "title": "Pay That Toll",
+        "artist": "OneRepublic",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f553a896e1dc7ad7eca4eff6",
+        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4lZQjjnhdmMoaEW6A9SJBJ",
+        "title": "Hollow",
+        "artist": "Marshmello, Cameron Whitcomb",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd6e3ab83f54514854a9cf7c",
+        "url": "https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5R7Qfo6NNy7PcVVZye32KE",
+        "title": "Reverse Psychology",
+        "artist": "Temper City",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02764077703dd40a86ca9d0c45",
+        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "66i3jGeHlh1SBmsaairN4J",
+        "title": "Special Ops",
+        "artist": "Lil Wayne",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e021aef8c77c4ac8c0cbfecff8c",
+        "url": "https://open.spotify.com/album/66i3jGeHlh1SBmsaairN4J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "52owp1AVDoMqy1WTGSVa3v",
+        "title": "One Assassination Under God - Chapter 2 (Expanded Edition)",
+        "artist": "Marilyn Manson",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024787df0c416aa0e0e12b59b3",
+        "url": "https://open.spotify.com/album/52owp1AVDoMqy1WTGSVa3v",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6OrnwxUZ0OlXeUyGlNsM0h",
+        "title": "Time",
+        "artist": "Hans Zimmer, Chris Craker, Dan Lambert",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f01356e93228a04ef6f0e88c",
+        "url": "https://open.spotify.com/album/6OrnwxUZ0OlXeUyGlNsM0h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "62VWUx1DkN9FBe4WGKBiOG",
+        "title": "SLEEP",
+        "artist": "The Kid LAROI",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255dacb7472b7186a94753b81",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7IEd3tVmQkE4zYdOWavFkp",
+        "title": "Comets",
+        "artist": "Max McNown",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027cb40bb1ee868ca112c73d49",
+        "url": "https://open.spotify.com/album/7IEd3tVmQkE4zYdOWavFkp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ZACuvwzfd84kzgTTRXjMu",
+        "title": "Hay Negri",
+        "artist": "Ya Ice Dilan, JipMusic Global, Dj Honda",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efb8dd159dc9c49208b31e26",
+        "url": "https://open.spotify.com/album/0ZACuvwzfd84kzgTTRXjMu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NFzs25dGNIakJrx8ZWPO6",
+        "title": "Una Playa en Europa (Remix)",
+        "artist": "J Alvarez, Curol",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f69b5c79761b995df832ca6c",
+        "url": "https://open.spotify.com/album/2NFzs25dGNIakJrx8ZWPO6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ceVwWR0NefuCE0Fk3yMkQ",
+        "title": "PUSH THE CPU",
+        "artist": "Odetari",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e026baf30a5226d5d83afcc989f",
+        "url": "https://open.spotify.com/album/7ceVwWR0NefuCE0Fk3yMkQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2s6jpXO0dmQuopHy31hnCf",
+        "title": "On My Way",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020dd6b1009ce3c5e9742ff622",
+        "url": "https://open.spotify.com/album/2s6jpXO0dmQuopHy31hnCf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5U5lyg0I9Jww2mLidEBPcH",
+        "title": "Can We Say I Do",
+        "artist": "Air Supply",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae71ec8b6ed008bddbc81cca",
+        "url": "https://open.spotify.com/album/5U5lyg0I9Jww2mLidEBPcH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4GtF8WIJYxn0fU8O85ABvN",
+        "title": "Zohra Jabeen Club Remix",
+        "artist": "Pritam, Dj Raahul Pai, Sanju Purohit",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e3f33de391607aa44a27403",
+        "url": "https://open.spotify.com/album/4GtF8WIJYxn0fU8O85ABvN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qSvvpunIQ53eBhBjwO221",
+        "title": "iScreaM Vol.40 : Surfin' Boy Remixes",
+        "artist": "Red Velvet, Flamingosis, RAKUNELAMA",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7e04c3dc9e5ba4ca98751cd",
+        "url": "https://open.spotify.com/album/2qSvvpunIQ53eBhBjwO221",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "49n2882aBrzK4C1VXo8CVt",
+        "title": "8D Bilateral Orienting Systems",
+        "artist": "Brain Floss",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243701c0248b06c418b3f1b82",
+        "url": "https://open.spotify.com/album/49n2882aBrzK4C1VXo8CVt",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "1nF0p6PxsOl6bBdTgOupnI",
+        "title": "WAPA",
+        "artist": "Palm Monkey, DALEXO, GIPX, Palm Brothers",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246eca4ce98674da8f1f2d9d1",
+        "url": "https://open.spotify.com/album/1nF0p6PxsOl6bBdTgOupnI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1N5y9sKCFCXPFV3lLvf1Zt",
+        "title": "DÉSACCORD",
+        "artist": "GIMS",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba986299b9adabb0eeb08cb9",
+        "url": "https://open.spotify.com/album/1N5y9sKCFCXPFV3lLvf1Zt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jW6cBQBatHijuLHXfIzda",
+        "title": "KATKOUTA",
+        "artist": "DYSTINCT",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209b5dfa525c335144cd9aa51",
+        "url": "https://open.spotify.com/album/7jW6cBQBatHijuLHXfIzda",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1iYquzFaMicgVvQYHQQ9zs",
+        "title": "7 Days To The Wolves (Live in Amsterdam 2022)",
+        "artist": "Nightwish",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be4afe69514392dda2da5edb",
+        "url": "https://open.spotify.com/album/1iYquzFaMicgVvQYHQQ9zs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7dPMAX7PZlvGhJ1UTD6wmS",
+        "title": "FUNK MANDALA",
+        "artist": "Dj Samir, Zericxxn, Nulteex",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e1c49c28cea68dbc3ccdc3f",
+        "url": "https://open.spotify.com/album/7dPMAX7PZlvGhJ1UTD6wmS",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2gQ6AnltdFQyZabUrZSay4",
+        "title": "Dreaming Clouds",
+        "artist": "NBSPLV",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02586108ff6f4b323813baf99b",
+        "url": "https://open.spotify.com/album/2gQ6AnltdFQyZabUrZSay4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3q7EokQfEq60HDp7E6UQr5",
+        "title": "Murda",
+        "artist": "Argy, 7 SKIES",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020057cdefaeaf3182570e2721",
+        "url": "https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MqOgRY4UgzDt4nDmhztAQ",
+        "title": "rani",
+        "artist": "Maanu",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243e0099e2c63d8bdd29a907c",
+        "url": "https://open.spotify.com/album/7MqOgRY4UgzDt4nDmhztAQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3mUAX9aZsJBnoCUAkANNeU",
+        "title": "Дождь для нас",
+        "artist": "Kino",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219f7502c3d5a489dcf9b797e",
+        "url": "https://open.spotify.com/album/3mUAX9aZsJBnoCUAkANNeU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6amkdGD61sFHycletA7Dd2",
+        "title": "Sar Aankhon Pe Mere - Arijit Singh & Shariva Parulkar Vocals Only",
+        "artist": "Arijit Singh, Shariva Parulkar",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027455d91a6fd483be3b2f84bb",
+        "url": "https://open.spotify.com/album/6amkdGD61sFHycletA7Dd2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4y79lgs0VpuvJqcd4oREYJ",
+        "title": "BIG PERFORMER",
+        "artist": "Blaqbonez",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02044f5a677876a4521e5873e8",
+        "url": "https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4A2BNVHfsHgu6PXW3B9SF4",
+        "title": "Bangaranga (Jax Jones Remix)",
+        "artist": "DARA, Jax Jones",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275b6bb6d7bf4091ca92bd567",
+        "url": "https://open.spotify.com/album/4A2BNVHfsHgu6PXW3B9SF4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6lt5IrUQOaJ6coztVqQtGk",
+        "title": "Ов Сирюн Сирюн",
+        "artist": "Gio Pika",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02044e3d30f7f3956cc5102bd2",
+        "url": "https://open.spotify.com/album/6lt5IrUQOaJ6coztVqQtGk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5wR2qGBeLPWz1mQHgpjM37",
+        "title": "Chimna",
+        "artist": "Badshah, Divya Kumar, Nagesh Morwekar",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3619fca13439fc3d38357d2",
+        "url": "https://open.spotify.com/album/5wR2qGBeLPWz1mQHgpjM37",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nZ9ikL6ZmCKFQtjZQex6I",
+        "title": "Peaceful Waters, Gentle Piano",
+        "artist": "JESSE, Posple",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff474c68baf1d367e2b6abc7",
+        "url": "https://open.spotify.com/album/1nZ9ikL6ZmCKFQtjZQex6I",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "78gqUMvAgrlGflKiCGEBzq",
+        "title": "Strip For Me",
+        "artist": "Noizy, Guè, Light",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e87ea9ef6747055ab1eed56",
+        "url": "https://open.spotify.com/album/78gqUMvAgrlGflKiCGEBzq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FzEYIfpzjiq8G9aaafJAL",
+        "title": "Sapatos",
+        "artist": "Gloc-9",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c613b244fd7f00016daaeeec",
+        "url": "https://open.spotify.com/album/3FzEYIfpzjiq8G9aaafJAL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6bK71IEBU6HZH3fPi6gV5L",
+        "title": "Chithi Asichhi Mo Na Re",
+        "artist": "Udit Narayan",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a88b562527e5d62887c8c20d",
+        "url": "https://open.spotify.com/album/6bK71IEBU6HZH3fPi6gV5L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DBoVXNEbjdfqb1DYCXbIE",
+        "title": "WECK DIE NACHBARN AUF",
+        "artist": "DJ TÖRKE, LOKIMITDERMASKE, DJ FENT",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec632e269740258e4a428d13",
+        "url": "https://open.spotify.com/album/2DBoVXNEbjdfqb1DYCXbIE",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "598T5qjkWqTcCSQNbVKqVU",
+        "title": "Hasta La Vista",
+        "artist": "Uncle Dags",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02805bc9a9a9e5d18ee1699557",
+        "url": "https://open.spotify.com/album/598T5qjkWqTcCSQNbVKqVU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6j7q7wbC2aU2f1PwTtE27O",
+        "title": "Much Ado About Nothing",
+        "artist": "Midas Wildeve",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8f9e4b899964ac5853bad29",
+        "url": "https://open.spotify.com/album/6j7q7wbC2aU2f1PwTtE27O",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "6xzdOu3rzbwwZQRg53QgOf",
+        "title": "Feita Pússí",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd801e5bdb552395bd788ffa",
+        "url": "https://open.spotify.com/album/6xzdOu3rzbwwZQRg53QgOf",
         "total_tracks": 1,
         "genres": []
       }
