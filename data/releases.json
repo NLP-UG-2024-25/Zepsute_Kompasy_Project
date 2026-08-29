@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-28T18:14:13.392Z",
-  "total": 3308,
+  "fetched_at": "2026-08-29T12:20:57.998Z",
+  "total": 3324,
   "by_date": {
     "2026-05-15": [
       {
@@ -32620,6 +32620,17 @@
         "url": "https://open.spotify.com/album/7df2pAlpAHIBTDJqiULxWW",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7BqEg0A8fS9ZpHcGNLFP6n",
+        "title": "Sidewalks in the Afternoon",
+        "artist": "einie",
+        "type": "single",
+        "release_date": "2026-08-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201ec9701658d1751965a728b",
+        "url": "https://open.spotify.com/album/7BqEg0A8fS9ZpHcGNLFP6n",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-19": [
@@ -34509,6 +34520,17 @@
         "release_date": "2026-08-23",
         "image": "https://i.scdn.co/image/ab67616d00001e022c49dacc7d58b25360085c8c",
         "url": "https://open.spotify.com/album/7hItW64BTnEvoGHXjltcXK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "451WaKladVcNmMdA4PqhWf",
+        "title": "Pile of Dust",
+        "artist": "mauve",
+        "type": "single",
+        "release_date": "2026-08-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7a45f657be5c07cd03bcdf1",
+        "url": "https://open.spotify.com/album/451WaKladVcNmMdA4PqhWf",
         "total_tracks": 1,
         "genres": []
       }
@@ -36588,6 +36610,162 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02cd801e5bdb552395bd788ffa",
         "url": "https://open.spotify.com/album/6xzdOu3rzbwwZQRg53QgOf",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4c3fFqg8NmPsbnZzZNVKrP",
+        "title": "Pretty Girls",
+        "artist": "G-Eazy",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1dcbe25d201b330d9198ee9",
+        "url": "https://open.spotify.com/album/4c3fFqg8NmPsbnZzZNVKrP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cfSjkoBfNoWohu0nJVrss",
+        "title": "Casting Me Away From You",
+        "artist": "Neil Young, neil young and the chrome hearts",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271f9a79aa3f05ce076dddea9",
+        "url": "https://open.spotify.com/album/7cfSjkoBfNoWohu0nJVrss",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KxkbZmg6Vgb9qw6PWN2wQ",
+        "title": "Repetimos",
+        "artist": "El Rabbanito, Armenta",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b7d4bff5130ee8149c3df5d",
+        "url": "https://open.spotify.com/album/7KxkbZmg6Vgb9qw6PWN2wQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0UsAz3uEwlIj3gTXDhHlNh",
+        "title": "Maravilloso",
+        "artist": "Bethel Music",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291f766765c68fda098fcb570",
+        "url": "https://open.spotify.com/album/0UsAz3uEwlIj3gTXDhHlNh",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2rtThKYlAFF1IytcWzGcml",
+        "title": "CORRER PERIGO",
+        "artist": "SEKIMANE",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02800263260613e74b0cfa413d",
+        "url": "https://open.spotify.com/album/2rtThKYlAFF1IytcWzGcml",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6v0nDS1Uy9DAahj3w4uVgf",
+        "title": "Me Caliento Como Brasa",
+        "artist": "El Komander",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e025498edc11f69a6ce1bdf147f",
+        "url": "https://open.spotify.com/album/6v0nDS1Uy9DAahj3w4uVgf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Em9Twkxncip9jFX4lIzLw",
+        "title": "U know me",
+        "artist": "CHRIS STASSY, Marz Fay",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4816f0a9c1ac12b6de46e26",
+        "url": "https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00QcIgzdQBzjTuzykb7TOC",
+        "title": "fatalism",
+        "artist": "slxughter",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024646bb02fe1e48352924cc8b",
+        "url": "https://open.spotify.com/album/00QcIgzdQBzjTuzykb7TOC",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6saRgfuora4UC08gAgDeuy",
+        "title": "Burberry",
+        "artist": "NOTION, Charlotte Plank",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e021edbcfd7531308b43e50f74f",
+        "url": "https://open.spotify.com/album/6saRgfuora4UC08gAgDeuy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1F8fW9bv7aML4vRclRXw4x",
+        "title": "Opale Opala",
+        "artist": "Fly Project, Matteo, Ada Petcu",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcceaaf150b85b5e5f60d4f5",
+        "url": "https://open.spotify.com/album/1F8fW9bv7aML4vRclRXw4x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DyC87Mhx25g4zNLWGTNmf",
+        "title": "Ami, chéri",
+        "artist": "Fally Ipupa, DJ Kawest",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02969278717cc1366ce6b122b1",
+        "url": "https://open.spotify.com/album/3DyC87Mhx25g4zNLWGTNmf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "05bjOrfyUQRG6wNJ94Q7Kf",
+        "title": "Cabelo Cacheado",
+        "artist": "Jeninho",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022478e2d6337358990f94e704",
+        "url": "https://open.spotify.com/album/05bjOrfyUQRG6wNJ94Q7Kf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6guPdjbCGirdBc0oJKEGVo",
+        "title": "BUSINESS",
+        "artist": "Niggvdropz",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab0cfca9c0d5adaa38ad529e",
+        "url": "https://open.spotify.com/album/6guPdjbCGirdBc0oJKEGVo",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-29": [
+      {
+        "id": "6Wpf0dW3CQM1X4wI8xEQci",
+        "title": "Reasons (Anton Powers Remix)",
+        "artist": "LAVINIA, Ely Oaks, Anton Powers",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027483980ce4e361f48d957a80",
+        "url": "https://open.spotify.com/album/6Wpf0dW3CQM1X4wI8xEQci",
+        "total_tracks": 4,
         "genres": []
       }
     ]
