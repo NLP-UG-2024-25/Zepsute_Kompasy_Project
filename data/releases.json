@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-29T12:20:57.998Z",
-  "total": 3324,
+  "fetched_at": "2026-08-30T11:20:06.899Z",
+  "total": 3371,
   "by_date": {
     "2026-05-15": [
       {
@@ -28913,6 +28913,28 @@
         "url": "https://open.spotify.com/album/7t1WO4ZSi2mDzvYWFPBfka",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3Pr1m7bWPtiLjX2phZWT9Q",
+        "title": "Unsaid Line",
+        "artist": "Patricia Chibuzor",
+        "type": "single",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024fbc57303c7bc265b0cdfb52",
+        "url": "https://open.spotify.com/album/3Pr1m7bWPtiLjX2phZWT9Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2MhvbXEqwbRu4L4LlV2t7U",
+        "title": "A Living Heart",
+        "artist": "David Star",
+        "type": "album",
+        "release_date": "2026-08-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2cf1490108a51844156ddaf",
+        "url": "https://open.spotify.com/album/2MhvbXEqwbRu4L4LlV2t7U",
+        "total_tracks": 12,
+        "genres": []
       }
     ],
     "2026-08-08": [
@@ -34078,6 +34100,17 @@
         "url": "https://open.spotify.com/album/3StQSwD5C6leWnoN7jCJXd",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6KkdrYUNh3ZKdEzSYhbkQK",
+        "title": "I’ll figure it out, demos",
+        "artist": "Azriel",
+        "type": "single",
+        "release_date": "2026-08-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b271f88ae3113293f59ab92",
+        "url": "https://open.spotify.com/album/6KkdrYUNh3ZKdEzSYhbkQK",
+        "total_tracks": 5,
+        "genres": []
       }
     ],
     "2026-08-22": [
@@ -35338,6 +35371,17 @@
         "release_date": "2026-08-25",
         "image": "https://i.scdn.co/image/ab67616d00001e0263d06319ffd6d2f21126aaa4",
         "url": "https://open.spotify.com/album/5dOe1dWNpuZIZBsq3wpLYp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2wMLCM2OQRm9Ke0thZLLBk",
+        "title": "Hatid ng Halimuyak",
+        "artist": "pat",
+        "type": "single",
+        "release_date": "2026-08-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e024941c53a65df58a009cd4970",
+        "url": "https://open.spotify.com/album/2wMLCM2OQRm9Ke0thZLLBk",
         "total_tracks": 1,
         "genres": []
       }
@@ -36754,6 +36798,248 @@
         "url": "https://open.spotify.com/album/6guPdjbCGirdBc0oJKEGVo",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5LfkNiWQJAV4dpUeBxxoMN",
+        "title": "Natanael Cano, Vol.1",
+        "artist": "Natanael Cano",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e021344e454f1504531015f8b43",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "6R7iStER1B6gYfYEugR2yi",
+        "title": "MONTAGEM SAUDADE",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef621214e627c05ca571995d",
+        "url": "https://open.spotify.com/album/6R7iStER1B6gYfYEugR2yi",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6M7MlqCrudE4UdUnAUt4iL",
+        "title": "Jinguchaa Eclipsa Audio",
+        "artist": "A.R. Rahman",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e026906048fa4f007ed484c5025",
+        "url": "https://open.spotify.com/album/6M7MlqCrudE4UdUnAUt4iL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "71yDpLqmRBdWoKl1u8oESG",
+        "title": "Kaho Toh (From \"Prem Keetanu\")",
+        "artist": "Armaan Malik, Altamash Faridi, Annkur R Pathakk, Sachin Urmtosh",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e9f5fe16728db0829096ed7",
+        "url": "https://open.spotify.com/album/71yDpLqmRBdWoKl1u8oESG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7czBoyFsjrJdwcpCnPljKB",
+        "title": "Big Glock",
+        "artist": "Skillibeng",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1e850bdcaf0cfed0486dff4",
+        "url": "https://open.spotify.com/album/7czBoyFsjrJdwcpCnPljKB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7aH33aTHBYRoDMaqexz0uZ",
+        "title": "Beco do Batman",
+        "artist": "DJ Gu, MC Joãozinho VT, MC Tuto, MC NEGO UNIÃO",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b042216ab1beac9720d6003f",
+        "url": "https://open.spotify.com/album/7aH33aTHBYRoDMaqexz0uZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6zC8DshESsCw9luqLOXcZJ",
+        "title": "unsettled",
+        "artist": "shirebound",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e025716efceb91c17bc5573dca4",
+        "url": "https://open.spotify.com/album/6zC8DshESsCw9luqLOXcZJ",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0eI3zOpq6OK6GuKfDnou2a",
+        "title": "Shri Krishna Govind Hare Murari - Tulsi Kumar Version",
+        "artist": "Tulsi Kumar, Raaj Aashoo, Murali Agarwal",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022dcca30dc2c79f0d00783418",
+        "url": "https://open.spotify.com/album/0eI3zOpq6OK6GuKfDnou2a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0HjFwnzbc6mPQMqFAT1yHw",
+        "title": "Maana Dil - B Praak Vocals Only",
+        "artist": "B Praak",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cc0ee81227883795ec689a3",
+        "url": "https://open.spotify.com/album/0HjFwnzbc6mPQMqFAT1yHw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3t45dAaZHKrRwogrUPvcfy",
+        "title": "Suena en la Previa, Vol. 10",
+        "artist": "Cumbia rocha",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02302f1520fcc9b4d1bfc607dc",
+        "url": "https://open.spotify.com/album/3t45dAaZHKrRwogrUPvcfy",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1PSDYIK36io6VpsepRl2Sc",
+        "title": "Dono Das 70 Mala",
+        "artist": "MC Fr da Norte, MC Tuto, MC Joãozinho VT",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02441bb8d707462cc8da8a5633",
+        "url": "https://open.spotify.com/album/1PSDYIK36io6VpsepRl2Sc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qTsxiYvMYv1uJIzcj29Ao",
+        "title": "Wallflower",
+        "artist": "Dominic Fike",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcd778710b50cde4e3777844",
+        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "77fsQSLNDJUU024y0n5fH3",
+        "title": "HNxSG",
+        "artist": "Khoi Vu",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023afde0f25aa89139bbd259e3",
+        "url": "https://open.spotify.com/album/77fsQSLNDJUU024y0n5fH3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6NymS09wSk1y3Nd3v1Boq3",
+        "title": "Pata De Perro",
+        "artist": "Calibre 50",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251468a0ea39c5c616031466f",
+        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KlMY32mPgUm0kIysPVjML",
+        "title": "Si Las Miradas Mataran (Deluxe)",
+        "artist": "La Arrolladora Banda El Limón De Rene Camacho",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235823ba10f35692409882d8d",
+        "url": "https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5dbL7F4B8EXNB677IiSnjW",
+        "title": "FDR",
+        "artist": "Caio Luccas, NADAMAL, Raflow",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec9226bbb891a47d66dd9f2c",
+        "url": "https://open.spotify.com/album/5dbL7F4B8EXNB677IiSnjW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7I9dS6mbcqNJ0dWF4lE8JA",
+        "title": "before the m.s.g.a",
+        "artist": "SUPERBEE",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6b8106659dec4622d323e1a",
+        "url": "https://open.spotify.com/album/7I9dS6mbcqNJ0dWF4lE8JA",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "69cKymCjRrDkJroyL4rCl2",
+        "title": "CE RPD AI TRECUT PESTE",
+        "artist": "Berechet",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219a9122dab7331cb1f5a9ed6",
+        "url": "https://open.spotify.com/album/69cKymCjRrDkJroyL4rCl2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1aTbw1kHvPGTPWratpM5io",
+        "title": "Don't Look Down",
+        "artist": "Rod Wave",
+        "type": "album",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ff144c503dbe70a948ae5c3",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "5n2ZAehPkXFFjLczYt0kXu",
+        "title": "Mainstay (feat. Luv Von)",
+        "artist": "Rod Wave",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203f50ee4f828212f6cf143d5",
+        "url": "https://open.spotify.com/album/5n2ZAehPkXFFjLczYt0kXu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46C2ctALPpGOKR3FgEWvjl",
+        "title": "Amor Fati",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289566b9ed4ecab53c949aced",
+        "url": "https://open.spotify.com/album/46C2ctALPpGOKR3FgEWvjl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "09y6IiqGf9br60gf8bjOPZ",
+        "title": "URAGAN",
+        "artist": "Kotenceto",
+        "type": "single",
+        "release_date": "2026-08-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c8907a3f152f4ecb5640544",
+        "url": "https://open.spotify.com/album/09y6IiqGf9br60gf8bjOPZ",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-29": [
@@ -36766,6 +37052,239 @@
         "image": "https://i.scdn.co/image/ab67616d00001e027483980ce4e361f48d957a80",
         "url": "https://open.spotify.com/album/6Wpf0dW3CQM1X4wI8xEQci",
         "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4lrQs1uVuyf79sjjuLmU4p",
+        "title": "Yeshanagula (From \"The Paradise\") (Telugu)",
+        "artist": "Anirudh Ravichander, Singer Prabha, Jangi Reddy",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcc7545ad48e61651ae3c1f9",
+        "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1URzOTxuNcgHnAzQkRST9P",
+        "title": "Beste Zangers 2026 (Bizzey)",
+        "artist": "Bizzey, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e024db217db6b807379a35f9741",
+        "url": "https://open.spotify.com/album/1URzOTxuNcgHnAzQkRST9P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DtjEXy5A15bQxG9GvBq4Q",
+        "title": "Radha Ka Bhi Shyam",
+        "artist": "Palak Muchhal, Raaj Aashoo, Seepi Jha",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b7e11ae188661d6ae49f011",
+        "url": "https://open.spotify.com/album/5DtjEXy5A15bQxG9GvBq4Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VNHcEIrtoJLMkvxDFGR1X",
+        "title": "CÔNG DIỄN 3 (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "album",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290502da6204b4a9fad818c8d",
+        "url": "https://open.spotify.com/album/1VNHcEIrtoJLMkvxDFGR1X",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4AFYHqZg1YZQhH1Ip1FVi9",
+        "title": "SIXXAS",
+        "artist": "TURY, The Rudeboyz",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027faa0b7bfa29c07f7f79138a",
+        "url": "https://open.spotify.com/album/4AFYHqZg1YZQhH1Ip1FVi9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hSGzSiYaqhliZjEs8PWwA",
+        "title": "Ishq-E-Jaan Unplugged",
+        "artist": "Rahat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e8d649b0a6b1b0e2762e622",
+        "url": "https://open.spotify.com/album/6hSGzSiYaqhliZjEs8PWwA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0vlqulA8ZPrLXhg3xXsLje",
+        "title": "SERGIO TORRES / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Sergio Torres",
+        "type": "album",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225c6a2ade64a2e6d23b5538c",
+        "url": "https://open.spotify.com/album/0vlqulA8ZPrLXhg3xXsLje",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "2Lmk062oVwdq6L8FC8ckAa",
+        "title": "The Man, The Boy and Him",
+        "artist": "Yan Ting",
+        "type": "album",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020956357579be15500b225cd6",
+        "url": "https://open.spotify.com/album/2Lmk062oVwdq6L8FC8ckAa",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "6I6XFGvrTZDdHcYowTgtXv",
+        "title": "ملل",
+        "artist": "DEE PRODUCTION, Darky",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f09af8a31cca31643002d138",
+        "url": "https://open.spotify.com/album/6I6XFGvrTZDdHcYowTgtXv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GYm5wsMqooKmWnftmqtDv",
+        "title": "Ishq De Fanniyar - Romantic Hit",
+        "artist": "Amit Trivedi, Jyotica Tangri, Arko",
+        "type": "compilation",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252a9112a15c12fbe5fd3ac6e",
+        "url": "https://open.spotify.com/album/1GYm5wsMqooKmWnftmqtDv",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7CkFGcKMO939zANooTt2W4",
+        "title": "Beste Zangers 2026 (Zoë Livay)",
+        "artist": "Zoë Livay, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdb0cf591b13a9c1e6ae18a6",
+        "url": "https://open.spotify.com/album/7CkFGcKMO939zANooTt2W4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NgnDhKy9mDLfbVaJj6N8L",
+        "title": "Aflevering 1 - Clouseau",
+        "artist": "Beste Zangers",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292ffeb9fecb923d9cfb0d997",
+        "url": "https://open.spotify.com/album/4NgnDhKy9mDLfbVaJj6N8L",
+        "total_tracks": 6,
+        "genres": []
+      }
+    ],
+    "2026-08-30": [
+      {
+        "id": "2uS2YKB9X87IkKrqF3NCmh",
+        "title": "Pandi Muni Kekkudhu (From \"Lenin Pandiyan\")",
+        "artist": "Ilaiyaraaja",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fec4f7961feb763453851b3",
+        "url": "https://open.spotify.com/album/2uS2YKB9X87IkKrqF3NCmh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "711pnMeHKH7kYXXm8dsl5p",
+        "title": "Південь",
+        "artist": "KRBK, iT'e",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265d1f1043cf1b39cadb56b6f",
+        "url": "https://open.spotify.com/album/711pnMeHKH7kYXXm8dsl5p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7AESyoTUaLmZgbBqmHAm2u",
+        "title": "Phir Milenge",
+        "artist": "Kumar Sanu, Sarbarish",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240e1e5d1eaa1e4a157764d82",
+        "url": "https://open.spotify.com/album/7AESyoTUaLmZgbBqmHAm2u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wHWOEHQsSGTzJnOHOjq3y",
+        "title": "כמו הדובים",
+        "artist": "Mashina",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e029af2e4e39446105b20974897",
+        "url": "https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "27d0hhLDZnIXqbruotbOmc",
+        "title": "MEDLEY REDICOPA",
+        "artist": "Mc Rodrigo do CN, MENOO DH, DJ ZITO, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286d8aadb451b6043c8b66cb7",
+        "url": "https://open.spotify.com/album/27d0hhLDZnIXqbruotbOmc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "661doHrHQuRshg2grCeLLy",
+        "title": "ΥΠΟΘΉΚΗ ΔΕΝ ΒΆΖΩ ΤΗΝ ΚΑΡΔΙΆ ΜΟΥ",
+        "artist": "PakelDj",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c819ec404ba18b51f991119",
+        "url": "https://open.spotify.com/album/661doHrHQuRshg2grCeLLy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1MC5SznUibO20PF63RDFt7",
+        "title": "Небо чисте, голубе",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e020873b295f28bd493bd641189",
+        "url": "https://open.spotify.com/album/1MC5SznUibO20PF63RDFt7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "60iqZ2TOeV7rJOwFaWnWr9",
+        "title": "Four Hands Two Sonatas, Pt. 1 (Original Soundtrack)",
+        "artist": "Jung Seung Hwan",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d3e2869b2ae1d562d653f41",
+        "url": "https://open.spotify.com/album/60iqZ2TOeV7rJOwFaWnWr9",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0caQys9uCJBoSr69FD2dzs",
+        "title": "انا اللي خليتك شرس",
+        "artist": "Eslam Kabonga",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256cba8d6b11336f29af761b9",
+        "url": "https://open.spotify.com/album/0caQys9uCJBoSr69FD2dzs",
+        "total_tracks": 1,
         "genres": []
       }
     ]
