@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-30T11:20:06.899Z",
-  "total": 3371,
+  "fetched_at": "2026-08-31T12:48:20.521Z",
+  "total": 3405,
   "by_date": {
     "2026-05-15": [
       {
@@ -33757,6 +33757,17 @@
         "url": "https://open.spotify.com/album/0N1xP9sFvFFeOi157S7eQn",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1qrm5X8AbREwNzI9qMPK26",
+        "title": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "artist": "PARTYNEXTDOOR",
+        "type": "album",
+        "release_date": "2026-08-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02279b3e89d5c179aeb939f588",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26",
+        "total_tracks": 19,
+        "genres": []
       }
     ],
     "2026-08-20": [
@@ -37185,6 +37196,50 @@
         "url": "https://open.spotify.com/album/4NgnDhKy9mDLfbVaJj6N8L",
         "total_tracks": 6,
         "genres": []
+      },
+      {
+        "id": "5TaLWTSvmek5AHglJXuecr",
+        "title": "Muthumani (From \"Dorothy\")",
+        "artist": "Ilaiyaraaja, Shweta Mohan",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255b7cd389f43bd05717bea00",
+        "url": "https://open.spotify.com/album/5TaLWTSvmek5AHglJXuecr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0aBDS3tLIKEOPmON0WfY1p",
+        "title": "Unfair Season",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f725a682bb719e2e925aab1",
+        "url": "https://open.spotify.com/album/0aBDS3tLIKEOPmON0WfY1p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hrazbZwFzPTGlYIZPCHQy",
+        "title": "Explo Acustico",
+        "artist": "Explosión Cumbiera",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eebed1c773667f784ca54b52",
+        "url": "https://open.spotify.com/album/4hrazbZwFzPTGlYIZPCHQy",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6CJ85JVYkQcQJQXP8EDlR4",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-08-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc1beffcbf91bd7ac7a7ce69",
+        "url": "https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-08-30": [
@@ -37284,6 +37339,327 @@
         "release_date": "2026-08-30",
         "image": "https://i.scdn.co/image/ab67616d00001e0256cba8d6b11336f29af761b9",
         "url": "https://open.spotify.com/album/0caQys9uCJBoSr69FD2dzs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39Bmqd9pz0A74pOVkYHCYO",
+        "title": "50 años, Vol. 23",
+        "artist": "Agua Marina",
+        "type": "album",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e020863c1ac35543c5e2cdff51d",
+        "url": "https://open.spotify.com/album/39Bmqd9pz0A74pOVkYHCYO",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "52B4QlMx5RSKBoatnAVq20",
+        "title": "Jaan Ban Gaye Lofi Mix",
+        "artist": "Mithoon, Vishal Mishra, Asees Kaur, Silent Ocean",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5ae2e8b0eca528082057bcb",
+        "url": "https://open.spotify.com/album/52B4QlMx5RSKBoatnAVq20",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DCMOeng9E0ugykPr6UqTB",
+        "title": "Chal Tere Ishq Mein Lofi Flip",
+        "artist": "Mithoon, Neeti Mohan, Vishal Mishra, Silent Ocean",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fedfa74a8f38ee8f7755dd4e",
+        "url": "https://open.spotify.com/album/2DCMOeng9E0ugykPr6UqTB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5pzAH8Ihu6R8sqtnSdGGnK",
+        "title": "Bahagia Lagi (Acoustic)",
+        "artist": "Piche Kota",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a933c5e0e2859851e664d0b9",
+        "url": "https://open.spotify.com/album/5pzAH8Ihu6R8sqtnSdGGnK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07DjaNuIab6l3HYqtlUkAc",
+        "title": "فين مش شايفين منحرفين ( التكتات خلت جرابيع )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cfb991bbf19e6cd344f30ccc",
+        "url": "https://open.spotify.com/album/07DjaNuIab6l3HYqtlUkAc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2P85AehquD1yapP2BvFhcv",
+        "title": "So Honey",
+        "artist": "King & Prince",
+        "type": "single",
+        "release_date": "2026-08-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cacd16554920c552543d363f",
+        "url": "https://open.spotify.com/album/2P85AehquD1yapP2BvFhcv",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-08-31": [
+      {
+        "id": "1LGlyDO9V1jloZEbvolRWZ",
+        "title": "Tu Hi Re (Remix)",
+        "artist": "Hariharan, VIBIE",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02533d17bf6c9358e4bacef81b",
+        "url": "https://open.spotify.com/album/1LGlyDO9V1jloZEbvolRWZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ax0EvLbK64Kn5FQhX0V3M",
+        "title": "Ela Quer",
+        "artist": "Mc Jacaré, MC Neguin da 20, DJ MARKIN BEAT",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e021142f9ee1ff77327f459b508",
+        "url": "https://open.spotify.com/album/1ax0EvLbK64Kn5FQhX0V3M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6EYmMZXIFvMY2CaPcoD9ZP",
+        "title": "Mandaadi - Telugu (Original Motion Picture Soundtrack)",
+        "artist": "G. V. Prakash, AbhinavaKavi, Kasarla Shyam, Bhaskarabhatla",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae37348b8422f8637ba5510d",
+        "url": "https://open.spotify.com/album/6EYmMZXIFvMY2CaPcoD9ZP",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0XBdrJcgVNBkZ8MpTAO6ML",
+        "title": "Nostalgia",
+        "artist": "BIG Naughty",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e028321c6da53fbbbe643a34afd",
+        "url": "https://open.spotify.com/album/0XBdrJcgVNBkZ8MpTAO6ML",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3lnsn3RRGccGdAESTwHLtK",
+        "title": "Jai Shri Krishna Utsav",
+        "artist": "Shreya Ghoshal, Nikhil Verma, Payal Dev, Amjad Nadeem",
+        "type": "compilation",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287df84c290ab9e76c8f3a73c",
+        "url": "https://open.spotify.com/album/3lnsn3RRGccGdAESTwHLtK",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2s9i7Gi709o37S7WXOYxXL",
+        "title": "连带保证人",
+        "artist": "姚晓棠",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02118327bdb54854a9ef2516a1",
+        "url": "https://open.spotify.com/album/2s9i7Gi709o37S7WXOYxXL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1y6AxQE7xIQayHwCETQnZf",
+        "title": "End of the Month, Jang Beom June (August 2026) - Anyway",
+        "artist": "Jang Beom June",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e026945a1000cee25c52a53a559",
+        "url": "https://open.spotify.com/album/1y6AxQE7xIQayHwCETQnZf",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7ugccgKG2mjsX10MSAuxnX",
+        "title": "2040: SŁAWA",
+        "artist": "Mata",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e000266813248766e908699",
+        "url": "https://open.spotify.com/album/7ugccgKG2mjsX10MSAuxnX",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1S7IyXDMJghJMmnqFN2fd3",
+        "title": "Aale Ganpati Aale",
+        "artist": "Shankar Mahadevan, Rohan Pradhan, Adarsh Shinde",
+        "type": "compilation",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3e9985868ae60cd9506c8e6",
+        "url": "https://open.spotify.com/album/1S7IyXDMJghJMmnqFN2fd3",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "4bjMUNDgN54jeoVzMNffeK",
+        "title": "Học Cách Đứng Lên (Theme Song From \"Quý Tử Vượt Giàu\")",
+        "artist": "VƯƠNG BÌNH",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc0d60d8646fa400aaa72018",
+        "url": "https://open.spotify.com/album/4bjMUNDgN54jeoVzMNffeK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7F6TZnIBDG3TJIhOSUhlL7",
+        "title": "Лілеїв",
+        "artist": "BURLA",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a519d8224f311a60c8d1e75e",
+        "url": "https://open.spotify.com/album/7F6TZnIBDG3TJIhOSUhlL7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1PUaujigcWBQXfmZoMjRkh",
+        "title": "CASTIGO PRA SAFADA",
+        "artist": "MC Rick, Mc J Mito, Mc Menor Rf, Mc Ws da leste",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242dbcafb51cc423c7ea87f63",
+        "url": "https://open.spotify.com/album/1PUaujigcWBQXfmZoMjRkh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1yJst7rVPgBlKVZrI1aXhb",
+        "title": "Baile do Tio Glenner",
+        "artist": "DJ Glenner, Aaron Modesto, Mc Don Juan",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d67186fdbfcdb4a45966e16f",
+        "url": "https://open.spotify.com/album/1yJst7rVPgBlKVZrI1aXhb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ilIuSiYwecV5UArPziG1z",
+        "title": "HELLO HELLO",
+        "artist": "Beton.Hofi, Hundred Sins",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b526abc03c4cabf6ff43abd9",
+        "url": "https://open.spotify.com/album/1ilIuSiYwecV5UArPziG1z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5FqjtNbdnBjRgNObnyn1Fj",
+        "title": "Місто і туман",
+        "artist": "Kolibri",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d865232a24e23f53ee541971",
+        "url": "https://open.spotify.com/album/5FqjtNbdnBjRgNObnyn1Fj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1AEAzAJzmdSYEZnqJ0T0iK",
+        "title": "Raja's Playlist (Original Motion Picture Soundtrack)",
+        "artist": "Yuvan Shankar Raja, Vignesh Srikanth",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a3bd19c1c3b75ce6ac44be6c",
+        "url": "https://open.spotify.com/album/1AEAzAJzmdSYEZnqJ0T0iK",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5MWC1YCaW3MkSZJMd98FGY",
+        "title": "Naipe de Maloqueiro",
+        "artist": "MC Leozinho ZS, Brenninho VJ, Mc Xang, Dj Duh Andrade",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6280b50d17c04c655c44b33",
+        "url": "https://open.spotify.com/album/5MWC1YCaW3MkSZJMd98FGY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7f81fBpW87RLvKrkU2JNot",
+        "title": "On My Way",
+        "artist": "BUMKEY",
+        "type": "album",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02397cf0d84a266a963e5ee6a9",
+        "url": "https://open.spotify.com/album/7f81fBpW87RLvKrkU2JNot",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5ZTRobiBJm2pOmshdS2nu6",
+        "title": "Ranjah Te Mera Rab Varga (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb3b737390725b924f39c6fe",
+        "url": "https://open.spotify.com/album/5ZTRobiBJm2pOmshdS2nu6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LgHxhHNwblz6e5wj1QP7f",
+        "title": "Sun Charkhe Di Mithi (Remix)",
+        "artist": "Nusrat Fateh Ali Khan, VIBIE",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b507ab1fd2a5e25c4cfd4e25",
+        "url": "https://open.spotify.com/album/2LgHxhHNwblz6e5wj1QP7f",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1mWcaHAzhUzqDcjTu6XfV5",
+        "title": "Baarish aur Sufi",
+        "artist": "Nusrat Fateh Ali Khan, Abida Parveen, Saieen Zahoor",
+        "type": "album",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e23e5a7409fc8333749fa4e",
+        "url": "https://open.spotify.com/album/1mWcaHAzhUzqDcjTu6XfV5",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "46nSiXtm2MZSwp7lnsWgEg",
+        "title": "Bamse och Dunder-rubinen",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287393861192db035f601d465",
+        "url": "https://open.spotify.com/album/46nSiXtm2MZSwp7lnsWgEg",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "11oegSpg5xHvr5iZRAZQd8",
+        "title": "The Pull",
+        "artist": "Surekoer",
+        "type": "single",
+        "release_date": "2026-08-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cf91f2b213acdb1448fa7cb",
+        "url": "https://open.spotify.com/album/11oegSpg5xHvr5iZRAZQd8",
         "total_tracks": 1,
         "genres": []
       }
