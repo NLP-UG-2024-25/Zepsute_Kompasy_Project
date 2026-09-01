@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-31T12:48:20.521Z",
-  "total": 3405,
+  "fetched_at": "2026-09-01T11:09:44.664Z",
+  "total": 3419,
   "by_date": {
     "2026-05-15": [
       {
@@ -37660,6 +37660,162 @@
         "release_date": "2026-08-31",
         "image": "https://i.scdn.co/image/ab67616d00001e023cf91f2b213acdb1448fa7cb",
         "url": "https://open.spotify.com/album/11oegSpg5xHvr5iZRAZQd8",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-01": [
+      {
+        "id": "4sPc1UoWFrsBFimrYwdfF1",
+        "title": "Home [The Seasons : Sung Si-kyung's Ear Candy]",
+        "artist": "YEONJUN",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc5b4eca657fbaaf2a7814b6",
+        "url": "https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "36IJsF4xsZmfIkVHdzUUSb",
+        "title": "Chammak Challo (Multilingual Version)",
+        "artist": "Akon, Hamsika Iyer, Vishal Dadlani, Arma",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa56d7ab5a13a4e90f21b444",
+        "url": "https://open.spotify.com/album/36IJsF4xsZmfIkVHdzUUSb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "337chE5qTxkGZcPeuAZRHA",
+        "title": "Mujeres Divinas",
+        "artist": "Conjunto Primavera",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263d86e385baef46b299f6b88",
+        "url": "https://open.spotify.com/album/337chE5qTxkGZcPeuAZRHA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aQFJG4LR1VVgm0z5RWfHV",
+        "title": "删了一百遍",
+        "artist": "A-Lin",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9756f05765b6b4ad2b932ff",
+        "url": "https://open.spotify.com/album/4aQFJG4LR1VVgm0z5RWfHV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "464djR3O3N07jXelC7lpFy",
+        "title": "Tere Alava",
+        "artist": "Amit Trivedi, Amitabh Bhattacharya, Hansika Pareek, Shahid Mallya",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02075863403bbc241db4494ee0",
+        "url": "https://open.spotify.com/album/464djR3O3N07jXelC7lpFy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "20BQdIevfrdipZkT2imGNf",
+        "title": "不下床",
+        "artist": "Juno Mak, Panther Chan",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e024619e3b8ea5d1e16bd121cc8",
+        "url": "https://open.spotify.com/album/20BQdIevfrdipZkT2imGNf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "381comodDFpQlXwdxvAix1",
+        "title": "T's & C's Apply",
+        "artist": "Nasty C, Tellaman",
+        "type": "album",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02007cac1c6b56676f771bf89d",
+        "url": "https://open.spotify.com/album/381comodDFpQlXwdxvAix1",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "3K42M31fd5aUbbujsFbZEk",
+        "title": "עונג שבת",
+        "artist": "Shuli Rand, ShrekDiMC",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c1979d1fc907ba1464f9422",
+        "url": "https://open.spotify.com/album/3K42M31fd5aUbbujsFbZEk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3K6XXucVACXpSOTJQe0vLf",
+        "title": "אין מילים איתך (מיוחד למצעד הישראלי השנתי תשפ\"ו)",
+        "artist": "Full Trunk, ליעד מאיר, גלגלצ",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cedded336b22ef00c6b6f7c7",
+        "url": "https://open.spotify.com/album/3K6XXucVACXpSOTJQe0vLf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0xmtFHgZH7xCSBvuAxMRSu",
+        "title": "Холодна роса",
+        "artist": "kavabanga Depo kolibri",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d4e3bee9a65a9a9ab5a996e",
+        "url": "https://open.spotify.com/album/0xmtFHgZH7xCSBvuAxMRSu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ziNfNEHrISVJYYOkATZ0Y",
+        "title": "Konfetti i mim Chopf",
+        "artist": "Schwiizergoofe",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02991aa270a11cda1a04713767",
+        "url": "https://open.spotify.com/album/4ziNfNEHrISVJYYOkATZ0Y",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1PHGwQKA1bMzd9K131j19r",
+        "title": "Where It Fades",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261c858e31dc813e3a636e780",
+        "url": "https://open.spotify.com/album/1PHGwQKA1bMzd9K131j19r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44zcF0tIdefSSJOCSFnp7h",
+        "title": "I Saw Myself Again",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a71a8988f0b2fac1485422c",
+        "url": "https://open.spotify.com/album/44zcF0tIdefSSJOCSFnp7h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1NxBvWFUR3RYSVFUl20M2v",
+        "title": "Bhai Se Mera",
+        "artist": "Masoom Sharma, Narender Bhagana",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02175cb448b74afc22a8dab809",
+        "url": "https://open.spotify.com/album/1NxBvWFUR3RYSVFUl20M2v",
         "total_tracks": 1,
         "genres": []
       }
