@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-02T10:42:27.439Z",
-  "total": 3435,
+  "fetched_at": "2026-09-03T10:43:47.877Z",
+  "total": 3471,
   "by_date": {
     "2026-05-15": [
       {
@@ -37851,6 +37851,94 @@
         "url": "https://open.spotify.com/album/3UxMj4uF9tklNd4A87Ex8N",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0W9fij7xoPXJdAOg7wW2y0",
+        "title": "Lason",
+        "artist": "Skusta Clee",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02514aacc585854123936b8d54",
+        "url": "https://open.spotify.com/album/0W9fij7xoPXJdAOg7wW2y0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "364K5FgS9ZS40mjpcFqMqI",
+        "title": "Tu Har Dafa Tay Hai",
+        "artist": "Ankit Tiwari, Manoj Muntashir",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e6a0ce91f343015803a815a",
+        "url": "https://open.spotify.com/album/364K5FgS9ZS40mjpcFqMqI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1QBnjcOndipqfgkwBz9u3J",
+        "title": "Kongesangen",
+        "artist": "Highasakite",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c586036d0be2a658f636c489",
+        "url": "https://open.spotify.com/album/1QBnjcOndipqfgkwBz9u3J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7gbHhpXyuBsq0Vai06VVoT",
+        "title": "Yiccen",
+        "artist": "Wiz Khalifa",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c120029ffe8c074043b32aa",
+        "url": "https://open.spotify.com/album/7gbHhpXyuBsq0Vai06VVoT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cEOyJWniF79l6Xx3c9ueG",
+        "title": "عيشها اسد",
+        "artist": "Mody Amin",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef605290f23901410820ea9d",
+        "url": "https://open.spotify.com/album/1cEOyJWniF79l6Xx3c9ueG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1QXnMeqzS2pvlDJ0roLnfb",
+        "title": "pogányinduló",
+        "artist": "Pogány Induló",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fbd396e6f69285646c4bb41",
+        "url": "https://open.spotify.com/album/1QXnMeqzS2pvlDJ0roLnfb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "29Gt7mM9KakOOgutDJmwXF",
+        "title": "جرب حظك وانكشني",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b6d1b208f7cec5b377fbccb",
+        "url": "https://open.spotify.com/album/29Gt7mM9KakOOgutDJmwXF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YQwfboa9E0ImIvsaHHpiI",
+        "title": "Ēnas",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c719fee43bcc98a446bcfde4",
+        "url": "https://open.spotify.com/album/2YQwfboa9E0ImIvsaHHpiI",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-02": [
@@ -37994,6 +38082,316 @@
         "release_date": "2026-09-02",
         "image": "https://i.scdn.co/image/ab67616d00001e0217f7b488f6251789771063fd",
         "url": "https://open.spotify.com/album/1MpIAvltKLms03BQJacUhI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "240zFsvDjX5g9dJBNQceVL",
+        "title": "TE PERDÍ",
+        "artist": "Calle 24, Eddy",
+        "type": "single",
+        "release_date": "2026-09-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02184bab0df0336238ce146051",
+        "url": "https://open.spotify.com/album/240zFsvDjX5g9dJBNQceVL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21ks7wa25berrzcq5qCZtK",
+        "title": "YAKUZA",
+        "artist": "La Joaqui",
+        "type": "single",
+        "release_date": "2026-09-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e020fb86ba903af4a7fc19d0d66",
+        "url": "https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4bgOZP3agYn8pyhdKDecK6",
+        "title": "Virou Contatin",
+        "artist": "Boladin 211, DJ AL4DDIN",
+        "type": "single",
+        "release_date": "2026-09-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8bcc9e2167f94c9f716f405",
+        "url": "https://open.spotify.com/album/4bgOZP3agYn8pyhdKDecK6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YVYgJK3OEaT8gnEA83498",
+        "title": "Janice Vidal I",
+        "artist": "Janice Vidal",
+        "type": "compilation",
+        "release_date": "2026-09-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212c3539eac1a9df147909081",
+        "url": "https://open.spotify.com/album/4YVYgJK3OEaT8gnEA83498",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7xaLic5TJyJCO2PZhKAdIl",
+        "title": "Počkej (EUP SUMMER SEASON - PART II)",
+        "artist": "Yzomandias",
+        "type": "single",
+        "release_date": "2026-09-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8598356aeb1330d0faa6f63",
+        "url": "https://open.spotify.com/album/7xaLic5TJyJCO2PZhKAdIl",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5hHk1Fnk1AldOTXpcvw7Kh",
+        "title": "Yiccen",
+        "artist": "Wiz Khalifa",
+        "type": "single",
+        "release_date": "2026-09-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290bc3fa031fd3ce3e5b091bf",
+        "url": "https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-03": [
+      {
+        "id": "2A9u6e76geO3acjwuGmsJt",
+        "title": "Paarvayile Oru Ekkam Remix",
+        "artist": "G. V. Prakash, Na.Muthukumar, Naresh Iyer, Heart Killer Beats",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214548822c5c7f934b262ba2e",
+        "url": "https://open.spotify.com/album/2A9u6e76geO3acjwuGmsJt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40s2vzT4aoHv3kJyD1dShD",
+        "title": "Curvy Kamariya Teri",
+        "artist": "Sachin-Jigar, Rashmeet Kaur, Ash King",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026584d9bede5d220f4dfee087",
+        "url": "https://open.spotify.com/album/40s2vzT4aoHv3kJyD1dShD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0cc30JD6XrFkwmZsNPPGFs",
+        "title": "Melhores da Marina Sena",
+        "artist": "Marina Sena",
+        "type": "compilation",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9f486b1944d75a303192b43",
+        "url": "https://open.spotify.com/album/0cc30JD6XrFkwmZsNPPGFs",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "2OWkmNBya4lnNQYccN1flR",
+        "title": "我不難過",
+        "artist": "en王翊恩",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a28fbc7c93a6fc9c724305a",
+        "url": "https://open.spotify.com/album/2OWkmNBya4lnNQYccN1flR",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5CCZLiLt5nmqD9bMFcueKw",
+        "title": "PO TO MASZ 2",
+        "artist": "Cypis, Diho, Funky Beatz, Ba'langa",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278efefbc811ef27ec1d83edc",
+        "url": "https://open.spotify.com/album/5CCZLiLt5nmqD9bMFcueKw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3qBHaiHyAAlfdbgM6bjasU",
+        "title": "U",
+        "artist": "Sik-K, Lil Moshpit",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227cb9419b49e364a6e373355",
+        "url": "https://open.spotify.com/album/3qBHaiHyAAlfdbgM6bjasU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ESAdALqP7nivtwxlPxKhY",
+        "title": "Similar",
+        "artist": "Bayriton, Alberio",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299ea6fee9caa6997e151672f",
+        "url": "https://open.spotify.com/album/3ESAdALqP7nivtwxlPxKhY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1xi8SFgE53I9WyvClbt2RK",
+        "title": "Jai Govinda Jai Gopala",
+        "artist": "Alka Yagnik, Sanjeev Chaturvedi, Bhakti Setu",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2ff1afdd46dc2dfcf5de3a0",
+        "url": "https://open.spotify.com/album/1xi8SFgE53I9WyvClbt2RK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5nt3478nQx3TGA4rb8hZBT",
+        "title": "Ram Lakhan",
+        "artist": "Masoom Sharma, Rohit Lamba, Pinna Music",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02700bec30b4a613a9ca9966f2",
+        "url": "https://open.spotify.com/album/5nt3478nQx3TGA4rb8hZBT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49nvVWujZaPRqsejJhKM0j",
+        "title": "วนวาย ;(",
+        "artist": "Maiyarap",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221aa6ca72beaf5abe42fa1a9",
+        "url": "https://open.spotify.com/album/49nvVWujZaPRqsejJhKM0j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6g3PLC5PoW4u4RyaPY6kc0",
+        "title": "MI AMOR",
+        "artist": "Sentino, BNP",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a81b08574541b54abc0217b2",
+        "url": "https://open.spotify.com/album/6g3PLC5PoW4u4RyaPY6kc0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4OjjI3VKebRQtjSi72lWk0",
+        "title": "סולם האהבה",
+        "artist": "Berry Sakharof",
+        "type": "album",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287aae4d80ea8fbff58780072",
+        "url": "https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7ndIHzHujXB9oWuTiETDTw",
+        "title": "закохана",
+        "artist": "Volodymyr Dantes",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269f431284568b16ea1471407",
+        "url": "https://open.spotify.com/album/7ndIHzHujXB9oWuTiETDTw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "14VEDjWRWikPrfy7ftsbQV",
+        "title": "Unglimazile",
+        "artist": "Mellow & Sleazy, Ag'zo, Tman Xpress, HouseXcape",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02931157e7da8a59a632852d44",
+        "url": "https://open.spotify.com/album/14VEDjWRWikPrfy7ftsbQV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "55Yp4GqcIFJt02l3g34o7y",
+        "title": "Jackpot",
+        "artist": "Kacper HTA, samunowak",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e027eac40b39bfb753e52f94d8c",
+        "url": "https://open.spotify.com/album/55Yp4GqcIFJt02l3g34o7y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6SjNq6wSlIk3Hsgojxohyl",
+        "title": "Jojolina",
+        "artist": "JO",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e025fc74df7f23c1c35699ea114",
+        "url": "https://open.spotify.com/album/6SjNq6wSlIk3Hsgojxohyl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "56ndDq5lJ40nSaRIsSPcMu",
+        "title": "tunnel vision",
+        "artist": "Gareth.T",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cbf1d482fa8edd52036460c4",
+        "url": "https://open.spotify.com/album/56ndDq5lJ40nSaRIsSPcMu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0AWiQQlcr9zOBx9B8Te2WM",
+        "title": "甲乙丙丁Strangers (粵語版)",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f811727a0bed45428faa965a",
+        "url": "https://open.spotify.com/album/0AWiQQlcr9zOBx9B8Te2WM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6eejeUp2eR5uOslwMhFFRQ",
+        "title": "Ашу",
+        "artist": "akimmmich, bimo",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0247ad05a826defd45899cd6a8",
+        "url": "https://open.spotify.com/album/6eejeUp2eR5uOslwMhFFRQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0quIvabQvpBYJ38oUjj8nK",
+        "title": "Не хочу тонути",
+        "artist": "Kolibri",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ad3cfa9ed8a32aa94a6ff0d",
+        "url": "https://open.spotify.com/album/0quIvabQvpBYJ38oUjj8nK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1xtEzqDH2VBaVmPOjQ2L2o",
+        "title": "CHANGES",
+        "artist": "antransax",
+        "type": "album",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02657d9240254c520d1fe9004e",
+        "url": "https://open.spotify.com/album/1xtEzqDH2VBaVmPOjQ2L2o",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7e5oWrt2b0B7PbA8uI3uHG",
+        "title": "Lido Tu (FateD Remix)",
+        "artist": "Papīra Lidmašīnas, FateD",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fb6f4c1f9b0a5fa578dd131",
+        "url": "https://open.spotify.com/album/7e5oWrt2b0B7PbA8uI3uHG",
         "total_tracks": 1,
         "genres": []
       }
