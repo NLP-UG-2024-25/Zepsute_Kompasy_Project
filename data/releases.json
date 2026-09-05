@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-04T10:40:37.059Z",
-  "total": 3514,
+  "fetched_at": "2026-09-05T10:00:35.892Z",
+  "total": 3525,
   "by_date": {
     "2026-05-15": [
       {
@@ -38504,6 +38504,61 @@
         "url": "https://open.spotify.com/album/1wvbyKO0rynxQwN1qmaUQx",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4Fa8dk5lKFUVqLIrRwYPl8",
+        "title": "La Universidad del Perreo",
+        "artist": "Wisin",
+        "type": "album",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bd7b3efbab8271c4c734a92",
+        "url": "https://open.spotify.com/album/4Fa8dk5lKFUVqLIrRwYPl8",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "5EumHLtbT0Jc90E3I8j0On",
+        "title": "Cuál Es La Necesidad",
+        "artist": "Yandel",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df36070ed5d59ed0edd19abc",
+        "url": "https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dDpesDlsId7FLZ9rQ17tp",
+        "title": "Samjho Na (From \"The Vvaan\")",
+        "artist": "Tanishk Bagchi, Jubin Nautiyal, Suvarna Tiwari, Manoj Muntashir",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa6c9b2e75239fa25009004f",
+        "url": "https://open.spotify.com/album/4dDpesDlsId7FLZ9rQ17tp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4P9orjsOtA6EMnQHomKhpY",
+        "title": "SUN SHERIF",
+        "artist": "Black Sherif",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e020db7c5d0935596205f0e6cb8",
+        "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5g0G8xC7jWuazGgmBNOQfl",
+        "title": "Feel Good Bollywood",
+        "artist": "Amit Trivedi, Arko, Jasleen Royal, Jonita Gandhi",
+        "type": "compilation",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4472f30c7faa82643cf90da",
+        "url": "https://open.spotify.com/album/5g0G8xC7jWuazGgmBNOQfl",
+        "total_tracks": 12,
+        "genres": []
       }
     ],
     "2026-09-04": [
@@ -38868,6 +38923,74 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a55befcc75a3747e6f467f40",
         "url": "https://open.spotify.com/album/38jL04jbe3qr2cgjkrVSLb",
         "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1P4dRFaQjFO5bfQKGSCOtW",
+        "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "artist": "Beyoncé",
+        "type": "album",
+        "release_date": "2026-09-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02763bc0c56de7193b893cb1aa",
+        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW",
+        "total_tracks": 31,
+        "genres": []
+      },
+      {
+        "id": "3DRVzoB6SX4aHNtFVZet4p",
+        "title": "1,2,3",
+        "artist": "James Hype, Volkoder",
+        "type": "single",
+        "release_date": "2026-09-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bc3a464fa3da530b61a4a53",
+        "url": "https://open.spotify.com/album/3DRVzoB6SX4aHNtFVZet4p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13sSjbKLAjviIx0bBtk5CV",
+        "title": "ONE OF A KIND",
+        "artist": "Palm Monkey, DALEXO",
+        "type": "single",
+        "release_date": "2026-09-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243c7905e6fd8dda3b27912db",
+        "url": "https://open.spotify.com/album/13sSjbKLAjviIx0bBtk5CV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ztiqbhs7zjXBOOP82yFwe",
+        "title": "Giddy Up",
+        "artist": "Katchafire",
+        "type": "single",
+        "release_date": "2026-09-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e020483d6dc68043dcf5c862770",
+        "url": "https://open.spotify.com/album/1ztiqbhs7zjXBOOP82yFwe",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-05": [
+      {
+        "id": "1mnvUfF56uHHqlN77C6C9F",
+        "title": "Erbit El Chatwiye",
+        "artist": "Wael Kfoury",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f0bd2b95da22b7cc7c71c7f",
+        "url": "https://open.spotify.com/album/1mnvUfF56uHHqlN77C6C9F",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nWQ23etwZcOeTpXB2AXFD",
+        "title": "Pogadhe Afro Soul Remix",
+        "artist": "Yuvan Shankar Raja, Na.Muthukumar, The Independeners",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02147ee418f2788f797ad08286",
+        "url": "https://open.spotify.com/album/1nWQ23etwZcOeTpXB2AXFD",
+        "total_tracks": 1,
         "genres": []
       }
     ]
