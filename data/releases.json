@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-06T10:19:47.221Z",
-  "total": 3569,
+  "fetched_at": "2026-09-07T11:40:26.059Z",
+  "total": 3604,
   "by_date": {
     "2026-05-15": [
       {
@@ -39388,6 +39388,116 @@
         "url": "https://open.spotify.com/album/4XzS02Pd18V2vtWLxbUHga",
         "total_tracks": 29,
         "genres": []
+      },
+      {
+        "id": "2Xw65uRZmjSbP8PvMfsdqT",
+        "title": "Jana Nayakudu (Dialogues) [TELUGU]",
+        "artist": "Anirudh Ravichander",
+        "type": "album",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e020623c4a284cbb759804b269c",
+        "url": "https://open.spotify.com/album/2Xw65uRZmjSbP8PvMfsdqT",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "6B0Fbcgiohecmu4gLIPaeX",
+        "title": "Pe Cine Am La Inimioara",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b17a8d589582bab20c3017e7",
+        "url": "https://open.spotify.com/album/6B0Fbcgiohecmu4gLIPaeX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3HZroUk58edGbonMOMMyun",
+        "title": "BOOM ليلتنا بوووم",
+        "artist": "MC Nito, Mohamed Ramadan, DJ WNZL, Eslam Saso",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213315b22025bb45fef1713bc",
+        "url": "https://open.spotify.com/album/3HZroUk58edGbonMOMMyun",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0iWGSOFsIqthW5jcPHhryW",
+        "title": "Recuérdame",
+        "artist": "La Juntada De Los Artistas, Candu DomÍnguez, G Sony",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e6d243db29f16a1ede99c28",
+        "url": "https://open.spotify.com/album/0iWGSOFsIqthW5jcPHhryW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4mGChMhWxMfx8tBxWfyMBB",
+        "title": "Hào Hoa",
+        "artist": "Jack - J97",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5b534cd58ae6ea7880012cc",
+        "url": "https://open.spotify.com/album/4mGChMhWxMfx8tBxWfyMBB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KXmXX9kGUgvKD8hoMBrn3",
+        "title": "Hướng Dương Bất Tức",
+        "artist": "Jack - J97",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8a361ad6ecff96aae93eff8",
+        "url": "https://open.spotify.com/album/3KXmXX9kGUgvKD8hoMBrn3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zcP3BsjtSSDutGZsO8rBV",
+        "title": "Tam Thái Tử",
+        "artist": "Jack - J97",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223d4a9d1cf9a51a52e7f62cf",
+        "url": "https://open.spotify.com/album/2zcP3BsjtSSDutGZsO8rBV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2MUPVAdnm6Qxx5umMhM8E4",
+        "title": "Todo lo Perdí Por Ti / Lost On You",
+        "artist": "La Juntada De Los Artistas, Candu DomÍnguez, G Sony",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfaa37d04d47680d657956ef",
+        "url": "https://open.spotify.com/album/2MUPVAdnm6Qxx5umMhM8E4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5jcqMobe1RlnArXf8hwizt",
+        "title": "G SONY / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, G Sony",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e62fe5cbe2c6d373c3a21702",
+        "url": "https://open.spotify.com/album/5jcqMobe1RlnArXf8hwizt",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2NfajoRQZC7i2L8vheCYwT",
+        "title": "CANDU DOMÍNGUEZ / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Candu DomÍnguez",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256fd99d2e2ddc5f99e799ae9",
+        "url": "https://open.spotify.com/album/2NfajoRQZC7i2L8vheCYwT",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-09-06": [
@@ -39476,6 +39586,283 @@
         "release_date": "2026-09-06",
         "image": "https://i.scdn.co/image/ab67616d00001e027415fcb23045d1514d0cfbbd",
         "url": "https://open.spotify.com/album/0gaBsmzYBnChPRCAThuKBa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5biM91iTKHuwrzBFlSecKq",
+        "title": "NEVERDIE",
+        "artist": "Xolidayboy",
+        "type": "single",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ae253cd6992cc19e8c1f589",
+        "url": "https://open.spotify.com/album/5biM91iTKHuwrzBFlSecKq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2T4vDd8uP4vWjI9AkzMzHq",
+        "title": "محبوس كام جرو عمل فلوس ( في البنك في فلوس )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cc443951d4732f2de0424c8",
+        "url": "https://open.spotify.com/album/2T4vDd8uP4vWjI9AkzMzHq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "66V4POYaVbD8bnh5fYyPbh",
+        "title": "We Know Too Much",
+        "artist": "Ellie Goulding",
+        "type": "album",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd06ab0c4329906d8a70837f",
+        "url": "https://open.spotify.com/album/66V4POYaVbD8bnh5fYyPbh",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "3C0YWIcCuiba0l785qwUtk",
+        "title": "We Know Too Much",
+        "artist": "Ellie Goulding",
+        "type": "album",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f707abfbd6450ab3837729c6",
+        "url": "https://open.spotify.com/album/3C0YWIcCuiba0l785qwUtk",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "2mNTMkPRHaLf5kMcgJ6QbE",
+        "title": "Suki de Ite",
+        "artist": "Ado",
+        "type": "single",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021dce0a41e675de0f60073ccd",
+        "url": "https://open.spotify.com/album/2mNTMkPRHaLf5kMcgJ6QbE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YqDASfbZeuiKGnjHqceh6",
+        "title": "Dorothy (Original Background Score)",
+        "artist": "Ilaiyaraaja",
+        "type": "album",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbf68a7e7f2e8fe386b68b2e",
+        "url": "https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "0APwF8gkaNSgkQlP7qAbsc",
+        "title": "Tam Thái Tử",
+        "artist": "Jack - J97",
+        "type": "album",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293891734b90b403e1f6d54ae",
+        "url": "https://open.spotify.com/album/0APwF8gkaNSgkQlP7qAbsc",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "4vPtCudtnMe6CibnxRT4fF",
+        "title": "Horsefreak Eats Blonde’s Ass",
+        "artist": "Animal Party",
+        "type": "single",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d8b768a0129456b0c4dfe6e",
+        "url": "https://open.spotify.com/album/4vPtCudtnMe6CibnxRT4fF",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-07": [
+      {
+        "id": "1wHCS61gObQcmYhiv3eLHz",
+        "title": "DADDY",
+        "artist": "Jay Park",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02562cb82572774d324637290f",
+        "url": "https://open.spotify.com/album/1wHCS61gObQcmYhiv3eLHz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0NKJlpruRROomjmAm17u8L",
+        "title": "4real",
+        "artist": "Wonstein",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0dc0d96e209101f8d72ae31",
+        "url": "https://open.spotify.com/album/0NKJlpruRROomjmAm17u8L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Dxzs19xbvfMVjtOkwCwn2",
+        "title": "Mitrata Anthem",
+        "artist": "Amit Trivedi, Parthiv Shah, Joy Mehta",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e020174d450306edc31a33673fc",
+        "url": "https://open.spotify.com/album/0Dxzs19xbvfMVjtOkwCwn2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MHKjT17EIWFjPHiqysVqt",
+        "title": "Somoye To Ekdin Jete Hobe",
+        "artist": "Kumar Sanu",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02738f631be4bb050e29c5d464",
+        "url": "https://open.spotify.com/album/0MHKjT17EIWFjPHiqysVqt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2O3LGXBZz0CMz9iwiDdYVC",
+        "title": "Joy.",
+        "artist": "RAYE, Amma, Absolutely",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d93d44a45e5012a02112f917",
+        "url": "https://open.spotify.com/album/2O3LGXBZz0CMz9iwiDdYVC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72TzAcmgVzT7XKYn01Rj4D",
+        "title": "หนุ่มบ้านนอก (Remix)",
+        "artist": "P6ICK, SURIYA MQT",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b805b95f7771bebb84d41b4",
+        "url": "https://open.spotify.com/album/72TzAcmgVzT7XKYn01Rj4D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cn9nEfWtT6KFDddfBymeP",
+        "title": "Kehna Hi Kya (Instrumental)",
+        "artist": "A.R. Rahman, Hannah V, Vedam",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a2664c0fedb770cbcc13c12",
+        "url": "https://open.spotify.com/album/7cn9nEfWtT6KFDddfBymeP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FGpdKc4qUCbhmDUbMxJEK",
+        "title": "Waade Saare",
+        "artist": "Jubin Nautiyal, Shubham Srivastava, Kaushal Kishore",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02140140aff24dcf6a78b736e4",
+        "url": "https://open.spotify.com/album/7FGpdKc4qUCbhmDUbMxJEK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1LrR2d4Ux6vhHnUWB2WgBh",
+        "title": "Лада Нива",
+        "artist": "FYRE",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e024667c6106cc6b46a19b8ff4a",
+        "url": "https://open.spotify.com/album/1LrR2d4Ux6vhHnUWB2WgBh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vhl6He8gAwgdbOiylYUw2",
+        "title": "DJOBNO GADJE",
+        "artist": "KSIOR, SISS",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243d0f4da50b55593c380617e",
+        "url": "https://open.spotify.com/album/2vhl6He8gAwgdbOiylYUw2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Xia2pLQZF5nAd3diSitsW",
+        "title": "Розвели нас",
+        "artist": "Kolibri",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02250cf8cc2f185ab63464fc29",
+        "url": "https://open.spotify.com/album/6Xia2pLQZF5nAd3diSitsW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1NM2OxzfY1EuShmSYe72GK",
+        "title": "Não Me Quis, Tá Bom",
+        "artist": "Aaron Modesto, Mc Kadu, Mc Magal, DJ Glenner",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cad6cf8597e4301bc28c3610",
+        "url": "https://open.spotify.com/album/1NM2OxzfY1EuShmSYe72GK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5iG7bM7e2V0EBZA3YNkCMa",
+        "title": "Filmy Babe",
+        "artist": "Masoom Sharma",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab3cd3be9da90cf058fe52ce",
+        "url": "https://open.spotify.com/album/5iG7bM7e2V0EBZA3YNkCMa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7DiNqPbfHEnRGjB0Mixcj3",
+        "title": "Saagar Jaisi Aankhonwali (Instrumental)",
+        "artist": "R. D. Burman, Hannah V, Vedam",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ade58f8adc66b52ea148862e",
+        "url": "https://open.spotify.com/album/7DiNqPbfHEnRGjB0Mixcj3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5nePWt0ygXEBra222Nmsf9",
+        "title": "Kehdoon Tumhen (Instrumental)",
+        "artist": "R. D. Burman, Hannah V, Vedam",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02580f481472fc82376f20cd2a",
+        "url": "https://open.spotify.com/album/5nePWt0ygXEBra222Nmsf9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ijXhkgJho7t4WHhirZHKH",
+        "title": "Toki Koete Universe",
+        "artist": "M!LK",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02054b583cef16f7b88fff5730",
+        "url": "https://open.spotify.com/album/1ijXhkgJho7t4WHhirZHKH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BpzlniTB5FtVMCae2fnmy",
+        "title": "Monkeyrat Projectile Vomits at the Wedding",
+        "artist": "Animal Party",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c3e6c04e4d3a1f774e30e41",
+        "url": "https://open.spotify.com/album/7BpzlniTB5FtVMCae2fnmy",
         "total_tracks": 1,
         "genres": []
       }
