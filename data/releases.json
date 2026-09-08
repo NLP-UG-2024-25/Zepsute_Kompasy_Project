@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-07T11:40:26.059Z",
-  "total": 3604,
+  "fetched_at": "2026-09-08T10:39:21.706Z",
+  "total": 3627,
   "by_date": {
     "2026-05-15": [
       {
@@ -39676,6 +39676,28 @@
         "url": "https://open.spotify.com/album/4vPtCudtnMe6CibnxRT4fF",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0ze9W2UIW77H6LKj1IAET0",
+        "title": "Phanthiet1482022",
+        "artist": "Thịnh Suy",
+        "type": "single",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e026364e2863dcd6b956fe4c32c",
+        "url": "https://open.spotify.com/album/0ze9W2UIW77H6LKj1IAET0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6rgySzqQnxCQsj5f73ctJL",
+        "title": "NO ZONE",
+        "artist": "Maggi Mix",
+        "type": "album",
+        "release_date": "2026-09-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02deb3b542ae202d58d0475bc6",
+        "url": "https://open.spotify.com/album/6rgySzqQnxCQsj5f73ctJL",
+        "total_tracks": 10,
+        "genres": []
       }
     ],
     "2026-09-07": [
@@ -39863,6 +39885,239 @@
         "release_date": "2026-09-07",
         "image": "https://i.scdn.co/image/ab67616d00001e021c3e6c04e4d3a1f774e30e41",
         "url": "https://open.spotify.com/album/7BpzlniTB5FtVMCae2fnmy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "29DMcoWVBWlp7Dy9TdlBb1",
+        "title": "在這裡等你",
+        "artist": "告五人",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0ebde58f5e0d27f3e65be56",
+        "url": "https://open.spotify.com/album/29DMcoWVBWlp7Dy9TdlBb1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0haXItAakeT1TlEkRfGHuI",
+        "title": "CỨ THẾ",
+        "artist": "Orange, Hoàng Dũng",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e026bd1405b22ec2fcaca05d244",
+        "url": "https://open.spotify.com/album/0haXItAakeT1TlEkRfGHuI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ceN7SJfAusr3dQGQr8Gq7",
+        "title": "Einy 3al Habib",
+        "artist": "Houda",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a6bc1f955b92598d83891be",
+        "url": "https://open.spotify.com/album/4ceN7SJfAusr3dQGQr8Gq7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1mV79VijHRRNgksZHtH4BU",
+        "title": "Lido Tu (Akustiski)",
+        "artist": "Papīra Lidmašīnas",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6fbf8b6c3f4612129dc8083",
+        "url": "https://open.spotify.com/album/1mV79VijHRRNgksZHtH4BU",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-08": [
+      {
+        "id": "5sO3zESDSsBFgd9m76MK2q",
+        "title": "דרך העושים מאהבה",
+        "artist": "Ishay Ribo",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1b46982f816d20a7db2fa58",
+        "url": "https://open.spotify.com/album/5sO3zESDSsBFgd9m76MK2q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1dTUEYtgfNABjV3BDpSfXA",
+        "title": "DOPAMINE - The 4th Mini Album",
+        "artist": "D.O.",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02741e983a3613281465ab9994",
+        "url": "https://open.spotify.com/album/1dTUEYtgfNABjV3BDpSfXA",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "46UIOKCUsalyR4c4QHCUAo",
+        "title": "Jay Dev",
+        "artist": "Sonu Nigam, Sanket Naik, Kohinoor Mukherjee",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a10bcde44ee900c93325be3",
+        "url": "https://open.spotify.com/album/46UIOKCUsalyR4c4QHCUAo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2TUvT4qiM53MI8ErBpiG3D",
+        "title": "IM HERO 10",
+        "artist": "Lim Young Woong",
+        "type": "album",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b35494ab84f8ad22da28def",
+        "url": "https://open.spotify.com/album/2TUvT4qiM53MI8ErBpiG3D",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4MlSAvlzXNBHfLCyCQS2i6",
+        "title": "PUGNO DI FERRO (Red Bull 64 Bars)",
+        "artist": "Artie 5ive",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f28cb881318b8bd9501d7e4",
+        "url": "https://open.spotify.com/album/4MlSAvlzXNBHfLCyCQS2i6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3fCNp3KjKpvN6VirgzG2K3",
+        "title": "Dandana Darna Folk Remix",
+        "artist": "Vidyasagar, Kabilan, Sangeet Haldipur, The Independeners",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8a89468986b815ee7ea0450",
+        "url": "https://open.spotify.com/album/3fCNp3KjKpvN6VirgzG2K3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4UlPRkEEzKHqQAMYTCzNLd",
+        "title": "פעימת לב",
+        "artist": "Eviatar Banai",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02223d5be640d33df8a673da80",
+        "url": "https://open.spotify.com/album/4UlPRkEEzKHqQAMYTCzNLd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7exuAZnclyyvJHcKJFV1zc",
+        "title": "ВДОМА (Live show Київ 2026)",
+        "artist": "АНТИТІЛА",
+        "type": "album",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adb16124d0c9dcc78450a253",
+        "url": "https://open.spotify.com/album/7exuAZnclyyvJHcKJFV1zc",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "5GfqnfAZJLSv0XDzzKsP4W",
+        "title": "נתתי לך בית",
+        "artist": "אופק אדנק",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02427b3d34a61e64ada1d6a7ae",
+        "url": "https://open.spotify.com/album/5GfqnfAZJLSv0XDzzKsP4W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5UF8VQJweFvB4UZ2CGuUD5",
+        "title": "Безкрилий",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e021056a5b04f1af6c769da3867",
+        "url": "https://open.spotify.com/album/5UF8VQJweFvB4UZ2CGuUD5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5lDQp0r2r83UEE0fkxxq1o",
+        "title": "Efteling Slaapmuziek",
+        "artist": "Efteling",
+        "type": "album",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253b56a3d62bc4453d582c105",
+        "url": "https://open.spotify.com/album/5lDQp0r2r83UEE0fkxxq1o",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "48L6tIMyePacVc5VNR6w65",
+        "title": "Tere Bin Mera Haal",
+        "artist": "Kumaar, Vish Music, Sushant Shankar",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240b89aa3c3162fdf94488a82",
+        "url": "https://open.spotify.com/album/48L6tIMyePacVc5VNR6w65",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "61ToZYnDCszMR9m9JNoDZF",
+        "title": "Asha Forever",
+        "artist": "A.R. Rahman, Asha Bhosle",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235c47d2e8ec472dcea28171b",
+        "url": "https://open.spotify.com/album/61ToZYnDCszMR9m9JNoDZF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xtQgvoHpB0JVCadeJHAFz",
+        "title": "8",
+        "artist": "Lenny Tavárez",
+        "type": "album",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02930ef286b0d075fa06b1b817",
+        "url": "https://open.spotify.com/album/7xtQgvoHpB0JVCadeJHAFz",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4LGXCkURnHREEjsuqBXiIP",
+        "title": "Tears at KTV",
+        "artist": "Pets Tseng",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ecd1bc68c3fcea54b731238",
+        "url": "https://open.spotify.com/album/4LGXCkURnHREEjsuqBXiIP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39QIjhbSeV2p9a4tuki8Ci",
+        "title": "Prabhu Se Mel",
+        "artist": "Masoom Sharma, Ashu Twinkle, Kirti Kumar Satta, Fiza Choudhary",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7b1edddb5ee29aaae6bbeab",
+        "url": "https://open.spotify.com/album/39QIjhbSeV2p9a4tuki8Ci",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1D0c3CcD1RQfRzw84ajfBR",
+        "title": "Morocho",
+        "artist": "Soy tu Sol",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c54cc28020add7260b9e924",
+        "url": "https://open.spotify.com/album/1D0c3CcD1RQfRzw84ajfBR",
         "total_tracks": 1,
         "genres": []
       }
