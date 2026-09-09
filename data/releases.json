@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-08T10:39:21.706Z",
-  "total": 3627,
+  "fetched_at": "2026-09-09T10:48:56.827Z",
+  "total": 3669,
   "by_date": {
     "2026-05-15": [
       {
@@ -37939,6 +37939,17 @@
         "url": "https://open.spotify.com/album/2YQwfboa9E0ImIvsaHHpiI",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3gt3CTgHni3FitpQJ8g0Lu",
+        "title": "Ballerina Cappuccina Disco",
+        "artist": "DJ PIPI MAX",
+        "type": "single",
+        "release_date": "2026-09-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287023d16ff206f24d978c555",
+        "url": "https://open.spotify.com/album/3gt3CTgHni3FitpQJ8g0Lu",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-02": [
@@ -39931,6 +39942,127 @@
         "url": "https://open.spotify.com/album/1mV79VijHRRNgksZHtH4BU",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6V1Luf4e5Cl0hye253RPCw",
+        "title": "Siya Entry (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+        "artist": "Sai Abhyankkar, Daniel, Vettori",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7213ab1e0ffee1e313591fc",
+        "url": "https://open.spotify.com/album/6V1Luf4e5Cl0hye253RPCw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58Ce7BhhMbnHJ2ztIRPdwN",
+        "title": "Best of Romance - Atif Aslam",
+        "artist": "Atif Aslam, Shreya Ghoshal, Pritam, Sachin-Jigar",
+        "type": "compilation",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ca8a2098148083c3f4dcfb7",
+        "url": "https://open.spotify.com/album/58Ce7BhhMbnHJ2ztIRPdwN",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "794kLuwDgdd2GhwuDyVQee",
+        "title": "Lenin OST",
+        "artist": "Thaman S",
+        "type": "album",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be2fe9bd92607854010cdb62",
+        "url": "https://open.spotify.com/album/794kLuwDgdd2GhwuDyVQee",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3C3KouY5LNnySnYZ6JkKwJ",
+        "title": "Srinivasa Mangapuram (Dialogues) [TELUGU]",
+        "artist": "G. V. Prakash",
+        "type": "album",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238dd01c5d5c6e9be239fbdc6",
+        "url": "https://open.spotify.com/album/3C3KouY5LNnySnYZ6JkKwJ",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "6B9RurRTYu3zy2HcpZiZ3F",
+        "title": "梦哑(说唱版)",
+        "artist": "Ren Ran, 刘兆宇",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0274e762685ab2750948746807",
+        "url": "https://open.spotify.com/album/6B9RurRTYu3zy2HcpZiZ3F",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DCuq9aAYdQZn03BYpKXfm",
+        "title": "SOTTOGONNA",
+        "artist": "BLANCO",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0257314f8853f9c943558035a6",
+        "url": "https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Gemg7tyjoSiC7TakrnaWf",
+        "title": "Lagao si za 3 života",
+        "artist": "Magazin",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218638d1305afd4dfdea482c9",
+        "url": "https://open.spotify.com/album/5Gemg7tyjoSiC7TakrnaWf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5dxHZL316f7cQmOQEZKfeh",
+        "title": "انا اللي كله حك فيا",
+        "artist": "Essam Sasa, Kimo El Deeb",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ae06ed3445f3fdf57899c8a",
+        "url": "https://open.spotify.com/album/5dxHZL316f7cQmOQEZKfeh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7nLDPAPNOJur3rn4U7KALT",
+        "title": "gigi demo",
+        "artist": "Sin Boy",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e022219ec3cf65f468ca50094e0",
+        "url": "https://open.spotify.com/album/7nLDPAPNOJur3rn4U7KALT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Q5Xfw2rBdh1HvNOK7QHTn",
+        "title": "Ngày Ấy Sẽ Đến?",
+        "artist": "MeMe Media",
+        "type": "album",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d410ae93924754dfe8933c4a",
+        "url": "https://open.spotify.com/album/4Q5Xfw2rBdh1HvNOK7QHTn",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "7sCQHrE5xh3zeq93P9TVpn",
+        "title": "isthiswhatyouwanted",
+        "artist": "ZombzMJ",
+        "type": "single",
+        "release_date": "2026-09-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6084a9bbfd28898d54dad8a",
+        "url": "https://open.spotify.com/album/7sCQHrE5xh3zeq93P9TVpn",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-08": [
@@ -40118,6 +40250,338 @@
         "release_date": "2026-09-08",
         "image": "https://i.scdn.co/image/ab67616d00001e023c54cc28020add7260b9e924",
         "url": "https://open.spotify.com/album/1D0c3CcD1RQfRzw84ajfBR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2rkj07G0JsBiy0XrfE19XL",
+        "title": "Essa Ta Quente (feat. Skrillex)",
+        "artist": "Chase & Status, Skrillex",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252cb03d71287de84a1f55238",
+        "url": "https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vljvUBtXiAKW2D5t9qBTY",
+        "title": "Lạng Quanh",
+        "artist": "Hngle, Parys, VSTRA",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e021aaf9f6f0e819375e3c7155c",
+        "url": "https://open.spotify.com/album/3vljvUBtXiAKW2D5t9qBTY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6JvGqWQOV8UlwkjpA9vZDa",
+        "title": "Ma Vie",
+        "artist": "Noam Bettan",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ff239838029243a1af868d4",
+        "url": "https://open.spotify.com/album/6JvGqWQOV8UlwkjpA9vZDa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qP6ouYxDaqx4TnbVhWhyw",
+        "title": "Ne kadar acı",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234dbec91e19caaca44522ca5",
+        "url": "https://open.spotify.com/album/0qP6ouYxDaqx4TnbVhWhyw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cqPZS0oKdjsjOP5GTlskF",
+        "title": "VLONE",
+        "artist": "Julianno Sosa, Pablo Chill-E",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a27e92a088adf3d7c8fc6cd",
+        "url": "https://open.spotify.com/album/6cqPZS0oKdjsjOP5GTlskF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pKHGbTySdT8rfCwyUrRtL",
+        "title": "El Shai Ya Baba",
+        "artist": "Wegz",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2d5bc125af812aefab12cd7",
+        "url": "https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6HkKyHLkdInH6GD4vrVXxN",
+        "title": "Ae Meri Zindagi (From \"Om Ka Hari\")",
+        "artist": "Asha Bhosle, Rajieve Sarang, Pradeep Sharma Khusro",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ac526f0545103dbe3319eac",
+        "url": "https://open.spotify.com/album/6HkKyHLkdInH6GD4vrVXxN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2e5UwmD0na8dQgvxzJIrAN",
+        "title": "CASINI",
+        "artist": "Marracash, Guè",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029714e5628bb01024638f7c84",
+        "url": "https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ej1vhhsSBARUCic7Ec2Wz",
+        "title": "Tu Decide",
+        "artist": "MC Leozinho ZS, MC Jacaré, DJ JHOW BEATS, Dj Andrabeat",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285197a60f08efc7681cce643",
+        "url": "https://open.spotify.com/album/0ej1vhhsSBARUCic7Ec2Wz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "06PbVHrAMZzTTw61Tnlj7H",
+        "title": "No Es Por Acá (En Vivo)",
+        "artist": "Ulises Bueno",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aeae836d679bc79d380056cf",
+        "url": "https://open.spotify.com/album/06PbVHrAMZzTTw61Tnlj7H",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2TW8bZGccQtMir0nPLnHAR",
+        "title": "Sana 1 Şarkı",
+        "artist": "Yıldız Tilbe",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f7a329aacb961f00ec95f6f",
+        "url": "https://open.spotify.com/album/2TW8bZGccQtMir0nPLnHAR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0VJ2t25jf4JQ5Tdx4xVSvK",
+        "title": "CHECKLIST",
+        "artist": "BILLKIN",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4de74e538720de05513bda1",
+        "url": "https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4FqrWblBHbhTkVoBZUjjgK",
+        "title": "لو الاسود اخرها في العرين ( يالمبة صاحبي عندو هسهسة )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3394b60cbaed014c6d535d0",
+        "url": "https://open.spotify.com/album/4FqrWblBHbhTkVoBZUjjgK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0zsFlEPQWekMRb5lJPaYzx",
+        "title": "The Gospel According to Game",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f1011da6165cf7c96bcce6ee",
+        "url": "https://open.spotify.com/album/0zsFlEPQWekMRb5lJPaYzx",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-09": [
+      {
+        "id": "4ZgqycIjE4EAjdF3j7PyLR",
+        "title": "Bound to Ride",
+        "artist": "Dolly Parton, The First Ladies of Bluegrass",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02faf90731ce60c7031ee3ea3a",
+        "url": "https://open.spotify.com/album/4ZgqycIjE4EAjdF3j7PyLR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4HzK5mBjKIXKmOHFZDxgoA",
+        "title": "Close My Eyes (feat. SACHA)",
+        "artist": "Marshmello, ILLENIUM, SACHA",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284198377626062d745c28658",
+        "url": "https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38UomyR7gYGovGNxe9E0Qa",
+        "title": "Isang Pag-Ibig",
+        "artist": "IV OF SPADES",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1710dc0e4716ac6e27993c1",
+        "url": "https://open.spotify.com/album/38UomyR7gYGovGNxe9E0Qa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3PbkeRh92HBhRCs08U9PQr",
+        "title": "Get Up And Dance",
+        "artist": "Cloonee",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223dbdb911905231be9a2578f",
+        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04Evk75an1E7PU4uoWlOqE",
+        "title": "Tainu Khabar Nahi Lofi Flip",
+        "artist": "Arijit Singh, Sachin-Jigar, Silent Ocean",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264e154c742a82c7518f76d17",
+        "url": "https://open.spotify.com/album/04Evk75an1E7PU4uoWlOqE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7vIUh7p2sFCIleEpx4DVEH",
+        "title": "Hold Somebody",
+        "artist": "Young Jonn",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef28a66aa297b56d61392e7c",
+        "url": "https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Z2NovhasdQJTeR7DjzoHu",
+        "title": "kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin",
+        "artist": "fitterkarma",
+        "type": "album",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4fb20441f357d9ef7873f3e",
+        "url": "https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "3aXFOdQumKeELs8qyCiQGu",
+        "title": "拳王阿里",
+        "artist": "Firdhaus",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d274ce53d236d0561f45eb76",
+        "url": "https://open.spotify.com/album/3aXFOdQumKeELs8qyCiQGu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Qbr4Cj82hmeVnW6qgt8bz",
+        "title": "НуМо",
+        "artist": "MONATIK",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d971bea39981745f4401bdd",
+        "url": "https://open.spotify.com/album/2Qbr4Cj82hmeVnW6qgt8bz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7s7ovfU2W7jxVGyEAusG19",
+        "title": "השם עזר",
+        "artist": "אודיה",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e022151dc011d7c9a227ed3528b",
+        "url": "https://open.spotify.com/album/7s7ovfU2W7jxVGyEAusG19",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1P0PeRhfWuXbCnffKj6puK",
+        "title": "Sensação Sublime",
+        "artist": "Mc Paiva ZS, Gabb MC, Mc Tato, Mc J9",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02296f8a9c4bc0a9c8324dcc42",
+        "url": "https://open.spotify.com/album/1P0PeRhfWuXbCnffKj6puK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6aIY54oSEQfou97pBh9s3I",
+        "title": "โนบิตะ",
+        "artist": "No One Else",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a8ae1fe78db20abe7d8ad94",
+        "url": "https://open.spotify.com/album/6aIY54oSEQfou97pBh9s3I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5pLMuc9ljy5OseCR31WEkB",
+        "title": "DOT",
+        "artist": "Potato",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d251ab1cf7d41e93f26b246",
+        "url": "https://open.spotify.com/album/5pLMuc9ljy5OseCR31WEkB",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "68wTlx8uvgwDsJRzlNAlM8",
+        "title": "I Liked Loving You",
+        "artist": "Luke Bryan",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5fe22080ec53d04fccf60be",
+        "url": "https://open.spotify.com/album/68wTlx8uvgwDsJRzlNAlM8",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5u4Ym8kpxNAyNTIW69TTEJ",
+        "title": "ขออนุญาตรัก",
+        "artist": "Lipta, Ref PURPEECH",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d733d898655627ed94917dd",
+        "url": "https://open.spotify.com/album/5u4Ym8kpxNAyNTIW69TTEJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3xieV82A7z4YtNWXbzRJiZ",
+        "title": "Horsebitch Got Tits, Ass and Attitude",
+        "artist": "Animal Party",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a860e3126781591fd35dc77c",
+        "url": "https://open.spotify.com/album/3xieV82A7z4YtNWXbzRJiZ",
         "total_tracks": 1,
         "genres": []
       }
