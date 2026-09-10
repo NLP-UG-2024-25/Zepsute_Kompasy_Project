@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-09T10:48:56.827Z",
-  "total": 3669,
+  "fetched_at": "2026-09-10T10:42:03.207Z",
+  "total": 3699,
   "by_date": {
     "2026-05-15": [
       {
@@ -40406,6 +40406,61 @@
         "url": "https://open.spotify.com/album/0zsFlEPQWekMRb5lJPaYzx",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6nNhC9AITORkk9FZJj2Ddj",
+        "title": "רבי נחמן אמר",
+        "artist": "ששון איפרם שאולוב, Zehavi",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c468f73696ff8c9d827161ba",
+        "url": "https://open.spotify.com/album/6nNhC9AITORkk9FZJj2Ddj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DsjNvujnKkhzxoBDA6tW1",
+        "title": "Esa Negra",
+        "artist": "Megadivo Produce, Yeiti Snow",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa80ac8fe766ef7157a7be07",
+        "url": "https://open.spotify.com/album/0DsjNvujnKkhzxoBDA6tW1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6a2XHYqp0vRjE5sbM4ZOSi",
+        "title": "KING 100 Glimpse OST",
+        "artist": "Devi Sri Prasad, Deepak Blue, Vishnu Sagar",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275056818b6685d0564d28b78",
+        "url": "https://open.spotify.com/album/6a2XHYqp0vRjE5sbM4ZOSi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3SBfYjjhjIYwYr6bouvTLb",
+        "title": "ebony <3",
+        "artist": "ZombzMJ",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e906fd87fbaa66959a9d8fe",
+        "url": "https://open.spotify.com/album/3SBfYjjhjIYwYr6bouvTLb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5jRnegMBdzq2tcYRXicqOm",
+        "title": "Pasaule dzīvi turpinās bez mums",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235a6effd6b8bdb4b641e3e6d",
+        "url": "https://open.spotify.com/album/5jRnegMBdzq2tcYRXicqOm",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-09": [
@@ -40583,6 +40638,283 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a860e3126781591fd35dc77c",
         "url": "https://open.spotify.com/album/3xieV82A7z4YtNWXbzRJiZ",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "10qpdiDAvUIxALt8oE65Zs",
+        "title": "preparations",
+        "artist": "HELLBLADE, Asphiphilia",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02103956d056980763b52f6a3c",
+        "url": "https://open.spotify.com/album/10qpdiDAvUIxALt8oE65Zs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6dBanSrjmVc7bVHi9bqh00",
+        "title": "ICE",
+        "artist": "Jere Klein, Justin Quiles, Adan La Amenaza",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6c061d6816168a7f8f93f09",
+        "url": "https://open.spotify.com/album/6dBanSrjmVc7bVHi9bqh00",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7rbRBzaKbxyp4HnJOSgBvP",
+        "title": "Arsenal",
+        "artist": "Slipknot",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c90ec867609c3db4d7fbed5",
+        "url": "https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4uhc9UsbH6BwqisPDDvbJd",
+        "title": "笨蛋",
+        "artist": "Silence Wang, Ashin Chen",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4777b25d35b10db1620de5c",
+        "url": "https://open.spotify.com/album/4uhc9UsbH6BwqisPDDvbJd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6hEWsp53gU5GQPjBsnnyAr",
+        "title": "Seebo Seebo",
+        "artist": "Haifa Wehbe",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02105cc422c43ed3395e36de57",
+        "url": "https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0kP4OH1pT1JuJtDAa6vmcR",
+        "title": "не слышу",
+        "artist": "DJ ZUP RAlii",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c020e49311985ff75beb9379",
+        "url": "https://open.spotify.com/album/0kP4OH1pT1JuJtDAa6vmcR",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3dSz9leasVbyJFxhFQkGAi",
+        "title": "Freestyle G Life",
+        "artist": "MC GP, DJ Oreia",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227297eb5bdf1f9e40b0ba9da",
+        "url": "https://open.spotify.com/album/3dSz9leasVbyJFxhFQkGAi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2k6FcvKJBnjJQrHtmdiCry",
+        "title": "Mil Años",
+        "artist": "Amigo de Artistas, godie., V.I.C",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02beab107dac1fceaf592ee799",
+        "url": "https://open.spotify.com/album/2k6FcvKJBnjJQrHtmdiCry",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-10": [
+      {
+        "id": "5uE4ERkkeXvR051RYx5L22",
+        "title": "Isabelle Fly",
+        "artist": "The Lumineers",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bf9426573e64d6567aeb1a2",
+        "url": "https://open.spotify.com/album/5uE4ERkkeXvR051RYx5L22",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "67nERuZeO0ps7QxCyguS1s",
+        "title": "Link Up",
+        "artist": "HOYO-MiX, Sān-Z",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7f9c99733c08a11419c0dc0",
+        "url": "https://open.spotify.com/album/67nERuZeO0ps7QxCyguS1s",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3EfalQgCGR2bh5tkZdZTTR",
+        "title": "Unknown Planet",
+        "artist": "IU",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ae0500dbe6192b013e36649",
+        "url": "https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2anwCSpUflsrCdLDi8pEPN",
+        "title": "NOKKANDA",
+        "artist": "ARJN, KDS, FIFTY4, Karan Kanchan",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a159b8954b44d43e4fc021fc",
+        "url": "https://open.spotify.com/album/2anwCSpUflsrCdLDi8pEPN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6NGtSKN6O2MfvsYOvBQx5k",
+        "title": "Güneş gibiydin",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d63a2a0fc8520893b8a02416",
+        "url": "https://open.spotify.com/album/6NGtSKN6O2MfvsYOvBQx5k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38rowpiWYFIVqvrL6UFK7s",
+        "title": "NZELA",
+        "artist": "SDM",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02938a81cbfa3b28a1b771dde6",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4TSeb6L4z3J0mulZl9YTvC",
+        "title": "О, Господи!",
+        "artist": "Анна Трінчер",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1aa15f36cbffa825eaf1672",
+        "url": "https://open.spotify.com/album/4TSeb6L4z3J0mulZl9YTvC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "640CA0IzNSleoWWOUqa869",
+        "title": "Jhama Jham Club Mix",
+        "artist": "Sameer Anjaan, Neil-Niraj, NIRAJ, Manasi Ghosh",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297882d71d6c41f875f8ca29e",
+        "url": "https://open.spotify.com/album/640CA0IzNSleoWWOUqa869",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "09t6nAtiBCKOvr2cJgvlBw",
+        "title": "Teto Solar",
+        "artist": "Felipe Amorim, MC Ryan SP, DJ Glenner, Dj Daltin no Beat",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e22f213129d90bf4ad2b9c1",
+        "url": "https://open.spotify.com/album/09t6nAtiBCKOvr2cJgvlBw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21SLDJPMEyf67Ftm8BHEKT",
+        "title": "Повільне диско",
+        "artist": "KLER, OTOY",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e365c3282003d5a41f49e1fa",
+        "url": "https://open.spotify.com/album/21SLDJPMEyf67Ftm8BHEKT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Zt64q7lZcQFZwkcWnrWZp",
+        "title": "Dear You",
+        "artist": "Cosmos People",
+        "type": "album",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b609044e91197111521b0bef",
+        "url": "https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "5IaTkzMnfZzBA4S5sPUxQJ",
+        "title": "Dada",
+        "artist": "Masoom Sharma, Sapna Choudhary",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1e57717c322acf3681447c9",
+        "url": "https://open.spotify.com/album/5IaTkzMnfZzBA4S5sPUxQJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "385dULp1LPiBCHkWhqAtCG",
+        "title": "Smerfetka",
+        "artist": "Sequento, Maka, Pancio",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02634c26f1098adbcf8de6bc78",
+        "url": "https://open.spotify.com/album/385dULp1LPiBCHkWhqAtCG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4t9kZCsiJFmc30ppH7AtDC",
+        "title": "ALL EYES ON ME",
+        "artist": "Kidd",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e20de9f4f5dae40af3091991",
+        "url": "https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37aprbQdiQTWd1FZcdXVSS",
+        "title": "Took a shower (Acoustic)",
+        "artist": "Danya Devs",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02243ab2b5f7877942e772cc36",
+        "url": "https://open.spotify.com/album/37aprbQdiQTWd1FZcdXVSS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xgrvzkErkDEHuo01gwnZ6",
+        "title": "FICA NA PONTA DO PÉ",
+        "artist": "MC Nito, Mc Gugui, DJ KZ, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce2165f8b859614a5bb217d",
+        "url": "https://open.spotify.com/album/2xgrvzkErkDEHuo01gwnZ6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Gu8W2EjpGWcjEV3wiC7zD",
+        "title": "Praktavya",
+        "artist": "Jholi",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc6b7c5ade8c759d8d29a240",
+        "url": "https://open.spotify.com/album/6Gu8W2EjpGWcjEV3wiC7zD",
+        "total_tracks": 4,
         "genres": []
       }
     ]
