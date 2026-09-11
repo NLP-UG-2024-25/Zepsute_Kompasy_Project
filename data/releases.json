@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-10T10:42:03.207Z",
-  "total": 3699,
+  "fetched_at": "2026-09-11T10:40:39.988Z",
+  "total": 3747,
   "by_date": {
     "2026-05-15": [
       {
@@ -40727,6 +40727,61 @@
         "url": "https://open.spotify.com/album/2k6FcvKJBnjJQrHtmdiCry",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5FN9uF0SYPkKXd39snF8ok",
+        "title": "Un Cuero De NY",
+        "artist": "Ezzy R",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0d7506be5d78039620fab94",
+        "url": "https://open.spotify.com/album/5FN9uF0SYPkKXd39snF8ok",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DgoVeXmkStKmnATm77Uh7",
+        "title": "Artist Spotlight - Akshay Kumar",
+        "artist": "Pritam, Arijit Singh, Diljit Dosanjh, Asees Kaur",
+        "type": "compilation",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c5fc974cb4c4a9bbd4ee516",
+        "url": "https://open.spotify.com/album/6DgoVeXmkStKmnATm77Uh7",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5cDr3o7wxFcG1c1ZAWsEzA",
+        "title": "Magale (From \"Baththa\")",
+        "artist": "Sai Abhyankkar, Harini, Karthik Netha",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214b7fa7cd19d07215ace13d4",
+        "url": "https://open.spotify.com/album/5cDr3o7wxFcG1c1ZAWsEzA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "321RRIUB9kI0Z9KateERuS",
+        "title": "CRUSIN'",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e261b7eb0e5c108c6d3b4fce",
+        "url": "https://open.spotify.com/album/321RRIUB9kI0Z9KateERuS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2yrwlTHbJBJWiSQS4oE84U",
+        "title": "On The Blok",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a57c936eb65c84dbe2cd142",
+        "url": "https://open.spotify.com/album/2yrwlTHbJBJWiSQS4oE84U",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-10": [
@@ -40915,6 +40970,481 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02cc6b7c5ade8c759d8d29a240",
         "url": "https://open.spotify.com/album/6Gu8W2EjpGWcjEV3wiC7zD",
         "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0j2ddnXXH8srvVx8A9s1op",
+        "title": "ENTRE TU Y YO",
+        "artist": "Tito Double P",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02241192f9c6eff16d211e814e",
+        "url": "https://open.spotify.com/album/0j2ddnXXH8srvVx8A9s1op",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5J4m4brX6zUdVXeQbSpFpe",
+        "title": "My Whole World",
+        "artist": "Kings of Leon",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ae72022f4fc21950a9c19f5",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FXmb3ttZaISSYHVIq8kkZ",
+        "title": "LA SAPIÓ",
+        "artist": "Ryan Castro",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5071e616c1b4106dd9f958d",
+        "url": "https://open.spotify.com/album/0FXmb3ttZaISSYHVIq8kkZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1R4BIKP7Clt6YoB58FbozL",
+        "title": "The Weight of the Woods (Extended Edition)",
+        "artist": "Dermot Kennedy",
+        "type": "album",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f544ff946c74b52a2e5b84b",
+        "url": "https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "5j9jw0AIRC6f0NjJWRdDMi",
+        "title": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+        "artist": "Kris R., ROA, Clarent, Luar La L",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1f0901c5af816162117c9ca",
+        "url": "https://open.spotify.com/album/5j9jw0AIRC6f0NjJWRdDMi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pGjzQsGGQ7hHQgvxM8jll",
+        "title": "Modo Oculto",
+        "artist": "Yan Block",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222e52bf735124634055f0372",
+        "url": "https://open.spotify.com/album/1pGjzQsGGQ7hHQgvxM8jll",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6k3Cghv5Js0bC8ICmsZgp1",
+        "title": "TRAVIS SCOTT",
+        "artist": "Jombriel, Jøtta",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f343545d452f4fd07d0e229b",
+        "url": "https://open.spotify.com/album/6k3Cghv5Js0bC8ICmsZgp1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YAeZpA9MJuKGBOZWGdPZD",
+        "title": "TAPA TOMA",
+        "artist": "Dj Samir, DJ David MM, LOLKYE",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02623f46f831e4d9a439b6b830",
+        "url": "https://open.spotify.com/album/3YAeZpA9MJuKGBOZWGdPZD",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1IBOzaUvnqZHPc5CrAo5lT",
+        "title": "WAR NIE WEG (feat. Souly & Blumengarten)",
+        "artist": "Ufo361, Souly, Blumengarten",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280ab249ce6ebd2aa8ee9b298",
+        "url": "https://open.spotify.com/album/1IBOzaUvnqZHPc5CrAo5lT",
+        "total_tracks": 5,
+        "genres": []
+      }
+    ],
+    "2026-09-11": [
+      {
+        "id": "3XwENXkvanWdNQVlFz6fav",
+        "title": "misery. (The Living Tombstone Remix)",
+        "artist": "pupsies, The Living Tombstone",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eca7d9fa69854dc9a8530af1",
+        "url": "https://open.spotify.com/album/3XwENXkvanWdNQVlFz6fav",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5cOvcRauWrEYwjrA8bg2WP",
+        "title": "You And I, Me And You",
+        "artist": "David Guetta, Hypaton",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c1261b0056841a245350fb5",
+        "url": "https://open.spotify.com/album/5cOvcRauWrEYwjrA8bg2WP",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4rtnFaG2TPzcifzZIZ9VDh",
+        "title": "Maluma - Hits Pa' Siempre",
+        "artist": "Maluma",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9a3de3f301f83db0c9fa04a",
+        "url": "https://open.spotify.com/album/4rtnFaG2TPzcifzZIZ9VDh",
+        "total_tracks": 28,
+        "genres": []
+      },
+      {
+        "id": "1fgiofWg6yMYvIXeTHfUZc",
+        "title": "Let 'Em Know",
+        "artist": "Shaboozey",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02269f0c82de6825a92d303a39",
+        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0LBWmKaDP3PyYUnyOrkoB5",
+        "title": "Teenage Sex and Death at Camp Miasma (Original Motion Picture Score)",
+        "artist": "Alex G",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e027094e72166970cb59799ab02",
+        "url": "https://open.spotify.com/album/0LBWmKaDP3PyYUnyOrkoB5",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "1ZYEMguZ9LglZuuJ1i06DB",
+        "title": "La Voz De México ¡Lo Mejor!",
+        "artist": "Los Temerarios",
+        "type": "compilation",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0247950e1abefd120c7615457f",
+        "url": "https://open.spotify.com/album/1ZYEMguZ9LglZuuJ1i06DB",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "6oyVnhRzM25X8HVUkifHt4",
+        "title": "Where Were You (When The World Stopped Turning) [Live]",
+        "artist": "Alan Jackson",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258f45ef1da1822c0fed57662",
+        "url": "https://open.spotify.com/album/6oyVnhRzM25X8HVUkifHt4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03jIAWMrRp5Bra8pIMdzK1",
+        "title": "La Cazadora",
+        "artist": "Luis R Conriquez, Joel De La P, Grupo Aztteca",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dba53b7030ea698e31fc353a",
+        "url": "https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vAqdOjwEwZvOMAr7rEaMr",
+        "title": "10 de 10",
+        "artist": "Banda MS de Sergio Lizárraga",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fdf7ff7d0efd9e7f8b29f77d",
+        "url": "https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "3aFgN32NOl4gDPZVUI6xKJ",
+        "title": "MONTAGEM CIFRA",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e862971c911fb2f1428788d",
+        "url": "https://open.spotify.com/album/3aFgN32NOl4gDPZVUI6xKJ",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4yGTuSFDfBz30oK2VG5hR0",
+        "title": "Palomazo Norteño",
+        "artist": "Cardenales De Nuevo León",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dc98c529b491956db1e79e3",
+        "url": "https://open.spotify.com/album/4yGTuSFDfBz30oK2VG5hR0",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "3kfOL0wTzr5bUbEh2VAbgq",
+        "title": "Boba Bear",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02613f521c9545f02f7190647c",
+        "url": "https://open.spotify.com/album/3kfOL0wTzr5bUbEh2VAbgq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4vGB0I5Ix0BKV7kiMAQvj2",
+        "title": "8D Trauma Network Topology",
+        "artist": "Brain Floss",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278157cf61bbd462bdbdb6ade",
+        "url": "https://open.spotify.com/album/4vGB0I5Ix0BKV7kiMAQvj2",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "3AqMWwnasOFRUWM4PbT8C4",
+        "title": "Ain't No Game (Clouds Remix)",
+        "artist": "Duke Dumont, Clouds",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9ad735717e05530f66979ac",
+        "url": "https://open.spotify.com/album/3AqMWwnasOFRUWM4PbT8C4",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0EYgCkdTlXQdmCwwDFeh38",
+        "title": "Anitta",
+        "artist": "J Alvarez",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02083b20d6d21054e8cb3b4eee",
+        "url": "https://open.spotify.com/album/0EYgCkdTlXQdmCwwDFeh38",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YoqCYgLKOIinTpZ0fK14p",
+        "title": "Self Aware",
+        "artist": "Ely Oaks",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d2e318b8e2be306891b0fc8",
+        "url": "https://open.spotify.com/album/4YoqCYgLKOIinTpZ0fK14p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PVLBAmb7LCNVy3wsAQ9ZW",
+        "title": "FIRST LOVE",
+        "artist": "Palm Monkey, DALEXO",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bf195daee99348650dcfe22",
+        "url": "https://open.spotify.com/album/2PVLBAmb7LCNVy3wsAQ9ZW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4HNjqlQN00QqOHl1lPgtQY",
+        "title": "SI ME QUIERES...",
+        "artist": "JC Reyes, Myke Towers",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e020bfda143a0fbe9f56cb590fb",
+        "url": "https://open.spotify.com/album/4HNjqlQN00QqOHl1lPgtQY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43eWP9l3Lng3TirmdktiUj",
+        "title": "сигнал",
+        "artist": "ooes",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026fb726e023d56c2f555e7378",
+        "url": "https://open.spotify.com/album/43eWP9l3Lng3TirmdktiUj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2WOVJXzMZaBGXBH5Pz5CaF",
+        "title": "Loco LocoOoo",
+        "artist": "Rvfv, Yapi",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c61e6dc1577ed80c988569e",
+        "url": "https://open.spotify.com/album/2WOVJXzMZaBGXBH5Pz5CaF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4KJse0mCl8eubruetOozS7",
+        "title": "RMB (Ring My Bell) [Polish Remix]",
+        "artist": "Aitch, Mata",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235284dc451d85f5fdec070af",
+        "url": "https://open.spotify.com/album/4KJse0mCl8eubruetOozS7",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2ztb2i6jAgPvGNENqyntmL",
+        "title": "why you mad",
+        "artist": "felix jaehn, Jaguar, FAANGS",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226340878cd447eb745d863e0",
+        "url": "https://open.spotify.com/album/2ztb2i6jAgPvGNENqyntmL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50a9SQ7P7P2ZiUEXfVzqtF",
+        "title": "Pirapal Palo Po",
+        "artist": "Rey Tony, Helabusador",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029077d7af09d3040be1a04d37",
+        "url": "https://open.spotify.com/album/50a9SQ7P7P2ZiUEXfVzqtF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uRSKCLWPKEa8L85Ga4Pjh",
+        "title": "PER NOI (feat. Achille Lauro)",
+        "artist": "Geolier, Achille Lauro",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f025bf9106cc2366afb44107",
+        "url": "https://open.spotify.com/album/1uRSKCLWPKEa8L85Ga4Pjh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5H62fOjNt7Gs5VNXPG4H9v",
+        "title": "Vethalaiya Potendi Dance Remix",
+        "artist": "Yuvan Shankar Raja, Pa. Vijay, Shankar Mahadevan, The Independeners",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b32f37040ee480dac74ddbad",
+        "url": "https://open.spotify.com/album/5H62fOjNt7Gs5VNXPG4H9v",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yV3dGEN9a1Bmitsu8wHe7",
+        "title": "一笔惊鸿",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02609cb189b10652ef6c681961",
+        "url": "https://open.spotify.com/album/4yV3dGEN9a1Bmitsu8wHe7",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1qB2vjelj59yC7UvLuLDSC",
+        "title": "Olha Eu Com As Puta",
+        "artist": "Mc Jacaré, MC Meno K, Mc Luuky, dj andreoli",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026861446d05c71cfbaba8206a",
+        "url": "https://open.spotify.com/album/1qB2vjelj59yC7UvLuLDSC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13Z7kmElKQRaBvLssKT553",
+        "title": "Hello, Morning",
+        "artist": "JESSE, Posple",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02375121a5660151fd59b922e4",
+        "url": "https://open.spotify.com/album/13Z7kmElKQRaBvLssKT553",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "5HDHMAg95Vhz3sb0oefdbu",
+        "title": "Chronicles of an UNBROKEN heart",
+        "artist": "MYRNA",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259d9cef5bd6a85528fae1e48",
+        "url": "https://open.spotify.com/album/5HDHMAg95Vhz3sb0oefdbu",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "717DIsrcjw8fCbWSxBlrYf",
+        "title": "Mäi Moment",
+        "artist": "T the Boss",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02376cf92940edd0f792fd0edf",
+        "url": "https://open.spotify.com/album/717DIsrcjw8fCbWSxBlrYf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Vduw9giYA7Mh82kslEu9a",
+        "title": "I love",
+        "artist": "BonYoly",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b909c2b3e7c83fb671c1fa2d",
+        "url": "https://open.spotify.com/album/0Vduw9giYA7Mh82kslEu9a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00siZ150p8Tlk8Uez9cT94",
+        "title": "Elsku Besti",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e021225d5c6aef04c1d6fda4c37",
+        "url": "https://open.spotify.com/album/00siZ150p8Tlk8Uez9cT94",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7CFTvTs0uYJ8LIRrXsd08l",
+        "title": "Kiss Me",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e028177f4731db5e78003e02f02",
+        "url": "https://open.spotify.com/album/7CFTvTs0uYJ8LIRrXsd08l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18diXuYs8FJ54XdvyqrZRn",
+        "title": "stres test (sim0 Mixxx)",
+        "artist": "sim0",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a92b236e4c1ca393d319a6ab",
+        "url": "https://open.spotify.com/album/18diXuYs8FJ54XdvyqrZRn",
+        "total_tracks": 1,
         "genres": []
       }
     ]
