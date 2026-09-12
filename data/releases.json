@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-11T10:40:39.988Z",
-  "total": 3747,
+  "fetched_at": "2026-09-12T10:09:45.224Z",
+  "total": 3775,
   "by_date": {
     "2026-05-15": [
       {
@@ -41070,6 +41070,182 @@
         "url": "https://open.spotify.com/album/1IBOzaUvnqZHPc5CrAo5lT",
         "total_tracks": 5,
         "genres": []
+      },
+      {
+        "id": "07iESxT0uDtYIqo8jNmU7M",
+        "title": "The Sharpest Lives (Live from Hoboken)",
+        "artist": "My Chemical Romance",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296b9d9251a513c0f7b15cc7a",
+        "url": "https://open.spotify.com/album/07iESxT0uDtYIqo8jNmU7M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63giBdy30Mww8KEFkP5qxh",
+        "title": "The Roof Is Leaking (Live at the Secret Policeman's Other Ball, London, 1981)",
+        "artist": "Phil Collins",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bafec363cecb30cbe2396720",
+        "url": "https://open.spotify.com/album/63giBdy30Mww8KEFkP5qxh",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1VvPRAsEV5fqG3HDzYJ9aL",
+        "title": "Chhathi Maiya (From \"The Vvaan\")",
+        "artist": "Vishal Mishra, Kaushal Kishore",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f26054d107e0f123ce150b8",
+        "url": "https://open.spotify.com/album/1VvPRAsEV5fqG3HDzYJ9aL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2bkxxcMtFs3UrjmaftgPkw",
+        "title": "Rabba Janda - Jubin Nautiyal Vocals Only",
+        "artist": "Jubin Nautiyal",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2218cbea0e491a4874b3f25",
+        "url": "https://open.spotify.com/album/2bkxxcMtFs3UrjmaftgPkw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "201NrbuA7yyYpsWfUJhPGj",
+        "title": "Srinivasa Mangapuram OST",
+        "artist": "G. V. Prakash",
+        "type": "album",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02deb9e8e46c5a85fa9cd336e8",
+        "url": "https://open.spotify.com/album/201NrbuA7yyYpsWfUJhPGj",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "6Ost4BRgUxNCu88VOP0Et8",
+        "title": "FUNK'IN THEM DOWN",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235362ff36b851206c2afa25f",
+        "url": "https://open.spotify.com/album/6Ost4BRgUxNCu88VOP0Et8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2EXvBvl9dStWgsRfwJ3fDs",
+        "title": "KUŞ",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f187b06e680a0ee0152d662d",
+        "url": "https://open.spotify.com/album/2EXvBvl9dStWgsRfwJ3fDs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2u2YnqQJUkgKh9ZagdOgPF",
+        "title": "KUŞ (Acoustic)",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9cf72e2f5be7d022fe6a11d",
+        "url": "https://open.spotify.com/album/2u2YnqQJUkgKh9ZagdOgPF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1w0CKfRZmzV5urbWD9Oow0",
+        "title": "Meziyet (CanRemix)",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029602e869fe870a7ce58565b2",
+        "url": "https://open.spotify.com/album/1w0CKfRZmzV5urbWD9Oow0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0o1U1lLjR0BX7Lrtolj9lT",
+        "title": "Meziyet",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e021708a97e7c6c7275f52ace9c",
+        "url": "https://open.spotify.com/album/0o1U1lLjR0BX7Lrtolj9lT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5X5fO95I8WaT6ZtMqSZBag",
+        "title": "Meziyet (Acoustic)",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02250e7433cc5a4816e927e124",
+        "url": "https://open.spotify.com/album/5X5fO95I8WaT6ZtMqSZBag",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72o6o1Zg1G2klwCSASWl6e",
+        "title": "Gitmem Yakındır (CanRemix)",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270509e6f8e69b405a07c6a2c",
+        "url": "https://open.spotify.com/album/72o6o1Zg1G2klwCSASWl6e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YbqL41BZr2JlCQXUXF8tt",
+        "title": "Gitmem Yakındır",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024dfc9c53cbe7a62bd74ac67d",
+        "url": "https://open.spotify.com/album/4YbqL41BZr2JlCQXUXF8tt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3rEVVIPuDxzFDYOLttRcHt",
+        "title": "KUŞ (CanRemix)",
+        "artist": "CanAI",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a518acaaf39dbd3abf0f3da",
+        "url": "https://open.spotify.com/album/3rEVVIPuDxzFDYOLttRcHt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3kLrBflbq7aEBCYlAonp2u",
+        "title": "Velvet Night (Extended Mix)",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d328f9dd103653726c921fe",
+        "url": "https://open.spotify.com/album/3kLrBflbq7aEBCYlAonp2u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XvZwCmgcbJPaTkqx0hxoE",
+        "title": "Lost Cat",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfe4f10fb4bf2f227c084583",
+        "url": "https://open.spotify.com/album/3XvZwCmgcbJPaTkqx0hxoE",
+        "total_tracks": 3,
+        "genres": []
       }
     ],
     "2026-09-11": [
@@ -41444,6 +41620,138 @@
         "release_date": "2026-09-11",
         "image": "https://i.scdn.co/image/ab67616d00001e02a92b236e4c1ca393d319a6ab",
         "url": "https://open.spotify.com/album/18diXuYs8FJ54XdvyqrZRn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6sJhb4vB1QTwK5wN8g3FeJ",
+        "title": "You Know Too Much",
+        "artist": "Ellie Goulding",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e7cef105f6450ac8b39f60f",
+        "url": "https://open.spotify.com/album/6sJhb4vB1QTwK5wN8g3FeJ",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "5qKvhPIjgE6p3TigMmuljn",
+        "title": "Disco Crash Remixed",
+        "artist": "Bob Sinclar",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02193cfeb401e5dd9299f6ac4f",
+        "url": "https://open.spotify.com/album/5qKvhPIjgE6p3TigMmuljn",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "6Y8MkT5LBi4SWFWnNmoFvv",
+        "title": "NEED YOUR LOVE",
+        "artist": "MXZI",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0210d7afe58e6ba275f1cf7120",
+        "url": "https://open.spotify.com/album/6Y8MkT5LBi4SWFWnNmoFvv",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1OHcC1BrYjOJEbuy1uDktJ",
+        "title": "PA QUE ME LO MAME",
+        "artist": "Ronny GTA",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289dcae9662788bea6c36c4a2",
+        "url": "https://open.spotify.com/album/1OHcC1BrYjOJEbuy1uDktJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6TUkCe1WG5r7R83pbCZChn",
+        "title": "preparations (versions)",
+        "artist": "HELLBLADE, Asphiphilia",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271a29dd385bb26c84afda21f",
+        "url": "https://open.spotify.com/album/6TUkCe1WG5r7R83pbCZChn",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4cVrSy8zr5T4za4radTHqk",
+        "title": "Shh!",
+        "artist": "Kai Angel",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a62f708a5d8e960dcef6af10",
+        "url": "https://open.spotify.com/album/4cVrSy8zr5T4za4radTHqk",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "60Ad3pi0LOpIBiIqMWfy82",
+        "title": "Vibe (Original Motion Picture Soundtrack)",
+        "artist": "Amit Trivedi, Kanfuzion, Kunal Kemmu, Raghav Meattle",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02960d3f54f1166157ede6e971",
+        "url": "https://open.spotify.com/album/60Ad3pi0LOpIBiIqMWfy82",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2HYlP1GIpdRQEDBIAvG23Y",
+        "title": "TECHNO",
+        "artist": "HOLY PRIEST, Vieze Asbak",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02530a656f363903e4f0a9bf53",
+        "url": "https://open.spotify.com/album/2HYlP1GIpdRQEDBIAvG23Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0syyhu8V4J1O6faIJN6AZe",
+        "title": "Ligaw",
+        "artist": "Gloc-9",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a8677c0260120b114be7965",
+        "url": "https://open.spotify.com/album/0syyhu8V4J1O6faIJN6AZe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0RM5WmSXKKOH3Xjlqj9r4X",
+        "title": "Good Love",
+        "artist": "Gat Putch",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02114274a871b7b80b3c1e33fb",
+        "url": "https://open.spotify.com/album/0RM5WmSXKKOH3Xjlqj9r4X",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1LF8vzObE6drkMT4pBQwqO",
+        "title": "Aise Na Mujhe Tum Dekho (Instrumental)",
+        "artist": "R. D. Burman, Shafaat Ali, Vedam",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eae9d5dd30dcb65da7974e10",
+        "url": "https://open.spotify.com/album/1LF8vzObE6drkMT4pBQwqO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DRQZyi1tT8OOtFBX2mr6q",
+        "title": "хостел 6",
+        "artist": "greyrock, 3umph, паранойя",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f25ecbcfb3c198800d80deb",
+        "url": "https://open.spotify.com/album/3DRQZyi1tT8OOtFBX2mr6q",
         "total_tracks": 1,
         "genres": []
       }
