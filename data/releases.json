@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-12T10:09:45.224Z",
-  "total": 3775,
+  "fetched_at": "2026-09-13T11:09:18.039Z",
+  "total": 3822,
   "by_date": {
     "2026-05-15": [
       {
@@ -39221,6 +39221,17 @@
         "url": "https://open.spotify.com/album/57QihLyyTLLOYbpy4QEg1f",
         "total_tracks": 35,
         "genres": []
+      },
+      {
+        "id": "2yDFVH9CeOHt0sc9eI0aBs",
+        "title": "PRIMA",
+        "artist": "ADÉLA",
+        "type": "album",
+        "release_date": "2026-09-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac9d5d5263e9f03802d6864c",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs",
+        "total_tracks": 11,
+        "genres": []
       }
     ],
     "2026-09-05": [
@@ -39508,6 +39519,17 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0256fd99d2e2ddc5f99e799ae9",
         "url": "https://open.spotify.com/album/2NfajoRQZC7i2L8vheCYwT",
         "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0QYsFwomrHaptBN6Kv3kTP",
+        "title": "Nobody Til You",
+        "artist": "David Alexanderson",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02003600d0279b09d008be49b5",
+        "url": "https://open.spotify.com/album/0QYsFwomrHaptBN6Kv3kTP",
+        "total_tracks": 1,
         "genres": []
       }
     ],
@@ -41752,6 +41774,505 @@
         "release_date": "2026-09-11",
         "image": "https://i.scdn.co/image/ab67616d00001e029f25ecbcfb3c198800d80deb",
         "url": "https://open.spotify.com/album/3DRQZyi1tT8OOtFBX2mr6q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3MG7Ev1JFfrwXKNCMxD5IK",
+        "title": "Westside Whimsy",
+        "artist": "Jhené Aiko",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "4d4bskuvTdCsvIhUHd0Yy0",
+        "title": "Hoy",
+        "artist": "El Rabbanito, LA DIFERENCIA",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7c039b1782124cacf9f4637",
+        "url": "https://open.spotify.com/album/4d4bskuvTdCsvIhUHd0Yy0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1qfzq9XSpU9aeiuDXdLyFm",
+        "title": "Haiwaan (Original Motion Picture Soundtrack)",
+        "artist": "Pritam, Shaan, Sukhwinder Singh, Javed Akhtar",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237d3b0dbc84c9f57963d8f81",
+        "url": "https://open.spotify.com/album/1qfzq9XSpU9aeiuDXdLyFm",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7xOXHnCPkcCxwm6cNRggyt",
+        "title": "Quizas",
+        "artist": "Juanka",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d651d447ab322f48c6440c28",
+        "url": "https://open.spotify.com/album/7xOXHnCPkcCxwm6cNRggyt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5wCxEXuLSrYGTnEDf9B7MO",
+        "title": "Tropa da Carta Mais Cara",
+        "artist": "MC Ryan SP, Dj Di, MC Meno K, Mc Leozin",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aada50aa3a2b511ede6e72b3",
+        "url": "https://open.spotify.com/album/5wCxEXuLSrYGTnEDf9B7MO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4gxDCaxwQ8HmgN4yACif96",
+        "title": "Oh No",
+        "artist": "Rema",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9ce410b4847747f5dbb1373",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6g9K8LPPVZQKroz3sUTwtg",
+        "title": "Backwards (feat. T.I.)",
+        "artist": "Quavo, T.I.",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5f8c80240cc7f0b5fc3ae9a",
+        "url": "https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5lnwZeRLiEYohPBprZhmmo",
+        "title": "انا علي مبدأ رجوليه",
+        "artist": "Hamo Bika",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026030af83f863f8436f3946bc",
+        "url": "https://open.spotify.com/album/5lnwZeRLiEYohPBprZhmmo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Wocf6qjqfOuZArDBKJ0xh",
+        "title": "يا صباح عنابي",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ae20ff16c4493ef869a2328",
+        "url": "https://open.spotify.com/album/0Wocf6qjqfOuZArDBKJ0xh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "59BYHVCzCi3WTu2f0ONpKt",
+        "title": "Made My Night",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02290ff94ac8607ccd9eb3eb5c",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0bzqPSQnxyPPRBO9aS0R0Z",
+        "title": "JUEGUITO",
+        "artist": "Carlos Cordero, Eshconinco, ZARKI, El Codigo Kirkao",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222cecaae1b0e0aa02aa2f5b3",
+        "url": "https://open.spotify.com/album/0bzqPSQnxyPPRBO9aS0R0Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4l4qCmFx2YQkkyUkGlD4Ch",
+        "title": "Freestyle 2",
+        "artist": "C.R.O",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e8407f4509cefa24a7cce37",
+        "url": "https://open.spotify.com/album/4l4qCmFx2YQkkyUkGlD4Ch",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6fyuHnag9CNP1QD7ACuhzD",
+        "title": "J-POP REMAKE Vol.4",
+        "artist": "Roy Kim",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e028490af0457ce1377756645a8",
+        "url": "https://open.spotify.com/album/6fyuHnag9CNP1QD7ACuhzD",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "09COGha3peqybGi1bThwsj",
+        "title": "Mi Hubiera Favorito",
+        "artist": "Calibre 50",
+        "type": "album",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a43b10761f3534ef653b8d12",
+        "url": "https://open.spotify.com/album/09COGha3peqybGi1bThwsj",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "1nFAXPKO8X4FwzrqW2RH6j",
+        "title": "세상엔 나쁜 사람이 참 많다",
+        "artist": "조선힙합",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02572949e154a98bc43cba68ad",
+        "url": "https://open.spotify.com/album/1nFAXPKO8X4FwzrqW2RH6j",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6lwM5XV9DH8LRxqODfi0Vv",
+        "title": "說分手的人也會難過 (影集《接招吧！製作人》單元曲)",
+        "artist": "Pets Tseng",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e020fffc2b5877ee5b6417cc2b2",
+        "url": "https://open.spotify.com/album/6lwM5XV9DH8LRxqODfi0Vv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0gBwWP79JJXsxGDRc5wGCL",
+        "title": "تلاشوني مش هطيقوني ( الملعب فاضي )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244e786e8434052ecb57bf0af",
+        "url": "https://open.spotify.com/album/0gBwWP79JJXsxGDRc5wGCL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63HpSfn5aQ4vRyEbMl9ITP",
+        "title": "Goli Marab Ho",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02716a4db37682500412bf3245",
+        "url": "https://open.spotify.com/album/63HpSfn5aQ4vRyEbMl9ITP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "52SJcBTobuj7TrTw63fyaK",
+        "title": "Tar Gaini Ae Piya",
+        "artist": "Shilpi Raj, Golu Pathak",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02148103d91992791e61b3ec0b",
+        "url": "https://open.spotify.com/album/52SJcBTobuj7TrTw63fyaK",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-12": [
+      {
+        "id": "3Bx1gAKkQPn4Xr9xBM1qq9",
+        "title": "CÔNG DIỄN 4 (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "album",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02657103af55cc8c5480c0a2c6",
+        "url": "https://open.spotify.com/album/3Bx1gAKkQPn4Xr9xBM1qq9",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4bVCwY7iUD9Yx7X4ATkhAp",
+        "title": "ETERNAL",
+        "artist": "Leslie Cheung",
+        "type": "album",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02910690c14a88b3e9b22b6992",
+        "url": "https://open.spotify.com/album/4bVCwY7iUD9Yx7X4ATkhAp",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "4EgQpkz6yaopJESi7jO1Te",
+        "title": "Ganpati Aale - Trap Mix (From \"Gharat Ganpati\")",
+        "artist": "Javed Ali, Raahi, Sameer Samant, Sanket Sane",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237fd1390287b5af318779401",
+        "url": "https://open.spotify.com/album/4EgQpkz6yaopJESi7jO1Te",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "30ZcOS0JJCMblL4VnLUNz5",
+        "title": "Eib Ma Benah",
+        "artist": "Hussain Ghazal",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b63d4c9bf531910ab45d4376",
+        "url": "https://open.spotify.com/album/30ZcOS0JJCMblL4VnLUNz5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3wH9dRGNWXqLr8jvKikz6S",
+        "title": "Beste Zangers 2026 (Clouseau)",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0f13e4ebe9dcd45ffb73194",
+        "url": "https://open.spotify.com/album/3wH9dRGNWXqLr8jvKikz6S",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7z1zv7NmZCzwj5udUxvtm2",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02357f235d5fa2bd46a8dbb82d",
+        "url": "https://open.spotify.com/album/7z1zv7NmZCzwj5udUxvtm2",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4lNiFSKAtHqlbaGVn0EQeW",
+        "title": "Aflevering 3 - Bizzey",
+        "artist": "Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c0601884e035daf7391ba067",
+        "url": "https://open.spotify.com/album/4lNiFSKAtHqlbaGVn0EQeW",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "7MpNKcq6648oNnFu4QvbiL",
+        "title": "Made My Night (Remixes)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028fe44f2c9bdff3dd86ab9c52",
+        "url": "https://open.spotify.com/album/7MpNKcq6648oNnFu4QvbiL",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "01ZbQnPMh6PLaNX1LQAUTL",
+        "title": "Mangalmurti Morya",
+        "artist": "Shankar Mahadevan, Shivam Mahadevan, Siddharth Mahadevan",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a275552e3dd7a57aee7d8aa",
+        "url": "https://open.spotify.com/album/01ZbQnPMh6PLaNX1LQAUTL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hp8Ylt5gjrnn7JMrQIb4F",
+        "title": "Beste Zangers 2026 (Zoë Livay)",
+        "artist": "Zoë Livay, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0274359643cd09eea79e6100d1",
+        "url": "https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "77s4zqHmonP0VkpF95N1HR",
+        "title": "Kitakiyalli Chandira (From \"America America 2\")",
+        "artist": "Shreya Ghoshal, Mano Murthy",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d45038cc9464d9b728e27dbe",
+        "url": "https://open.spotify.com/album/77s4zqHmonP0VkpF95N1HR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wQV7LcHxYfu7jY57YTexd",
+        "title": "غزالي",
+        "artist": "DEE PRODUCTION, Bader Abdul",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02416f9b1028d5b74364aed016",
+        "url": "https://open.spotify.com/album/4wQV7LcHxYfu7jY57YTexd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dTa83jNHEJi57csJ3cvWk",
+        "title": "Mi Gran Amor",
+        "artist": "La Juntada De Los Artistas, Nacho Milia",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020df0306af6d994d787481de2",
+        "url": "https://open.spotify.com/album/4dTa83jNHEJi57csJ3cvWk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4h8bd6HUmhSYCdO24VNMmH",
+        "title": "PAPICHAMP / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Papichamp",
+        "type": "album",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233ad1b01545112b6f405d541",
+        "url": "https://open.spotify.com/album/4h8bd6HUmhSYCdO24VNMmH",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2aGe1m0ZKaXVAAfyE52hrc",
+        "title": "Tu Falta de Querer",
+        "artist": "La Juntada De Los Artistas, Nacho Milia",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a945de86c39b4359b096fd8",
+        "url": "https://open.spotify.com/album/2aGe1m0ZKaXVAAfyE52hrc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6BQQKKo5ZZJbkK04J8Ic3x",
+        "title": "Zila Zila",
+        "artist": "Pawan Singh, Srishti Bharti",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f759d8f75f02a6b3fac8d9c3",
+        "url": "https://open.spotify.com/album/6BQQKKo5ZZJbkK04J8Ic3x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25jJusEOdhykkIyvgcZYKL",
+        "title": "La casa de Alofoke 3",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a46750bf15688c4e02906485",
+        "url": "https://open.spotify.com/album/25jJusEOdhykkIyvgcZYKL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6WRHClT6z5CSKfhNhAO5jw",
+        "title": "Janwa Leb Ka",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ac565af05c4fd3669d69de8",
+        "url": "https://open.spotify.com/album/6WRHClT6z5CSKfhNhAO5jw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XnrYWFDL6AFNFPmPTGoNh",
+        "title": "\"'Ongaku Kissa\": Classical Listening Room",
+        "artist": "Wolfgang Amadeus Mozart, Johann Sebastian Bach, Frédéric Chopin, Ludwig van Beethoven, Johannes Brahms, Antonio Vivaldi, Pyotr Ilyich Tchaikovsky, George Frideric Handel, Franz Liszt, Joseph Haydn",
+        "type": "album",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249b5538326d6bbaf9e6f99ac",
+        "url": "https://open.spotify.com/album/3XnrYWFDL6AFNFPmPTGoNh",
+        "total_tracks": 80,
+        "genres": []
+      }
+    ],
+    "2026-09-13": [
+      {
+        "id": "7uGphBROmnO69CtVBT6SgY",
+        "title": "Ahvatlused",
+        "artist": "Smilers",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244223bc18315ed53c9633ad2",
+        "url": "https://open.spotify.com/album/7uGphBROmnO69CtVBT6SgY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yEDFEqqJ39qtH0LdhiFMQ",
+        "title": "Ganapati Aarti & Bhajans",
+        "artist": "Hariharan, Alka Yagnik, Aditya Dev, Sonal Pradhan",
+        "type": "compilation",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235c2c946a670f6da34e2fea4",
+        "url": "https://open.spotify.com/album/4yEDFEqqJ39qtH0LdhiFMQ",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "06AD49uyrmYA4HJByR7npX",
+        "title": "Hubro 2027",
+        "artist": "Sjakklubb, Stud, Generalen",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1ccef9a543c56ce1743c94b",
+        "url": "https://open.spotify.com/album/06AD49uyrmYA4HJByR7npX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2aqiEskpkWrB7FiQPhNHuO",
+        "title": "Night Drive Chill",
+        "artist": "Shreya Ghoshal, Jasleen Royal, OAFF",
+        "type": "compilation",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fb801e3d431419f35b7a911",
+        "url": "https://open.spotify.com/album/2aqiEskpkWrB7FiQPhNHuO",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2jzLah54BQ9RKl6yFRzrak",
+        "title": "GOAT سري سري",
+        "artist": "DEE PRODUCTION, Daffy",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c0d23ce6d38b81d5fb3a9c47",
+        "url": "https://open.spotify.com/album/2jzLah54BQ9RKl6yFRzrak",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4lFPr9gfmJx6XDOfT3Fini",
+        "title": "\"'A Prelude to Longer Evenings: Bach, Mozart & more\"",
+        "artist": "Johann Sebastian Bach, Ludwig van Beethoven, Antonio Vivaldi, Frédéric Chopin, George Frideric Handel, Wolfgang Amadeus Mozart, Pyotr Ilyich Tchaikovsky, Sergei Rachmaninoff, Franz Schubert, Claude Debussy",
+        "type": "album",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec808275ce373fabf9190c31",
+        "url": "https://open.spotify.com/album/4lFPr9gfmJx6XDOfT3Fini",
+        "total_tracks": 80,
+        "genres": []
+      },
+      {
+        "id": "4mkYG5o1f4icJL6glizXXJ",
+        "title": "Jhulaniya",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02234e448803e0fc563a0958da",
+        "url": "https://open.spotify.com/album/4mkYG5o1f4icJL6glizXXJ",
         "total_tracks": 1,
         "genres": []
       }
