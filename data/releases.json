@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-13T11:09:18.039Z",
-  "total": 3822,
+  "fetched_at": "2026-09-14T11:54:41.726Z",
+  "total": 3856,
   "by_date": {
     "2026-05-15": [
       {
@@ -38570,6 +38570,17 @@
         "url": "https://open.spotify.com/album/5g0G8xC7jWuazGgmBNOQfl",
         "total_tracks": 12,
         "genres": []
+      },
+      {
+        "id": "2ISe213QZCTwp18P7jvgC3",
+        "title": "Bass Persuades",
+        "artist": "Miley Cyrus",
+        "type": "single",
+        "release_date": "2026-09-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240e583b55bdddcf70516fa6c",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-04": [
@@ -39232,6 +39243,17 @@
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs",
         "total_tracks": 11,
         "genres": []
+      },
+      {
+        "id": "4RZYD8Q0pCPCs2cuW4CK4k",
+        "title": "Blood Of Your Empire",
+        "artist": "PRESIDENT",
+        "type": "album",
+        "release_date": "2026-09-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c02429c15cdba5c68d912efa",
+        "url": "https://open.spotify.com/album/4RZYD8Q0pCPCs2cuW4CK4k",
+        "total_tracks": 10,
+        "genres": []
       }
     ],
     "2026-09-05": [
@@ -39529,6 +39551,17 @@
         "release_date": "2026-09-05",
         "image": "https://i.scdn.co/image/ab67616d00001e02003600d0279b09d008be49b5",
         "url": "https://open.spotify.com/album/0QYsFwomrHaptBN6Kv3kTP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39x9AAuCqLKolnq6ez0h1X",
+        "title": "Slowly",
+        "artist": "Lucito.official",
+        "type": "single",
+        "release_date": "2026-09-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c03e383724c49a112be3a95c",
+        "url": "https://open.spotify.com/album/39x9AAuCqLKolnq6ez0h1X",
         "total_tracks": 1,
         "genres": []
       }
@@ -41985,6 +42018,17 @@
         "url": "https://open.spotify.com/album/52SJcBTobuj7TrTw63fyaK",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2yQH6X1bEIPn2VvKZlCsJz",
+        "title": "Faint - Unshatter Film Soundtrack (Live in São Paulo)",
+        "artist": "Linkin Park",
+        "type": "single",
+        "release_date": "2026-09-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a23297effe1bd041f318828",
+        "url": "https://open.spotify.com/album/2yQH6X1bEIPn2VvKZlCsJz",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-12": [
@@ -42196,6 +42240,83 @@
         "url": "https://open.spotify.com/album/3XnrYWFDL6AFNFPmPTGoNh",
         "total_tracks": 80,
         "genres": []
+      },
+      {
+        "id": "4xAtOP8X2zE6Gj44ZNvHaV",
+        "title": "Sound Of Chaos (From \"Dada\")",
+        "artist": "Thaman S, Adviteeya Vojjala, Harsha Darivemula",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02baed96caafdcd65e17332dc8",
+        "url": "https://open.spotify.com/album/4xAtOP8X2zE6Gj44ZNvHaV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6tjq07KzmrN9SFjWxhIh1v",
+        "title": "Adora a bunda, odeia o rosto - Ao Vivo",
+        "artist": "Veigh, Supernova Ent, G.A, Niink",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a06e86e7c303cfb69373d8b7",
+        "url": "https://open.spotify.com/album/6tjq07KzmrN9SFjWxhIh1v",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "56jfF4WDLHLCclTYJMUmGA",
+        "title": "Os Menino da Nova - Ao Vivo",
+        "artist": "Veigh, Supernova Ent, G.A, Niink",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237cd701bd426e5aae0dfe1eb",
+        "url": "https://open.spotify.com/album/56jfF4WDLHLCclTYJMUmGA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2BP3e04jsx9QJvKiH93EFz",
+        "title": "Engana Dizendo Que Ama - Ao Vivo",
+        "artist": "Veigh, Tz da Coronel, Supernova Ent",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e56ab0da1acd1f05e2bc022c",
+        "url": "https://open.spotify.com/album/2BP3e04jsx9QJvKiH93EFz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "78wIHggg7cOGhWPaCzEJJ2",
+        "title": "Jeito Bandido - Ao Vivo",
+        "artist": "Veigh, Supernova Ent, Kyan",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02700ad11ca9b26d850fcca738",
+        "url": "https://open.spotify.com/album/78wIHggg7cOGhWPaCzEJJ2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1urX2f76H3KscWo2Pv0xIw",
+        "title": "NINFOMANIACA",
+        "artist": "CACAU CHUU, DANDAN SHEIK",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d05804f80fbd6e2720429e5",
+        "url": "https://open.spotify.com/album/1urX2f76H3KscWo2Pv0xIw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YwajzGknn0iDuIwFuygDo",
+        "title": "Kuwa Kuwa Wewe",
+        "artist": "KASSU, Tumaini Bahati",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac2a83f5141538f1ba418eb9",
+        "url": "https://open.spotify.com/album/2YwajzGknn0iDuIwFuygDo",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-13": [
@@ -42273,6 +42394,261 @@
         "release_date": "2026-09-13",
         "image": "https://i.scdn.co/image/ab67616d00001e02234e448803e0fc563a0958da",
         "url": "https://open.spotify.com/album/4mkYG5o1f4icJL6glizXXJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "71hkm22fd4xUGFnA8eWbSD",
+        "title": "Я МАЮ ТАЛАНТ",
+        "artist": "IVAN LIULENOV",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fff2f358ed8adc555f27d8d",
+        "url": "https://open.spotify.com/album/71hkm22fd4xUGFnA8eWbSD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5PedLDtFIhXoSwNXLYz58a",
+        "title": "لو جت معاكو هنروح معاكو ( الدايرة ديا )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab1b8e277ebf5cadecdd9d88",
+        "url": "https://open.spotify.com/album/5PedLDtFIhXoSwNXLYz58a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3iBqcvEQW1kuROmwvAUppc",
+        "title": "EVOM - A Última Dança (Ao Vivo)",
+        "artist": "Veigh, Supernova Ent",
+        "type": "album",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f50f49561a405e099c66a668",
+        "url": "https://open.spotify.com/album/3iBqcvEQW1kuROmwvAUppc",
+        "total_tracks": 28,
+        "genres": []
+      }
+    ],
+    "2026-09-14": [
+      {
+        "id": "3kxvuho2lPjidH73pndMKJ",
+        "title": "オリオン (PSYQUI Remix)",
+        "artist": "YOASOBI, PSYQUI",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b2f9e6027d8f0f70eb5c523",
+        "url": "https://open.spotify.com/album/3kxvuho2lPjidH73pndMKJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6IKPRi6kQgW1HoI8yzEuTQ",
+        "title": "SYNK : COMPLaeXITY - 2026 Special Digital Single",
+        "artist": "aespa",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b219d4d3338ae32e3aaf13b7",
+        "url": "https://open.spotify.com/album/6IKPRi6kQgW1HoI8yzEuTQ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5VsdqSxB8cKjmOV1U4lKUK",
+        "title": "Navkar Mantra",
+        "artist": "Palak Muchhal",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02841020780b0eed33d16caea3",
+        "url": "https://open.spotify.com/album/5VsdqSxB8cKjmOV1U4lKUK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zChddgxT0yG5FTeWb1rSp",
+        "title": "Teri Meri Kahaani Afro House Mix",
+        "artist": "Arijit Singh, Palak Muchhal, Chirantan Bhatt, IQQANVE",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6fa0833d67f3d4652126a34",
+        "url": "https://open.spotify.com/album/2zChddgxT0yG5FTeWb1rSp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "78hhxZVZlrHJV4UxmirBUv",
+        "title": "SPORTLIFE",
+        "artist": "Nabi",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02180f4a63ca8522cd2c3bb1b3",
+        "url": "https://open.spotify.com/album/78hhxZVZlrHJV4UxmirBUv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Sh06iDWpp7d5QahMCrFKj",
+        "title": "Live MY LIVE 2025 香港演唱會",
+        "artist": "Miriam Yeung",
+        "type": "album",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f295a99e616a934531715e4f",
+        "url": "https://open.spotify.com/album/3Sh06iDWpp7d5QahMCrFKj",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "2dnDS3kRxPRfMZVOoypXAx",
+        "title": "Plano Sequência",
+        "artist": "MC Fr da Norte, MC VITINHO DA SUL, MC Menor LK, Raul GR",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7997b54c17d2cea65d6e0ca",
+        "url": "https://open.spotify.com/album/2dnDS3kRxPRfMZVOoypXAx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3q0wBseKToqHQZaIJZldFF",
+        "title": "Made My Night (feat. EJAE)",
+        "artist": "LE SSERAFIM, EJAE",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ca01ac40ddd7549f3401266",
+        "url": "https://open.spotify.com/album/3q0wBseKToqHQZaIJZldFF",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0yRv33H5HFsBAecArLFeqP",
+        "title": "Eu plec cu ea",
+        "artist": "Ursaru, Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224786483c755b964ad2661ef",
+        "url": "https://open.spotify.com/album/0yRv33H5HFsBAecArLFeqP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37sLPEBoKQ6MbQzUWS71Du",
+        "title": "Jai Ganesh Deva",
+        "artist": "Anuradha Paudwal",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c14d9b4af8610c1f593bc137",
+        "url": "https://open.spotify.com/album/37sLPEBoKQ6MbQzUWS71Du",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3lMIMQ2Ldk7Hpyg7uRRidq",
+        "title": "The Anthem Vande Mataram",
+        "artist": "Hariharan, Leslee Lewis, Colonial Cousins, Akshay Hariharan",
+        "type": "album",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0247189cb61cd562a8fa8efdf8",
+        "url": "https://open.spotify.com/album/3lMIMQ2Ldk7Hpyg7uRRidq",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1H09VEcb2cIbPMNN48Zliw",
+        "title": "한 시간만",
+        "artist": "조선힙합",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270103bb1cd0faafbf8c92cf2",
+        "url": "https://open.spotify.com/album/1H09VEcb2cIbPMNN48Zliw",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1CtW8DXs0o7rSeA0disbcA",
+        "title": "Genshin Impact - Where Mercy Endures (Original Game Soundtrack)",
+        "artist": "HOYO-MiX",
+        "type": "album",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299dea9d8567d48205bff4107",
+        "url": "https://open.spotify.com/album/1CtW8DXs0o7rSeA0disbcA",
+        "total_tracks": 102,
+        "genres": []
+      },
+      {
+        "id": "7AlwTP8JeF0xks6JZJeYGs",
+        "title": "Ankhsekua Balam",
+        "artist": "Shilpi Raj, Madhukar Anand",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cc9d54fa76f2341dea00b77",
+        "url": "https://open.spotify.com/album/7AlwTP8JeF0xks6JZJeYGs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BzcEnOdbKlOSpXs7e0EJN",
+        "title": "\"'Intermezzo between Seasons: Classical Masterpieces\"",
+        "artist": "Johann Sebastian Bach, Franz Schubert, George Frideric Handel, Frédéric Chopin, Antonio Vivaldi, Sergei Rachmaninoff, Claude Debussy, Johannes Brahms, Wolfgang Amadeus Mozart, Pyotr Ilyich Tchaikovsky",
+        "type": "album",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025005138d4c28252279a2d132",
+        "url": "https://open.spotify.com/album/5BzcEnOdbKlOSpXs7e0EJN",
+        "total_tracks": 80,
+        "genres": []
+      },
+      {
+        "id": "1F1Bskie5RQAS50hCLPGrk",
+        "title": "Focus on the Clarinet - An Essential Classical Stopover",
+        "artist": "Wolfgang Amadeus Mozart, Aaron Copland, Alban Berg, André Messager, Anonymous, Aram Khachaturian, Arthur Bliss, Artie Shaw, Bernhard Henrik Crusell, Bob Thiele",
+        "type": "album",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c1e02d2bfc040769daad876",
+        "url": "https://open.spotify.com/album/1F1Bskie5RQAS50hCLPGrk",
+        "total_tracks": 125,
+        "genres": []
+      },
+      {
+        "id": "1oozKj967ghuYydx0aEd5T",
+        "title": "DSL",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292ed3732b873b1d3f26ebb3f",
+        "url": "https://open.spotify.com/album/1oozKj967ghuYydx0aEd5T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49RfiEbHKlTUCksGUfLoE2",
+        "title": "Game XXX Change",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df04f6ae6954a24afd0d3315",
+        "url": "https://open.spotify.com/album/49RfiEbHKlTUCksGUfLoE2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5YSqsi4yjYqtcVnXLQr5A7",
+        "title": "lingvin",
+        "artist": "Vintage.Justin",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c09fdfc974f3de8367c0f324",
+        "url": "https://open.spotify.com/album/5YSqsi4yjYqtcVnXLQr5A7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cH1uS4YJjVXDL8ruFAOQ9",
+        "title": "Player Certified",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287f219a44068b523f3b7289e",
+        "url": "https://open.spotify.com/album/1cH1uS4YJjVXDL8ruFAOQ9",
         "total_tracks": 1,
         "genres": []
       }
