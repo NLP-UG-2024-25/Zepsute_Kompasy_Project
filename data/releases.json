@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-14T11:54:41.726Z",
-  "total": 3856,
+  "fetched_at": "2026-09-15T11:09:47.870Z",
+  "total": 3883,
   "by_date": {
     "2026-05-15": [
       {
@@ -42429,6 +42429,39 @@
         "url": "https://open.spotify.com/album/3iBqcvEQW1kuROmwvAUppc",
         "total_tracks": 28,
         "genres": []
+      },
+      {
+        "id": "5ycIRfIDX4bG5EvSd0RDrQ",
+        "title": "Aala Re Aala",
+        "artist": "Sameer Anjaan, Neil-Niraj, Master Krishna",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e99e6736a9097623d7918201",
+        "url": "https://open.spotify.com/album/5ycIRfIDX4bG5EvSd0RDrQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1o8zGDTVusLz4DXlCeLWpV",
+        "title": "O DJ do Baile Te Chamou pro Roça Roça",
+        "artist": "CACAU CHUU, Mc Gimenes, DJ CARLIM 011",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f2d3e40cffc5c0dc34b890f",
+        "url": "https://open.spotify.com/album/1o8zGDTVusLz4DXlCeLWpV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0sbpOENBBoEeTLjlCfmk14",
+        "title": "Heeringas & 7 luike",
+        "artist": "KASSU, Antonio Madrutzi",
+        "type": "single",
+        "release_date": "2026-09-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7b9be9507f8e4243323fac8",
+        "url": "https://open.spotify.com/album/0sbpOENBBoEeTLjlCfmk14",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-14": [
@@ -42649,6 +42682,272 @@
         "release_date": "2026-09-14",
         "image": "https://i.scdn.co/image/ab67616d00001e0287f219a44068b523f3b7289e",
         "url": "https://open.spotify.com/album/1cH1uS4YJjVXDL8ruFAOQ9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7M9OXjoJAndqYGSt4ShqwJ",
+        "title": "IMALI",
+        "artist": "Fireboy DML, JAZZWRLD, Thukuthela",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba698fbb24e4ad824e2f0bc7",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "66lzfwBtDQz3ynpoNe4L44",
+        "title": "Mrs. Nitro",
+        "artist": "Zoé, Boogarins",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025bd29f66d0e75c2e6c21d1ba",
+        "url": "https://open.spotify.com/album/66lzfwBtDQz3ynpoNe4L44",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2znzia3P64ML3VeN9zEJiz",
+        "title": "افهم يا صبي",
+        "artist": "Mahmoud El Leithy",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d388bd32ba1cb2d8ae429eca",
+        "url": "https://open.spotify.com/album/2znzia3P64ML3VeN9zEJiz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Qrpsxznbaask6V9gnS0I5",
+        "title": "Bass Persuades Remixx",
+        "artist": "Miley Cyrus, Model/Actriz",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284624a4bebc187f09c3cc9be",
+        "url": "https://open.spotify.com/album/4Qrpsxznbaask6V9gnS0I5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2nYltZhCFDDwFOPj9JAjE7",
+        "title": "ANTWOORD",
+        "artist": "Mula, Zeldzame",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240890507c76f2d3981f8fe37",
+        "url": "https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3sALW0CyyMGTHFvCuCHDCc",
+        "title": "RIOTT",
+        "artist": "Otsochodzi, lohleq",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e027dde2211cd9a2e0b2eeabe42",
+        "url": "https://open.spotify.com/album/3sALW0CyyMGTHFvCuCHDCc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6zv8ONnvpSOlYQqqNPG7EN",
+        "title": "Ai Que Gostoso",
+        "artist": "CACAU CHUU, DJ Ronaldo o Brabo",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce6265aa1220bfa1f4f8e9b9",
+        "url": "https://open.spotify.com/album/6zv8ONnvpSOlYQqqNPG7EN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cbKAqvfCTJ0EJBQnO3zCH",
+        "title": "Dirty Boots",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d40853447398d1bcba51baf3",
+        "url": "https://open.spotify.com/album/6cbKAqvfCTJ0EJBQnO3zCH",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-15": [
+      {
+        "id": "74GZXS87d8RhLhFiPG48Io",
+        "title": "2 EYES",
+        "artist": "Guru Randhawa, Gill Machhrai, Rony Ajnali, Lavish Dhiman",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8b9f3da5bec6011f37e7dc0",
+        "url": "https://open.spotify.com/album/74GZXS87d8RhLhFiPG48Io",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3rIs6ocYkun62cDGQfdALA",
+        "title": "Going, Going, Gone (Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976)",
+        "artist": "Bob Dylan",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abba0ea8b53968601c4681d0",
+        "url": "https://open.spotify.com/album/3rIs6ocYkun62cDGQfdALA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TlUK5ukcTDdHXan3QEIQp",
+        "title": "De México Soy",
+        "artist": "Los Tucanes De Tijuana",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02077c34a1a7bb41a33dd5e92b",
+        "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JjehXzVjyHBEqxI6iy3pi",
+        "title": "Pyaar",
+        "artist": "Jasmine Sandlas, Mofusion",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206f4971d67b6030454e29ca7",
+        "url": "https://open.spotify.com/album/5JjehXzVjyHBEqxI6iy3pi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "282bBndb1DhsaVevbWuJem",
+        "title": "Chau Kapao",
+        "artist": "Megadivo Produce, Bigoblin, Bubu Saoco",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e023623d95b8d1ffc6b63099fb8",
+        "url": "https://open.spotify.com/album/282bBndb1DhsaVevbWuJem",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1OtHa3Kvahtz3iTFtxFUP1",
+        "title": "Немає новин",
+        "artist": "Kolibri",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a241c31bb712cbd77de8a3e6",
+        "url": "https://open.spotify.com/album/1OtHa3Kvahtz3iTFtxFUP1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Qdtu9IVwukH0TVWgJyNcs",
+        "title": "人間缺憾美 (風之擁抱) (feat. Serrini)",
+        "artist": "Jay Fung, 梁嘉茵",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282308eb7f3627dee2166f0ec",
+        "url": "https://open.spotify.com/album/0Qdtu9IVwukH0TVWgJyNcs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VtnUEH1s82o3b0DXgjElV",
+        "title": "Lo Peor De Tu Vida",
+        "artist": "The La Planta, Emanero",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253d0fdcfbc597b7eb5c7a99c",
+        "url": "https://open.spotify.com/album/1VtnUEH1s82o3b0DXgjElV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FGG9gmUa9M9VHCYeX78dl",
+        "title": "Fitness Pop",
+        "artist": "Tattoo Colour",
+        "type": "album",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e023dfda91c7c894875380a14e8",
+        "url": "https://open.spotify.com/album/7FGG9gmUa9M9VHCYeX78dl",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3HrIAL1UUAR3s0ticte8jY",
+        "title": "Дайте с ней потанцевать",
+        "artist": "KhaliF",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02618ce7b79c1b7268498c111f",
+        "url": "https://open.spotify.com/album/3HrIAL1UUAR3s0ticte8jY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XEa8syWBuIjN0NpyRs5yh",
+        "title": "After Everything (HBO Original《Fired Up!》Interlude Song)",
+        "artist": "Pets Tseng",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b16e512175ca2a6fb610ed85",
+        "url": "https://open.spotify.com/album/4XEa8syWBuIjN0NpyRs5yh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6losb9L22T4AlT9qyXj3TB",
+        "title": "VZROSLЫЙ",
+        "artist": "V $ X V PRiNCE",
+        "type": "album",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e2c7895f00f0432cfca1352",
+        "url": "https://open.spotify.com/album/6losb9L22T4AlT9qyXj3TB",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "6yeczmx0tiuNFzl8YNe9ZM",
+        "title": "Aara Ke Sara (From \"Laakhan Singh\")",
+        "artist": "Pawan Singh, Shivani Singh, Shubham Raj (SBR), Sonu Sargam Aara",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201e52ab35e68b454bb4bc204",
+        "url": "https://open.spotify.com/album/6yeczmx0tiuNFzl8YNe9ZM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4IoU23PjMIW9pPg5uvblgE",
+        "title": "Faliu Chupando Bct",
+        "artist": "CACAU CHUU, Kaysar, DJ Biel Bolado, Tutu No Beat",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02956d4bcd0cbf070f35892668",
+        "url": "https://open.spotify.com/album/4IoU23PjMIW9pPg5uvblgE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3UANckyvrJdaLfHEnkbsns",
+        "title": "Sequência Da Botação",
+        "artist": "CACAU CHUU, MC Luana SP, Louis Collins No Hit",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02665101b6a4ec36d7fe0f26ea",
+        "url": "https://open.spotify.com/album/3UANckyvrJdaLfHEnkbsns",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ygiCCn6yzqiY8L9PrQrYF",
+        "title": "Desde el vip",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ef6713939bf5a657f61ea23",
+        "url": "https://open.spotify.com/album/0ygiCCn6yzqiY8L9PrQrYF",
         "total_tracks": 1,
         "genres": []
       }
