@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-15T11:09:47.870Z",
-  "total": 3883,
+  "fetched_at": "2026-09-16T10:54:13.603Z",
+  "total": 3918,
   "by_date": {
     "2026-05-15": [
       {
@@ -42772,6 +42772,94 @@
         "url": "https://open.spotify.com/album/6cbKAqvfCTJ0EJBQnO3zCH",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5R3HrdOI8elEnI2LP04xC0",
+        "title": "My Life",
+        "artist": "MK",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290ae86a07e22c36f49c4a528",
+        "url": "https://open.spotify.com/album/5R3HrdOI8elEnI2LP04xC0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vgA0OMWlZrFsnza2ql0IZ",
+        "title": "Jai Jai Ram (From \"Ramayana\")",
+        "artist": "A.R. Rahman, Shreya Ghoshal, Arijit Singh, Kumar Vishwas",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252b0bfea4b0c157422fe2f82",
+        "url": "https://open.spotify.com/album/1vgA0OMWlZrFsnza2ql0IZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6R8qZYUgezn4u5O2DWyAVs",
+        "title": "Vết Thương (MM x QuinVy Remix)",
+        "artist": "Fishy, MAD MONKEY, Quin Vy",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b989aaa4b0cb039464ae5ec",
+        "url": "https://open.spotify.com/album/6R8qZYUgezn4u5O2DWyAVs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YEWmB9GjyhS0Loy0HDYMS",
+        "title": "17",
+        "artist": "CUPSIZE",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290d6b0ac4473f5750eb2d1d3",
+        "url": "https://open.spotify.com/album/3YEWmB9GjyhS0Loy0HDYMS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7mF5CIW4kL3woDO241pMsU",
+        "title": "بجامل ناس (House Remix)",
+        "artist": "Fadel Chaker, هاك كامل",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280f3863e942e5a5e7c6bb865",
+        "url": "https://open.spotify.com/album/7mF5CIW4kL3woDO241pMsU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6x2vIixUChK2Rp0aqyWKci",
+        "title": "Cant See Me",
+        "artist": "A-laced Productionz",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226070b7185e65710a83d2fbf",
+        "url": "https://open.spotify.com/album/6x2vIixUChK2Rp0aqyWKci",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3emIXyUmZLUHVgLJNxgM2M",
+        "title": "Euphoria",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222aa95f9330df648e238442c",
+        "url": "https://open.spotify.com/album/3emIXyUmZLUHVgLJNxgM2M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3wrRLdn9ZhyVD8tC7KlKI8",
+        "title": "Impossible Pull",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-09-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268813b085e6f343c232f864e",
+        "url": "https://open.spotify.com/album/3wrRLdn9ZhyVD8tC7KlKI8",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-09-15": [
@@ -42949,6 +43037,305 @@
         "image": "https://i.scdn.co/image/ab67616d00001e023ef6713939bf5a657f61ea23",
         "url": "https://open.spotify.com/album/0ygiCCn6yzqiY8L9PrQrYF",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6nwZerT6S5mNbj2MLdJgVt",
+        "title": "fill de la mar (2026)",
+        "artist": "Rels B",
+        "type": "album",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02edd52bdf7de34739096e1773",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3OtoRhhtgSNRmXgVkhcSqK",
+        "title": "A Vuelta Redonda",
+        "artist": "Arcángel",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02914c4ec704533a65030b7be9",
+        "url": "https://open.spotify.com/album/3OtoRhhtgSNRmXgVkhcSqK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ZM022aGzERgWjRNsoHAFR",
+        "title": "De Kany por México",
+        "artist": "Kany García",
+        "type": "compilation",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af534818aab40ad01c3a6b09",
+        "url": "https://open.spotify.com/album/4ZM022aGzERgWjRNsoHAFR",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "63TbRZjT5dtOWaK7ASJ5ql",
+        "title": "Owo Oluwa (feat. Young Jonn, Krizbeatz & Wave Choir)",
+        "artist": "Kizz Daniel",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d4de73e3e9bbb1937af49ba",
+        "url": "https://open.spotify.com/album/63TbRZjT5dtOWaK7ASJ5ql",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4E8iI6RzNWyYLdFcUJZz6G",
+        "title": "HOPEFULLY IT LEADS SOMEWHERE",
+        "artist": "BUS",
+        "type": "album",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250e6369e87ebf868eecbd767",
+        "url": "https://open.spotify.com/album/4E8iI6RzNWyYLdFcUJZz6G",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1bbWjWOhjCb4rdmHZDNONO",
+        "title": "O SAPO PULA O SAPO PEGA",
+        "artist": "dj andreoli, DJ LUCAS SILVA, MC Kalzin, Mc Sabrina",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba0f3f3d7238e5a2c4e74a67",
+        "url": "https://open.spotify.com/album/1bbWjWOhjCb4rdmHZDNONO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7qGmyJQiL4sx3Lh5oMfxc2",
+        "title": "اكتر حاجه اذتني اقرب ناس",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02250ea5cc81dee62baafcda08",
+        "url": "https://open.spotify.com/album/7qGmyJQiL4sx3Lh5oMfxc2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4FNqFAQ2XX72CjOYVKAt1U",
+        "title": "No Puedo Fingirlo (En Vivo)",
+        "artist": "DesaKTa2, Ulises Bueno",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd65b3f2970a037522b79f54",
+        "url": "https://open.spotify.com/album/4FNqFAQ2XX72CjOYVKAt1U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5NAQm2sYL5DYbp9lb3QC6a",
+        "title": "VOU VIVER NA RUA",
+        "artist": "Mc Lele JP, Mc Jacaré, MC Tuto, MC Meno K",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f133fe88094c3848e9cb045",
+        "url": "https://open.spotify.com/album/5NAQm2sYL5DYbp9lb3QC6a",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-16": [
+      {
+        "id": "6ODzgKDARFob5VD1Jiu49R",
+        "title": "SWEAT -JAPANESE EP-",
+        "artist": "KISS OF LIFE",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6aa21750407b4a4698177dc",
+        "url": "https://open.spotify.com/album/6ODzgKDARFob5VD1Jiu49R",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1nt8qzP1zihkI8IPAFZl3M",
+        "title": "Back Of The Club",
+        "artist": "Cloonee",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02269e44a9a1fa22227ce7ea2b",
+        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17SGRUcfbbBlURtFAwOlKa",
+        "title": "Mero Mann",
+        "artist": "B Praak, Mir Desai",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e025bf3c8adb84ac7bcbd2761a0",
+        "url": "https://open.spotify.com/album/17SGRUcfbbBlURtFAwOlKa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zOyV8uuxPW31rdXWokKyM",
+        "title": "運命さがし EP",
+        "artist": "Macaroni Empitsu",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e021613999e2f1ea83f01dc3db2",
+        "url": "https://open.spotify.com/album/2zOyV8uuxPW31rdXWokKyM",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2qnT2CCF8O0UMKt7ETYAhS",
+        "title": "اول فور يو",
+        "artist": "حمو المرشدي, Bedo El Negm",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b63e9582c38b9a9335560866",
+        "url": "https://open.spotify.com/album/2qnT2CCF8O0UMKt7ETYAhS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0LZ0ysfTW06jLd3QPOTZE0",
+        "title": "Mere Bina Tu Aadhi Si",
+        "artist": "Kumar Sanu, SK. TIWARI, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237c236f0e017bf6aaf50bcb0",
+        "url": "https://open.spotify.com/album/0LZ0ysfTW06jLd3QPOTZE0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50zKMXgPXVzjcDPokBHy9d",
+        "title": "偶像包袱",
+        "artist": "理想混蛋",
+        "type": "album",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daa5e727afe5930f4b3e2c57",
+        "url": "https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "06pLTt67nM6xaaUeqqNc4L",
+        "title": "แค่เธอเท่านั้น",
+        "artist": "No One Else, Earth Patravee",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02133b58795581f615d6bc17ea",
+        "url": "https://open.spotify.com/album/06pLTt67nM6xaaUeqqNc4L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19ynk7wADPNmrY0B1uw5bO",
+        "title": "Memory",
+        "artist": "Redoor",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02595912c7e8e694022746574f",
+        "url": "https://open.spotify.com/album/19ynk7wADPNmrY0B1uw5bO",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6JBNpJbSQG9E9shGj6PLbY",
+        "title": "Made My Night (Party Remixes)",
+        "artist": "LE SSERAFIM",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e026dbb507f813118ddb1a1e464",
+        "url": "https://open.spotify.com/album/6JBNpJbSQG9E9shGj6PLbY",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4T9u56ShMRuyIAfeX5j7OJ",
+        "title": "CRETA",
+        "artist": "Likeboss, Paris Kalpos",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211cdc039b698b3d08b5c048f",
+        "url": "https://open.spotify.com/album/4T9u56ShMRuyIAfeX5j7OJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1S3oJO6SKNzmOjire4hbcE",
+        "title": "Fumei Com Ela",
+        "artist": "Mc Kadu, Campanha MC, Campanha no Beat, MC Neguin da 20",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af747387e723baf4d2bcf705",
+        "url": "https://open.spotify.com/album/1S3oJO6SKNzmOjire4hbcE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3larpZYTZ1hOwEBPQiuwSq",
+        "title": "LIVE @ CITY GATE",
+        "artist": "Grasu XXL",
+        "type": "album",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1a028b224d9ffacc6bb0fba",
+        "url": "https://open.spotify.com/album/3larpZYTZ1hOwEBPQiuwSq",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "6YBsXbX8ZWaThkcilVOw2q",
+        "title": "Сердце тобой заболело",
+        "artist": "KhaliF, SAMIIYA",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e020796aecf0d4884bb10f0dbed",
+        "url": "https://open.spotify.com/album/6YBsXbX8ZWaThkcilVOw2q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zyNTPjluZyhJdsetzjrLJ",
+        "title": "我做了个梦",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270d48b232e8e95d9bec3d552",
+        "url": "https://open.spotify.com/album/2zyNTPjluZyhJdsetzjrLJ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1WPyz5MjcPwUp9MXXav5pP",
+        "title": "talk to me",
+        "artist": "Sudden Lights",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3054af207c907f55298f160",
+        "url": "https://open.spotify.com/album/1WPyz5MjcPwUp9MXXav5pP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XUguaZliNrA3AErg6oRE9",
+        "title": "同道 (《兰香如故》电视剧插曲)",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a65e4a6c381391e4f3f4e036",
+        "url": "https://open.spotify.com/album/4XUguaZliNrA3AErg6oRE9",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3xZvQQr88hr91gatDebOrc",
+        "title": "Glittering Vibes (Late Summer Shades)",
+        "artist": "DJ Cavallino",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1ad69f9ef11bb194b3bdb6d",
+        "url": "https://open.spotify.com/album/3xZvQQr88hr91gatDebOrc",
+        "total_tracks": 2,
         "genres": []
       }
     ]
