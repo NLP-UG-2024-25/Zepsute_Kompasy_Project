@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-16T10:54:13.603Z",
-  "total": 3918,
+  "fetched_at": "2026-09-17T11:02:16.613Z",
+  "total": 3948,
   "by_date": {
     "2026-05-15": [
       {
@@ -43137,6 +43137,61 @@
         "url": "https://open.spotify.com/album/5NAQm2sYL5DYbp9lb3QC6a",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5c1BQVuwhmS7Oy0IKcpxBy",
+        "title": "Khaima W Sour",
+        "artist": "Husam Al Rassam",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6bf85234820137df41c0c43",
+        "url": "https://open.spotify.com/album/5c1BQVuwhmS7Oy0IKcpxBy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3m4KfmugRRnI0QPhk4yhd1",
+        "title": "Deixa o Barulho, Completo (Ao Vivo)",
+        "artist": "João Bosco & Vinícius",
+        "type": "album",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b50fa23368c221dc0f9f1c7",
+        "url": "https://open.spotify.com/album/3m4KfmugRRnI0QPhk4yhd1",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "0r3HPXMixJpmmqnkWoX3Yv",
+        "title": "כאב של לוחמים + בחורים טובים (מתוך חזרות למופע NEXT)",
+        "artist": "Idan Amedi, Omer Adam",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b9708211be85158450175bd",
+        "url": "https://open.spotify.com/album/0r3HPXMixJpmmqnkWoX3Yv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MCwlWdgRyyz2CaxiCwSFO",
+        "title": "De-or trece anii (Fără Urmă Original Soundtrack)",
+        "artist": "Theo Rose",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed43b4edd1daec7509321907",
+        "url": "https://open.spotify.com/album/0MCwlWdgRyyz2CaxiCwSFO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1jKgUYRFDPZuGS0L0BlmNR",
+        "title": "Kundalinipattu",
+        "artist": "M. G. Sreekumar, S. Ramesan Nair, Udayan",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5ee42fb0b8da3e720c1ccc9",
+        "url": "https://open.spotify.com/album/1jKgUYRFDPZuGS0L0BlmNR",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-16": [
@@ -43336,6 +43391,283 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a1ad69f9ef11bb194b3bdb6d",
         "url": "https://open.spotify.com/album/3xZvQQr88hr91gatDebOrc",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1QAagZpNP64jzEuOSt42wM",
+        "title": "FUSION PHLEGM",
+        "artist": "Odetari",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02061ad2f70d3bfe05c1e0901f",
+        "url": "https://open.spotify.com/album/1QAagZpNP64jzEuOSt42wM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ulvNgx5AklRdc42BJljP0",
+        "title": "No Me Suman",
+        "artist": "Cris MJ",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a70734900306e6337c0cca33",
+        "url": "https://open.spotify.com/album/5ulvNgx5AklRdc42BJljP0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GnUQlC9zqQgzAiitVmK99",
+        "title": "Me Gusta Todo De Ti (En Vivo)",
+        "artist": "Ke Personajes, Noche de Brujas",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b89a9bd25d043aabd0faa09c",
+        "url": "https://open.spotify.com/album/0GnUQlC9zqQgzAiitVmK99",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5yxmfqnKfSTAAPJsRNjYGW",
+        "title": "Ishq Samajh Paaye (From \"Between Distances\")",
+        "artist": "Aditya Rikhari, Shikhar Saxena",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02063860eaa7365b30bb2ff079",
+        "url": "https://open.spotify.com/album/5yxmfqnKfSTAAPJsRNjYGW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2z7LOtUcH07Th8zzVi3765",
+        "title": "Online",
+        "artist": "BNXN",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6f1b76c4f44530db4cd12d5",
+        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5u8XPhnTSSmvG2G0IhSejm",
+        "title": "Mulher do chefe 2",
+        "artist": "Boladin 211, DJ Neeh",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7b5d46530938c1517d7b186",
+        "url": "https://open.spotify.com/album/5u8XPhnTSSmvG2G0IhSejm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "62qVPm25fJyZ67CLJbrpzE",
+        "title": "Bức Tường Ngăn Cách Hai Ta",
+        "artist": "Emcee L (Da LAB), Minh Tốc & Lam, Only C",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e657407392b06cf83a7d6dce",
+        "url": "https://open.spotify.com/album/62qVPm25fJyZ67CLJbrpzE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0UjUyCHjZrxZp0cWpUKRqT",
+        "title": "Khalifa (Original Background Score)",
+        "artist": "Jakes Bejoy",
+        "type": "album",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024535a2014481508478808b24",
+        "url": "https://open.spotify.com/album/0UjUyCHjZrxZp0cWpUKRqT",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "1peyUGGTK1VCTcX13D9pkr",
+        "title": "Matière Noire",
+        "artist": "Djadja & Dinaz",
+        "type": "album",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc67152d7550a6ad363af6d5",
+        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "7EjV1vYIrYiFK32q2FSvdT",
+        "title": "Sientelo Demo",
+        "artist": "Sin Boy",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244b0b019a41e963a3bf0486b",
+        "url": "https://open.spotify.com/album/7EjV1vYIrYiFK32q2FSvdT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ldLHY3XujqXaK5BSTBNlr",
+        "title": "Gangsta Chick",
+        "artist": "Amo",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c64011c4ce7db7a169bc4805",
+        "url": "https://open.spotify.com/album/2ldLHY3XujqXaK5BSTBNlr",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4gz6Z3Iu25fIXIPNyqqYB3",
+        "title": "KOCHAM PIESKI",
+        "artist": "Wac Toja, SYN",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268a2447edb32a9e71babb600",
+        "url": "https://open.spotify.com/album/4gz6Z3Iu25fIXIPNyqqYB3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FiYkM9pSTobw1wicj79vg",
+        "title": "شارع المدرسة ( اعدل كدا مالك كدا شامم شياط نواحيك )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5294f1145c2d746b0a3fd6e",
+        "url": "https://open.spotify.com/album/7FiYkM9pSTobw1wicj79vg",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-17": [
+      {
+        "id": "12YLbfNadk45nGSpM7RDK1",
+        "title": "Ya No Es Lo Mismo (En Vivo)",
+        "artist": "Moy Bobadilla, Codiciado",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e025df9a155c65f85baeaa04b03",
+        "url": "https://open.spotify.com/album/12YLbfNadk45nGSpM7RDK1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7bmkpQqTIh1XQo3d9rOwrN",
+        "title": "USAME",
+        "artist": "Jezzy",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f99524eba8efebb924f82f8c",
+        "url": "https://open.spotify.com/album/7bmkpQqTIh1XQo3d9rOwrN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5pkJ6jMEqACeV0QjBjm7Au",
+        "title": "EPIKISM",
+        "artist": "Epik High",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e023863f7ca52f1f1f3154d22e1",
+        "url": "https://open.spotify.com/album/5pkJ6jMEqACeV0QjBjm7Au",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0e7QmW7U7w3TpZrSHNxiHK",
+        "title": "Tu Meri - Vishal Dadlani Vocals Only",
+        "artist": "Vishal Dadlani",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e18a4e7a69386c770f8fdec9",
+        "url": "https://open.spotify.com/album/0e7QmW7U7w3TpZrSHNxiHK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5fZkdDg4CkhZwPqYZCMiPR",
+        "title": "Ik Tu Hai - Jubin Nautiyal Vocals Only",
+        "artist": "Jubin Nautiyal, Shashwat Sachdev",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02036dabe3d06ab716e47f5e4a",
+        "url": "https://open.spotify.com/album/5fZkdDg4CkhZwPqYZCMiPR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2YeoLVaz3FRi1RvQmyVhMN",
+        "title": "Guzarish",
+        "artist": "Satinder Sartaaj",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298e66826bcb20ef7d53ab959",
+        "url": "https://open.spotify.com/album/2YeoLVaz3FRi1RvQmyVhMN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5CuyhVnslrLDu3QJWNayUO",
+        "title": "Tabaah Ho Gaye - Shreya Ghoshal Vocals Only",
+        "artist": "Shreya Ghoshal, Pritam",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c10216ef01f1a9fde09bf6fc",
+        "url": "https://open.spotify.com/album/5CuyhVnslrLDu3QJWNayUO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3SE3tG5CkDwKsiHmPF59ji",
+        "title": "\"IGNITE\" Message from JO1",
+        "artist": "JO1",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcf7b5623c8fb2f591b3f631",
+        "url": "https://open.spotify.com/album/3SE3tG5CkDwKsiHmPF59ji",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oZy8tyw42MWduouWJhnBN",
+        "title": "Ртуть",
+        "artist": "ЯРЧЕ СОЛНЦА, картье",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab9b4363675a7c62bd03d7a3",
+        "url": "https://open.spotify.com/album/7oZy8tyw42MWduouWJhnBN",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2JPE45DGboHUcAmWeIco4B",
+        "title": "KIM",
+        "artist": "Kim Seungmin",
+        "type": "album",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b50080fb6600b51b08f17748",
+        "url": "https://open.spotify.com/album/2JPE45DGboHUcAmWeIco4B",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1Lwm2g5j8wrwmcwXjJp2rS",
+        "title": "Mais Vida",
+        "artist": "Bispo, Ad",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ad8511abe75b9b7a09889dc",
+        "url": "https://open.spotify.com/album/1Lwm2g5j8wrwmcwXjJp2rS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5tNUUfC4f8pOlbK03ROtcj",
+        "title": "Wróżka",
+        "artist": "Major SPZ, Natis, Kemzy",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269e58bacf24a9846efe8b634",
+        "url": "https://open.spotify.com/album/5tNUUfC4f8pOlbK03ROtcj",
+        "total_tracks": 1,
         "genres": []
       }
     ]
