@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-17T11:02:16.613Z",
-  "total": 3948,
+  "fetched_at": "2026-09-18T10:38:26.403Z",
+  "total": 3995,
   "by_date": {
     "2026-05-15": [
       {
@@ -42317,6 +42317,17 @@
         "url": "https://open.spotify.com/album/2YwajzGknn0iDuIwFuygDo",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6dTcxGI6glSzGcG5Wv3hpI",
+        "title": "High Noon (feat. Gunna)",
+        "artist": "Shaboozey, Gunna",
+        "type": "single",
+        "release_date": "2026-09-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba9ff614f8423d6b02c91151",
+        "url": "https://open.spotify.com/album/6dTcxGI6glSzGcG5Wv3hpI",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-13": [
@@ -43535,6 +43546,17 @@
         "url": "https://open.spotify.com/album/7FiYkM9pSTobw1wicj79vg",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2JSwT3EdYAaba6B3dlnWhW",
+        "title": "Jiguchikkan (From \"Baththa\")",
+        "artist": "Sai Abhyankkar, Thamizh Aadhavan",
+        "type": "single",
+        "release_date": "2026-09-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b35d3a1c3cfac1d8a06b8f48",
+        "url": "https://open.spotify.com/album/2JSwT3EdYAaba6B3dlnWhW",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-17": [
@@ -43667,6 +43689,503 @@
         "release_date": "2026-09-17",
         "image": "https://i.scdn.co/image/ab67616d00001e0269e58bacf24a9846efe8b634",
         "url": "https://open.spotify.com/album/5tNUUfC4f8pOlbK03ROtcj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0aTw0UBIeTrqyRvmDUuhIw",
+        "title": "Macacoa 2000 (from GTAVI: The Album)",
+        "artist": "Rauw Alejandro, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244ccd312ed8ef76018e22b8b",
+        "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Csu5sbvhYVlDJ24hRWXns",
+        "title": "RHYNO (from GTAVI: The Album)",
+        "artist": "Travis Scott, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e021df7da7e2f1430731f1db26c",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yYy3Vpqpxz2WxRIjMtuls",
+        "title": "Last Thing You Need (from GTAVI: The Album)",
+        "artist": "Morgan Wallen, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02322b8ded39dc108536090089",
+        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "50y7CGtM5ZI3OwmwME9vBb",
+        "title": "All My Life (Channel Tres Remix)",
+        "artist": "Mariah Carey, Channel Tres",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297d104cd741e2ec227705137",
+        "url": "https://open.spotify.com/album/50y7CGtM5ZI3OwmwME9vBb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5Y5rJEiGpeNsSHCEwgKGIF",
+        "title": "AGUA",
+        "artist": "Maluma, Shakira",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02096bdd6426d2702847397470",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RRFJcuGdn2Oz6TGlnBms6",
+        "title": "ELLA",
+        "artist": "Blessd",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258e051c51fe9870ebbb7b0d4",
+        "url": "https://open.spotify.com/album/6RRFJcuGdn2Oz6TGlnBms6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "15BVL7DsxXdPqqsLX6Vjzc",
+        "title": "Te Gustan Villeros",
+        "artist": "Tiago PZK",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203d35c7dd6dd17982d818efe",
+        "url": "https://open.spotify.com/album/15BVL7DsxXdPqqsLX6Vjzc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4io0ELeCGNtA9pw1jT8aVi",
+        "title": "Hardtekk Tutorial",
+        "artist": "Ski Aggu, DJ TÖRKE, Mr. Polska",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d092558afdb844cc35192c3f",
+        "url": "https://open.spotify.com/album/4io0ELeCGNtA9pw1jT8aVi",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5TWK8IJLfQ7cxGm5g6WYtr",
+        "title": "SWAGUU",
+        "artist": "Seyi Vibez",
+        "type": "album",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d8bd0d11fbd54757d173a26",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "1GVyTNO2C4Xd4qwBNe0iaX",
+        "title": "Sabor a Tequila",
+        "artist": "Luis Alfonso, Xavi, Silvestre Dangond",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ae732086d127ecae4399e19",
+        "url": "https://open.spotify.com/album/1GVyTNO2C4Xd4qwBNe0iaX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49a96WmtKxJRVupYihFtF7",
+        "title": "רוצי ילדה (קיסריה LIVE)",
+        "artist": "בן צור",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ced2a75f580f234b435fede",
+        "url": "https://open.spotify.com/album/49a96WmtKxJRVupYihFtF7",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-18": [
+      {
+        "id": "7CBEamC7zja8TgoaKVB0M0",
+        "title": "Satalanaaa (Live in Malta Remix)",
+        "artist": "Pitbull, Lil Jon, Play-N-Skillz",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc65abb712e806182eaa7521",
+        "url": "https://open.spotify.com/album/7CBEamC7zja8TgoaKVB0M0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0r9Hj4BldU2MjInQLgOPH6",
+        "title": "That's Just Me",
+        "artist": "Riley Green",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2452dcf7d9dbbff64574d27",
+        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "6x7zk5GeCgqRn0Yujq135L",
+        "title": "Bass Persuades",
+        "artist": "Miley Cyrus",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e021bababe27a46e73f16d7b619",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "44u0YqrJSVXucB6qs5hdkP",
+        "title": "Sin Ti",
+        "artist": "LOS DOS DE TAMAULIPAS",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e028900f35999d5b82d30f98f29",
+        "url": "https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1npdSboUQi3hE4rrlPh17O",
+        "title": "GET EVEN",
+        "artist": "The Kid LAROI, GIVĒON",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6di14tEch7EQ0jMglRwcf6",
+        "title": "ESTRUS",
+        "artist": "Tove Lo",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d6a631e07dc9ea1a81bb2e1",
+        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "1vQYHEzQiGq2braqGsa7Gz",
+        "title": "IA",
+        "artist": "Chuyin",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e09447ae459299d8ebf5d593",
+        "url": "https://open.spotify.com/album/1vQYHEzQiGq2braqGsa7Gz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49ERZPyLhSiglGCl6QRXAO",
+        "title": "CALLATE Y BESAME (Remix)",
+        "artist": "El Bogueto, Manuel Turizo, SAIBU",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db72b3dd19421db3abdda6c3",
+        "url": "https://open.spotify.com/album/49ERZPyLhSiglGCl6QRXAO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Q05occ6PvvTkOWoo4Bn1t",
+        "title": "JHAYCO: La Presión",
+        "artist": "JHAYCO",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6802fdc4212c3a72980b000",
+        "url": "https://open.spotify.com/album/0Q05occ6PvvTkOWoo4Bn1t",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "6Kv4lDBzqyg7vdbbIxnGEI",
+        "title": "VAMO A VEL",
+        "artist": "ROA, Anuel AA",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b07de57a12f32ad7493ab300",
+        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qwDdtnfWmVY1DuQ8tSrvp",
+        "title": "Mami",
+        "artist": "HUGEL, Neton Vega",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273f10526acf93e38c0b04016",
+        "url": "https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0eJBIqUjDMVuYBfjkjLgtW",
+        "title": "Chevaliers de Sangreal Waltz",
+        "artist": "Hans Zimmer, Aleksey Igudesman, The Limitless Orchestra",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02566ed6ba3211a1a497246fad",
+        "url": "https://open.spotify.com/album/0eJBIqUjDMVuYBfjkjLgtW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "20wNHrjHx1c7SufeIAzVPp",
+        "title": "FUNK FANTASMA",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02172eb1ece0837c456d0c8946",
+        "url": "https://open.spotify.com/album/20wNHrjHx1c7SufeIAzVPp",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3o5DmGtUNBsQ6WZMVNRc6S",
+        "title": "Play Like A Dinosaur",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8855bd654e1b798a5830346",
+        "url": "https://open.spotify.com/album/3o5DmGtUNBsQ6WZMVNRc6S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6GwowNpV9ehZAWvKiDclcw",
+        "title": "Say Something (Extended Mix)",
+        "artist": "Sonny Fodera, Becky Hill",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bde65189e6c958b9dfd1368c",
+        "url": "https://open.spotify.com/album/6GwowNpV9ehZAWvKiDclcw",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1NTNfFiznzUQYLTNEyhZl7",
+        "title": "Sex",
+        "artist": "2hollis",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211eb66f5bcfcc6af8667aeb4",
+        "url": "https://open.spotify.com/album/1NTNfFiznzUQYLTNEyhZl7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FdChgOT89etcBVl6sMaNV",
+        "title": "Templars (feat. Pop Evil)",
+        "artist": "Sabaton, Pop Evil",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d7fe9b6f81f898c8a890e6f",
+        "url": "https://open.spotify.com/album/7FdChgOT89etcBVl6sMaNV",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7swkdDGRI7Wdpr4eU2cPkD",
+        "title": "Get This Started",
+        "artist": "Jazzy",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02674f4d6db5e94799888fe22f",
+        "url": "https://open.spotify.com/album/7swkdDGRI7Wdpr4eU2cPkD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Rs5jtOLEACisnzx3BL1XB",
+        "title": "Johny Johny Yes Papa",
+        "artist": "Nursery Rhymes 123",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e022700213895c13bc406a31870",
+        "url": "https://open.spotify.com/album/0Rs5jtOLEACisnzx3BL1XB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "42PSXPZw3E5tPWsUP7CZJW",
+        "title": "one way ticket",
+        "artist": "ONDA ANDAR",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3ce22f0a8cc5b9ede8f5a3f",
+        "url": "https://open.spotify.com/album/42PSXPZw3E5tPWsUP7CZJW",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1Ihlnpxhr5mOuPiTwtoHg5",
+        "title": "BONNIE",
+        "artist": "GIMS",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e49775b74fd87c90bc11e270",
+        "url": "https://open.spotify.com/album/1Ihlnpxhr5mOuPiTwtoHg5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3pbNM3d1oBFV6vLLyc5KJs",
+        "title": "OKOK",
+        "artist": "Maanu, Talal Qureshi",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284f7e8273a703160f69e6853",
+        "url": "https://open.spotify.com/album/3pbNM3d1oBFV6vLLyc5KJs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "33HBGsQ0tTxlzWI7oS2xmi",
+        "title": "Badness",
+        "artist": "Popcaan",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249a0e999fda7c71850c210ac",
+        "url": "https://open.spotify.com/album/33HBGsQ0tTxlzWI7oS2xmi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DmANlD3RtA0ydHBUYoaDM",
+        "title": "Impacto (Makina)",
+        "artist": "W&W, Schak, DJ Skryker",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e0ea667e2a22b9cec92bd07",
+        "url": "https://open.spotify.com/album/1DmANlD3RtA0ydHBUYoaDM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7BU6Md7eafyu162aS0hpEQ",
+        "title": "Let It Go",
+        "artist": "Young Jonn",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff2ff3f0c077ca1a53598630",
+        "url": "https://open.spotify.com/album/7BU6Md7eafyu162aS0hpEQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00ZAHBQqiWL9CM36ukBXvJ",
+        "title": "比恋人多点恨",
+        "artist": "Ren Ran",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02613715086a82fb077b69bf69",
+        "url": "https://open.spotify.com/album/00ZAHBQqiWL9CM36ukBXvJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aLu7Zndj5FQRV1Oh62Tgy",
+        "title": "Rangeen | Coke Studio Nu.Wav",
+        "artist": "Hasan Raheem, Izzchughtai, Umair",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e020347a9589cede386260f4eaf",
+        "url": "https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dpwfuCDm2Lv0AtRAq88aq",
+        "title": "Innocent Smile",
+        "artist": "Skepta, Suggs, Chase & Status",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7e976cf0f1826829b8f1ab4",
+        "url": "https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qgaoTnz2VcnJmg2JCdd84",
+        "title": "Kalendaryo",
+        "artist": "nicole",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02889e74bedf5267a6dd04b947",
+        "url": "https://open.spotify.com/album/2qgaoTnz2VcnJmg2JCdd84",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bB1fPxzbomi5nbqDcEn7M",
+        "title": "Bawat Segundo",
+        "artist": "Kyle Raphael",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e026af1e15f16d2a32bbeb98f40",
+        "url": "https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3MDyTeJTBx56DbfmzRXMOd",
+        "title": "The Paper Moon",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b812858df79b9b9d9f4b3b7",
+        "url": "https://open.spotify.com/album/3MDyTeJTBx56DbfmzRXMOd",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0AWqewjhfYUsxKwOurWEMy",
+        "title": "Farmaan",
+        "artist": "Jholi",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3ed0ec4cf5b4eeea2202215",
+        "url": "https://open.spotify.com/album/0AWqewjhfYUsxKwOurWEMy",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "0oOmT4kIy12k5zF6SMorZV",
+        "title": "FOKK KING",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e027fa2fc4d1fb018b4eb38eb23",
+        "url": "https://open.spotify.com/album/0oOmT4kIy12k5zF6SMorZV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Snf33lCAZpAy8w5S0bP91",
+        "title": "Dead Phone",
+        "artist": "Bobin Bruke, kiddbolt",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221dd7e11e08b0acd1afa5be5",
+        "url": "https://open.spotify.com/album/5Snf33lCAZpAy8w5S0bP91",
         "total_tracks": 1,
         "genres": []
       }
