@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-18T10:38:26.403Z",
-  "total": 3995,
+  "fetched_at": "2026-09-19T10:22:58.478Z",
+  "total": 4014,
   "by_date": {
     "2026-05-15": [
       {
@@ -43203,6 +43203,17 @@
         "url": "https://open.spotify.com/album/1jKgUYRFDPZuGS0L0BlmNR",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3jqnHaf8R8NgOyV7IJgiab",
+        "title": "Tú Me Enciendes",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-09-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02203552ebe9dc78c15ffbded9",
+        "url": "https://open.spotify.com/album/3jqnHaf8R8NgOyV7IJgiab",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-16": [
@@ -43812,6 +43823,61 @@
         "url": "https://open.spotify.com/album/49a96WmtKxJRVupYihFtF7",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3ESvHsZEscT58FNYE92nk6",
+        "title": "That's It (feat. Future & Metro Boomin) [from GTAVI: The Album]",
+        "artist": "Yung Lean, Grand Theft Auto VI, Metro Boomin",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de752003a9ecac9591447585",
+        "url": "https://open.spotify.com/album/3ESvHsZEscT58FNYE92nk6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3B6XXYP4ZsUus3dWtjvcch",
+        "title": "COMPA COLETO (uy_como)",
+        "artist": "ARIA VEGA",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fb65104374492122f344ab1",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5nVnAPXT2kZrNZbA86IWXu",
+        "title": "4",
+        "artist": "Mauvais djo",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff12a3efe32eb8e753605461",
+        "url": "https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "425FTVpA3HftAXDkhqDmjb",
+        "title": "Irumudi (Dialogues) [TELUGU]",
+        "artist": "G. V. Prakash",
+        "type": "album",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a64b9fb7078b315fbaf7d21a",
+        "url": "https://open.spotify.com/album/425FTVpA3HftAXDkhqDmjb",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "4qx4OdyadN88DzK4s5MEft",
+        "title": "2 Beautiful 2 Be Real",
+        "artist": "DJ UGA, Agris Krūms",
+        "type": "single",
+        "release_date": "2026-09-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c64888c03a513a3fdeb493a2",
+        "url": "https://open.spotify.com/album/4qx4OdyadN88DzK4s5MEft",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-18": [
@@ -44186,6 +44252,151 @@
         "release_date": "2026-09-18",
         "image": "https://i.scdn.co/image/ab67616d00001e0221dd7e11e08b0acd1afa5be5",
         "url": "https://open.spotify.com/album/5Snf33lCAZpAy8w5S0bP91",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "53KzNbmfx39uABoUZ3VGNL",
+        "title": "COCOON",
+        "artist": "Yeat",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e027013f42ca4a4d0965d5ad6c1",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "0AzK24wwXDEaDP0oyUgxOH",
+        "title": "Never Tear Us Apart (The Story Behind The Song) [Commentary]",
+        "artist": "INXS",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f689250c3d22ba495e6eaf94",
+        "url": "https://open.spotify.com/album/0AzK24wwXDEaDP0oyUgxOH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NgQBVMTPo91vUnpgPKxyu",
+        "title": "Called it Love (Serena X FIFTY FIFTY) (Original Webtoon Soundtrack)",
+        "artist": "FIFTY FIFTY",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db2137fc276081ab38b5ffa4",
+        "url": "https://open.spotify.com/album/4NgQBVMTPo91vUnpgPKxyu",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2AYYBqAErgA7V7MHNamv5M",
+        "title": "Strange Boat EP",
+        "artist": "The Waterboys",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02036b467cf6d2dd7824459bb9",
+        "url": "https://open.spotify.com/album/2AYYBqAErgA7V7MHNamv5M",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "7h7nn6bbpzj2ALqgXpQiBB",
+        "title": "BREGA DO WRONG",
+        "artist": "-Prey, Nxxkz",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244915b32039d80f812f855f6",
+        "url": "https://open.spotify.com/album/7h7nn6bbpzj2ALqgXpQiBB",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4IW9qKMMCPQN5Ql34FaHWJ",
+        "title": "Noise in My Head",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e996f6f2dc5fc20a81dde370",
+        "url": "https://open.spotify.com/album/4IW9qKMMCPQN5Ql34FaHWJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0eN66Qybkjf74fezPXrV5Y",
+        "title": "RMB (Ring My Bell) [Dutch Remix]",
+        "artist": "Aitch, Dopebwoy",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dd6c6ac2f50b31cce2a9756e",
+        "url": "https://open.spotify.com/album/0eN66Qybkjf74fezPXrV5Y",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2XeIEDq1FPfsCsaRjFZYlv",
+        "title": "WAITIN' ON YOU",
+        "artist": "Palm Monkey, DALEXO",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e024496f7414f60d3bb10425f40",
+        "url": "https://open.spotify.com/album/2XeIEDq1FPfsCsaRjFZYlv",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1DQL6zbNwKdD7Ju0Ph2Djb",
+        "title": "XX : Délirium",
+        "artist": "Fally Ipupa",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02446a9c157e441d7e6033d6c6",
+        "url": "https://open.spotify.com/album/1DQL6zbNwKdD7Ju0Ph2Djb",
+        "total_tracks": 51,
+        "genres": []
+      },
+      {
+        "id": "336ZZNNJwshfNdVXFM86d1",
+        "title": "et kënnt wéi et kënnt",
+        "artist": "Serge Tonnar",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2a39d2903b533b07b2848ab",
+        "url": "https://open.spotify.com/album/336ZZNNJwshfNdVXFM86d1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6bakz63n8wioOi3TDjb4mZ",
+        "title": "Sinsi",
+        "artist": "Mirza Ocak",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02244ef551db1e9b69acf41805",
+        "url": "https://open.spotify.com/album/6bakz63n8wioOi3TDjb4mZ",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-19": [
+      {
+        "id": "7chcWlvgHl2WPIyV9Du0ii",
+        "title": "Mundo Retorcido",
+        "artist": "La Santa Grifa",
+        "type": "album",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c08a6e693780ccb43b76bd2",
+        "url": "https://open.spotify.com/album/7chcWlvgHl2WPIyV9Du0ii",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "2in9Bgw7e4jKwH8aKZUkEH",
+        "title": "Casa Tupka Anthemo",
+        "artist": "Yo Yo Honey Singh",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a14d6ecc28bacc51e45e2fa9",
+        "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH",
         "total_tracks": 1,
         "genres": []
       }
