@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-19T10:22:58.478Z",
-  "total": 4014,
+  "fetched_at": "2026-09-20T10:42:20.911Z",
+  "total": 4057,
   "by_date": {
     "2026-05-15": [
       {
@@ -44375,6 +44375,270 @@
         "url": "https://open.spotify.com/album/6bakz63n8wioOi3TDjb4mZ",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "40oCjW9JuYir3GH7b22d4Q",
+        "title": "XX : Délirium",
+        "artist": "Fally Ipupa",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02316b82d897011b81320bb272",
+        "url": "https://open.spotify.com/album/40oCjW9JuYir3GH7b22d4Q",
+        "total_tracks": 50,
+        "genres": []
+      },
+      {
+        "id": "3YTsw2KntZMwcAKURIO4hb",
+        "title": "Dünlerimin Naaşı",
+        "artist": "Ankara Echoes",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221616a6e7d29e0f223b9d9d5",
+        "url": "https://open.spotify.com/album/3YTsw2KntZMwcAKURIO4hb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4o73JH494dppmLwfLZGrQ5",
+        "title": "الامان",
+        "artist": "Abdul Majeed Abdullah",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da37a0acaafc9836dc2cc68c",
+        "url": "https://open.spotify.com/album/4o73JH494dppmLwfLZGrQ5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1RjzYjSLIeONPTa9jq4Rr6",
+        "title": "Sigma (Telugu)",
+        "artist": "Thaman S",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f7fcd4b8c5d17029855ae46",
+        "url": "https://open.spotify.com/album/1RjzYjSLIeONPTa9jq4Rr6",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5r8wB4d4oXZd2tvO3P1wpC",
+        "title": "Nee Valle (From \"Sangeet\")",
+        "artist": "Sid Sriram, Achu, Vikram Shiva",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02660e55c8284c91a6b8a026ae",
+        "url": "https://open.spotify.com/album/5r8wB4d4oXZd2tvO3P1wpC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PY43aRxFA6duuLTBsO5R4",
+        "title": "若無你 (影集《接招吧！製作人》單元曲)",
+        "artist": "Ricky Hsiao",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290019e6b6dc57257b73ec7a3",
+        "url": "https://open.spotify.com/album/2PY43aRxFA6duuLTBsO5R4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4RoUezPcp56cMMAPTY8DuO",
+        "title": "Shey Toh Aajo Bojhena",
+        "artist": "Jeet Gannguli",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290e6adbb584eeacf20261281",
+        "url": "https://open.spotify.com/album/4RoUezPcp56cMMAPTY8DuO",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1qpUZW2YSzZ6vqJhGaytOm",
+        "title": "Be-iraada",
+        "artist": "Rahat Fateh Ali Khan, Raaj Aashoo, Seepi Jha",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cd50ad9abfc01367093eb73",
+        "url": "https://open.spotify.com/album/1qpUZW2YSzZ6vqJhGaytOm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3J6dgyRHEpZx7IAbM30oKA",
+        "title": "يا دنيا ايه مالك",
+        "artist": "Mahmoud El Leithy",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e023959546031b570badc7d22cc",
+        "url": "https://open.spotify.com/album/3J6dgyRHEpZx7IAbM30oKA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63tbJzFgRu0QCRReLa8Hog",
+        "title": "Johan Liebert: MONSTRO",
+        "artist": "7 Minutoz",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f83d6c8be71c9632b541bbf5",
+        "url": "https://open.spotify.com/album/63tbJzFgRu0QCRReLa8Hog",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2H9RN8ZzSyx9JC3l4vvRhT",
+        "title": "Gravé À Vie",
+        "artist": "Cheb Bilal",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e61e9577aaafaac74f45991c",
+        "url": "https://open.spotify.com/album/2H9RN8ZzSyx9JC3l4vvRhT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5lKHDf06WmHx6pN2K4phgh",
+        "title": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "artist": "Feid",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255ab7b349735d19c43d7aea0",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "5wMhz1w51hcKQtXnHM6tRh",
+        "title": "Chroma",
+        "artist": "Abyusif",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1f91ea9a4dbfe59cc60a687",
+        "url": "https://open.spotify.com/album/5wMhz1w51hcKQtXnHM6tRh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7nhWuuDKZNuXOHucKvXlm2",
+        "title": "Segunda Cita",
+        "artist": "Piso 21, Micro TDH, Gangsta",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229830ee2b50c23929451b368",
+        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0vzBvTcB390AdWRKdkMPce",
+        "title": "Irumudi [HINDI]",
+        "artist": "G. V. Prakash",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a39af8860ac703f4d47ac95",
+        "url": "https://open.spotify.com/album/0vzBvTcB390AdWRKdkMPce",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6GIkebKqSBJjHnvQkpHMjs",
+        "title": "Vishwanath & Sons (Hindi)",
+        "artist": "G. V. Prakash",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241ce4bb8d46d2e993cb038fd",
+        "url": "https://open.spotify.com/album/6GIkebKqSBJjHnvQkpHMjs",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4BaUzskOZXsSHUEx0jLavi",
+        "title": "Reggae Sua Fé",
+        "artist": "Maneva",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02705670d895b5fa8f116d2076",
+        "url": "https://open.spotify.com/album/4BaUzskOZXsSHUEx0jLavi",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7vtMDVDcHLF1fCd2wXnTHy",
+        "title": "Fiesta Cumbiambera (En Vivo)",
+        "artist": "Corazón Serrano",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba472b0fe0daf1e070bbfa44",
+        "url": "https://open.spotify.com/album/7vtMDVDcHLF1fCd2wXnTHy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7z8h0PtT7v3HtoNL2xiriA",
+        "title": "No vuelvo amar (En Vivo)",
+        "artist": "Corazón Serrano",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fe900203b5ea70b58a8d340",
+        "url": "https://open.spotify.com/album/7z8h0PtT7v3HtoNL2xiriA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2m6fjmgfLnx1KE2cwuNNkT",
+        "title": "Mix Pelo D'Ambrosio: Voy a llorar / Como haré (En Vivo)",
+        "artist": "Corazón Serrano",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02244920ad868cb45c1a4835d5",
+        "url": "https://open.spotify.com/album/2m6fjmgfLnx1KE2cwuNNkT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26NKb8Yn3s987BKb4AxaJl",
+        "title": "Verden Er Din",
+        "artist": "Gilli",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268149cf4243d48664ad2f514",
+        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "3Vd2UruWsZlyBFxu1Y1p1L",
+        "title": "LLORON",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e6193ae2b0ae95de39a856f",
+        "url": "https://open.spotify.com/album/3Vd2UruWsZlyBFxu1Y1p1L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2axwaXKoMZPbSQ3bqvO8BR",
+        "title": "SALIMO A CASARTE",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255c965dba0f0dc91be3564b7",
+        "url": "https://open.spotify.com/album/2axwaXKoMZPbSQ3bqvO8BR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1jq6dwl2Di9KnEdReNpsh4",
+        "title": "HASTE A UN LADO",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02584c8f4dfde569c7069cc134",
+        "url": "https://open.spotify.com/album/1jq6dwl2Di9KnEdReNpsh4",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-19": [
@@ -44398,6 +44662,217 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a14d6ecc28bacc51e45e2fa9",
         "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6q1KCfZ4hltHUFSnL58tcG",
+        "title": "TINH HÀ \"SAY HI\", TẬP 12",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "album",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b32c9829ae7c773d9ab1e9ea",
+        "url": "https://open.spotify.com/album/6q1KCfZ4hltHUFSnL58tcG",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6MDDb67l8P6Bdv5KC71ZbY",
+        "title": "最佳損友",
+        "artist": "en王翊恩",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027461903908b8571cd2b7feda",
+        "url": "https://open.spotify.com/album/6MDDb67l8P6Bdv5KC71ZbY",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1hJchuOtDs1IAO0S4OZNVR",
+        "title": "CÔNG DIỄN 5 (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de9ee5fd74604d690e1ada65",
+        "url": "https://open.spotify.com/album/1hJchuOtDs1IAO0S4OZNVR",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4u5IpJEofrGvG7N5rZ0vme",
+        "title": "Beste Zangers 2026 (Bizzey)",
+        "artist": "Bizzey, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e4785179aede2eb484ae525",
+        "url": "https://open.spotify.com/album/4u5IpJEofrGvG7N5rZ0vme",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2a357VCjfGQvFyIHWCKyWr",
+        "title": "ガチ夢中！",
+        "artist": "chotokkyu",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02969e18a4ca8cdfbeb91d1aa5",
+        "url": "https://open.spotify.com/album/2a357VCjfGQvFyIHWCKyWr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xPfnhUeB8osXdlfyHnLtk",
+        "title": "Aroma de Sexo",
+        "artist": "DU'L, BG, MC Marcos IP, MC Menor RN",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02368afee26c10839e216eea90",
+        "url": "https://open.spotify.com/album/7xPfnhUeB8osXdlfyHnLtk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4SRtdeedZBNyRWEOOkJMmF",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efcbe3735f6192c8d6c228ad",
+        "url": "https://open.spotify.com/album/4SRtdeedZBNyRWEOOkJMmF",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3EO6Ern1312jW1PuBA6yb0",
+        "title": "You're Important",
+        "artist": "Vybz Kartel",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253bb0c93b9935d3a0558e616",
+        "url": "https://open.spotify.com/album/3EO6Ern1312jW1PuBA6yb0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6yk2ixr65NSV9H94r6sEJz",
+        "title": "KARTINI",
+        "artist": "Emil TRF",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff575d719d67f61d723dcba3",
+        "url": "https://open.spotify.com/album/6yk2ixr65NSV9H94r6sEJz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bvRHhLiERzBH0UAq4qQbv",
+        "title": "Школа ХЪСTLE",
+        "artist": "FYRE",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244ddd0a75f708799ba905293",
+        "url": "https://open.spotify.com/album/3bvRHhLiERzBH0UAq4qQbv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DlCYut4augsLDaQ38xDwj",
+        "title": "Cash sau card",
+        "artist": "Leo de la Rosiori",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024df665892468fd96bf2bd232",
+        "url": "https://open.spotify.com/album/5DlCYut4augsLDaQ38xDwj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24wWZQ1SbTw5qBWugdPxJ8",
+        "title": "Aflevering 4 - Zoë Livay",
+        "artist": "Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c94b3a7ce9fc9d246e0e3816",
+        "url": "https://open.spotify.com/album/24wWZQ1SbTw5qBWugdPxJ8",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6NIWRdu7it4QLY9Bsww97r",
+        "title": "Vô Tư Đê",
+        "artist": "Jaysonlei",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02600c9368e794ed6cdd050484",
+        "url": "https://open.spotify.com/album/6NIWRdu7it4QLY9Bsww97r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0BW2Oc0jUaXvihsyO5EDXW",
+        "title": "Taxi Driver",
+        "artist": "2K",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278012359cc30382419518b74",
+        "url": "https://open.spotify.com/album/0BW2Oc0jUaXvihsyO5EDXW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3fCFOLJFwwi9v6laX5bhkY",
+        "title": "Beste Zangers 2026 (Clouseau)",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eaceb3cd774a6e1741ec49c5",
+        "url": "https://open.spotify.com/album/3fCFOLJFwwi9v6laX5bhkY",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "491aQnOVV8alceqdFqtTam",
+        "title": "Ik Zing",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2c499948c2f586024a90d9e",
+        "url": "https://open.spotify.com/album/491aQnOVV8alceqdFqtTam",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-20": [
+      {
+        "id": "4909Bw9WITPpCdMGbh6x8R",
+        "title": "Nu sunt de fier nu sunt de piatra",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a8841a0976fe469cff843c6e",
+        "url": "https://open.spotify.com/album/4909Bw9WITPpCdMGbh6x8R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "27mfNxFoQIoRCvHFqci47W",
+        "title": "MÍNUS",
+        "artist": "Dorian, Lboy Bsc",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d0dca93c9aa9b61317e9e6d",
+        "url": "https://open.spotify.com/album/27mfNxFoQIoRCvHFqci47W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Psi3WEDmrnhD2IM4Rqo5o",
+        "title": "A love other than yours OST Part.2",
+        "artist": "LUCY",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02235ad51b9d8c1c63cb1f7c9f",
+        "url": "https://open.spotify.com/album/4Psi3WEDmrnhD2IM4Rqo5o",
+        "total_tracks": 2,
         "genres": []
       }
     ]
