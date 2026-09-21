@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-20T10:42:20.911Z",
-  "total": 4057,
+  "fetched_at": "2026-09-21T12:05:42.517Z",
+  "total": 4091,
   "by_date": {
     "2026-05-15": [
       {
@@ -41301,6 +41301,17 @@
         "url": "https://open.spotify.com/album/3XvZwCmgcbJPaTkqx0hxoE",
         "total_tracks": 3,
         "genres": []
+      },
+      {
+        "id": "1U5UY674wcDu0FisO7SXXp",
+        "title": "Westside Whimsy",
+        "artist": "Jhené Aiko",
+        "type": "album",
+        "release_date": "2026-09-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+        "url": "https://open.spotify.com/album/1U5UY674wcDu0FisO7SXXp",
+        "total_tracks": 20,
+        "genres": []
       }
     ],
     "2026-09-11": [
@@ -44639,6 +44650,28 @@
         "url": "https://open.spotify.com/album/1jq6dwl2Di9KnEdReNpsh4",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "310lmJwtNvQv6SERdmD34Z",
+        "title": "Pylon",
+        "artist": "beabadoobee",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212c805544ba208842da0d9f3",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6XCeDGRHx5i3gq2hr743zy",
+        "title": "Heavy Is the Crown - Unshatter Film Soundtrack (Live in São Paulo)",
+        "artist": "Linkin Park",
+        "type": "single",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e025988806c94b9754c83b5bb46",
+        "url": "https://open.spotify.com/album/6XCeDGRHx5i3gq2hr743zy",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-19": [
@@ -44839,6 +44872,50 @@
         "url": "https://open.spotify.com/album/491aQnOVV8alceqdFqtTam",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2H4VnqXZtNxAR5j6yGgzlX",
+        "title": "Manemma (From \"Irumudi\")",
+        "artist": "G. V. Prakash, Kapil Kapilan, Anantha Sreeram",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023feb8c9c559bbc15e6d40f42",
+        "url": "https://open.spotify.com/album/2H4VnqXZtNxAR5j6yGgzlX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47kw0ktw0QPOP18ceNAgIc",
+        "title": "Manemma (From \"Irumudi Kattu\")",
+        "artist": "G. V. Prakash, Nakul Abhyankar, Balaji Venugopal",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022859431745e6c413f62ea37d",
+        "url": "https://open.spotify.com/album/47kw0ktw0QPOP18ceNAgIc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vHl3BPp2pDAzfFbjnimaH",
+        "title": "Policia no me mate",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024600c3ac7b096217bba4acdb",
+        "url": "https://open.spotify.com/album/6vHl3BPp2pDAzfFbjnimaH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "59sv1FQAJxl1B7lP7Xl6AT",
+        "title": "JEITINHO PERVERSA",
+        "artist": "CACAU CHUU, kirtap",
+        "type": "single",
+        "release_date": "2026-09-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6b996f6b54e3c0937056de1",
+        "url": "https://open.spotify.com/album/59sv1FQAJxl1B7lP7Xl6AT",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-20": [
@@ -44873,6 +44950,305 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02235ad51b9d8c1c63cb1f7c9f",
         "url": "https://open.spotify.com/album/4Psi3WEDmrnhD2IM4Rqo5o",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1A3Vd1lbo2P9nAU6DVJHxV",
+        "title": "Yeh Prem Mol Liya Title Track (From \"Yeh Prem Mol Liya\")",
+        "artist": "Himesh Reshammiya, Shreya Ghoshal, Nihal Tauro",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc3b71c730e7e84162a5858b",
+        "url": "https://open.spotify.com/album/1A3Vd1lbo2P9nAU6DVJHxV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vLpnOuFPSXk7PoFPAkt4n",
+        "title": "Swingin’ Magic",
+        "artist": "ILLIT",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf93c52e0bcf3afbbb41ff3e",
+        "url": "https://open.spotify.com/album/2vLpnOuFPSXk7PoFPAkt4n",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6MzjwYJTscaqTKoatzUKu9",
+        "title": "نص الليل",
+        "artist": "Wael Jassar",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b7df826e6d77a0822d850aa",
+        "url": "https://open.spotify.com/album/6MzjwYJTscaqTKoatzUKu9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TBXAXm0diAYdGT1rln52i",
+        "title": "اسد لقب مش تكريت ( كلها جاتا ومبتجليش )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253a67406d6c52533a4fd0aa0",
+        "url": "https://open.spotify.com/album/3TBXAXm0diAYdGT1rln52i",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2hof5B8XOhElctu0rmun1Z",
+        "title": "Lights Off",
+        "artist": "Still World",
+        "type": "album",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256ef0b12417d6e3cc65a7ced",
+        "url": "https://open.spotify.com/album/2hof5B8XOhElctu0rmun1Z",
+        "total_tracks": 50,
+        "genres": []
+      },
+      {
+        "id": "4gtWTUXSziyp0tbjUeZlFr",
+        "title": "Tropa do Mestre 3 - Samba",
+        "artist": "CACAU CHUU, DJ Biel Bolado, Mestre Patrick, Encontro de MC's",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02236c93f44766b92088be027b",
+        "url": "https://open.spotify.com/album/4gtWTUXSziyp0tbjUeZlFr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6TWmq3x7sxNV5ia8TeMLn7",
+        "title": "Analog Lullaby",
+        "artist": "Still World",
+        "type": "album",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e74473551a8e60ec26d2fdd",
+        "url": "https://open.spotify.com/album/6TWmq3x7sxNV5ia8TeMLn7",
+        "total_tracks": 45,
+        "genres": []
+      }
+    ],
+    "2026-09-21": [
+      {
+        "id": "3SWO6YZCCDD6whU109BteP",
+        "title": "hey! hey! (Chinese ver.)",
+        "artist": "TWS",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f18c6c8c8363776716d79e29",
+        "url": "https://open.spotify.com/album/3SWO6YZCCDD6whU109BteP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DOtBh6jqecnYbwJUoG5BQ",
+        "title": "Tentei Ser Fiel",
+        "artist": "MC Jvila, DU'L, DJ Glenner, Aaron Modesto",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f3f7baa86d0c95eba4e0be9",
+        "url": "https://open.spotify.com/album/1DOtBh6jqecnYbwJUoG5BQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ezKZFFjFmxnt8dsH8WYRD",
+        "title": "Mitare Mita (From \"Mitare Mita\")",
+        "artist": "Udit Narayan, Basant Raj Samal, Prashant Padhi",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a4bd7142f909d67c5a125d6",
+        "url": "https://open.spotify.com/album/1ezKZFFjFmxnt8dsH8WYRD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0V2uua2eVlkJOhRvLKffiy",
+        "title": "El Secreto",
+        "artist": "Grupo 5",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e024383ae6dc11d4d206efd9c39",
+        "url": "https://open.spotify.com/album/0V2uua2eVlkJOhRvLKffiy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Q78Kify9j5RUwdIkm371C",
+        "title": "尚有愛的資格",
+        "artist": "Jason Chan",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0283e6def347a201c56e415b80",
+        "url": "https://open.spotify.com/album/6Q78Kify9j5RUwdIkm371C",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2mHNSGINVl2s3hk4NXVv8H",
+        "title": "陽光普照",
+        "artist": "Joey Yung",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db87889de62021b807bb148f",
+        "url": "https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "06FXB8kUTILEN7w6xvRxBV",
+        "title": "Một Bài Hát Ru",
+        "artist": "Hà An Huy, Quang Trung",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02503656125375c6c17887fb9c",
+        "url": "https://open.spotify.com/album/06FXB8kUTILEN7w6xvRxBV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6MZyLJ3tn8FjtVCjmGUrEZ",
+        "title": "PYMF (Feat. Kid Wine)",
+        "artist": "Skinny Brown",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273180cfdee85b263462db4d9",
+        "url": "https://open.spotify.com/album/6MZyLJ3tn8FjtVCjmGUrEZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "153EzFRhICazUgQ1EBfw5r",
+        "title": "Golden Sun",
+        "artist": "ONE N' ONLY",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e53dddaa227c3f844850cf3",
+        "url": "https://open.spotify.com/album/153EzFRhICazUgQ1EBfw5r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2eHR2NbLgRC30RYYMZTNAJ",
+        "title": "Som de Vida Loka",
+        "artist": "Mc Kadu, Dj Binho, Dj Geh",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282c800738db53d80e9769d8b",
+        "url": "https://open.spotify.com/album/2eHR2NbLgRC30RYYMZTNAJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24fHVsr25u2vA4V4rC1KSl",
+        "title": "Special Single 'Dreamer & Picaresque'",
+        "artist": "QWER",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f8b2ab82b6de3614ce04e2a",
+        "url": "https://open.spotify.com/album/24fHVsr25u2vA4V4rC1KSl",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7hsylLmXblXZNq3Hd8RAcx",
+        "title": "Bandeya",
+        "artist": "Sonu Nigam",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6c0b178bde1da1d0ff841ff",
+        "url": "https://open.spotify.com/album/7hsylLmXblXZNq3Hd8RAcx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41WONVJgf1VfJbR2JRrp67",
+        "title": "Importante",
+        "artist": "Salve Malak, Chris MC, Pineapple StormTv",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d5c56e7d91bc6b019277692",
+        "url": "https://open.spotify.com/album/41WONVJgf1VfJbR2JRrp67",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "15VrMXyfikvM0DiOKq9wpO",
+        "title": "ENKLAWA S02E01: FUKAJ x LIVKA (ENKLAWA LIVE)",
+        "artist": "Livka, Fukaj, ENKLAWA",
+        "type": "album",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c4666b6aa5eb40136f97760",
+        "url": "https://open.spotify.com/album/15VrMXyfikvM0DiOKq9wpO",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "6zADwtVDHQbjqx60Ompb1q",
+        "title": "Sexo (Unplugged)",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b17582268f65941080406549",
+        "url": "https://open.spotify.com/album/6zADwtVDHQbjqx60Ompb1q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ki7RUvVST7Uk5tKOnf5Ws",
+        "title": "Focus on the Violin - An Essential Classical Stopover",
+        "artist": "Wolfgang Amadeus Mozart, Frédéric Chopin, Johann Sebastian Bach, Ludwig van Beethoven, Claude Debussy, Alexander Glazunov, Antonio Bazzini, Antonio Vivaldi, Antonín Dvořák, Aram Khachaturian",
+        "type": "album",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e028eccd3704abd09630abc8fa3",
+        "url": "https://open.spotify.com/album/0ki7RUvVST7Uk5tKOnf5Ws",
+        "total_tracks": 72,
+        "genres": []
+      },
+      {
+        "id": "0do0XUjB8vJ8cb4CxleCgv",
+        "title": "Tropa do Mestre 3 - Sertanejo",
+        "artist": "CACAU CHUU, DJ Biel Bolado, Mestre Patrick, Encontro de MC's",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b20000edd91c0625fdbae4e7",
+        "url": "https://open.spotify.com/album/0do0XUjB8vJ8cb4CxleCgv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0WBvYifrLsltzpxc4ZRK2x",
+        "title": "En el Peligro",
+        "artist": "LA NUEVA ATMOSFERA 1",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8397237f74b96b9375dd4fa",
+        "url": "https://open.spotify.com/album/0WBvYifrLsltzpxc4ZRK2x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "57qBZrkZJXht88bjVuOM1P",
+        "title": "GYM PLATE",
+        "artist": "IFILMS",
+        "type": "album",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e36ff4c2a14087f749d88120",
+        "url": "https://open.spotify.com/album/57qBZrkZJXht88bjVuOM1P",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "0XuneiPIXjxpvYRxcway6t",
+        "title": "Horizonts",
+        "artist": "Aivo Oskis",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238dd7f41b576c2ee395c19d3",
+        "url": "https://open.spotify.com/album/0XuneiPIXjxpvYRxcway6t",
+        "total_tracks": 1,
         "genres": []
       }
     ]
