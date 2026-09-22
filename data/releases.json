@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-21T12:05:42.517Z",
-  "total": 4091,
+  "fetched_at": "2026-09-22T11:01:12.499Z",
+  "total": 4114,
   "by_date": {
     "2026-05-15": [
       {
@@ -44672,6 +44672,17 @@
         "url": "https://open.spotify.com/album/6XCeDGRHx5i3gq2hr743zy",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6mQC4efviywahzfwgLvye0",
+        "title": "Angel",
+        "artist": "Lizzy McAlpine",
+        "type": "album",
+        "release_date": "2026-09-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e022530375a57729aea52060137",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0",
+        "total_tracks": 14,
+        "genres": []
       }
     ],
     "2026-09-19": [
@@ -45028,6 +45039,39 @@
         "url": "https://open.spotify.com/album/6TWmq3x7sxNV5ia8TeMLn7",
         "total_tracks": 45,
         "genres": []
+      },
+      {
+        "id": "3NCMjJMgFEUdyEq018C64s",
+        "title": "Jhoom Le Zara (From \"The Paradise\") (Hindi)",
+        "artist": "Anirudh Ravichander",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3404e4814b62946799e5d53",
+        "url": "https://open.spotify.com/album/3NCMjJMgFEUdyEq018C64s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YUWjkeBnWXPVHo08PvBXs",
+        "title": "As Vrea Sa Ajung La Inima Ta (Live)",
+        "artist": "Adrian Minune",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02769877afa9c829f998f98473",
+        "url": "https://open.spotify.com/album/3YUWjkeBnWXPVHo08PvBXs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GeKzzHZdEuUXw7SliIwi5",
+        "title": "My Submissive Queen",
+        "artist": "JSMTH",
+        "type": "single",
+        "release_date": "2026-09-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271ced46882fad84344731f03",
+        "url": "https://open.spotify.com/album/5GeKzzHZdEuUXw7SliIwi5",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-21": [
@@ -45249,6 +45293,217 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0238dd7f41b576c2ee395c19d3",
         "url": "https://open.spotify.com/album/0XuneiPIXjxpvYRxcway6t",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5YKn74xV5MR54EzNiGiovW",
+        "title": "Todas Mienten",
+        "artist": "El Bogueto",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ce84f1f58775360b52d0ba7",
+        "url": "https://open.spotify.com/album/5YKn74xV5MR54EzNiGiovW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2c2OLLaL6HCeZPxyvCNB9h",
+        "title": "Lontano",
+        "artist": "Sfera Ebbasta",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0934838808ea42d7d59a5ea",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VVbl9I5YkNdIh9UaTUXsd",
+        "title": "Good Boy (Japanese ver.)",
+        "artist": "&TEAM",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e021045c306b7b33ce1f1792532",
+        "url": "https://open.spotify.com/album/4VVbl9I5YkNdIh9UaTUXsd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "24pmwuh2osiEFE48U3ueFD",
+        "title": "MOET",
+        "artist": "Julianno Sosa, Pablo Chill-E",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029eca61f77459de1ba0e5c36e",
+        "url": "https://open.spotify.com/album/24pmwuh2osiEFE48U3ueFD",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-22": [
+      {
+        "id": "52eR4STcEBJ4NmY34P9dL8",
+        "title": "Assay Passay",
+        "artist": "Talwiinder, Dropped Out",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8ade3efb1d8d72a565da42e",
+        "url": "https://open.spotify.com/album/52eR4STcEBJ4NmY34P9dL8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79z9PRBAfGUKIQDVoVcxbL",
+        "title": "芥蘭",
+        "artist": "Rainie Yang",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e4bc1ca14f642ef43b99d6a",
+        "url": "https://open.spotify.com/album/79z9PRBAfGUKIQDVoVcxbL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4lCDmtC6fSldvKV5XN0Q2B",
+        "title": "Perfekt",
+        "artist": "Niklas Dee, Sääftig",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02819fa323681e1da798c4648c",
+        "url": "https://open.spotify.com/album/4lCDmtC6fSldvKV5XN0Q2B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5wWXkW2sKD7w1bInzSyFgk",
+        "title": "แค่...หายไป (Gone)",
+        "artist": "Tilly Birds",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202354b7d64434a25be8bb51f",
+        "url": "https://open.spotify.com/album/5wWXkW2sKD7w1bInzSyFgk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JG74l01rgAb3xI5pYd134",
+        "title": "ขี้แง (Boys Don't Cry) [Live Session PROXIE X ASIA7]",
+        "artist": "PROXIE",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0a8b51e02872c2ad8a8808a",
+        "url": "https://open.spotify.com/album/0JG74l01rgAb3xI5pYd134",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4rHvcs2xU0NsjZaQ3dr7UF",
+        "title": "קילומטר קדימה",
+        "artist": "רואי אדם",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02460026e00637f8277945d371",
+        "url": "https://open.spotify.com/album/4rHvcs2xU0NsjZaQ3dr7UF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "68kUOOPBwN7IP9KeoVCMdA",
+        "title": "TOP OF THE POPS (Red Bull 64 Bars)",
+        "artist": "Sayf, Dibla, Jiz",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca892e1268d9439803201706",
+        "url": "https://open.spotify.com/album/68kUOOPBwN7IP9KeoVCMdA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BOlxZzwg38uYMc9Ra5Ngl",
+        "title": "Zbogom ljubavi",
+        "artist": "Sasa Matic",
+        "type": "album",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d3923d8553ca669337619b5",
+        "url": "https://open.spotify.com/album/7BOlxZzwg38uYMc9Ra5Ngl",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "5WXfwGxmKX0z0HbnLLqk14",
+        "title": "محدش بينفع حد",
+        "artist": "Hamo Bika, Fer3on",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7f6d529c5ec025333ccd36d",
+        "url": "https://open.spotify.com/album/5WXfwGxmKX0z0HbnLLqk14",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Q3NAAVWYxsT7IHBekbUOe",
+        "title": "Рожевий вечір",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6ced7168fb2b183f33b64ef",
+        "url": "https://open.spotify.com/album/3Q3NAAVWYxsT7IHBekbUOe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6udWDhgq9P7kpobpOPqNJJ",
+        "title": "goth boy summer",
+        "artist": "Dusan Vlk, David-San",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e026df96ca5d2d54d922953d9e3",
+        "url": "https://open.spotify.com/album/6udWDhgq9P7kpobpOPqNJJ",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2Ql46N7GhLIoYewkKv6Ug8",
+        "title": "Lo panty (Unplugged)",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e0ff27380b01f0e1c379ad8",
+        "url": "https://open.spotify.com/album/2Ql46N7GhLIoYewkKv6Ug8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7bipgZE2bxqbKueaIKURxv",
+        "title": "Eu Só to Olhando",
+        "artist": "CACAU CHUU, DJ Lc do Martins",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221513608f7ce6fd501949a90",
+        "url": "https://open.spotify.com/album/7bipgZE2bxqbKueaIKURxv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5gGawhaKLCyFGVFPI5id1e",
+        "title": "Quando Ela Rebola",
+        "artist": "CACAU CHUU, MC MN, DJ Vida Incrivel",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280ea96f3f1d5613bf1357b72",
+        "url": "https://open.spotify.com/album/5gGawhaKLCyFGVFPI5id1e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4oX465JSFEqE7w1DCmz04M",
+        "title": "I know what boys like (CHERRY BOY version.)",
+        "artist": "CARMINE DAVIS",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218cc387fd15b54149720ffd1",
+        "url": "https://open.spotify.com/album/4oX465JSFEqE7w1DCmz04M",
+        "total_tracks": 2,
         "genres": []
       }
     ]
