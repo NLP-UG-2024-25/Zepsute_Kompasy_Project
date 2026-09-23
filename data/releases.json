@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-22T11:01:12.499Z",
-  "total": 4114,
+  "fetched_at": "2026-09-23T10:50:18.750Z",
+  "total": 4150,
   "by_date": {
     "2026-05-15": [
       {
@@ -45338,6 +45338,105 @@
         "url": "https://open.spotify.com/album/24pmwuh2osiEFE48U3ueFD",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6Z4IqQFHScJGjbd4h6E0ut",
+        "title": "Ghostface Killah",
+        "artist": "Sidhu Moose Wala, Mxrci",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b7e93231e18a1247cee28e2",
+        "url": "https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3X6cs2EHQ5FspVUZKGKvxu",
+        "title": "Thummak Thummak (From \"The Vvaan\")",
+        "artist": "Tanishk Bagchi, Dev Negi, AKASA, Shabbir Ahmed",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02531a1e99eba910d9536c1796",
+        "url": "https://open.spotify.com/album/3X6cs2EHQ5FspVUZKGKvxu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1O1rQdnMecbePZhsn3jgdK",
+        "title": "To Chehera Phula Pasara (From \"Mitare Mita\")",
+        "artist": "Udit Narayan, Tapu Mishra, Basant Raj Samal, Prashant Padhi",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e9e0aea57fad230ada7667f",
+        "url": "https://open.spotify.com/album/1O1rQdnMecbePZhsn3jgdK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1JZcmLOg5GSRxDn2djT4eI",
+        "title": "ZIKIR TENANGKAN HATI DAN FIKIRAN",
+        "artist": "Hud",
+        "type": "album",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b735cc5d6473b7efa045396",
+        "url": "https://open.spotify.com/album/1JZcmLOg5GSRxDn2djT4eI",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "77ePihIq7byAD2rsVyVhyM",
+        "title": "DESDE AQUI",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f19dfd5656a2676de574f6c1",
+        "url": "https://open.spotify.com/album/77ePihIq7byAD2rsVyVhyM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vYOP1UJmfJuVn3NejvAm7",
+        "title": "UNA SOLA CARA",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e43df210c1ef6d1857a3ddd",
+        "url": "https://open.spotify.com/album/6vYOP1UJmfJuVn3NejvAm7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1T5bIuK9kY0FUnCIdL1qt9",
+        "title": "Flow Malandro",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e2cf6d85342ceebc6c55490",
+        "url": "https://open.spotify.com/album/1T5bIuK9kY0FUnCIdL1qt9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uTSH2U9zGqUfVLKJM7fQl",
+        "title": "DI$TINTO",
+        "artist": "Dray F",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b36da60d1b04001ec1e035e",
+        "url": "https://open.spotify.com/album/1uTSH2U9zGqUfVLKJM7fQl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2iv27fXx8jQvz0WIxrGfNn",
+        "title": "Slow Seduction",
+        "artist": "JSMTH",
+        "type": "single",
+        "release_date": "2026-09-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f0f8b27d6d394d456ed51c2",
+        "url": "https://open.spotify.com/album/2iv27fXx8jQvz0WIxrGfNn",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-22": [
@@ -45504,6 +45603,305 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0218cc387fd15b54149720ffd1",
         "url": "https://open.spotify.com/album/4oX465JSFEqE7w1DCmz04M",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3DnYS6m3og2iZkZcg9SGVU",
+        "title": "تلاحق",
+        "artist": "Ayed",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227ea8d180b9bc0964d8335ed",
+        "url": "https://open.spotify.com/album/3DnYS6m3og2iZkZcg9SGVU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Kip3tzC2TuLVIgAvY6YgL",
+        "title": "Change",
+        "artist": "VCT",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bae4766109e100b9a0b959d7",
+        "url": "https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cEwE9jwgc5huIUJbBW2Mw",
+        "title": "KRAKEN",
+        "artist": "La Mano 1.9, Gazo",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d4ca6026a5219e1d55616b0",
+        "url": "https://open.spotify.com/album/6cEwE9jwgc5huIUJbBW2Mw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xy4ZZFxnmRpoBX3xJghMg",
+        "title": "SOLTA A OREIA",
+        "artist": "DJ Oreia",
+        "type": "album",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca7c1a54a81dae71f9903ee4",
+        "url": "https://open.spotify.com/album/7xy4ZZFxnmRpoBX3xJghMg",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "3O4bp7IeIM1v8NUwaO25tI",
+        "title": "Ojo de loca",
+        "artist": "Emanero, Bandana",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cae6aa68f29de4ab422f0506",
+        "url": "https://open.spotify.com/album/3O4bp7IeIM1v8NUwaO25tI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7IvDBWhqyMPoSZcmcEI6Eq",
+        "title": "After (feat. Young Miko)",
+        "artist": "Conep, Young Miko",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b745b490c09f9cddcca7b490",
+        "url": "https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4CF4fBGPEl4au19akWCxez",
+        "title": "Beauty Kharab Ho Jai (From \"Laakhan Singh\")",
+        "artist": "Pawan Singh, Shilpi Raj, Shubham Raj (SBR), Sonu Sargam Aara",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e39114ad4f9f08d18c374ba",
+        "url": "https://open.spotify.com/album/4CF4fBGPEl4au19akWCxez",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fg3ZklsI8O7TdzAHyDRh1",
+        "title": "Watch You Dance",
+        "artist": "Leon Bridges",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b005953b2d85435afba807c2",
+        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-23": [
+      {
+        "id": "3gVDoFE7NJJGO176dNeoNM",
+        "title": "El Codo (Remasterizado 2026)",
+        "artist": "Los Tucanes De Tijuana",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c583b7687b140b78cc677046",
+        "url": "https://open.spotify.com/album/3gVDoFE7NJJGO176dNeoNM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HGzR5EdZZkQaZfYcBnBty",
+        "title": "Afsaana Banaaya Aapne (From \"Gunmaaster G9\")",
+        "artist": "Himesh Reshammiya, Asees Kaur",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bd0dc8dedd4e9fe20130c35",
+        "url": "https://open.spotify.com/album/1HGzR5EdZZkQaZfYcBnBty",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Adw51ifNfdGJbNQd2AXic",
+        "title": "в коже (Sped Up)",
+        "artist": "DJ ZUP RAlii",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0c2b3f85e40f38a7e45838b",
+        "url": "https://open.spotify.com/album/2Adw51ifNfdGJbNQd2AXic",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4sUCK2u2EBVmHoO6pbPeH4",
+        "title": "אצטדיון פתח תקווה LIVE",
+        "artist": "בן צור",
+        "type": "album",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02215a2fd2edaa0d3c6d3a0b75",
+        "url": "https://open.spotify.com/album/4sUCK2u2EBVmHoO6pbPeH4",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4nD6nvQJymUJZDEGyW8j8Y",
+        "title": "あなた",
+        "artist": "HIRAIDAI",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029206594303a322d3086b2517",
+        "url": "https://open.spotify.com/album/4nD6nvQJymUJZDEGyW8j8Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hckWSl7jBQEx5OS074Ffc",
+        "title": "STARS",
+        "artist": "LANA",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e1436d7995a483da8415476",
+        "url": "https://open.spotify.com/album/0hckWSl7jBQEx5OS074Ffc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5YdcJOuy9ANTRoypFgRTtE",
+        "title": "don’t hide",
+        "artist": "atom chanakan",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291c7925efa6634750d8bde19",
+        "url": "https://open.spotify.com/album/5YdcJOuy9ANTRoypFgRTtE",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7lqhAywP57SUAnUBbR803I",
+        "title": "Nouméa",
+        "artist": "Jok'air, Linema",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bac38bd1e9607cae4434f996",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "716b7TQh18uiQ98HZsqA30",
+        "title": "Jak my - z filmu „Nasza rewolucja”",
+        "artist": "Kaśka Sochacka, Kortez",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd549b038839162fdfa21450",
+        "url": "https://open.spotify.com/album/716b7TQh18uiQ98HZsqA30",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0z9C7rnkMvnsKdfmEhvNxU",
+        "title": "คนที่ยังไม่รู้ว่าใคร",
+        "artist": "No One Else",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ed927d48b9c50b7cd048c4d",
+        "url": "https://open.spotify.com/album/0z9C7rnkMvnsKdfmEhvNxU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2jmUD1lBXEhTcXUzhgub1T",
+        "title": "Sor Yıllara",
+        "artist": "Sagopa Kajmer",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f891e0218cb0060190f33f7",
+        "url": "https://open.spotify.com/album/2jmUD1lBXEhTcXUzhgub1T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HffAb7fGgmYIsNtoU3e46",
+        "title": "By your side",
+        "artist": "Shota Shimizu",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab26576a2c98f484dd656754",
+        "url": "https://open.spotify.com/album/2HffAb7fGgmYIsNtoU3e46",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "29hBZmMFeSooOi72cZx7Re",
+        "title": "BALINDE",
+        "artist": "Young Stunna",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250bb14b9585e3d697ef653a2",
+        "url": "https://open.spotify.com/album/29hBZmMFeSooOi72cZx7Re",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1VVjgSImZqAgiEefynSjhc",
+        "title": "四",
+        "artist": "陳卓賢 Ian",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4030fb291863d075ad1a4fe",
+        "url": "https://open.spotify.com/album/1VVjgSImZqAgiEefynSjhc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Hi8ASFVm3pvwiw7QxBqIE",
+        "title": "恋、はじめました。 (Korean ver.)",
+        "artist": "=LOVE",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026738d179ebce614ffddc7f13",
+        "url": "https://open.spotify.com/album/0Hi8ASFVm3pvwiw7QxBqIE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44pMpyexedBHmFz6gXnKME",
+        "title": "ชาติหน้าเอาใหม่",
+        "artist": "LITTLE JOHN",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212e1045c9eb8060a6015735e",
+        "url": "https://open.spotify.com/album/44pMpyexedBHmFz6gXnKME",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02kiI6uvSY3wnEI34Yb0PM",
+        "title": "Kukuk",
+        "artist": "Ude Af Kontrol",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf7e2a35f1c5939cc8c7ba61",
+        "url": "https://open.spotify.com/album/02kiI6uvSY3wnEI34Yb0PM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hTz2khcwY1Wpi5Nki8BkD",
+        "title": "NOKIA",
+        "artist": "OG ENZO, prod. adi",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026df9e25d1d5a237c5725b03a",
+        "url": "https://open.spotify.com/album/4hTz2khcwY1Wpi5Nki8BkD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4IZoSZXn2MMqiOLuplQDM6",
+        "title": "O Mundo da Magia",
+        "artist": "Panda e Os Caricas",
+        "type": "album",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e025493dcd768770f10c2ffceca",
+        "url": "https://open.spotify.com/album/4IZoSZXn2MMqiOLuplQDM6",
+        "total_tracks": 10,
         "genres": []
       }
     ]
