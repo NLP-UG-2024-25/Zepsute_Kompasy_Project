@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-23T10:50:18.750Z",
-  "total": 4150,
+  "fetched_at": "2026-09-24T11:10:22.323Z",
+  "total": 4178,
   "by_date": {
     "2026-05-15": [
       {
@@ -45692,6 +45692,50 @@
         "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0Tnilwc3EzTS1KSGvUUnFr",
+        "title": "Ooroda Oththa Don (From \"Baththa\")",
+        "artist": "Sai Abhyankkar, Vangal Pulla Vicky, Thamizh Aadhavan, KK Nagar Gana Jeeva",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02273a676735744dfda37251bd",
+        "url": "https://open.spotify.com/album/0Tnilwc3EzTS1KSGvUUnFr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7455WcIeJD5bzoD4YlR2PX",
+        "title": "En El Cielo",
+        "artist": "Dowel King",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ec89cf49a53ff52e3c6d9ca",
+        "url": "https://open.spotify.com/album/7455WcIeJD5bzoD4YlR2PX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3icOkOGCtbcLJ97MISD6GT",
+        "title": "فلوس بتعلي ناس علي ناس",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3cb0e528b3362d58e74bd37",
+        "url": "https://open.spotify.com/album/3icOkOGCtbcLJ97MISD6GT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4zEwMBcrFInGuJ0BZXvkCu",
+        "title": "Concrete Heat",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-09-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4454272fc44d057cf60c4d2",
+        "url": "https://open.spotify.com/album/4zEwMBcrFInGuJ0BZXvkCu",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-23": [
@@ -45902,6 +45946,274 @@
         "image": "https://i.scdn.co/image/ab67616d00001e025493dcd768770f10c2ffceca",
         "url": "https://open.spotify.com/album/4IZoSZXn2MMqiOLuplQDM6",
         "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "48eCxWORHd5e5rKLtU5b7I",
+        "title": "Grandma Song",
+        "artist": "Rex Orange County",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e18a4cdae560b0c006c4f056",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0szH0V7q7wxhn47PBYQfVl",
+        "title": "How Lonely",
+        "artist": "Kingfishr",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b27606fa56d1a1a7e0fc0bcd",
+        "url": "https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oIHoEwrm6noktaEdvxod4",
+        "title": "Movimiento",
+        "artist": "Cloonee, Yandel, ATLAC",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ac9b12a40c3e76d962de514",
+        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2kwGvGwVITc1pDV4GKrBFu",
+        "title": "Éxitos 2026 - José José",
+        "artist": "José José",
+        "type": "compilation",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0bfb55b766eda19092e166e",
+        "url": "https://open.spotify.com/album/2kwGvGwVITc1pDV4GKrBFu",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "0oEhRoZuwqGnloiOkkTT5R",
+        "title": "Malaria",
+        "artist": "Ayo Maff, Zinoleesky",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7042993ee5ed77ee7197f4b",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6uTB0GBCq0kZHfzvRLchFB",
+        "title": "WANDA NARA",
+        "artist": "La Joaqui, Martin Vegas",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5d392d69b0b71a2349dacf0",
+        "url": "https://open.spotify.com/album/6uTB0GBCq0kZHfzvRLchFB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1UPgD4h0BzVJKpeKI5rb6t",
+        "title": "أنا مبقعش",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f9cbc756c6eb1e32e8c1b95",
+        "url": "https://open.spotify.com/album/1UPgD4h0BzVJKpeKI5rb6t",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xkjJRoG1XxU94Qr2zm5Zy",
+        "title": "ถ้าสักวัน (Crossroads)",
+        "artist": "FREEHAND",
+        "type": "single",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6ade63b2af1b8d9bdd0c03b",
+        "url": "https://open.spotify.com/album/7xkjJRoG1XxU94Qr2zm5Zy",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-24": [
+      {
+        "id": "3tOoFridmQ2cVs67uIlqmW",
+        "title": "Sweet Sacrifice (Remastered 2026)",
+        "artist": "Evanescence",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02289a856ced2cbd26c4afa1b2",
+        "url": "https://open.spotify.com/album/3tOoFridmQ2cVs67uIlqmW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2uqpfbEYw8AMnLxGtqMjUg",
+        "title": "No Quiere Salir",
+        "artist": "Millonario, Asmed",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d1a9787fc1ac258c1d18966",
+        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02D1TfylQ6y4nrGBX6FR2c",
+        "title": "Make Me Love You",
+        "artist": "Nickelback",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021babfdda7481b168e2c22a2b",
+        "url": "https://open.spotify.com/album/02D1TfylQ6y4nrGBX6FR2c",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2uba9qMeStHlwXLbUu0PYj",
+        "title": "淺粉紅",
+        "artist": "Gareth.T",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2448b7482e8bebc3226c6a7",
+        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "53aZJxHQnieitP9OYZsZ7T",
+        "title": "一样的我们",
+        "artist": "颜人中",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a492d4fa994b1c2182f26a6c",
+        "url": "https://open.spotify.com/album/53aZJxHQnieitP9OYZsZ7T",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "60uSEwHQoMciAVreJ6bwjT",
+        "title": "要去什麼地方",
+        "artist": "Hebe Tien",
+        "type": "album",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c47bad69501e0083be08c49c",
+        "url": "https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4PKI8LMjGIYi7gtqQCMEZy",
+        "title": "La Manzana Que Nos Une",
+        "artist": "Luis Alfonso, Soley, Cali Flow Latino, Wilfran Castillo",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c4728c084770c6d6fe6f71c",
+        "url": "https://open.spotify.com/album/4PKI8LMjGIYi7gtqQCMEZy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "71T5OM1InzhbCIsBNvB9Hs",
+        "title": "Durga Chalisa",
+        "artist": "Anuradha Paudwal",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8deaa7cc5d7f4ae3547c288",
+        "url": "https://open.spotify.com/album/71T5OM1InzhbCIsBNvB9Hs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34ahkhVbtw1GhORvhOqB1E",
+        "title": "越海 (《我不是大师》影视剧片尾曲)",
+        "artist": "刘宇宁",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c822bda1b4942fc163669edb",
+        "url": "https://open.spotify.com/album/34ahkhVbtw1GhORvhOqB1E",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0qwJE6CEiuTQgQq9tomnhs",
+        "title": "ขอ (Warm Eyes) [from the Netflix Series \"ภาพลวงตาย\"]",
+        "artist": "BOWKYLION",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d826fffb14775f3233c6076",
+        "url": "https://open.spotify.com/album/0qwJE6CEiuTQgQq9tomnhs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6CbvLXNwmXMsogDisTFCIP",
+        "title": "Nave Sensação 2",
+        "artist": "MC Cebezinho, DJ BOY, Love Funk",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f59b03b1ae6654b291289639",
+        "url": "https://open.spotify.com/album/6CbvLXNwmXMsogDisTFCIP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73pAQsXnxdmcnZh6VYRRiT",
+        "title": "Genul ăla",
+        "artist": "Alina Eremia",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02504c2fc622ce76f22f18bdd5",
+        "url": "https://open.spotify.com/album/73pAQsXnxdmcnZh6VYRRiT",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4YCfgxwxuTrTwRibGyD4R2",
+        "title": "Trzech Muszkieterów",
+        "artist": "Sequento, Maka, Pancio",
+        "type": "album",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026227b920d84eb481123747a7",
+        "url": "https://open.spotify.com/album/4YCfgxwxuTrTwRibGyD4R2",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "75FOUtd30HvAAYDi2xVFV5",
+        "title": "Mirklis",
+        "artist": "Papīra Lidmašīnas",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a82b9b320bcdd88b0bb236f",
+        "url": "https://open.spotify.com/album/75FOUtd30HvAAYDi2xVFV5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XDuVVl94B6HeA3laXfn50",
+        "title": "Still Standing Strong",
+        "artist": "Kingshadow",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02634ece783db0cf7dd79eb6a4",
+        "url": "https://open.spotify.com/album/5XDuVVl94B6HeA3laXfn50",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-25": [
+      {
+        "id": "0XqqhAzaXerogBQgniTZpy",
+        "title": "แค่เธอแค่เธอ",
+        "artist": "YOUNGOHM, KT KRATAE",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b3853c81b9caa82104f66cc",
+        "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy",
+        "total_tracks": 1,
         "genres": []
       }
     ]
