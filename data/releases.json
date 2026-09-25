@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-24T11:10:22.323Z",
-  "total": 4178,
+  "fetched_at": "2026-09-25T11:14:31.189Z",
+  "total": 4222,
   "by_date": {
     "2026-05-15": [
       {
@@ -46035,6 +46035,28 @@
         "url": "https://open.spotify.com/album/7xkjJRoG1XxU94Qr2zm5Zy",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "76gf9QNMKfUhnjO6J7chK9",
+        "title": "The Paradise (Telugu)",
+        "artist": "Anirudh Ravichander",
+        "type": "album",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f84833b171e52d01cd7936c0",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "34b1xQJoqXrQxwuN9jmVgy",
+        "title": "Ys og Þys í Brúðubílnum",
+        "artist": "Brúðubíllinn",
+        "type": "album",
+        "release_date": "2026-09-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216c876c268cd383e0168285d",
+        "url": "https://open.spotify.com/album/34b1xQJoqXrQxwuN9jmVgy",
+        "total_tracks": 7,
+        "genres": []
       }
     ],
     "2026-09-24": [
@@ -46202,6 +46224,149 @@
         "url": "https://open.spotify.com/album/5XDuVVl94B6HeA3laXfn50",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "76WozPiPKgbo1IS52geqP2",
+        "title": "OLIVIA LA FLAKA",
+        "artist": "Natanael Cano, Tito Double P, Victor Mendivil, Ovi",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac2975341ab46e756632bba9",
+        "url": "https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7hbGSxtsZWVfuJ7pJkgmI2",
+        "title": "PLAYA FRÍA",
+        "artist": "Kapo",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0b46ca63d9f93a325b78a87",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QvRIL67RYsbP5ZOsED6rD",
+        "title": "Amor De Antes",
+        "artist": "Grupo Firme, Herencia De Grandes",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f9f0e19a80cad551213a095",
+        "url": "https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2KmWai1pEjoKYU07BqEkwX",
+        "title": "Jungla De Metal",
+        "artist": "Grupo Marca Registrada",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f999304a5ebf79d3158da89",
+        "url": "https://open.spotify.com/album/2KmWai1pEjoKYU07BqEkwX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7jX2nfe1lBHd4BsOLwuzh9",
+        "title": "Danceteria Afterhours",
+        "artist": "Madonna, Charli xcx",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e021210a5ed8128cc0717ce6dce",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6NWDpPaz51Fn4HybUknBtD",
+        "title": "Ranchero de Corazón",
+        "artist": "Julión Álvarez y su Norteño Banda",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c2848bf2ece8794cb86cdab",
+        "url": "https://open.spotify.com/album/6NWDpPaz51Fn4HybUknBtD",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5qw35qmtl50xkx4Nr6QNDj",
+        "title": "Volveré",
+        "artist": "Ovy On The Drums, Manuel Turizo",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0a5dfcdbc3a4b1cfeb96525",
+        "url": "https://open.spotify.com/album/5qw35qmtl50xkx4Nr6QNDj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0G0jXVhffbttASyJ6Ngxbz",
+        "title": "DND",
+        "artist": "Ado",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d34a483548985a2f268b1eb",
+        "url": "https://open.spotify.com/album/0G0jXVhffbttASyJ6Ngxbz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kGPjbbmjaCCS8CL2QPqWh",
+        "title": "Vía Láctea",
+        "artist": "Zoé, Sessa",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af101ce0b0019b301ba1059c",
+        "url": "https://open.spotify.com/album/5kGPjbbmjaCCS8CL2QPqWh",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "23NV0BcdonkkabcGsnSQbV",
+        "title": "Bandido Retirado",
+        "artist": "Yeison Jimenez, Nico Hernández",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d0a1b0de954174123eb7867",
+        "url": "https://open.spotify.com/album/23NV0BcdonkkabcGsnSQbV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2c82LD23jAtPcvB3GlZUVn",
+        "title": "Hate Music",
+        "artist": "Joost",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7b7413a3a2ee76c306ad7a2",
+        "url": "https://open.spotify.com/album/2c82LD23jAtPcvB3GlZUVn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DKBOMup6HrxPvQTcqvQq5",
+        "title": "Saltana",
+        "artist": "Ahmed Saad, Ramy Ayach",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e024de5e49994b7867e016e90bb",
+        "url": "https://open.spotify.com/album/3DKBOMup6HrxPvQTcqvQq5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17AgaHJjNSzTPKaXxkvSFf",
+        "title": "NENA BAD BITCH",
+        "artist": "Katteyes",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f0c35ac03600c22e2b20c23",
+        "url": "https://open.spotify.com/album/17AgaHJjNSzTPKaXxkvSFf",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-25": [
@@ -46213,6 +46378,325 @@
         "release_date": "2026-09-25",
         "image": "https://i.scdn.co/image/ab67616d00001e028b3853c81b9caa82104f66cc",
         "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73YOpL9H4qK72bJdakOzyl",
+        "title": "Loser (Fcukers Remix)",
+        "artist": "Tame Impala, Fcukers",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c516efd7fd5ddee1f11cc8ef",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0e3lfMyRxV0sPgM8ItYuUA",
+        "title": "On Video",
+        "artist": "Phoebe Bridgers",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271ea4b30dcda6b18efcd69b4",
+        "url": "https://open.spotify.com/album/0e3lfMyRxV0sPgM8ItYuUA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6V4OIUUSIuf6Hfx9lbYVMG",
+        "title": "Ain't In LA (Coachella 2016 Remix)",
+        "artist": "ADÉLA",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e58027706a674b98c1c260eb",
+        "url": "https://open.spotify.com/album/6V4OIUUSIuf6Hfx9lbYVMG",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2h0NjnVV7khqZFGxSSAlpb",
+        "title": "heaven sent",
+        "artist": "Lil Peep",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235ec7b6b387eca6df1463619",
+        "url": "https://open.spotify.com/album/2h0NjnVV7khqZFGxSSAlpb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "33NdfsbflGrwmKRMBq16Oz",
+        "title": "Illuminate (10th Anniversary Edition)",
+        "artist": "Shawn Mendes",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02643ca29521ad0dfc9340e88a",
+        "url": "https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "54qixC064sfgQ9KVbgPmJL",
+        "title": "I'm A Slave 4 U (Remixes)",
+        "artist": "Britney Spears",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db704a5547ccf13daf8f500e",
+        "url": "https://open.spotify.com/album/54qixC064sfgQ9KVbgPmJL",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "0PVjo8iVec500UfG9HKmMw",
+        "title": "Unshatter Film Soundtrack (Live in São Paulo)",
+        "artist": "Linkin Park",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b78d6cde8e6bb6d57ef16095",
+        "url": "https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "3mbMslfwPn6lSpJjVlRGvI",
+        "title": "REPARTOBOW (0 Mata 0)",
+        "artist": "El Alfa, Cosculluela, Ya Ice Dilan",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0257a23aaa9bd565fb79573085",
+        "url": "https://open.spotify.com/album/3mbMslfwPn6lSpJjVlRGvI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5IKxKYRH2WRehMSCBh8rn0",
+        "title": "Bonjour, Pardon, Merci (Bon Entendeur Remix)",
+        "artist": "Céline Dion, Bon Entendeur",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e026015b609114c7bb3e7f9b796",
+        "url": "https://open.spotify.com/album/5IKxKYRH2WRehMSCBh8rn0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7kkOjVl0B61otBddwcdh0o",
+        "title": "Girl 2.0",
+        "artist": "Jonas Blue, Wh0",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe1d02df3b0a3002d2d5fa67",
+        "url": "https://open.spotify.com/album/7kkOjVl0B61otBddwcdh0o",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6Bp7y0MniiNB6tVQWjMnm7",
+        "title": "Mary Had A Little Lamb",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240c20aa2e593796d9543ff15",
+        "url": "https://open.spotify.com/album/6Bp7y0MniiNB6tVQWjMnm7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1JBjepMflPft1aLR3dwWFN",
+        "title": "Cuando Se Haga De Noche",
+        "artist": "Intocable",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca8be75499af1aef901ebbf0",
+        "url": "https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47BE4e1BngBcpD7dhh9IhE",
+        "title": "Nothing Lasts Forever",
+        "artist": "BUNT.",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271cc4d3138b0ea71d5476482",
+        "url": "https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6DG0D5fzMVWQBoQHcezYqB",
+        "title": "MONTAGEM ESPAÑA",
+        "artist": "h6itam, YXUNGXROTICA",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270b4e28fc2618a1c58f0fcdb",
+        "url": "https://open.spotify.com/album/6DG0D5fzMVWQBoQHcezYqB",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7xOQiLuhEGZBiEYgzmpveZ",
+        "title": "You (feat. UMI)",
+        "artist": "Fujii Kaze, UMI",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02012f147d16d64ad1e8e67c5f",
+        "url": "https://open.spotify.com/album/7xOQiLuhEGZBiEYgzmpveZ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "79kJd969kgJvuZTvSjwahb",
+        "title": "8D Autonomic Recalibration",
+        "artist": "Brain Floss",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf335f61a666a0a5714cff1e",
+        "url": "https://open.spotify.com/album/79kJd969kgJvuZTvSjwahb",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "7rBIioPKNbFbedgP6iioLN",
+        "title": "AUJLA SZN 1",
+        "artist": "Karan Aujla",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02853b24d260cd34f67071f00a",
+        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7BvxInjj9cKDqs4IRn3TBj",
+        "title": "Vulnerability",
+        "artist": "Shenseea",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b55f437485d619e02f23a5d",
+        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DKZvlO8xTwv2Qh4ADTN9Y",
+        "title": "Химия",
+        "artist": "uniqe, nkeeei, ARTEM SHILOVETS, Мэйби Бэйби",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d890d487dc4da2be8c1efa50",
+        "url": "https://open.spotify.com/album/0DKZvlO8xTwv2Qh4ADTN9Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5izuydrvI4JSsXtFOxr2RB",
+        "title": "El Dueño del Sistema, Vol. 3.5",
+        "artist": "J Alvarez",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027605a0f23e1b93f1c42fc463",
+        "url": "https://open.spotify.com/album/5izuydrvI4JSsXtFOxr2RB",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "1FU1h5NSjNzHz3aAVmkm3i",
+        "title": "Send Shots (Jungle VIP)",
+        "artist": "Rudimental, Original Koffee, Winny",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd4a3c64b855fe9b4c802581",
+        "url": "https://open.spotify.com/album/1FU1h5NSjNzHz3aAVmkm3i",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3xXy7JA0xE3qjx5Q9FLV1I",
+        "title": "Dear London",
+        "artist": "Young Jonn",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e026bf700b9679e40a31de670a8",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3yLQelIQGMIarfunCM8H54",
+        "title": "Golden Afternoon",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229ff1b3fdf4a9415f324d7ae",
+        "url": "https://open.spotify.com/album/3yLQelIQGMIarfunCM8H54",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2to3bb31jXCuxKIkEcqRmo",
+        "title": "Герой",
+        "artist": "Hrustaleva",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235bb0c550ee4587279eff6ed",
+        "url": "https://open.spotify.com/album/2to3bb31jXCuxKIkEcqRmo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0L01lRoxRHai4BXA9kGY9m",
+        "title": "She's in a New York state of mind",
+        "artist": "AUSTRIER",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b43d8478628e903f69bef1da",
+        "url": "https://open.spotify.com/album/0L01lRoxRHai4BXA9kGY9m",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4R6WVhgkZK5aPeNYxkKTLC",
+        "title": "Nobody Knows",
+        "artist": "FTR$",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260c623a0cb5f740e3bbc3bac",
+        "url": "https://open.spotify.com/album/4R6WVhgkZK5aPeNYxkKTLC",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "5zA13Q7WiAQkAMfpvJSV2W",
+        "title": "Töfrakoss",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3c6139bd7929133c9828440",
+        "url": "https://open.spotify.com/album/5zA13Q7WiAQkAMfpvJSV2W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5L5mWJVCxS9zDfJAc9si5z",
+        "title": "Tuulelohe",
+        "artist": "dener",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233fdd43b1dfe3b99654f65c7",
+        "url": "https://open.spotify.com/album/5L5mWJVCxS9zDfJAc9si5z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7GwRZ1aNSJjudZP0MgOYzA",
+        "title": "I Wanna See More Of You",
+        "artist": "Midas Wildeve",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0008499a589afe89030c47b",
+        "url": "https://open.spotify.com/album/7GwRZ1aNSJjudZP0MgOYzA",
         "total_tracks": 1,
         "genres": []
       }
