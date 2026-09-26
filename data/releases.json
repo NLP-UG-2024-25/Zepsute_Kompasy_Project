@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-25T11:14:31.189Z",
-  "total": 4222,
+  "fetched_at": "2026-09-26T10:52:12.072Z",
+  "total": 4245,
   "by_date": {
     "2026-05-15": [
       {
@@ -46367,6 +46367,50 @@
         "url": "https://open.spotify.com/album/17AgaHJjNSzTPKaXxkvSFf",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5hvXZviWPxijIZnTi1FGPv",
+        "title": "La Gerencia (feat. Arcángel, Wisin, Hanzel La H & Fronti) [Remix]",
+        "artist": "Tito \"El Bambino\", Ozuna, Eladio Carrion, Ñengo Flow",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02255f4db99f3993f86a76e7fa",
+        "url": "https://open.spotify.com/album/5hvXZviWPxijIZnTi1FGPv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "04vPg8StObUnLTxNb5eEwF",
+        "title": "POSITIVO",
+        "artist": "Raúl Beltran",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02534f8c000eaa2938b2dcecbf",
+        "url": "https://open.spotify.com/album/04vPg8StObUnLTxNb5eEwF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0XSokhqlCwEi1QjsEpjPad",
+        "title": "TAMA",
+        "artist": "Owen Leuellen",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02619304573c2fdfa36e870ebe",
+        "url": "https://open.spotify.com/album/0XSokhqlCwEi1QjsEpjPad",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4TZ47hi0PXLzslGzstKGot",
+        "title": "Only The Beat Remains",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029720de4634f40ced3111a6d1",
+        "url": "https://open.spotify.com/album/4TZ47hi0PXLzslGzstKGot",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-25": [
@@ -46697,6 +46741,217 @@
         "release_date": "2026-09-25",
         "image": "https://i.scdn.co/image/ab67616d00001e02d0008499a589afe89030c47b",
         "url": "https://open.spotify.com/album/7GwRZ1aNSJjudZP0MgOYzA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hizgLkzh9ANQ6ZuIaRyp1",
+        "title": "Don in my city pt. 2",
+        "artist": "French Montana, Max B, Jayy V Vondon",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3b7ebdfeafebaee9858240d",
+        "url": "https://open.spotify.com/album/4hizgLkzh9ANQ6ZuIaRyp1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XG2lyaxkMIZ7NDr7RamF9",
+        "title": "Las Higueras (Live)",
+        "artist": "Luis R Conriquez, Grupo Aztteca",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e024635896a3bf46f67258f4912",
+        "url": "https://open.spotify.com/album/3XG2lyaxkMIZ7NDr7RamF9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "06CjF89lLSSiVWXujVVtQs",
+        "title": "Popstar",
+        "artist": "Tinashe",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8dc54881b35310061266cdf",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "2TSVHmU9pkzCVaJk3GGXGO",
+        "title": "Happiness Anytime",
+        "artist": "Leon Bridges",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb0c51f02a25bef0a34f3dd1",
+        "url": "https://open.spotify.com/album/2TSVHmU9pkzCVaJk3GGXGO",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "1e8cp3UgVJORQmHWHjvRiq",
+        "title": "Warhorse",
+        "artist": "2hollis",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0a95409b65d866718755e49",
+        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7mYbaBV6EGIQN3PifBauMu",
+        "title": "One 2 Many .",
+        "artist": "fakemink",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f9b95fb8d8bd7b562f2f85f",
+        "url": "https://open.spotify.com/album/7mYbaBV6EGIQN3PifBauMu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0h0JpuuqCP71DuI9RBu777",
+        "title": "Confession",
+        "artist": "James Hype",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273399e0619645207047575c4",
+        "url": "https://open.spotify.com/album/0h0JpuuqCP71DuI9RBu777",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0uJz5wzQiek5B1qb6X3Paf",
+        "title": "GLOOMROOM",
+        "artist": "Sematary",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248dff56dcfb827bed37c256f",
+        "url": "https://open.spotify.com/album/0uJz5wzQiek5B1qb6X3Paf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45FEuoeplzkYPxvjUr5OKd",
+        "title": "The Vvaan (Original Motion Picture Soundtrack)",
+        "artist": "Tanishk Bagchi, Vishal Mishra, Amit Trivedi",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02756e2f2560f67826cb8ce22b",
+        "url": "https://open.spotify.com/album/45FEuoeplzkYPxvjUr5OKd",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "05VtWwmFy06xZEwrsKvQ55",
+        "title": "What if I miss you for the rest of my life? (Live at the 39th Awit Awards 2026)",
+        "artist": "Janine Berdin",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d89513f02f9e465e8afdd271",
+        "url": "https://open.spotify.com/album/05VtWwmFy06xZEwrsKvQ55",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5QaOre1ZyTW0MrocZByawc",
+        "title": "Ola <3",
+        "artist": "El Malilla, Enayy",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a64a9c2dc9dfe5008efe3f2",
+        "url": "https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0HAhdRSSMSXz7Fxr03SYTf",
+        "title": "револьвер (Trap Remix)",
+        "artist": "DJ ZUP RAlii",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1a9ce0686de89fc54a6b1ff",
+        "url": "https://open.spotify.com/album/0HAhdRSSMSXz7Fxr03SYTf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2EpnU0Ck1vdtfcamkG4K56",
+        "title": "LOWKEY",
+        "artist": "DJ Javi26, SASORIIXPP",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce1eccd376bb8130b0e7733d",
+        "url": "https://open.spotify.com/album/2EpnU0Ck1vdtfcamkG4K56",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1TgAe63tylR7JPy50BMrTo",
+        "title": "With Love - Arijit Singh",
+        "artist": "Arijit Singh",
+        "type": "compilation",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0b44d36fbf381c4925386e2",
+        "url": "https://open.spotify.com/album/1TgAe63tylR7JPy50BMrTo",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4rdtlBSY0WROpkzl3Uq3W1",
+        "title": "BABYLON",
+        "artist": "Palm Monkey",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc3b1aaa24325459dc7d6de0",
+        "url": "https://open.spotify.com/album/4rdtlBSY0WROpkzl3Uq3W1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qU5bdGI3HyH3CzzUIV06Q",
+        "title": "I Code It In",
+        "artist": "Eve n' Spirit",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a14b78e13a0cad110f106b28",
+        "url": "https://open.spotify.com/album/0qU5bdGI3HyH3CzzUIV06Q",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2eANNtqJWRJdC1KNnqkIqu",
+        "title": "FULL THROTTLE",
+        "artist": "KØBRA",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02947d1614216d312a17ae5ed1",
+        "url": "https://open.spotify.com/album/2eANNtqJWRJdC1KNnqkIqu",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-26": [
+      {
+        "id": "6LP6MC3C25WzrqyKemzb0e",
+        "title": "67",
+        "artist": "KØBRA",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb6adf9591007e576c37c2d4",
+        "url": "https://open.spotify.com/album/6LP6MC3C25WzrqyKemzb0e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72rV1QNPTuz9JxpU7vR2fD",
+        "title": "BAD HABIT",
+        "artist": "KØBRA",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285826e83ae144c79808cde49",
+        "url": "https://open.spotify.com/album/72rV1QNPTuz9JxpU7vR2fD",
         "total_tracks": 1,
         "genres": []
       }
