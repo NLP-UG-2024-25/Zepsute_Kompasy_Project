@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-26T10:52:12.072Z",
-  "total": 4245,
+  "fetched_at": "2026-09-27T11:28:18.575Z",
+  "total": 4291,
   "by_date": {
     "2026-05-15": [
       {
@@ -40516,6 +40516,17 @@
         "url": "https://open.spotify.com/album/5jRnegMBdzq2tcYRXicqOm",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3ttOJfR9QJOk6IeOF02JD9",
+        "title": "High Voltage",
+        "artist": "Play Maker",
+        "type": "single",
+        "release_date": "2026-09-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdff4945a86ee667a0e63a72",
+        "url": "https://open.spotify.com/album/3ttOJfR9QJOk6IeOF02JD9",
+        "total_tracks": 4,
+        "genres": []
       }
     ],
     "2026-09-09": [
@@ -46411,6 +46422,17 @@
         "url": "https://open.spotify.com/album/4TZ47hi0PXLzslGzstKGot",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1iBDT8j2PNUpKMtbKpHydu",
+        "title": "Prom Song",
+        "artist": "Luurel Varas",
+        "type": "single",
+        "release_date": "2026-09-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029345b562c6d4e3e691da6420",
+        "url": "https://open.spotify.com/album/1iBDT8j2PNUpKMtbKpHydu",
+        "total_tracks": 4,
+        "genres": []
       }
     ],
     "2026-09-25": [
@@ -46930,6 +46952,270 @@
         "url": "https://open.spotify.com/album/2eANNtqJWRJdC1KNnqkIqu",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5Rw1dH1FoUDJyIa9iqMM1Z",
+        "title": "One Sun One Moon (From \"Jailer 2\")",
+        "artist": "Anirudh Ravichander, Super Subu, M.S Krsna, Heisenberg",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f2607d5d97a633b2a78830c",
+        "url": "https://open.spotify.com/album/5Rw1dH1FoUDJyIa9iqMM1Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0RxzARJxkhf4q5k9vyhEsl",
+        "title": "70 Horas",
+        "artist": "Rochy RD, Vlady El Mentao, El Dollar RD",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a566f4f8ff479af24923f0cf",
+        "url": "https://open.spotify.com/album/0RxzARJxkhf4q5k9vyhEsl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1soEOq9h6JWXWQvZh9fRyG",
+        "title": "ULTRASOUND",
+        "artist": "IVOXYGEN",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02337df2fd125c4d4ff01a0d67",
+        "url": "https://open.spotify.com/album/1soEOq9h6JWXWQvZh9fRyG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1dRe5mOE1TR8bqf0MNyuzr",
+        "title": "Bhabhi Tabaahi (From \"Nayyi Navelli\")",
+        "artist": "G. V. Prakash, Neeti Mohan, Vayu",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020de3e3a9ef82bbac97965c70",
+        "url": "https://open.spotify.com/album/1dRe5mOE1TR8bqf0MNyuzr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7j57I8qGu3hRpXyGKZ2jUL",
+        "title": "GAVIRIA GUSTAVO",
+        "artist": "ElGrandeToto, Abduh",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d63ce3eeeb09e550a126f447",
+        "url": "https://open.spotify.com/album/7j57I8qGu3hRpXyGKZ2jUL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2K0nmfhgl1dbIBVjgFq0kL",
+        "title": "ESIBIZIONISTA (OFFICIAL DONDUP CAMPAIGN SOUNDTRACK)",
+        "artist": "Achille Lauro",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f525d123d9c8a6cac4298bc",
+        "url": "https://open.spotify.com/album/2K0nmfhgl1dbIBVjgFq0kL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3RTt97FCm7fFoe58W8Q9a8",
+        "title": "Zero Recaída",
+        "artist": "MC Tuto, Mc Dkziin, Nego Marley, Mc Vitinho V.A",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b5477c4878e1fe69f7ac4eb",
+        "url": "https://open.spotify.com/album/3RTt97FCm7fFoe58W8Q9a8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xMg8wzaLpyNfRPSfbFd2S",
+        "title": "10 Minutos de Freestyle - Parte 2",
+        "artist": "Oruam, Gigant, LeodoKick",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02118fedd5451c87348a8b3228",
+        "url": "https://open.spotify.com/album/7xMg8wzaLpyNfRPSfbFd2S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3RqDNtTd6JvgB0YUMBJdch",
+        "title": "Cara Conocida",
+        "artist": "La Arrolladora Banda El Limón De Rene Camacho",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4c62baa6f13d9d87a73bb48",
+        "url": "https://open.spotify.com/album/3RqDNtTd6JvgB0YUMBJdch",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KmJ5TCcin3hBGn84SMXFm",
+        "title": "NORMAL",
+        "artist": "7liwa, Abduh",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e024682f2561ea7cdef91cfbdd0",
+        "url": "https://open.spotify.com/album/3KmJ5TCcin3hBGn84SMXFm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3qd56yuoOWyE3JckQEwL64",
+        "title": "2 Dada (Diologue Mix)",
+        "artist": "Masoom Sharma, Ashu Twinkle, DJ NKS",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4be8d39f30baab82935cdf3",
+        "url": "https://open.spotify.com/album/3qd56yuoOWyE3JckQEwL64",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Ji3hJcRruyGbCqUrXvcGc",
+        "title": "Pe Lista Cu Favoriti",
+        "artist": "Leo de la Rosiori, Denisa Tanigoi",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2f66e2e9b380d19d7a18eb2",
+        "url": "https://open.spotify.com/album/7Ji3hJcRruyGbCqUrXvcGc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FXLGmqvhSVFCwLX7PuHiM",
+        "title": "موال دايخ في زمن بايخ (Live)",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c4f75480bff0a45b99b7460",
+        "url": "https://open.spotify.com/album/7FXLGmqvhSVFCwLX7PuHiM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5IX55LiF7ppJVlOC6YcgMm",
+        "title": "Zulmi (From \"Pehla Pyaar Doosri Baar\")",
+        "artist": "Tanishk Bagchi, Heer, Kumaar",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d42845d60d96b1aca2f6a9b",
+        "url": "https://open.spotify.com/album/5IX55LiF7ppJVlOC6YcgMm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5iXjHranBeF05L7aQgwDE5",
+        "title": "Sentimento Seu Nenhum",
+        "artist": "Dj Aladin GDB, MC Willian, Mc Cortez, Mc Dkziin",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c7034f881eef9663e526eaf",
+        "url": "https://open.spotify.com/album/5iXjHranBeF05L7aQgwDE5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3r3lR28Ybv6d5N5DPWfQ1L",
+        "title": "Patient Zero",
+        "artist": "Taylor Swift",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2de0f5e12f0b369fde79953",
+        "url": "https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Q42eGU6PhUVnGiNc2b5ZT",
+        "title": "Jai Jai Rama (From \"Ramayana\") [KANNADA]",
+        "artist": "A.R. Rahman, Vijay Prakash, Rakshita Suresh, Varadaraj Chikkaballapura",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f56823ca6e0885858025caec",
+        "url": "https://open.spotify.com/album/0Q42eGU6PhUVnGiNc2b5ZT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44ITL8BlMeJfZusaLso3mh",
+        "title": "The Life of a Showgirl: The Encore",
+        "artist": "Taylor Swift",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271561dea66c59a93ed4c9884",
+        "url": "https://open.spotify.com/album/44ITL8BlMeJfZusaLso3mh",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "4Fd75458DvNuOS4xTd2qPf",
+        "title": "Jai Jai Rama (From \"Ramayana\") [MALAYALAM]",
+        "artist": "A.R. Rahman, Haricharan, Amritha Rajan, Vinayak Sasikumar",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2cbe6c6da9591ad934b60b6",
+        "url": "https://open.spotify.com/album/4Fd75458DvNuOS4xTd2qPf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hF2gTGuPYlykYuphDxi8J",
+        "title": "The Life of a Showgirl: The Encore",
+        "artist": "Taylor Swift",
+        "type": "album",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf3de6b538d8b1ed73a4d5d1",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "65gjQkV06ClMRDbMIbVJsw",
+        "title": "Jai Jai Rama (From \"Ramayana\") [TELUGU]",
+        "artist": "A.R. Rahman, Deepali Sahay, Raghav Kaushik, Rakendu Mouli",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1806de026a75d8928000a96",
+        "url": "https://open.spotify.com/album/65gjQkV06ClMRDbMIbVJsw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zMJabgdu8wV9cna4E8yhU",
+        "title": "Jai Jai Rama (From \"Ramayana\") [TAMIL]",
+        "artist": "A.R. Rahman, Chinmayi, Haricharan, Karthik Netha",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ee8f7c670f3e239481dfa6f",
+        "url": "https://open.spotify.com/album/3zMJabgdu8wV9cna4E8yhU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4cVAbIyjhl4Of2TVVzUjb3",
+        "title": "時間裡的痴人 (影集《接招吧！製作人》單元曲)",
+        "artist": "Andy Hui",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cb0e717cf8fa4001bd9b989",
+        "url": "https://open.spotify.com/album/4cVAbIyjhl4Of2TVVzUjb3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Q6q5dAA5TrdN3DbmKBj3H",
+        "title": "ياحلو يالي بتصتصيع ( زيرو كام ياست الستات )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02874f845940f85da810f8a4a6",
+        "url": "https://open.spotify.com/album/0Q6q5dAA5TrdN3DbmKBj3H",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-26": [
@@ -46952,6 +47238,230 @@
         "release_date": "2026-09-26",
         "image": "https://i.scdn.co/image/ab67616d00001e0285826e83ae144c79808cde49",
         "url": "https://open.spotify.com/album/72rV1QNPTuz9JxpU7vR2fD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0brRAQJrlgHk7bva8U4IDn",
+        "title": "Weekend Party",
+        "artist": "Diljit Dosanjh, Badshah, Vishal Dadlani",
+        "type": "compilation",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fbf3cbf8779439bd48bfaa7",
+        "url": "https://open.spotify.com/album/0brRAQJrlgHk7bva8U4IDn",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1wX1PknudbT6yW4jhljSMS",
+        "title": "TINH HÀ \"SAY HI\", TẬP 13",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "album",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5e7bc40672f49471d634875",
+        "url": "https://open.spotify.com/album/1wX1PknudbT6yW4jhljSMS",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "71vRv0MGXWrk7dzCqE705s",
+        "title": "Beste Zangers 2026 (Bizzey)",
+        "artist": "Bizzey, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212c8299a9d9e8f71c2dd6ce1",
+        "url": "https://open.spotify.com/album/71vRv0MGXWrk7dzCqE705s",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2EFRe5EWsKaDivV50cfCzW",
+        "title": "CÔNG DIỄN 5 (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "album",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254f049acfcd315e58fff4e88",
+        "url": "https://open.spotify.com/album/2EFRe5EWsKaDivV50cfCzW",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3a7F2gCM3rToQVtBbFq4y8",
+        "title": "小小梦·开始奏乐开始舞",
+        "artist": "Leto, 项睿娴",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ae864c06cb64d225a7bb3af",
+        "url": "https://open.spotify.com/album/3a7F2gCM3rToQVtBbFq4y8",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3RFzvYefWVc7Gx98rnSz1O",
+        "title": "Thaen Thaen Thaen Remix Multiverse",
+        "artist": "Vidyasagar, Yugabharathi",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bc476cdd5d0c2756960a22e",
+        "url": "https://open.spotify.com/album/3RFzvYefWVc7Gx98rnSz1O",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "04FPVZxaAWLScEgMsHUsSK",
+        "title": "Aflevering 5 - Desray",
+        "artist": "Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027523199e65934edaae609365",
+        "url": "https://open.spotify.com/album/04FPVZxaAWLScEgMsHUsSK",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5UrI77Jt80JSkfCWUHIA0o",
+        "title": "Beste Zangers 2026 (Clouseau)",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e021343579a364e6a8c4c731504",
+        "url": "https://open.spotify.com/album/5UrI77Jt80JSkfCWUHIA0o",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "550tH2b70JDJnzaFcbv7eD",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f8a0d5d1b0f6760fd0d6a95",
+        "url": "https://open.spotify.com/album/550tH2b70JDJnzaFcbv7eD",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "43qb5q3cYgA1qsmKSkxpj2",
+        "title": "نظاره",
+        "artist": "DEE PRODUCTION, 74 Original Suppa, LUIGII, Darky",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02168ace300b8dc96f5bc4df81",
+        "url": "https://open.spotify.com/album/43qb5q3cYgA1qsmKSkxpj2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37P6qFXzmIQEfEMwGcuFu4",
+        "title": "Người Được Chọn",
+        "artist": "Ali Hoàng Dương",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3d4423c2b477a4c1194a23c",
+        "url": "https://open.spotify.com/album/37P6qFXzmIQEfEMwGcuFu4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5cPWLlsWdyFxf4mlImnyam",
+        "title": "Dance Party Hits",
+        "artist": "Badshah, Vishal Dadlani, Amit Trivedi, Sachin-Jigar",
+        "type": "compilation",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027614787f73ecfd3c2b4d8064",
+        "url": "https://open.spotify.com/album/5cPWLlsWdyFxf4mlImnyam",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "57YojoB7ahJkkqa2DQCaBh",
+        "title": "Beste Zangers 2026 (Zoë Livay)",
+        "artist": "Zoë Livay, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfe21cb59e97510c90eaf8ff",
+        "url": "https://open.spotify.com/album/57YojoB7ahJkkqa2DQCaBh",
+        "total_tracks": 4,
+        "genres": []
+      }
+    ],
+    "2026-09-27": [
+      {
+        "id": "5fnlbqJYefM7KbKmscpFBg",
+        "title": "Take Flight",
+        "artist": "SPYAIR",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205ef04a5119b144656b72a34",
+        "url": "https://open.spotify.com/album/5fnlbqJYefM7KbKmscpFBg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Q9BczTK1rl0HLdAD9xQ59",
+        "title": "Winning Vibes",
+        "artist": "Jakes Bejoy, Shashwat Sachdev, Thaman S, King",
+        "type": "compilation",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ba5ffa8a5e3453aa88d293b",
+        "url": "https://open.spotify.com/album/3Q9BczTK1rl0HLdAD9xQ59",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7hjLvQl9hdjYggJPu9ynrV",
+        "title": "LE CONNESSIONI",
+        "artist": "Jovanotti",
+        "type": "compilation",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e39e9ec4c726b01963b822b",
+        "url": "https://open.spotify.com/album/7hjLvQl9hdjYggJPu9ynrV",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "6xER2n1YLJ9w0bsIWjFUCB",
+        "title": "THE BLACK ◯ ALBUM (Instrumentals)",
+        "artist": "DREAMS COME TRUE",
+        "type": "album",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261a03916eb6b46d19701fe04",
+        "url": "https://open.spotify.com/album/6xER2n1YLJ9w0bsIWjFUCB",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5oFworeDyF6WiO5zkAE8T0",
+        "title": "Evro Poruchki",
+        "artist": "Marso, SST",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cab1caedd7e40e20604c0fae",
+        "url": "https://open.spotify.com/album/5oFworeDyF6WiO5zkAE8T0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7rBx7BETi2MhjBOyfJFVeh",
+        "title": "COLD BLOODED",
+        "artist": "KØBRA",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02567750c9910dec62ae6c9a5c",
+        "url": "https://open.spotify.com/album/7rBx7BETi2MhjBOyfJFVeh",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-28": [
+      {
+        "id": "2EL2s599fxV85HrWcP7geE",
+        "title": "พอตเตอร์ (POTTER)",
+        "artist": "Anatomy Rabbit",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020794068671f50086b5ad4c81",
+        "url": "https://open.spotify.com/album/2EL2s599fxV85HrWcP7geE",
         "total_tracks": 1,
         "genres": []
       }
