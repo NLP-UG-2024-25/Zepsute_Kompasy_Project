@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-27T11:28:18.575Z",
-  "total": 4291,
+  "fetched_at": "2026-09-28T13:00:41.617Z",
+  "total": 4319,
   "by_date": {
     "2026-05-15": [
       {
@@ -47383,6 +47383,50 @@
         "url": "https://open.spotify.com/album/57YojoB7ahJkkqa2DQCaBh",
         "total_tracks": 4,
         "genres": []
+      },
+      {
+        "id": "50y9HJ2QJ35dBpsTbHCBU9",
+        "title": "Nallom Vaari",
+        "artist": "M.H.R, Reyan, Melvin",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fc40751c25b2ec4a28f4e35",
+        "url": "https://open.spotify.com/album/50y9HJ2QJ35dBpsTbHCBU9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1JYBGreBn8mq9SSQOniJur",
+        "title": "Lahanga Lahake Lahake",
+        "artist": "Pawan Singh, Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6a25e7ce82829b7a6fecde6",
+        "url": "https://open.spotify.com/album/1JYBGreBn8mq9SSQOniJur",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GzR7BHCrN2fhliY66Mwkd",
+        "title": "HOEGAARDEN 2027 (Hjemmesnekk)",
+        "artist": "BORGHINI, HOE",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4b131cdf9bcbd2c2d19ca90",
+        "url": "https://open.spotify.com/album/5GzR7BHCrN2fhliY66Mwkd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37zJ6jOuNvPHhedyocN0nz",
+        "title": "SPRENGING",
+        "artist": "Maggi Mix",
+        "type": "single",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f66a2c7fed884791abcfc993",
+        "url": "https://open.spotify.com/album/37zJ6jOuNvPHhedyocN0nz",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-27": [
@@ -47451,6 +47495,50 @@
         "url": "https://open.spotify.com/album/7rBx7BETi2MhjBOyfJFVeh",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6lWgrV4itSRcalL7DhCcpN",
+        "title": "ดวงดี (I’m Just Lucky)",
+        "artist": "D Gerrard",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e020dd9c72f799d7911464c2307",
+        "url": "https://open.spotify.com/album/6lWgrV4itSRcalL7DhCcpN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Jx5zNsl5ae0YJQS2xzJ2u",
+        "title": "موال مخي في عالم النسيان ( انا اخويا طول في غيابه ) [Live]",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f00da90a927eb11837cee0dd",
+        "url": "https://open.spotify.com/album/4Jx5zNsl5ae0YJQS2xzJ2u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6nnZMTxjYPCSJaV2UL8w2G",
+        "title": "بنعيش عادي علي الاسفلت ( انتي تخصي وعارفين )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e021fd0e386289fb2d5e6f6f4e4",
+        "url": "https://open.spotify.com/album/6nnZMTxjYPCSJaV2UL8w2G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2RzhEMLYn7HoUwsgijT2oe",
+        "title": "Kur lai slēpjos?",
+        "artist": "Tutas Lietas",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efc7ca5478a70d4d189be80f",
+        "url": "https://open.spotify.com/album/2RzhEMLYn7HoUwsgijT2oe",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-28": [
@@ -47462,6 +47550,226 @@
         "release_date": "2026-09-28",
         "image": "https://i.scdn.co/image/ab67616d00001e020794068671f50086b5ad4c81",
         "url": "https://open.spotify.com/album/2EL2s599fxV85HrWcP7geE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44P5j9NbwEeTTJSCd8xOcd",
+        "title": "La Formula",
+        "artist": "El Rabbanito",
+        "type": "album",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a236685184c0d3ca678bbb0",
+        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "5Ib13QIR1ye8Kthfl4Q3Rl",
+        "title": "ไม่เอาเธอขึ้นจอ แต่จำเธอขึ้นใจ",
+        "artist": "Mirrr",
+        "type": "compilation",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eaaf1c1c4650f7e3864d91c",
+        "url": "https://open.spotify.com/album/5Ib13QIR1ye8Kthfl4Q3Rl",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "7gzJYO9TskFpD4NnnVOWAj",
+        "title": "Songs In The Keys Of Life",
+        "artist": "Stevie Wonder",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02107b533b3ee1ae08cd6773f2",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5Y56Jddm409nSZUGnDPjtC",
+        "title": "Nameless MythS",
+        "artist": "MAZZEL, STARGLOW",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9c9efbc4316ffa18e1c2b1d",
+        "url": "https://open.spotify.com/album/5Y56Jddm409nSZUGnDPjtC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7z85IOz8m9wM1YFuC7BAtw",
+        "title": "The Great Warriors",
+        "artist": "Masoom Sharma",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5959694d4d020be7cbefa97",
+        "url": "https://open.spotify.com/album/7z85IOz8m9wM1YFuC7BAtw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3aPXrz0ZpzkrD5rUKxPheq",
+        "title": "IN MY ROOM SESSION",
+        "artist": "GAVIN:D",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020760ddc8d1e45cfd5ed4040d",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7xB5Mzz9ScCgVHzzhx1sGq",
+        "title": "HOME: DELUXE",
+        "artist": "BOYNEXTDOOR",
+        "type": "album",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e025cf8adfa610ca8898675a749",
+        "url": "https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "5m4aM4mlhW5DJqefZ2z8sU",
+        "title": "Gilehriyaan - Jonita Gandhi Vocals Only",
+        "artist": "Pritam, Jonita Gandhi",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02209b46719304ebfaf5c26644",
+        "url": "https://open.spotify.com/album/5m4aM4mlhW5DJqefZ2z8sU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ToAekpOzYxoDAG0eCp87L",
+        "title": "Naina Arijit Singh Vocals Only",
+        "artist": "Pritam, Arijit Singh",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8b914315eb7a0b5e0a6041f",
+        "url": "https://open.spotify.com/album/4ToAekpOzYxoDAG0eCp87L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fRdjXY7y8rsOTarNHs8pQ",
+        "title": "Sute",
+        "artist": "Lazy Ed",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3d95c134d6e1c99f8087ad0",
+        "url": "https://open.spotify.com/album/1fRdjXY7y8rsOTarNHs8pQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "015hnMKysywjLg3zInvD9d",
+        "title": "Mas Que Un Loco",
+        "artist": "EnLaPeraSessions, La Cumana, Rolando Paz",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c94679a138b58d57eecc3df7",
+        "url": "https://open.spotify.com/album/015hnMKysywjLg3zInvD9d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yABPYZG2dkVgYoA2yarR7",
+        "title": "Pashmina - Amit Trivedi Vocals Only",
+        "artist": "Amit Trivedi",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e97a9367fbbedf732cae4ce",
+        "url": "https://open.spotify.com/album/4yABPYZG2dkVgYoA2yarR7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2FgxbLydrFnM1qU0EQzm4S",
+        "title": "Our Ending",
+        "artist": "N.Flying",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6d9d764ae659a0585899228",
+        "url": "https://open.spotify.com/album/2FgxbLydrFnM1qU0EQzm4S",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4b8B5zfTZ9mBIZoMchHa5G",
+        "title": "PRINCESS",
+        "artist": "NOUA UNSPE",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b7b9d93f20c8767ecadce64",
+        "url": "https://open.spotify.com/album/4b8B5zfTZ9mBIZoMchHa5G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6qIyxZRhBccWWZ6frCqfgJ",
+        "title": "이것은 음악이 아니다",
+        "artist": "조선힙합",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231d17948f63de7785aa1366e",
+        "url": "https://open.spotify.com/album/6qIyxZRhBccWWZ6frCqfgJ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1Pgpsyox2iuc9obCJBpvkk",
+        "title": "Pudhu Pudhu Remix Multiverse",
+        "artist": "Harris Jayaraj",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023de71b71e3c0ccd006802823",
+        "url": "https://open.spotify.com/album/1Pgpsyox2iuc9obCJBpvkk",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1k4bFI2uM4xz3DxzPjdJGu",
+        "title": "paliec mazliet",
+        "artist": "Patrisha",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02104fda1dbfe3755257ae9a66",
+        "url": "https://open.spotify.com/album/1k4bFI2uM4xz3DxzPjdJGu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37NQtJfxkLI9354m420CJP",
+        "title": "LINDO DIA",
+        "artist": "Jay Elite",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213eadc95ec91b10bef9564dd",
+        "url": "https://open.spotify.com/album/37NQtJfxkLI9354m420CJP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vubUBe4pcWYKb81mJLVHF",
+        "title": "När Lill-Nöffe slutade skratta",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f75f28ccb36e9a4afa7efc7",
+        "url": "https://open.spotify.com/album/6vubUBe4pcWYKb81mJLVHF",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1tsGwShrNtiDmR5bzgWgBK",
+        "title": "DIRTY MONEY",
+        "artist": "KØBRA",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e026bd46a27d777564c44a0ede6",
+        "url": "https://open.spotify.com/album/1tsGwShrNtiDmR5bzgWgBK",
         "total_tracks": 1,
         "genres": []
       }
