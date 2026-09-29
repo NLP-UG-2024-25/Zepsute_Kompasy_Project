@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-28T13:00:41.617Z",
-  "total": 4319,
+  "fetched_at": "2026-09-29T12:12:02.414Z",
+  "total": 4346,
   "by_date": {
     "2026-05-15": [
       {
@@ -47427,6 +47427,17 @@
         "url": "https://open.spotify.com/album/37zJ6jOuNvPHhedyocN0nz",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3wmTCxG9EMP5k9VSFMvFFy",
+        "title": "Supremazija V.5",
+        "artist": "Għaqda Briju 1973 Xagħra Għawdex AD 2003",
+        "type": "album",
+        "release_date": "2026-09-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02deb67fc4d4ad9df7d7b79160",
+        "url": "https://open.spotify.com/album/3wmTCxG9EMP5k9VSFMvFFy",
+        "total_tracks": 9,
+        "genres": []
       }
     ],
     "2026-09-27": [
@@ -47537,6 +47548,61 @@
         "release_date": "2026-09-27",
         "image": "https://i.scdn.co/image/ab67616d00001e02efc7ca5478a70d4d189be80f",
         "url": "https://open.spotify.com/album/2RzhEMLYn7HoUwsgijT2oe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FQ56IeSR6gj8wcN1lhrJr",
+        "title": "Mozhiye (From \"Baththa\")",
+        "artist": "Sai Abhyankkar, Sid Sriram, Karthik Netha",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a37f1c4f84ea61abb0d5dd4e",
+        "url": "https://open.spotify.com/album/1FQ56IeSR6gj8wcN1lhrJr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3xN4ol2Gbu9D1AeVA8ewib",
+        "title": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
+        "artist": "Thaman S, Saraswati Putra Ramajogayya Sastry",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4983c1139e993e2548d93bb",
+        "url": "https://open.spotify.com/album/3xN4ol2Gbu9D1AeVA8ewib",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3I0QbV5MlFi75TfGNhoMhc",
+        "title": "3adbtini",
+        "artist": "Cheb Bilal, Warda Charlomanti",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b417669cbd6f8f81c50e63e",
+        "url": "https://open.spotify.com/album/3I0QbV5MlFi75TfGNhoMhc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5yJImDH8FB0lAsItrun1fD",
+        "title": "BELLA BELLISSIMA",
+        "artist": "Kotenceto",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a8e3970741af261153470de",
+        "url": "https://open.spotify.com/album/5yJImDH8FB0lAsItrun1fD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34nUVuxf3FBkGNG470mHnA",
+        "title": "NAGYL",
+        "artist": "Veselean",
+        "type": "single",
+        "release_date": "2026-09-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c68291eaa5b28064b6eb2e02",
+        "url": "https://open.spotify.com/album/34nUVuxf3FBkGNG470mHnA",
         "total_tracks": 1,
         "genres": []
       }
@@ -47770,6 +47836,239 @@
         "release_date": "2026-09-28",
         "image": "https://i.scdn.co/image/ab67616d00001e026bd46a27d777564c44a0ede6",
         "url": "https://open.spotify.com/album/1tsGwShrNtiDmR5bzgWgBK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6P9uFbVs2E1DlQwBZufJ5g",
+        "title": "POPS",
+        "artist": "Mrs. GREEN APPLE",
+        "type": "album",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0991e8410181815e4566246",
+        "url": "https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "1MD0ZWCo2pSkXL51xlGXSq",
+        "title": "ESCORPIÃO",
+        "artist": "MC Cabelinho",
+        "type": "album",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cfaac9cd49df47003eb3fdb8",
+        "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "5B5XA0CBV9WCpWvmYh6zbt",
+        "title": "Set Yuri 22",
+        "artist": "Mc Lele JP, Mc IG, MC Meno K, DJ Hyago",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a77e8e588c705d07024c5b2",
+        "url": "https://open.spotify.com/album/5B5XA0CBV9WCpWvmYh6zbt",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-09-29": [
+      {
+        "id": "5QhIKoyRYabBtE2Jqdp080",
+        "title": "Illuminate (10th Anniversary Edition) Deluxe",
+        "artist": "Shawn Mendes",
+        "type": "album",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dd0d95a73f3b48cb2e28b4ca",
+        "url": "https://open.spotify.com/album/5QhIKoyRYabBtE2Jqdp080",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "62TuS7QoXVkOHV5c4wAyt1",
+        "title": "Jai Ambe Bol (From \"Yeh Prem Mol Liya\")",
+        "artist": "Himesh Reshammiya, Shreya Ghoshal",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e024342ab9fb0675e9e07e7e6ba",
+        "url": "https://open.spotify.com/album/62TuS7QoXVkOHV5c4wAyt1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zImnNLEHn96NQPh5cc7FZ",
+        "title": "Bloody Paradise x VELOCIDADE (PETERBLUE Remix)",
+        "artist": "ENHYPEN, SANTOS BRAVOS, PETERBLUE",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d3eba5d100de3210c89778a",
+        "url": "https://open.spotify.com/album/2zImnNLEHn96NQPh5cc7FZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0bylU9aBtCOj3cRs04SaQH",
+        "title": "James (Band Demo, June 12, 1975)",
+        "artist": "Billy Joel",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e313ea402e8cf882765ec5c",
+        "url": "https://open.spotify.com/album/0bylU9aBtCOj3cRs04SaQH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1nylUZYeeoVigbRpqe63gW",
+        "title": "Tumhein Bhi Humse (From \"Tum Mere Ho\")",
+        "artist": "Vishal Mishra, Mithoon",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206effac23701191ce2b88f6f",
+        "url": "https://open.spotify.com/album/1nylUZYeeoVigbRpqe63gW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5tNuUlAMdizp5FgkRXVp4N",
+        "title": "Our Yesterday's Escape (A Viva One Original Series Soundtrack)",
+        "artist": "Earl Agustin, Amiel Sol, Migs, Nicole Omillo",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02730e807df47098df43db3bd3",
+        "url": "https://open.spotify.com/album/5tNuUlAMdizp5FgkRXVp4N",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2kpgoFdv0rjlHooq0aS74A",
+        "title": "МЫ (acoustic version)",
+        "artist": "IOWA",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a83f9f64e6ba32f264c940ca",
+        "url": "https://open.spotify.com/album/2kpgoFdv0rjlHooq0aS74A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xiXKWEcTSh5AI6d4C3raw",
+        "title": "Pas Comme Eux",
+        "artist": "SDM",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02577f557cffedc10ddf1a1dcc",
+        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "493DFh8mTy1Dzlj5ZOq2ND",
+        "title": "REAWAKEN MAN: THE RED OST",
+        "artist": "Primary",
+        "type": "album",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcc2ce65ce494b73605e560e",
+        "url": "https://open.spotify.com/album/493DFh8mTy1Dzlj5ZOq2ND",
+        "total_tracks": 27,
+        "genres": []
+      },
+      {
+        "id": "5D6Pxis4xCOApJpzaAJuVG",
+        "title": "戒糖失敗",
+        "artist": "Kaho Hung",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea77d3e4a2373c3438533a51",
+        "url": "https://open.spotify.com/album/5D6Pxis4xCOApJpzaAJuVG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XYo4I3Hjvg4PXiLnb6iGh",
+        "title": "AGAIN and AGAIN (부활남: 더 레드 OST)",
+        "artist": "george, Primary",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209456e4deccaf521ee182851",
+        "url": "https://open.spotify.com/album/5XYo4I3Hjvg4PXiLnb6iGh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "67turAkNUghJQnJBgTYfgE",
+        "title": "Червоний мак",
+        "artist": "SKYLERR, kavabanga Depo kolibri",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c07727662f0fee45ca3ca930",
+        "url": "https://open.spotify.com/album/67turAkNUghJQnJBgTYfgE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5k72S6FaWYy4L5IMLw8S4s",
+        "title": "ร้อยคนทัก รักคนเก่า",
+        "artist": "Season Five, Maiyarap",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c562ebd9edf72a7c608c8041",
+        "url": "https://open.spotify.com/album/5k72S6FaWYy4L5IMLw8S4s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6pdxHp0JBj86IkHaZ9BfH7",
+        "title": "Una bara per due",
+        "artist": "Tony Boy",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e029947b941d722846b22eac514",
+        "url": "https://open.spotify.com/album/6pdxHp0JBj86IkHaZ9BfH7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3f86QKltHGHmzvOLSpaKco",
+        "title": "Chammo Deewani",
+        "artist": "Amit Trivedi, Poorvi Koutish, Kausar Munir",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02865b945479767d393cb23232",
+        "url": "https://open.spotify.com/album/3f86QKltHGHmzvOLSpaKco",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7po3IJCZlUp4jAYBDMPBkQ",
+        "title": "慢冷 (feat. 蕭煌奇) [Live]",
+        "artist": "831, Ricky Hsiao",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021360918438e2f0871e8cb96f",
+        "url": "https://open.spotify.com/album/7po3IJCZlUp4jAYBDMPBkQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2a5l4BHixiEuiCQ5bBeZAo",
+        "title": "Starting Today",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f3d85cab8173c430cac4ed3",
+        "url": "https://open.spotify.com/album/2a5l4BHixiEuiCQ5bBeZAo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "749GFkusfCvkTkaZqw9lAy",
+        "title": "Я б поетів оживив",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021faf4d44d51d61a891a16f83",
+        "url": "https://open.spotify.com/album/749GFkusfCvkTkaZqw9lAy",
         "total_tracks": 1,
         "genres": []
       }
