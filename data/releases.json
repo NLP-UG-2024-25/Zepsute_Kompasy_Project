@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-29T12:12:02.414Z",
-  "total": 4346,
+  "fetched_at": "2026-09-30T11:58:39.049Z",
+  "total": 4380,
   "by_date": {
     "2026-05-15": [
       {
@@ -47871,6 +47871,39 @@
         "url": "https://open.spotify.com/album/5B5XA0CBV9WCpWvmYh6zbt",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "70NLkdlgvogfvDEeDP4if0",
+        "title": "Jadal Zamana (Interval Theme) (From \"The Paradise\") (Telugu)",
+        "artist": "Anirudh Ravichander",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fffef7c21eb260e2ecbb96b",
+        "url": "https://open.spotify.com/album/70NLkdlgvogfvDEeDP4if0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HktfK1FE10F8JFfX8UNAM",
+        "title": "مو غريبة",
+        "artist": "Saif Amer",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abb04011ae786ceaf2266456",
+        "url": "https://open.spotify.com/album/1HktfK1FE10F8JFfX8UNAM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3OorAONOeODU7H08ptA2pK",
+        "title": "Citu Spārni",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-09-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7457ae52e705bb551c580e1",
+        "url": "https://open.spotify.com/album/3OorAONOeODU7H08ptA2pK",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-09-29": [
@@ -48069,6 +48102,349 @@
         "release_date": "2026-09-29",
         "image": "https://i.scdn.co/image/ab67616d00001e021faf4d44d51d61a891a16f83",
         "url": "https://open.spotify.com/album/749GFkusfCvkTkaZqw9lAy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7tYWHGIYXl9X51IUmnP1ek",
+        "title": "Ultimate Bollywood Garba Playlist",
+        "artist": "Tanishk Bagchi, Dev Negi, Amit Trivedi, Shreya Ghoshal",
+        "type": "compilation",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e022822b61cb96ceabb08b72a8f",
+        "url": "https://open.spotify.com/album/7tYWHGIYXl9X51IUmnP1ek",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "45TpB4nks0FdFqGMhnrqNO",
+        "title": "Khairiyat - Arijit Singh Vocals Only",
+        "artist": "Mithoon, Arijit Singh",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd7adc69d8221d8733fe5ab4",
+        "url": "https://open.spotify.com/album/45TpB4nks0FdFqGMhnrqNO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "13BVzp1ry3xMojHshE3i0T",
+        "title": "Kala Chashma Afro House Mix",
+        "artist": "Badshah, Neha Kakkar, IQQANVE",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e629bc0a68155e299806ccda",
+        "url": "https://open.spotify.com/album/13BVzp1ry3xMojHshE3i0T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2pMOWlF8r0xfUkrloQEO49",
+        "title": "Love Triangle",
+        "artist": "Angèle, Caroline Polachek, SebastiAn",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcb400c42317c8dd32a19bae",
+        "url": "https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "22BHeMw98uBLAWHSoYZoZJ",
+        "title": "回响 (《雷霆令》电视剧主题曲)",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e022dd5ff29ab1c4b4677ea99b6",
+        "url": "https://open.spotify.com/album/22BHeMw98uBLAWHSoYZoZJ",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1XZzF6pZiXYkPhXYOM3OyR",
+        "title": "Ee Dhareya Mele (Female) (America America 2)",
+        "artist": "Shreya Ghoshal, Mano Murthy",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de70ef88c869ba76b6591ac0",
+        "url": "https://open.spotify.com/album/1XZzF6pZiXYkPhXYOM3OyR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4unjL4wjcpGg6fEp5aU6UM",
+        "title": "Piya Piya (Remix)",
+        "artist": "Udit Narayan, Ranjana Joglekar, DJ Gaytree varma",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a76b52b92ec945a044edabb6",
+        "url": "https://open.spotify.com/album/4unjL4wjcpGg6fEp5aU6UM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32J1AIEzFt1cQAJPh0ZqUf",
+        "title": "Honey Bunny (Numb)",
+        "artist": "9mice",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5a926db5ce743675783d9e8",
+        "url": "https://open.spotify.com/album/32J1AIEzFt1cQAJPh0ZqUf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XdZTar4mUhYjquSdPy0vB",
+        "title": "Очки",
+        "artist": "V $ X V PRiNCE, hatikoali, Bollo",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f8c294442ae57914397dd2d",
+        "url": "https://open.spotify.com/album/5XdZTar4mUhYjquSdPy0vB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6PbTc8JE0btOfwPU7Ss6xt",
+        "title": "Quem Ama Ama",
+        "artist": "MC Menor da VG, DJ PROIBIDO",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e028942cd7755a5e13a83e788a2",
+        "url": "https://open.spotify.com/album/6PbTc8JE0btOfwPU7Ss6xt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79Tvf3I4oL4mtv0yzDWoxs",
+        "title": "Aldamaisyn (Live)",
+        "artist": "Duman",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a68adc40d9e8589a15d4c89",
+        "url": "https://open.spotify.com/album/79Tvf3I4oL4mtv0yzDWoxs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DnmjmU6CAWHjmiCZTUuia",
+        "title": "دا اسطبل لامم وانا خيال",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0a14c61477a0bef91dca61c",
+        "url": "https://open.spotify.com/album/3DnmjmU6CAWHjmiCZTUuia",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02W5aWPG0AarPz8l3Au880",
+        "title": "Férias Carioca",
+        "artist": "DU'L, Vulgo FK, tal do dias",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5f960c202bf490a5c304fce",
+        "url": "https://open.spotify.com/album/02W5aWPG0AarPz8l3Au880",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2k2s5a6JlV2olXRitmux9S",
+        "title": "Niets Doen",
+        "artist": "Acda en de Munnik",
+        "type": "single",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027dd3086fbd978a7827ab31ad",
+        "url": "https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7nQ3ZaDBSnsR3yNc7Pjz2a",
+        "title": "Nobody Knows (Bonus Edition)",
+        "artist": "FTR$",
+        "type": "album",
+        "release_date": "2026-09-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284048b80a0d564ff9c20b5ec",
+        "url": "https://open.spotify.com/album/7nQ3ZaDBSnsR3yNc7Pjz2a",
+        "total_tracks": 9,
+        "genres": []
+      }
+    ],
+    "2026-09-30": [
+      {
+        "id": "7hogRmRSMRuGz63RqgqqBU",
+        "title": "DIP",
+        "artist": "Sean Paul, Sommer Ray",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242b013f44cf2592a4f830aae",
+        "url": "https://open.spotify.com/album/7hogRmRSMRuGz63RqgqqBU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2s6fgKcVw6MOQIiR0o3q2k",
+        "title": "Miel San Marcos 25 Años",
+        "artist": "Miel San Marcos",
+        "type": "album",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02800c3da7ce29517bb10cbc6b",
+        "url": "https://open.spotify.com/album/2s6fgKcVw6MOQIiR0o3q2k",
+        "total_tracks": 27,
+        "genres": []
+      },
+      {
+        "id": "3lq6BbV7iqzrC50JTzs9Pu",
+        "title": "62 GANG",
+        "artist": "Huan62",
+        "type": "album",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc501e0f5a48ac2724791be7",
+        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3ZJFqdKzU6RJvqpRzR5CHf",
+        "title": "Vamos Que Vamos",
+        "artist": "Binomio de Oro de América",
+        "type": "album",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c791d10fc581d2845d842084",
+        "url": "https://open.spotify.com/album/3ZJFqdKzU6RJvqpRzR5CHf",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "0FH5kjjVaot8TMVjqnVWWT",
+        "title": "PHAZON VARIA",
+        "artist": "Odetari",
+        "type": "album",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02174518af79293450f7eeaa6b",
+        "url": "https://open.spotify.com/album/0FH5kjjVaot8TMVjqnVWWT",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "5sUA1QbPeTEGBu6x6hHKth",
+        "title": "MONEY TRICKY (Miss Kitty Remix)",
+        "artist": "Vybz Kartel, Simon Howden, Wildcat, Ram Jam",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b715e682d4425860e70f71d4",
+        "url": "https://open.spotify.com/album/5sUA1QbPeTEGBu6x6hHKth",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4GuEsFNVQx8JVJLnlCdWa2",
+        "title": "甲乙丙丁Strangers (合唱版)",
+        "artist": "Jess Lee, 張新成",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213d401fa5726d9ecd70fd8fb",
+        "url": "https://open.spotify.com/album/4GuEsFNVQx8JVJLnlCdWa2",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "44KgY0Lw4LwXwK0xpU7TZD",
+        "title": "Destiny Journeys",
+        "artist": "Vaundy",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e11100a46ded4b8584e7d37",
+        "url": "https://open.spotify.com/album/44KgY0Lw4LwXwK0xpU7TZD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Y1LbDnzW2bZB9K6GfLwrQ",
+        "title": "Quadro de Terror",
+        "artist": "DJ Oreia",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e025d2d8cedf01628acb3e794a3",
+        "url": "https://open.spotify.com/album/0Y1LbDnzW2bZB9K6GfLwrQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1kIm9CDPkyqKZGPwtmJ5LX",
+        "title": "С днем рождения меня",
+        "artist": "LUCAVEROS",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3228d0c3f887aa02d5c92c8",
+        "url": "https://open.spotify.com/album/1kIm9CDPkyqKZGPwtmJ5LX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4kQsubDEgwJyvQlcT1wcwi",
+        "title": "กลับด้วยกันมั้ย",
+        "artist": "No One Else",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e021dcd8d6ef593fef84630ce41",
+        "url": "https://open.spotify.com/album/4kQsubDEgwJyvQlcT1wcwi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZvgmcWgY2dVG1Cubs2uX3",
+        "title": "Navona Esportiva",
+        "artist": "MC Leozinho ZS, DJ Glenner",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4037157ff0b6f2935ba3db0",
+        "url": "https://open.spotify.com/album/2ZvgmcWgY2dVG1Cubs2uX3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1TBa9jYA2woUR4JOcDyHSk",
+        "title": "estelik",
+        "artist": "Asik, DELIN",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2a4a88c5c61b861c56ac6c2",
+        "url": "https://open.spotify.com/album/1TBa9jYA2woUR4JOcDyHSk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7weMaVAYSN2STDoAg1zMti",
+        "title": "$wag Boy",
+        "artist": "Young Leosia, FT Kings",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230527a00f1256401dcb36c85",
+        "url": "https://open.spotify.com/album/7weMaVAYSN2STDoAg1zMti",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4benLsrIw1Y1ZR9Hzh73HT",
+        "title": "Ponto Final",
+        "artist": "Mc Kadu, Mc Don Juan, DJ Kaio Mix",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc6c4198bd85c863f6e1e71e",
+        "url": "https://open.spotify.com/album/4benLsrIw1Y1ZR9Hzh73HT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OknEujBcguIUFvfj3m5HZ",
+        "title": "23、24",
+        "artist": "Creep Hyp",
+        "type": "single",
+        "release_date": "2026-09-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b812dc15df8e4b0b40f1a18c",
+        "url": "https://open.spotify.com/album/0OknEujBcguIUFvfj3m5HZ",
         "total_tracks": 1,
         "genres": []
       }
