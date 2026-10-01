@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-30T11:58:39.049Z",
-  "total": 4380,
+  "fetched_at": "2026-10-01T12:30:44.683Z",
+  "total": 4390,
   "by_date": {
     "2026-05-15": [
       {
@@ -48445,6 +48445,118 @@
         "release_date": "2026-09-30",
         "image": "https://i.scdn.co/image/ab67616d00001e02b812dc15df8e4b0b40f1a18c",
         "url": "https://open.spotify.com/album/0OknEujBcguIUFvfj3m5HZ",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-01": [
+      {
+        "id": "5wudldAW6cMDy9nilIOT6W",
+        "title": "pupa",
+        "artist": "natori",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c18cb7e7bd1f9182fdb89b4",
+        "url": "https://open.spotify.com/album/5wudldAW6cMDy9nilIOT6W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41J96vpzslvWxdH0dd4n1T",
+        "title": "Ek Radha Ek Meera",
+        "artist": "Sonu Nigam, Sanjeev Chaturvedi, Ravindra Jain",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e028db8a5418cb2f49e486fcc52",
+        "url": "https://open.spotify.com/album/41J96vpzslvWxdH0dd4n1T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "65rCCvokTF0dt49P314rXK",
+        "title": "Niegrzeczna Studentka",
+        "artist": "Cypis, Diho, Majki",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0239652fc04e5d3847e865cc7d",
+        "url": "https://open.spotify.com/album/65rCCvokTF0dt49P314rXK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7AGxOB6gQTET3UoER7FTgC",
+        "title": "Sie7e Mares",
+        "artist": "The La Planta",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262c22136ea43b56537286fd9",
+        "url": "https://open.spotify.com/album/7AGxOB6gQTET3UoER7FTgC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6rX9Yrix8HUoxa8TmOi1t0",
+        "title": "Low Profile (feat. DJ Kaioken)",
+        "artist": "MC Ryan SP, Mc Don Juan, MC VITIN DA DZ7, Mc Alan JR",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02547f9a9cbd43064963682de9",
+        "url": "https://open.spotify.com/album/6rX9Yrix8HUoxa8TmOi1t0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0X10bZXCTD0xLQM9odFz8Y",
+        "title": "Turma do Pagode As Melhores - Churrasco e Resenha (Ao Vivo)",
+        "artist": "Turma do Pagode",
+        "type": "compilation",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc7ddd47f409ce494ee60506",
+        "url": "https://open.spotify.com/album/0X10bZXCTD0xLQM9odFz8Y",
+        "total_tracks": 37,
+        "genres": []
+      },
+      {
+        "id": "3NUtzjx0UxdiIBgU3IUMP2",
+        "title": "Século Atual",
+        "artist": "Kako, MC Tuto, DJ JR No Beat",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b3e3b044f81bf1bda508d10",
+        "url": "https://open.spotify.com/album/3NUtzjx0UxdiIBgU3IUMP2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00rPmnHpK341uMVB91WWMM",
+        "title": "Salamat",
+        "artist": "Abdou Gambetta, Cheba Souad",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02150846767ace0ece8f17a849",
+        "url": "https://open.spotify.com/album/00rPmnHpK341uMVB91WWMM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3iHe5ld5NUlUWheMgxG11Z",
+        "title": "Rudenī",
+        "artist": "Sub Scriptum, Mareks Radzevics",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e022dd0c7c023df6af7b588b6c5",
+        "url": "https://open.spotify.com/album/3iHe5ld5NUlUWheMgxG11Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1TuoIwLPjOqqf7pH4P8MpY",
+        "title": "KUPENU SAPŅI (FATED Remix)",
+        "artist": "HENRII, FateD",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0220c2542ef2af232fd9eb9e2f",
+        "url": "https://open.spotify.com/album/1TuoIwLPjOqqf7pH4P8MpY",
         "total_tracks": 1,
         "genres": []
       }
