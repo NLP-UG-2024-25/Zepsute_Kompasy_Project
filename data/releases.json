@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-02T11:56:54.376Z",
-  "total": 4429,
+  "fetched_at": "2026-10-03T11:10:03.659Z",
+  "total": 4451,
   "by_date": {
     "2026-05-15": [
       {
@@ -48636,6 +48636,72 @@
         "url": "https://open.spotify.com/album/0skGShVY3HY9vS4RhA7oKM",
         "total_tracks": 16,
         "genres": []
+      },
+      {
+        "id": "38Pm2Zoo8FAbP3CYQhlZqW",
+        "title": "The Vvaan (Original Motion Picture Soundtrack)",
+        "artist": "Tanishk Bagchi, Vishal Mishra, Amit Trivedi",
+        "type": "album",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb2fa7840601b2456317cb34",
+        "url": "https://open.spotify.com/album/38Pm2Zoo8FAbP3CYQhlZqW",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "6cQEVHuEio3bqsqfHjh9R3",
+        "title": "Vaazhanum Baththa (From \"Baththa\")",
+        "artist": "Sai Abhyankkar, Karthik Netha",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a1c863326a9811e2297757f",
+        "url": "https://open.spotify.com/album/6cQEVHuEio3bqsqfHjh9R3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1XoV2E0Zys1xJzULtNmjDF",
+        "title": "World of Vettuvam (From \"Vettuvam\")",
+        "artist": "G. V. Prakash, Arivu, Bshaa",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3deedc50a92c91456d3bb43",
+        "url": "https://open.spotify.com/album/1XoV2E0Zys1xJzULtNmjDF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4vnyQMg5i3ctRYQpHoKjTp",
+        "title": "Deja lietū",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d7e5996ad962e2a0a50cbc71",
+        "url": "https://open.spotify.com/album/4vnyQMg5i3ctRYQpHoKjTp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4lAn9DnEpWJKpQ8mFYd4PS",
+        "title": "Vēl ir laiks",
+        "artist": "Vētra Music",
+        "type": "album",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b095fe75b3da9de1b3e5371",
+        "url": "https://open.spotify.com/album/4lAn9DnEpWJKpQ8mFYd4PS",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "1AB1eWlE4YMgNqA7TYrymE",
+        "title": "Contigo Voy",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c694c77cf176a5f47419c2d5",
+        "url": "https://open.spotify.com/album/1AB1eWlE4YMgNqA7TYrymE",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-10-02": [
@@ -48989,6 +49055,184 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02ac129e4f4ea4e9a9145b50f5",
         "url": "https://open.spotify.com/album/7EZsK64DygQ8x65bkROtl4",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EoFvzh5aAlIqnRVeP0xQL",
+        "title": "Miss You Here",
+        "artist": "Luke Combs",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02787163f4760c473588d81354",
+        "url": "https://open.spotify.com/album/1EoFvzh5aAlIqnRVeP0xQL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18SvkYsGAZSULTMG0oT75Q",
+        "title": "It's TV Time!",
+        "artist": "Toby Fox, Trevor Alan Gomes",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e8c90153712aee0840bfd38",
+        "url": "https://open.spotify.com/album/18SvkYsGAZSULTMG0oT75Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0j0hwWbswXy4yEFdnT34If",
+        "title": "NEST",
+        "artist": "Montell Fish",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aac6fb2e6d0113faad5473cc",
+        "url": "https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7fnFhMfQchOgAK3s7ZS3NR",
+        "title": "Yochi! (TV TOKYO \"MAME＆MUGI\" OP Theme)",
+        "artist": "BIBI",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c09bbe1899ef9711df573d22",
+        "url": "https://open.spotify.com/album/7fnFhMfQchOgAK3s7ZS3NR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "689gJJZRL0CwGaNZnoHjDI",
+        "title": "CoComelon Playdates with Sanrio Friends Season 2",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7aa4125ab95dce073ba5890",
+        "url": "https://open.spotify.com/album/689gJJZRL0CwGaNZnoHjDI",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5vnR4dlfxev8vUAUhmsVHN",
+        "title": "Antes Yo Era Bueno (Remix)",
+        "artist": "Ronny GTA, Ezzy R",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266ade377614161aece53b783",
+        "url": "https://open.spotify.com/album/5vnR4dlfxev8vUAUhmsVHN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21c4VMVVGBKja6OpsHFkUo",
+        "title": "It’s Coming",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285b0fadd4bae25bb67a4494f",
+        "url": "https://open.spotify.com/album/21c4VMVVGBKja6OpsHFkUo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KANbn6rny4qzgNR33koFS",
+        "title": "EKU",
+        "artist": "DJ Javi26, Asfand 34",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b134cab010cac2d411d82297",
+        "url": "https://open.spotify.com/album/7KANbn6rny4qzgNR33koFS",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4HFz299YyOw6a4OwB6yamY",
+        "title": "Reprise",
+        "artist": "Nikolai Tal",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b08ee4a243feb5d539da5238",
+        "url": "https://open.spotify.com/album/4HFz299YyOw6a4OwB6yamY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6YKvgE2nRnUcl3FKyxGdCk",
+        "title": "люблю и ненавижу",
+        "artist": "lightprey, драгонманов",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a530e4234ddff0bced13cf3d",
+        "url": "https://open.spotify.com/album/6YKvgE2nRnUcl3FKyxGdCk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "280gtfZg9ZqIGy0m4VyY5s",
+        "title": "KURAYAMI FUNK",
+        "artist": "-Prey, dxwaste, Enument, KELA MOODS",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e021476a1f61e6694e10177f1df",
+        "url": "https://open.spotify.com/album/280gtfZg9ZqIGy0m4VyY5s",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5nKQ9155JSnNSYEv92VzyV",
+        "title": "Bounce",
+        "artist": "Katchafire, Laughton Kora",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2ca6aa68901070c4526d1be",
+        "url": "https://open.spotify.com/album/5nKQ9155JSnNSYEv92VzyV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hqYy9ZTprs2AVhyG2SB4Y",
+        "title": "2LOUD(ER)",
+        "artist": "REI AMI",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea18692530cc8ebab5077ee9",
+        "url": "https://open.spotify.com/album/4hqYy9ZTprs2AVhyG2SB4Y",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "0vBzMmhWoaLUtzD38KwzyN",
+        "title": "Ella La Pone",
+        "artist": "Little Loove, Kiko Flow",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbd90c76c731b25a4eebd3d4",
+        "url": "https://open.spotify.com/album/0vBzMmhWoaLUtzD38KwzyN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HQYakXUfTbw8jaLq3b4av",
+        "title": "Harris Jayaraj Melody Hits - Lofi Multiverse",
+        "artist": "Harris Jayaraj, Yugabharathi, Thamarai",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c869dc4f061a86d5c256eb0",
+        "url": "https://open.spotify.com/album/1HQYakXUfTbw8jaLq3b4av",
+        "total_tracks": 6,
+        "genres": []
+      }
+    ],
+    "2026-10-03": [
+      {
+        "id": "7xLMVpgfwwxTPmAOPXwexb",
+        "title": "back number \"Grateful Yesterdays Tour 2026\" Live at NISSAN STADIUM",
+        "artist": "back number",
+        "type": "album",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02165ac10d7726575f7601a2df",
+        "url": "https://open.spotify.com/album/7xLMVpgfwwxTPmAOPXwexb",
+        "total_tracks": 20,
         "genres": []
       }
     ]
