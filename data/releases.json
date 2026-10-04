@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-03T11:10:03.659Z",
-  "total": 4451,
+  "fetched_at": "2026-10-04T11:50:37.227Z",
+  "total": 4489,
   "by_date": {
     "2026-05-15": [
       {
@@ -48702,6 +48702,28 @@
         "url": "https://open.spotify.com/album/1AB1eWlE4YMgNqA7TYrymE",
         "total_tracks": 2,
         "genres": []
+      },
+      {
+        "id": "3Y17l0VZgYEdZ7Zo4kKgCN",
+        "title": "HABIBTI (FOMO)",
+        "artist": "Drake",
+        "type": "album",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de74f9038a434f4766114367",
+        "url": "https://open.spotify.com/album/3Y17l0VZgYEdZ7Zo4kKgCN",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "1AmI2JkYhtQj1ZrswQBMcw",
+        "title": "Dance With Me",
+        "artist": "Bruno Mars",
+        "type": "single",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230fd46c1173c878938b512d9",
+        "url": "https://open.spotify.com/album/1AmI2JkYhtQj1ZrswQBMcw",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-02": [
@@ -49221,6 +49243,182 @@
         "url": "https://open.spotify.com/album/1HQYakXUfTbw8jaLq3b4av",
         "total_tracks": 6,
         "genres": []
+      },
+      {
+        "id": "44je58WvLd9gQuLZ9jb5Uu",
+        "title": "KPop Demon Hunters, la bande originale du film Netflix",
+        "artist": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ecd682aeb2667c8b3735b10",
+        "url": "https://open.spotify.com/album/44je58WvLd9gQuLZ9jb5Uu",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "1KSGkeWFMPiRV0gNhQoIc7",
+        "title": "TINH HÀ \"SAY HI\", TẬP 14",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245dd7271e749ddb0cc3d3315",
+        "url": "https://open.spotify.com/album/1KSGkeWFMPiRV0gNhQoIc7",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "270obzBQwAa765dPNuDKoa",
+        "title": "Şahidim",
+        "artist": "Eypio",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e023194ea4525e13b4d5cf48595",
+        "url": "https://open.spotify.com/album/270obzBQwAa765dPNuDKoa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2lZEW0SjC1TUNEIYOQSm4y",
+        "title": "Luna",
+        "artist": "Juanka",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ddf64671ebce9c928d0fd02",
+        "url": "https://open.spotify.com/album/2lZEW0SjC1TUNEIYOQSm4y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "27g1iNxPfllmaQpyl6W9Yx",
+        "title": "A Bebê Quer Oque 2",
+        "artist": "DJ Oreia, MC Cebezinho, Menor Richard, Mc Don Juan",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e029f1c1c69d35abfef1fafd0be",
+        "url": "https://open.spotify.com/album/27g1iNxPfllmaQpyl6W9Yx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73ClRrQ4Z1PC9ZPZYGI6EH",
+        "title": "速成戀愛 (影集《接招吧！製作人》單元曲)",
+        "artist": "艾薇 Ivy",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df5abe27731b9ed0ae9a60b2",
+        "url": "https://open.spotify.com/album/73ClRrQ4Z1PC9ZPZYGI6EH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0xpzZIaGVh8d2NtXfBrKJH",
+        "title": "Dime Girl (Feat. NOWIMYOUNG)",
+        "artist": "YENA",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f160b12f668c2f8f672f1c84",
+        "url": "https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4h33qo0NR9BAzbEIAwDVfF",
+        "title": "O sa fie bine",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dbf391cdb279e7b4678dc26b",
+        "url": "https://open.spotify.com/album/4h33qo0NR9BAzbEIAwDVfF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3NdukgnOPXgFFy1osS0t7J",
+        "title": "앗!",
+        "artist": "조선힙합",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c662ae94cf8fc863a0fae1f2",
+        "url": "https://open.spotify.com/album/3NdukgnOPXgFFy1osS0t7J",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4gvyJRNQPBb1kOWqwZjUYI",
+        "title": "HABIBTI (FOMO)",
+        "artist": "Drake",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "1vvYrwvMWpLMxKsHuKcS9s",
+        "title": "Eu Quero Um Country",
+        "artist": "CountryBeat, Zé Vaqueiro",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e028fd4f987f11f3d5065fdb990",
+        "url": "https://open.spotify.com/album/1vvYrwvMWpLMxKsHuKcS9s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5NUfXnCU8ST05sXT61NgpB",
+        "title": "Pegada Bruta",
+        "artist": "CountryBeat, Mariana Fagundes",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0215cd2b464ad524c2c15c2033",
+        "url": "https://open.spotify.com/album/5NUfXnCU8ST05sXT61NgpB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3PDD0csnQ9kvfZtbnt9sht",
+        "title": "Countryland (Vol. 2)",
+        "artist": "CountryBeat",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e28ec971a6f4cd35e217e547",
+        "url": "https://open.spotify.com/album/3PDD0csnQ9kvfZtbnt9sht",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3QRUnHMBr5l8JKvHI5Mdce",
+        "title": "KHAOS 2027 (Hjemmesnekk)",
+        "artist": "BORGHINI, KHAOS",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208315e2de9885f03f9863b80",
+        "url": "https://open.spotify.com/album/3QRUnHMBr5l8JKvHI5Mdce",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2X7962yBLJYbKPmkozjijV",
+        "title": "اسد مستهدفني تعالب ( راهنو علي وقوعنا )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295e52ac46f9846b7b522b7e9",
+        "url": "https://open.spotify.com/album/2X7962yBLJYbKPmkozjijV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0tsXfguu7cngGm6VuPsMoA",
+        "title": "Menos Guerra, Mais Amor",
+        "artist": "Mc Kadu, Campanha MC, MC Leozinho ZS, MC Lemos",
+        "type": "single",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4d83c0be86cb5433927d59f",
+        "url": "https://open.spotify.com/album/0tsXfguu7cngGm6VuPsMoA",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-03": [
@@ -49233,6 +49431,228 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02165ac10d7726575f7601a2df",
         "url": "https://open.spotify.com/album/7xLMVpgfwwxTPmAOPXwexb",
         "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "4qm2tySB0uod6NJstnJuTz",
+        "title": "QRÖMELIFE (Extended Version)",
+        "artist": "Quavo",
+        "type": "album",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c665784f302102897be2fee9",
+        "url": "https://open.spotify.com/album/4qm2tySB0uod6NJstnJuTz",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "5Hk6O4EVYQXaGKhOjB77h3",
+        "title": "Beste Zangers 2026 (Bizzey)",
+        "artist": "Bizzey, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff1d21763f36be8f89038dea",
+        "url": "https://open.spotify.com/album/5Hk6O4EVYQXaGKhOjB77h3",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5LEkSlaOxDWo2KdWZd5cqS",
+        "title": "CHUNG KẾT (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "album",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b2250026bed27faa3e3f284",
+        "url": "https://open.spotify.com/album/5LEkSlaOxDWo2KdWZd5cqS",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "75WgKRiGazC5LgUwlNvGXa",
+        "title": "Di Ko Tinatanggi",
+        "artist": "Guddhist Gunatita",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5914715ad6a228d9c1d096a",
+        "url": "https://open.spotify.com/album/75WgKRiGazC5LgUwlNvGXa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ICUXdFv3hgrqVNRo4hYFb",
+        "title": "愛のダバダ",
+        "artist": "Lienel",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad293b44508b9979fbb82484",
+        "url": "https://open.spotify.com/album/3ICUXdFv3hgrqVNRo4hYFb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "767uLYG956CBXbrq985zo7",
+        "title": "Lady of Knock",
+        "artist": "Simon Casey",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e021cf1146ab458f5070c2b1212",
+        "url": "https://open.spotify.com/album/767uLYG956CBXbrq985zo7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5LRrDd1d285J0rSXCXqYX9",
+        "title": "Aflevering 6 - Jeangu Macrooy",
+        "artist": "Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b6e34713e67d8c165ce439c",
+        "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "7kqmqDuthyJSeO9wv2LJ6N",
+        "title": "Bamse och det studsande pumpaspöket",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6825fdc60e7eead09664ee7",
+        "url": "https://open.spotify.com/album/7kqmqDuthyJSeO9wv2LJ6N",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3KrZTyOT48DvxWtVXJkhjI",
+        "title": "Beste Zangers 2026 (Clouseau)",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02126aaa54bc459fb6ea0eaca6",
+        "url": "https://open.spotify.com/album/3KrZTyOT48DvxWtVXJkhjI",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4DuayLaEK3IldN5YZFixSI",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fa979bd1d27c44ca51eb23e",
+        "url": "https://open.spotify.com/album/4DuayLaEK3IldN5YZFixSI",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4XGPXggFKsSwDobdBggGJo",
+        "title": "DANY HOYOS / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Dany Hoyos",
+        "type": "album",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e71429380af43c54fd587171",
+        "url": "https://open.spotify.com/album/4XGPXggFKsSwDobdBggGJo",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "5WU5OqW47Vp9qRaAMnlXpD",
+        "title": "Una Skokka (En Vivo)",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02836359507c9ba64010c92529",
+        "url": "https://open.spotify.com/album/5WU5OqW47Vp9qRaAMnlXpD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1sDEnCvg0Omswg8ea9fILm",
+        "title": "Beste Zangers 2026 (Zoë Livay)",
+        "artist": "Zoë Livay, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b864070a74c7ea64c1d37a90",
+        "url": "https://open.spotify.com/album/1sDEnCvg0Omswg8ea9fILm",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1isyzejvR0rV3otoxKfGZj",
+        "title": "Se Essa Loira Fosse Minha",
+        "artist": "MC Nito, Isaac Rabello, Dj Cabello, SoundMusic Original",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5646c778fa659e2dd17dc06",
+        "url": "https://open.spotify.com/album/1isyzejvR0rV3otoxKfGZj",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-04": [
+      {
+        "id": "3f5GIQR8yJjiPg5UoCRLjB",
+        "title": "Merci",
+        "artist": "Bouss",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ad64d6fa4bc04fe819d5298",
+        "url": "https://open.spotify.com/album/3f5GIQR8yJjiPg5UoCRLjB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1A5sdBCmEOxM29KtK70aP9",
+        "title": "זה קורה לאט (צביקה)",
+        "artist": "Amir Dadon",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f3807de7142e853554e08b1",
+        "url": "https://open.spotify.com/album/1A5sdBCmEOxM29KtK70aP9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6L3mB2dNBZlQQpRhPjQbP3",
+        "title": "Decenija",
+        "artist": "Ceca",
+        "type": "album",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258af92ffb5eaaa00e3ef1027",
+        "url": "https://open.spotify.com/album/6L3mB2dNBZlQQpRhPjQbP3",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0T0YD06gJQWoFkiXfSJn30",
+        "title": "Kelsh",
+        "artist": "Kalifarniya",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f6a7ae3818ff63bfc44f7d2",
+        "url": "https://open.spotify.com/album/0T0YD06gJQWoFkiXfSJn30",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0sdxuj2OEkM2ZIrzTp2rJh",
+        "title": "Портал",
+        "artist": "Galaktika",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5b0322cc97ca8296d09b720",
+        "url": "https://open.spotify.com/album/0sdxuj2OEkM2ZIrzTp2rJh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4b7WqnwfcGrEHebDv9SYO6",
+        "title": "Дракон",
+        "artist": "Galaktika",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242543975d437d97560f11eb1",
+        "url": "https://open.spotify.com/album/4b7WqnwfcGrEHebDv9SYO6",
+        "total_tracks": 1,
         "genres": []
       }
     ]
