@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-04T11:50:37.227Z",
-  "total": 4489,
+  "fetched_at": "2026-10-05T13:42:43.284Z",
+  "total": 4518,
   "by_date": {
     "2026-05-15": [
       {
@@ -49419,6 +49419,17 @@
         "url": "https://open.spotify.com/album/0tsXfguu7cngGm6VuPsMoA",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7eyv7hW1A1tara9sbIE2LF",
+        "title": "Friends That I Don't Like",
+        "artist": "Dexter and The Moonrocks",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293b6342d3037b1972e457bc4",
+        "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF",
+        "total_tracks": 14,
+        "genres": []
       }
     ],
     "2026-10-03": [
@@ -49586,6 +49597,28 @@
         "url": "https://open.spotify.com/album/1isyzejvR0rV3otoxKfGZj",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "4ZV1keuvuRMj4vbA6YEfzY",
+        "title": "I'M A BLACKHOLE",
+        "artist": "Odetari",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267657090038b80c6f15fa005",
+        "url": "https://open.spotify.com/album/4ZV1keuvuRMj4vbA6YEfzY",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2WqjkiwpP8Ks3qMt41epWo",
+        "title": "Choozay (From \"Udta Teer\")",
+        "artist": "Sachin-Jigar, Emiway Bantai, Jigar Saraiya, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-10-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ceb333bcd66b3c9eae1d82db",
+        "url": "https://open.spotify.com/album/2WqjkiwpP8Ks3qMt41epWo",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-04": [
@@ -49652,6 +49685,294 @@
         "release_date": "2026-10-04",
         "image": "https://i.scdn.co/image/ab67616d00001e0242543975d437d97560f11eb1",
         "url": "https://open.spotify.com/album/4b7WqnwfcGrEHebDv9SYO6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46aCvI14HiWB0D6iR3xA20",
+        "title": "Amar Sob Kichu Tei (From \"DeSu7\")",
+        "artist": "Jeet Gannguli, Savvy",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279974c35ff1deab1aa0dde43",
+        "url": "https://open.spotify.com/album/46aCvI14HiWB0D6iR3xA20",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GzRHni7aJVNDSO9Bzz0Qk",
+        "title": "בעיר שלי (לייב היכל מנורה)",
+        "artist": "Noam Bettan, Eden Hason",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e025935ec3e32a09d24100bfbf3",
+        "url": "https://open.spotify.com/album/5GzRHni7aJVNDSO9Bzz0Qk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0tYEJ5N8zbCyfhLRkPRUhW",
+        "title": "EL SUPPER DE HUGUITO / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, El Super de Huguito",
+        "type": "album",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218ad623acd14340c4ec5bb57",
+        "url": "https://open.spotify.com/album/0tYEJ5N8zbCyfhLRkPRUhW",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "1TkIB3mW2kfZFHHp4ED6Rt",
+        "title": "Thành-Thân",
+        "artist": "VƯƠNG BÌNH",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ca3a7ca8d38ad54baccb206",
+        "url": "https://open.spotify.com/album/1TkIB3mW2kfZFHHp4ED6Rt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5mjVrlYRezgEdlZQfpAtJO",
+        "title": "Free Johnny",
+        "artist": "Manuel",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ad41176b93091fa1129dca9",
+        "url": "https://open.spotify.com/album/5mjVrlYRezgEdlZQfpAtJO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5VuJjoAnKd2XAgldjQsRW6",
+        "title": "بخ كلو بيشوف اخوك بينخ",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9b59817e389ad194d1eec6a",
+        "url": "https://open.spotify.com/album/5VuJjoAnKd2XAgldjQsRW6",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-05": [
+      {
+        "id": "6UjCMR7x2WcwXK4ominJcN",
+        "title": "Aayi Teri Baat Mein",
+        "artist": "Palak Muchhal",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d60bbd818f5df1346eaa514",
+        "url": "https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2y8UeK4VrGuOnJxPbNZUsJ",
+        "title": "כל העולם שלי אתה",
+        "artist": "Idan Raichel, רננה חובב",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d489d7c9486cf318f8bd00a4",
+        "url": "https://open.spotify.com/album/2y8UeK4VrGuOnJxPbNZUsJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2WZldLcLQdQxO7gL7LXIlN",
+        "title": "Tão Tão Bom (Estúdio)",
+        "artist": "Fernandinho",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02859bfc9e455d432661163b78",
+        "url": "https://open.spotify.com/album/2WZldLcLQdQxO7gL7LXIlN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LXqSYlNI8GwVMctrx1BeL",
+        "title": "Salon De Nabi (Original Television Soundtrack) Pt. 3",
+        "artist": "Choi Yu Ree",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5e616d45f8f56cf7d9b6a8a",
+        "url": "https://open.spotify.com/album/2LXqSYlNI8GwVMctrx1BeL",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3Wa5T4hp0aHNN3GHFTIaoW",
+        "title": "Chandani Hindi Version (From \"Gondhal\")",
+        "artist": "Ilaiyaraaja",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcb4dde0471fbc38f4ad1b43",
+        "url": "https://open.spotify.com/album/3Wa5T4hp0aHNN3GHFTIaoW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1X60X2TGC0ClJlux8752Ej",
+        "title": "逃光行",
+        "artist": "原因は自分にある。",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc6a0c30c1b177c4f44016d2",
+        "url": "https://open.spotify.com/album/1X60X2TGC0ClJlux8752Ej",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4KhCl0g6WiRHy56zJpZaJV",
+        "title": "Sonne (Live in Mexico City)",
+        "artist": "Rammstein",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02040faa987142a289480dfbcb",
+        "url": "https://open.spotify.com/album/4KhCl0g6WiRHy56zJpZaJV",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "649oZmb613bFOM0I6buMBV",
+        "title": "Xartines Agapes",
+        "artist": "Giorgos Sabanis, Nikos Makropoulos",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf4ce194739c38f3074a11c3",
+        "url": "https://open.spotify.com/album/649oZmb613bFOM0I6buMBV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5p63oUGmqaNvltJVhMW87q",
+        "title": "SINS",
+        "artist": "Kid Milli, TRADE L",
+        "type": "album",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022374d71b9f7dc772b22afbdf",
+        "url": "https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "20uVcpJGm88kvJkyyG1FY4",
+        "title": "Dejame En Mi Nota",
+        "artist": "Bayron Fire, Mati Bomba",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c7fa8c29944118b75e578ab",
+        "url": "https://open.spotify.com/album/20uVcpJGm88kvJkyyG1FY4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5I9oVTF32EKVzuc0z9xE6v",
+        "title": "POR PILA",
+        "artist": "Jay Elite",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02065002b5770be996b9d04899",
+        "url": "https://open.spotify.com/album/5I9oVTF32EKVzuc0z9xE6v",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3opI8CbUGLO7nY4E2fOps0",
+        "title": "BLAAD",
+        "artist": "Singapūras Satīns",
+        "type": "album",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02992494c53b60d661a1b9570b",
+        "url": "https://open.spotify.com/album/3opI8CbUGLO7nY4E2fOps0",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "2eLyHkmidwkFrtMGLuxviq",
+        "title": "Ketvirtadienis",
+        "artist": "Lilas ir Innomine, Žalgiris",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260e47a7919a4b06c9da49c2e",
+        "url": "https://open.spotify.com/album/2eLyHkmidwkFrtMGLuxviq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7a8DYa6HRY7TK0AWtUDv46",
+        "title": "ICONIC HEART (Korean Version)",
+        "artist": "Hearts2Hearts",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac42ed0a00a83f97ca96c9fa",
+        "url": "https://open.spotify.com/album/7a8DYa6HRY7TK0AWtUDv46",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5U62A1oHOWYNjhRTALtmYX",
+        "title": "Bravo Aalik (Remix)",
+        "artist": "Cheb Bilal, Planete Rai",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9b0377fcaaff79fa483b369",
+        "url": "https://open.spotify.com/album/5U62A1oHOWYNjhRTALtmYX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5OU6QXz8L2mRTA4pXu7OtI",
+        "title": "Bolero Badmashan Ki Gadi",
+        "artist": "Masoom Sharma, Srishati Sharma, Amar Karnawal, Khushi Baliyan",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e4b06f9801edd719e70e15a",
+        "url": "https://open.spotify.com/album/5OU6QXz8L2mRTA4pXu7OtI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VgrmTB0XKrmdnzX8Geezd",
+        "title": "Nu vrea inima (Acustic)",
+        "artist": "Leo de la Kuweit, Manele VTM",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bfdc108f785288295c26956",
+        "url": "https://open.spotify.com/album/4VgrmTB0XKrmdnzX8Geezd",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2RcSVZ9hv0XjaXeNvanSzr",
+        "title": "Bolinha de Meia",
+        "artist": "Mc Kadu, Ducorti",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0215f8ee361d86123ee3a9402f",
+        "url": "https://open.spotify.com/album/2RcSVZ9hv0XjaXeNvanSzr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2L4SHBpAckG6UHFbvVMzHg",
+        "title": "Durga Kavach",
+        "artist": "Anuradha Paudwal",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d19877d19bae1a31e2f1f4d",
+        "url": "https://open.spotify.com/album/2L4SHBpAckG6UHFbvVMzHg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2EJT4cqM0SXoef6CpcvehN",
+        "title": "AUTOMOTIVO PENTADA",
+        "artist": "MC Nito, Conexão do Funk, DJ Teteu Original",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297a86b47885b0f553b9dbea9",
+        "url": "https://open.spotify.com/album/2EJT4cqM0SXoef6CpcvehN",
         "total_tracks": 1,
         "genres": []
       }
