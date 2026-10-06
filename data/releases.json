@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-05T13:42:43.284Z",
-  "total": 4518,
+  "fetched_at": "2026-10-06T12:49:03.216Z",
+  "total": 4538,
   "by_date": {
     "2026-05-15": [
       {
@@ -49974,6 +49974,228 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0297a86b47885b0f553b9dbea9",
         "url": "https://open.spotify.com/album/2EJT4cqM0SXoef6CpcvehN",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4g5gIL6vDqvTJ2fywP1oVy",
+        "title": "1981 - A COLORS SHOW",
+        "artist": "La Fouine, COLORS",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b98626731bcba7bf1ecad4a8",
+        "url": "https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3KMCBwaMSZmRRS9C9I7waO",
+        "title": "miss u ii (nriri)",
+        "artist": "FOLA",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9d35214a0de21a13f552c4d",
+        "url": "https://open.spotify.com/album/3KMCBwaMSZmRRS9C9I7waO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7LcgPKw1L4Ikfim1OpcBhu",
+        "title": "It's Time",
+        "artist": "Cloonee, Joseph Capriati",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029abf5bfa7729ef4a8065580e",
+        "url": "https://open.spotify.com/album/7LcgPKw1L4Ikfim1OpcBhu",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4nG9jtQqelNp5pceDWmuiK",
+        "title": "3:30AM",
+        "artist": "Cloonee, SOSA",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9683a8a2193e79103a8c627",
+        "url": "https://open.spotify.com/album/4nG9jtQqelNp5pceDWmuiK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FKyqDC277334ASiZbTJpb",
+        "title": "What Would I Do",
+        "artist": "Cloonee, Ranger Trucco",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d7c5b05d55db872fcb1f628",
+        "url": "https://open.spotify.com/album/3FKyqDC277334ASiZbTJpb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01fvILCfxWNj6qeZCSI2UB",
+        "title": "No Light at the End",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226551fb4b1cafa30a6082413",
+        "url": "https://open.spotify.com/album/01fvILCfxWNj6qeZCSI2UB",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-06": [
+      {
+        "id": "2jp6gqAZp4j0PrRryWBQQM",
+        "title": "FOSHO",
+        "artist": "Guru Randhawa, Gurjit Gill, Ary B",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aac749d52d8834c5dc3728fc",
+        "url": "https://open.spotify.com/album/2jp6gqAZp4j0PrRryWBQQM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6a7wyq3SNMhGrtYfWdGU4M",
+        "title": "自由的你",
+        "artist": "G.E.M.",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8792eb2fad9a91d60286f5b",
+        "url": "https://open.spotify.com/album/6a7wyq3SNMhGrtYfWdGU4M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5QJiocroEvTvgRQImmQhEy",
+        "title": "Siya Ram Tumhare Charano Mein",
+        "artist": "Sonu Nigam, Kunwar Anshith, Manoj Muntashir",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfbd38d5d6177d917a2c56f1",
+        "url": "https://open.spotify.com/album/5QJiocroEvTvgRQImmQhEy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TaH9UoPs5XaozqgKxtpgv",
+        "title": "Kabhi Dil Ne Chaha",
+        "artist": "Hariharan",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02057c6d017a1deecfff135cc3",
+        "url": "https://open.spotify.com/album/3TaH9UoPs5XaozqgKxtpgv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0e4p88gFJsRt1rxurhev9N",
+        "title": "Nunca Pariguayo",
+        "artist": "Kiry Curu, felix laker",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02848b180817b9a8d9cc43118b",
+        "url": "https://open.spotify.com/album/0e4p88gFJsRt1rxurhev9N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58SJuyr0nnC9CvYvvkBGMY",
+        "title": "已經離我太遠",
+        "artist": "Stephy Tang",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f7ef6deb50f5c3b1c63f692",
+        "url": "https://open.spotify.com/album/58SJuyr0nnC9CvYvvkBGMY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2l1HGQ4sykJ3TaZicCqcUL",
+        "title": "Hidden Love Songs - Bollywood",
+        "artist": "Shreya Ghoshal, Pritam, Arijit Singh",
+        "type": "compilation",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260805eff45256deb10780902",
+        "url": "https://open.spotify.com/album/2l1HGQ4sykJ3TaZicCqcUL",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0fISK3FS84Z6qz2M8MtWfz",
+        "title": "CRY OUT LOUD",
+        "artist": "Roy Kim",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263a343061c5b11e70fb021de",
+        "url": "https://open.spotify.com/album/0fISK3FS84Z6qz2M8MtWfz",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5v6CVpC9Bl45k53HL6gv7P",
+        "title": "Характер тата краса Маман",
+        "artist": "DJ KAIFAR",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293106a0738a63e4bd7d4aa10",
+        "url": "https://open.spotify.com/album/5v6CVpC9Bl45k53HL6gv7P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5l9TJ5nOPwVg4Mp9hjZYtl",
+        "title": "Kita Yang Mesra",
+        "artist": "Adrian Khalif",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df3108314e7800a08d16cf6e",
+        "url": "https://open.spotify.com/album/5l9TJ5nOPwVg4Mp9hjZYtl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2RrzOoylP6FqYAkRTwEuj4",
+        "title": "Devi Sri Prasad Hits - Remix Multiverse",
+        "artist": "Devi Sri Prasad, Viveka, Snehan, Pa. Vijay",
+        "type": "album",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289d0931be1597d5c0643e07e",
+        "url": "https://open.spotify.com/album/2RrzOoylP6FqYAkRTwEuj4",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2GPjK2mGDvENfnkRE0XQt8",
+        "title": "Bravo Aalik (Remix)",
+        "artist": "Cheb Bilal, Planete Rai",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea478042e5002caa3bd7939e",
+        "url": "https://open.spotify.com/album/2GPjK2mGDvENfnkRE0XQt8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5M5QmjwW9e3ADtSkmUWBgZ",
+        "title": "Yaar Ki Zubaan",
+        "artist": "Masoom Sharma, Swara Verma",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc72a25d8d2d6a38d0f6fb76",
+        "url": "https://open.spotify.com/album/5M5QmjwW9e3ADtSkmUWBgZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3SBdqRaqdqhTvvewlVoCQN",
+        "title": "Are You Still You?",
+        "artist": "Cloonee",
+        "type": "album",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233ef4e9cc816b6a2aac3047a",
+        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+        "total_tracks": 16,
         "genres": []
       }
     ]
