@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-06T12:49:03.216Z",
-  "total": 4538,
+  "fetched_at": "2026-10-07T12:43:08.463Z",
+  "total": 4574,
   "by_date": {
     "2026-05-15": [
       {
@@ -50041,6 +50041,160 @@
         "url": "https://open.spotify.com/album/01fvILCfxWNj6qeZCSI2UB",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0Q9pJgjS8dNvkvSVCVuggA",
+        "title": "PublicBroadcast",
+        "artist": "BONES",
+        "type": "album",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02455e5e90282db6c47cfacb37",
+        "url": "https://open.spotify.com/album/0Q9pJgjS8dNvkvSVCVuggA",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "73VvuwzLkLCqVMXgA8goaB",
+        "title": "اهد الدنيا (House Remix)",
+        "artist": "Ramy Sabry",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ff945a99c753345ba1f7f3d",
+        "url": "https://open.spotify.com/album/73VvuwzLkLCqVMXgA8goaB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4TozAUsq4oNpf57ZxnPNbb",
+        "title": "Mai e",
+        "artist": "Carla's Dreams",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e9e3a8b7f549ee1d8e588a0",
+        "url": "https://open.spotify.com/album/4TozAUsq4oNpf57ZxnPNbb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74jiybMyMq6ZBnvz8TQGHA",
+        "title": "Nu te crede Cleopatra",
+        "artist": "Nicolae Guta",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa09e92568e62cb0c3d83782",
+        "url": "https://open.spotify.com/album/74jiybMyMq6ZBnvz8TQGHA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "22fB0htKOOfulV1k5o6vi1",
+        "title": "العركة بدأت تاك تاك",
+        "artist": "Eslam Kabonga",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295a74dd2e361d3ac5c2c2772",
+        "url": "https://open.spotify.com/album/22fB0htKOOfulV1k5o6vi1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1qT7lWDsanLQ27bVVXwbWz",
+        "title": "VIITORUL SUNA BINE",
+        "artist": "DZWS",
+        "type": "album",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d65308b7e1581e3889e8407",
+        "url": "https://open.spotify.com/album/1qT7lWDsanLQ27bVVXwbWz",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "57D0JJaFINKs47PGw02IHs",
+        "title": "Запали",
+        "artist": "Torino, Pashata, Anelia",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bc312993da4ebb6bd304171",
+        "url": "https://open.spotify.com/album/57D0JJaFINKs47PGw02IHs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1poqzO5sYX98HxhUbXo7X1",
+        "title": "MURDA",
+        "artist": "lucawts",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2b21bf56ea646aa75dd356a",
+        "url": "https://open.spotify.com/album/1poqzO5sYX98HxhUbXo7X1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ozglqrdNMwHD2OXlk3f00",
+        "title": "M-am Trezit Aici (Adrian Funk x OLiX Remix)",
+        "artist": "Andia, Adrian Funk, OLiX",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02012824de2b79d86516f123b6",
+        "url": "https://open.spotify.com/album/7ozglqrdNMwHD2OXlk3f00",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6maT1neqo5d7rfYICxlfhv",
+        "title": "MICHELIN",
+        "artist": "Marso, Bilyanish",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2b0d49e281a11ac3af42a3a",
+        "url": "https://open.spotify.com/album/6maT1neqo5d7rfYICxlfhv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7B62TB6l0Flre7z3d5FI7f",
+        "title": "Irumudi (KANNADA)",
+        "artist": "G. V. Prakash",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c775214efc64b8e1f5d8668b",
+        "url": "https://open.spotify.com/album/7B62TB6l0Flre7z3d5FI7f",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "61gb17ylc7bJhk2T0GplDn",
+        "title": "Irumudi (MALAYALAM)",
+        "artist": "G. V. Prakash",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a75584adb4c297c3d54b3fe7",
+        "url": "https://open.spotify.com/album/61gb17ylc7bJhk2T0GplDn",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6ct6kZtx2ijXG7PS9Q27wA",
+        "title": "Fica Aqui Comigo",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029858478517b8c5934507d1de",
+        "url": "https://open.spotify.com/album/6ct6kZtx2ijXG7PS9Q27wA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DnoPQvCRUFIhqoof6Xdda",
+        "title": "Nevar aizliegt",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251f2d187786e68e217094151",
+        "url": "https://open.spotify.com/album/3DnoPQvCRUFIhqoof6Xdda",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-06": [
@@ -50196,6 +50350,250 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0233ef4e9cc816b6a2aac3047a",
         "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
         "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "6MzUSa70iXqSsG3JDayjms",
+        "title": "NGƯỜI XẤU",
+        "artist": "Orange, VSTRA, 52Hz",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f00c5c9f2a15b1a8051673f",
+        "url": "https://open.spotify.com/album/6MzUSa70iXqSsG3JDayjms",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0t8MP411nZ2yGVli7X9OCA",
+        "title": "人與人之間",
+        "artist": "Andy Hui",
+        "type": "album",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a7eb4778a6ad3331cf44824",
+        "url": "https://open.spotify.com/album/0t8MP411nZ2yGVli7X9OCA",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "4XSPso4zK0UwGzT6JhMBbk",
+        "title": "Chori Chori Yaar Kare Hai Mujhe Pyaar (DJ Mixed)",
+        "artist": "Kumar Sanu, Kavita Krishnamurthy, DJ Lakhan Kumar",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e023417254810cc189b684b337c",
+        "url": "https://open.spotify.com/album/4XSPso4zK0UwGzT6JhMBbk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7x5ZsaBtxUWuBVjS8Qy70l",
+        "title": "الدنيا دي مرحمتنيش ( الدنيا كوم وامي في كوم )",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac20e007f690eb9e206d1234",
+        "url": "https://open.spotify.com/album/7x5ZsaBtxUWuBVjS8Qy70l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "311PG77TzArhVJE6xARP7Q",
+        "title": "TROUBLESOME '96",
+        "artist": "Talha Anjum",
+        "type": "album",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02acff78cd918029041ac4068f",
+        "url": "https://open.spotify.com/album/311PG77TzArhVJE6xARP7Q",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1thAvrh1yM8g47UdZPQR1L",
+        "title": "Kiedy powiem sobie dość",
+        "artist": "Męskie Granie Orkiestra",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c1dc50b4b4ece4dd86851af",
+        "url": "https://open.spotify.com/album/1thAvrh1yM8g47UdZPQR1L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Nc2QvZmCl9JXz9W82FkYO",
+        "title": "Rotina de Bacana",
+        "artist": "MC Joãozinho VT, MC Tuto, Brenninho VJ, MC Fabrin",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe89577bb0306ed2bdbde3fc",
+        "url": "https://open.spotify.com/album/3Nc2QvZmCl9JXz9W82FkYO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "515VP2X4otjHMYvYUPyRz4",
+        "title": "Kirby",
+        "artist": "Conep, YOVNGCHIMI, DJ Luian",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d99f2cdf651f6eb4614a391f",
+        "url": "https://open.spotify.com/album/515VP2X4otjHMYvYUPyRz4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0QQwWdBe5slLXfNvmIMb5U",
+        "title": "3ayzin Ykhfony",
+        "artist": "Wezza Montaser",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02492ee342d2d0bc68aaa9c496",
+        "url": "https://open.spotify.com/album/0QQwWdBe5slLXfNvmIMb5U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "00BEDe1irbWSu7hhc7w4gI",
+        "title": "لما تحبى تغيظى الراجل ( اوعي تصدق كلمه اخويا )",
+        "artist": "Karim Cristiano",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b9353e79a76841792ea327b",
+        "url": "https://open.spotify.com/album/00BEDe1irbWSu7hhc7w4gI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6arzbJvmsWNQzI5aYzGwHG",
+        "title": "ROMAN EL ORIGINAL / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Roman El Original",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255b5c136a54e3a62bc0fbdbd",
+        "url": "https://open.spotify.com/album/6arzbJvmsWNQzI5aYzGwHG",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5AC9i7Ez5qZkOpNKke5lJA",
+        "title": "TVÍBRRRI",
+        "artist": "Saint Pete",
+        "type": "album",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ff69fa1498905a112e9fb52",
+        "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA",
+        "total_tracks": 8,
+        "genres": []
+      }
+    ],
+    "2026-10-07": [
+      {
+        "id": "4RFfpRkcYY9Y8liNLyWPoR",
+        "title": "Rollercoaster",
+        "artist": "IV OF SPADES",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e029525f7068b37a7cf40b3c467",
+        "url": "https://open.spotify.com/album/4RFfpRkcYY9Y8liNLyWPoR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6FGBPy6c3qwggfEORbbkvE",
+        "title": "losing day",
+        "artist": "HYUKOH, Tseng Kuo Hung",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02824e3c529d9257a824ac42c0",
+        "url": "https://open.spotify.com/album/6FGBPy6c3qwggfEORbbkvE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0B7uZ8fM9oD2XUCphO5zJ2",
+        "title": "Kucheza Unajua",
+        "artist": "Zuchu, MATUA TZ, Desmile TZ",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9e8e9a21881c503b3f93555",
+        "url": "https://open.spotify.com/album/0B7uZ8fM9oD2XUCphO5zJ2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1pEll2AomI6UfGZkeIMbh7",
+        "title": "Oh My My (Deluxe Edition)",
+        "artist": "OneRepublic",
+        "type": "album",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eda6aa1f189c24679b46c4aa",
+        "url": "https://open.spotify.com/album/1pEll2AomI6UfGZkeIMbh7",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "7mFx1IdG09P7qDFchBVESe",
+        "title": "Felicitas | Kilometros Vol, 1",
+        "artist": "Cumbia rocha",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf9344ed7a1a0bd54460563e",
+        "url": "https://open.spotify.com/album/7mFx1IdG09P7qDFchBVESe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oC5XrT6pXLB2ABhRzr5UR",
+        "title": "Indie",
+        "artist": "Major SPZ, Sergiusz",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297ec78a7126293619fabb0e9",
+        "url": "https://open.spotify.com/album/7oC5XrT6pXLB2ABhRzr5UR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0NAtej4IVfhCxJHaMoNbbb",
+        "title": "WHERE I BELONG",
+        "artist": "AMI",
+        "type": "album",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02157c1bef386df9c07759763c",
+        "url": "https://open.spotify.com/album/0NAtej4IVfhCxJHaMoNbbb",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "1KIDsw4BHNsSFIBM189eL8",
+        "title": "CRUSH ON YOU",
+        "artist": "ONE N' ONLY",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222f4eaca364ae83655edb107",
+        "url": "https://open.spotify.com/album/1KIDsw4BHNsSFIBM189eL8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PxS9ZyQycziog0iF2n3On",
+        "title": "Plaza Prado 2026 (En Vivo)",
+        "artist": "La Penúltima",
+        "type": "compilation",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02363dfc22acea1a246a5351c1",
+        "url": "https://open.spotify.com/album/2PxS9ZyQycziog0iF2n3On",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "4cP9XGsglgJIgGcy939gdQ",
+        "title": "Maa",
+        "artist": "Sonu Nigam, Bhanu Pandit, Anita Bhatt",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02582d625b09a5fb9d37c193fb",
+        "url": "https://open.spotify.com/album/4cP9XGsglgJIgGcy939gdQ",
+        "total_tracks": 1,
         "genres": []
       }
     ]
