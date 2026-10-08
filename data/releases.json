@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-07T12:43:08.463Z",
-  "total": 4574,
+  "fetched_at": "2026-10-08T12:52:34.350Z",
+  "total": 4616,
   "by_date": {
     "2026-05-15": [
       {
@@ -50483,6 +50483,61 @@
         "url": "https://open.spotify.com/album/5AC9i7Ez5qZkOpNKke5lJA",
         "total_tracks": 8,
         "genres": []
+      },
+      {
+        "id": "1aqpeRXmcJU0EAfD9Ff8zk",
+        "title": "Pukaroon Hari Om - Film Version (From \"The Great Indian Family\")",
+        "artist": "Pritam, Seemant Kale, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201db71154911f95e21630985",
+        "url": "https://open.spotify.com/album/1aqpeRXmcJU0EAfD9Ff8zk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZmHwefausuBUHEVLbaDBf",
+        "title": "Chhathi Maiya Palak Muchhal Version (From \"The Vvaan\")",
+        "artist": "Palak Muchhal, Vishal Mishra, Kaushal Kishore",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee5ba2951ffadb4be76c75ce",
+        "url": "https://open.spotify.com/album/2ZmHwefausuBUHEVLbaDBf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "77sVe4XjjylJ1ceFFV2DzG",
+        "title": "Phata Patakha (From \"Nayyi Navelli\")",
+        "artist": "G. V. Prakash, Madhubanti Bagchi, Vayu",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02634788300ab7ce627980bb36",
+        "url": "https://open.spotify.com/album/77sVe4XjjylJ1ceFFV2DzG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ztY652AQ3aOnCiBNM3bkA",
+        "title": "Midnight Magic",
+        "artist": "JSMTH",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d1025c8c326d3b1a6a9af21",
+        "url": "https://open.spotify.com/album/6ztY652AQ3aOnCiBNM3bkA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yoEC4shVUMAq3PFkg40xN",
+        "title": "See You in the Bar",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b99e047fcbe17b1f339066b",
+        "url": "https://open.spotify.com/album/3yoEC4shVUMAq3PFkg40xN",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-10-07": [
@@ -50593,6 +50648,417 @@
         "release_date": "2026-10-07",
         "image": "https://i.scdn.co/image/ab67616d00001e02582d625b09a5fb9d37c193fb",
         "url": "https://open.spotify.com/album/4cP9XGsglgJIgGcy939gdQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44j0a8Nn0DXsGTK4Z6Ctz2",
+        "title": "Street Kids (Piano / Vocal Version)",
+        "artist": "Elton John",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02672d258fb954770108af83d5",
+        "url": "https://open.spotify.com/album/44j0a8Nn0DXsGTK4Z6Ctz2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4L898G8nVXcQJ6hkc9NYw6",
+        "title": "BRACELET",
+        "artist": "Ninho, La Rvfleuze",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f8e6c2200f2269ae131ce50",
+        "url": "https://open.spotify.com/album/4L898G8nVXcQJ6hkc9NYw6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5T84dbE0RV0CiysGH15Wit",
+        "title": "Main Udega",
+        "artist": "Amit Trivedi, Junaid Ahmed, Sidhant Mago",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0210b86b77811182e8365dd593",
+        "url": "https://open.spotify.com/album/5T84dbE0RV0CiysGH15Wit",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6worZ4R26M8bcFOM1shkx8",
+        "title": "PEACE & LOVE",
+        "artist": "TIF",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aef27060264541968de49bc3",
+        "url": "https://open.spotify.com/album/6worZ4R26M8bcFOM1shkx8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "41PYeXwfA8Tenh0HajTLud",
+        "title": "Dégun",
+        "artist": "Lagui",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205e0acfee84c6e6842cc6590",
+        "url": "https://open.spotify.com/album/41PYeXwfA8Tenh0HajTLud",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iDcwHCA64gPWjepvMBdZM",
+        "title": "BOOSTER",
+        "artist": "Kizo, Paluch, clearmind",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287500718c26a36476355d01e",
+        "url": "https://open.spotify.com/album/7iDcwHCA64gPWjepvMBdZM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3sUj8I2uwwwvlzAmv1wfs4",
+        "title": "GDZIE JEST PERKA",
+        "artist": "Mata, toster2027",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1d4a8c9c55eebab5f9d95e0",
+        "url": "https://open.spotify.com/album/3sUj8I2uwwwvlzAmv1wfs4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0T9qAgRa6Q3qjHNk4wzuHE",
+        "title": "Me Olvidé Respirar (En Vivo)",
+        "artist": "Eugenia Quevedo, Rodrigo Tapari",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e025bd3e13ddb8605b8d9190aac",
+        "url": "https://open.spotify.com/album/0T9qAgRa6Q3qjHNk4wzuHE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1upfugbo7dWMMml5Qx6Izd",
+        "title": "Aș da haina de pe mine",
+        "artist": "Florin Salam, Manele VTM",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aea6fd7f12d9a497608d3d77",
+        "url": "https://open.spotify.com/album/1upfugbo7dWMMml5Qx6Izd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xLMQMoW810qzcvhv9WkTt",
+        "title": "Lo Que No Sabes Tu (En Vivo)",
+        "artist": "DesaKTa2, Valentino Merlo",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e027daada2ad03896833cee30d8",
+        "url": "https://open.spotify.com/album/4xLMQMoW810qzcvhv9WkTt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0erAqMAuBrzZRy1NtTHKM2",
+        "title": "În locul meu",
+        "artist": "Bogdan DLP",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02370c8cd1bb38780d9e5bb809",
+        "url": "https://open.spotify.com/album/0erAqMAuBrzZRy1NtTHKM2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03cvskrBSZTdKhQ7OpacaV",
+        "title": "Faisla",
+        "artist": "Masoom Sharma",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d73bbb2dad493f81c4a069da",
+        "url": "https://open.spotify.com/album/03cvskrBSZTdKhQ7OpacaV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "22BmVOKqRtGWC7jOpF2wKs",
+        "title": "VGAINO RIXNO",
+        "artist": "HermesHermes, BLVD",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4a43bab02d4ebedfd64bcc1",
+        "url": "https://open.spotify.com/album/22BmVOKqRtGWC7jOpF2wKs",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-08": [
+      {
+        "id": "5sR2p56295tlWGLk4cKaUr",
+        "title": "LAVIEM (Remixes)",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af0cea7955fde7e026e09f22",
+        "url": "https://open.spotify.com/album/5sR2p56295tlWGLk4cKaUr",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3qk4slVibaCtSoB5bdSj6P",
+        "title": "Capítulo 8",
+        "artist": "Gera MX, Rich Vagos",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c5bfa87e3890a2f43de884a",
+        "url": "https://open.spotify.com/album/3qk4slVibaCtSoB5bdSj6P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7DpKmF8rsvUD7Ixbfseyow",
+        "title": "Manuel Turizo: Lo Mejor de MT",
+        "artist": "Manuel Turizo",
+        "type": "compilation",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291420d7df7557fceb2ea50c3",
+        "url": "https://open.spotify.com/album/7DpKmF8rsvUD7Ixbfseyow",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "3PSWE9HJOHRtxAO1EfquPb",
+        "title": "Bittersweet",
+        "artist": "HOLY PRIEST",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cbafce5f82adab359b62bd6a",
+        "url": "https://open.spotify.com/album/3PSWE9HJOHRtxAO1EfquPb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hks4G4ggikb0UhxyCRHyk",
+        "title": "Se Le Da",
+        "artist": "Rey Tony, Helabusador, Jacob Forever",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9a4caf6eccbccc3bea06b0c",
+        "url": "https://open.spotify.com/album/4hks4G4ggikb0UhxyCRHyk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iCuQqBdp3URnblQgelfFL",
+        "title": "El Perdón",
+        "artist": "The La Planta, Zumbale Primo",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020373e02dc7558367a431fab6",
+        "url": "https://open.spotify.com/album/7iCuQqBdp3URnblQgelfFL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ccMGTUqbYc5ouYsS9wYjv",
+        "title": "未深入但了解",
+        "artist": "MC 張天賦",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4fa4ae92167115e436126e0",
+        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6InKtaJ5BUf6te9JrnEOdz",
+        "title": "Nem Balancei",
+        "artist": "Panda, João Gustavo e Murilo",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cd3d4deb6726fd6426a4c9b",
+        "url": "https://open.spotify.com/album/6InKtaJ5BUf6te9JrnEOdz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5cW3Mva0Gob5jJEbG157FF",
+        "title": "Ao Vivo em Goiânia - Ep.2",
+        "artist": "João Gustavo e Murilo",
+        "type": "album",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02210e2a52380bd77ac0504999",
+        "url": "https://open.spotify.com/album/5cW3Mva0Gob5jJEbG157FF",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "6qACH9R67mlG2RfEejcQzl",
+        "title": "Beautiful",
+        "artist": "Phyno",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8d7b37e68fa0a7da08bfd95",
+        "url": "https://open.spotify.com/album/6qACH9R67mlG2RfEejcQzl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4gelJyxHVhBxsC7Du3czYa",
+        "title": "Still",
+        "artist": "N.Flying",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d96722c328f8162ec5cb9a7a",
+        "url": "https://open.spotify.com/album/4gelJyxHVhBxsC7Du3czYa",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3s1JMIVeVdOI4dW84obXah",
+        "title": "כל יום שעובר לייב",
+        "artist": "Bar Tzabary",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a70e1cc59c98c832ab9aca8",
+        "url": "https://open.spotify.com/album/3s1JMIVeVdOI4dW84obXah",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6g3oTlPniVEW7YG4IrkE16",
+        "title": "以我为名的宇宙 (《此处通往繁星》电视剧主题曲)",
+        "artist": "Yisa Yu",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a2deca494c6b31b746d7d665",
+        "url": "https://open.spotify.com/album/6g3oTlPniVEW7YG4IrkE16",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2SSWJRVwgNQmmvyi0oOQFR",
+        "title": "TRALHA DE FAVELA",
+        "artist": "MC GP, DU'L, Dj Andrabeat",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223c8d12cc155b4307a283aaa",
+        "url": "https://open.spotify.com/album/2SSWJRVwgNQmmvyi0oOQFR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6p2B9XaCjhgTllt45zBufv",
+        "title": "เขียว เหลือง แดง (Get high)",
+        "artist": "PUN, THE TOYS",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208e856fed3f2737d1daee7ca",
+        "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3FZfBxvfWuGrCDdMtSpHvU",
+        "title": "Mariwana",
+        "artist": "Bensoul, Ywaya Tajiri",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b33b95f563bd72c4c5c9f72d",
+        "url": "https://open.spotify.com/album/3FZfBxvfWuGrCDdMtSpHvU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6M03fA8GJ8q9SGMgROPazK",
+        "title": "Там де чекаєш",
+        "artist": "QANO",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d03e1cfcf1bad3f43c0a798",
+        "url": "https://open.spotify.com/album/6M03fA8GJ8q9SGMgROPazK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2JJE2Q545ndUE2O1JweiG0",
+        "title": "จะกอดเธอไว้ ไม่ปล่อยให้หายไปอีกเลย",
+        "artist": "No One Else, สยาโม",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d4042a4c93be33d3843b71f",
+        "url": "https://open.spotify.com/album/2JJE2Q545ndUE2O1JweiG0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wvxwc0zXJbbBmvTgQZFRB",
+        "title": "Ring Ring",
+        "artist": "MIRA, Nuki, KOKK",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ab272ce7cf2a737c3699f3ee",
+        "url": "https://open.spotify.com/album/6wvxwc0zXJbbBmvTgQZFRB",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3n4x6E9HfB1f4aClaoINCP",
+        "title": "Bololô Session vol.2 (Vou Pra Favela) [feat. MC LUUKY, Mc Leozin & Brenninho VJ]",
+        "artist": "DJ DAVI DOGDOG, DJ Japa NK, MC Ryan SP, MC Meno K",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02630ff16b80691829eff86932",
+        "url": "https://open.spotify.com/album/3n4x6E9HfB1f4aClaoINCP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5354RQVscza2WQzQnBRJ5b",
+        "title": "Mbebe",
+        "artist": "Toxic Lyrikali",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2e8ab485140d2b4f607b991",
+        "url": "https://open.spotify.com/album/5354RQVscza2WQzQnBRJ5b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6x5DfYzmHw7QPYwGnUsGiD",
+        "title": "De Een",
+        "artist": "Acda en de Munnik",
+        "type": "album",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd9721bfa372b8e4171a32c6",
+        "url": "https://open.spotify.com/album/6x5DfYzmHw7QPYwGnUsGiD",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4I5vcyStqPbNfcNZsj3eY4",
+        "title": "Something Under the Pool",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d10b2c3cd3d489105fa43e0",
+        "url": "https://open.spotify.com/album/4I5vcyStqPbNfcNZsj3eY4",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-09": [
+      {
+        "id": "7cZJQRTTktip0yQx3t8sSs",
+        "title": "Baby Girl",
+        "artist": "PROXIE",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b4f65a014a0f3dac11f7afd",
+        "url": "https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs",
         "total_tracks": 1,
         "genres": []
       }
