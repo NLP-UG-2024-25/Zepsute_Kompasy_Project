@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-08T12:52:34.350Z",
-  "total": 4616,
+  "fetched_at": "2026-10-09T12:38:11.736Z",
+  "total": 4660,
   "by_date": {
     "2026-05-15": [
       {
@@ -50793,6 +50793,50 @@
         "url": "https://open.spotify.com/album/22BmVOKqRtGWC7jOpF2wKs",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "25xGRsas3VYhgVZLgklIVd",
+        "title": "Tum Mere Ho",
+        "artist": "Mithoon, Vishal Mishra, Mohammad Faiz, Sanju Rathod",
+        "type": "album",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222fc4e768cafad6cc847b2a6",
+        "url": "https://open.spotify.com/album/25xGRsas3VYhgVZLgklIVd",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "23TYN9oWqnqLpPUJm46kah",
+        "title": "حفلة المسرح الروماني 2026",
+        "artist": "Ramy Sabry",
+        "type": "album",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c47a83d69cfab686bef65c1c",
+        "url": "https://open.spotify.com/album/23TYN9oWqnqLpPUJm46kah",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2kwo4CMImX6wCNyJpgApVl",
+        "title": "Saza (From “Pooja Meri Jaan”)",
+        "artist": "Vishal Mishra, Vaibhav Gupta",
+        "type": "single",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021cb1368104365ae541cf3e81",
+        "url": "https://open.spotify.com/album/2kwo4CMImX6wCNyJpgApVl",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "426kB7LCC3GSjH3gk5JbW9",
+        "title": "Irumudi OST",
+        "artist": "G. V. Prakash",
+        "type": "album",
+        "release_date": "2026-10-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe660bf31f824fe62b0e374d",
+        "url": "https://open.spotify.com/album/426kB7LCC3GSjH3gk5JbW9",
+        "total_tracks": 30,
+        "genres": []
       }
     ],
     "2026-10-08": [
@@ -51048,6 +51092,149 @@
         "url": "https://open.spotify.com/album/4I5vcyStqPbNfcNZsj3eY4",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3hKreIX64Q2003E8m74Plp",
+        "title": "Suzuki (from GTAVI: The Album)",
+        "artist": "Fuerza Regida, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280028ec6e7fb8f21fb3ba153",
+        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6bu9UAwyOykarcK9fJBjCz",
+        "title": "Don’t Chart (from GTAVI: The Album)",
+        "artist": "Cardi B, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02390af57b0a65575a8673a262",
+        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xE4Kautja5zGPN1GOwKQT",
+        "title": "Every Night (feat. Don Toliver)",
+        "artist": "Offset",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f48afa2cdf2f552f2d4e2164",
+        "url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xQgu93rXVVOH83sHcAc2E",
+        "title": "Afr1n",
+        "artist": "Victor Mendivil, Omar Camacho, $HUPE",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e4782c1b0ca510e1897c818",
+        "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "78FLeZ2jRKTdzbA9ggrUcZ",
+        "title": "Neeyum Naanum Remix",
+        "artist": "Anirudh Ravichander, Thamarai, Neeti Mohan, Heart Killer Beats",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0257138f27bd30a001ef850fba",
+        "url": "https://open.spotify.com/album/78FLeZ2jRKTdzbA9ggrUcZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7FWwShGaOKHa5IX385HE2J",
+        "title": "Untitled Song",
+        "artist": "Easykid",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8b53e4dea62a1a7e13f05ac",
+        "url": "https://open.spotify.com/album/7FWwShGaOKHa5IX385HE2J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fHRY61FCATcIMjN0DPtdm",
+        "title": "9",
+        "artist": "FOLA",
+        "type": "album",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027775d0208779fa8b4ee1eedf",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "426TLSetvXiI796ITDOhU5",
+        "title": "BLOCKKIDS",
+        "artist": "THIZZY52",
+        "type": "album",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288a7fc2129eb65adf391194b",
+        "url": "https://open.spotify.com/album/426TLSetvXiI796ITDOhU5",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2iadM2f6F5VAW3Ld2focGI",
+        "title": "Oasis",
+        "artist": "Ski Aggu",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e025049cb819dfc57f3e7ab05bb",
+        "url": "https://open.spotify.com/album/2iadM2f6F5VAW3Ld2focGI",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7ClHMhKpFaFogm1M87LY0R",
+        "title": "UNA CARTA",
+        "artist": "Topboy TGR",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cb6a77e138ee8eed5bc31f3",
+        "url": "https://open.spotify.com/album/7ClHMhKpFaFogm1M87LY0R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xPeTohBI83dILN6cFuYfZ",
+        "title": "Gilete no Box (Ao Vivo)",
+        "artist": "Grupo Menos É Mais",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5b09835466e4549ebe833ba",
+        "url": "https://open.spotify.com/album/2xPeTohBI83dILN6cFuYfZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6fu2Vky35ZXLoGDzdUcHjv",
+        "title": "Pós (Ao Vivo)",
+        "artist": "Felipe e Rodrigo",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5a6ec393f8a3827c3f3312e",
+        "url": "https://open.spotify.com/album/6fu2Vky35ZXLoGDzdUcHjv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5dSZx4DPmZROE58Y0SfZak",
+        "title": "Brotherhood",
+        "artist": "Bobin Bruke",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c07133170a4b1201ba6cc439",
+        "url": "https://open.spotify.com/album/5dSZx4DPmZROE58Y0SfZak",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-09": [
@@ -51059,6 +51246,303 @@
         "release_date": "2026-10-09",
         "image": "https://i.scdn.co/image/ab67616d00001e022b4f65a014a0f3dac11f7afd",
         "url": "https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ElbHFtiBRJ0gUORdhGWu7",
+        "title": "Call Me When You’re Sober (Remastered 2026)",
+        "artist": "Evanescence",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267eb9db1d5e7e5fd2e3831d8",
+        "url": "https://open.spotify.com/album/0ElbHFtiBRJ0gUORdhGWu7",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5n3zMrSedSoon33igy3KB2",
+        "title": "BOTZ",
+        "artist": "Daddy Yankee",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258c203eb431091e6fb635396",
+        "url": "https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Xz564ZzP6YLcPBwQT6UPV",
+        "title": "No Fue Suerte",
+        "artist": "LOS DOS DE TAMAULIPAS",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0295cc4a5b2b26579fbcf782af",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5CtsIrZVFWA8rZscQ1Z64t",
+        "title": "Songs For Fall",
+        "artist": "The Cranberries",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b469cca92035739c1deabf2d",
+        "url": "https://open.spotify.com/album/5CtsIrZVFWA8rZscQ1Z64t",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "1GE38CgvNGJMxgm5lAfyOs",
+        "title": "After The Storm",
+        "artist": "Skillet",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02240b49f6f9a5362e89f64471",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3kxuW16FADFPyKmeke0wlR",
+        "title": "blue",
+        "artist": "girl in red",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226552246ce09f365f36a31ae",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6S6E0MNVUZbkZGwlzCQSWV",
+        "title": "Bad Moon Rising: Shadows on the Bayou",
+        "artist": "Creedence Clearwater Revival",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d352eb2a0776dfc75e679595",
+        "url": "https://open.spotify.com/album/6S6E0MNVUZbkZGwlzCQSWV",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2mdwvBOoAyI5v17eJW9Nds",
+        "title": "Close To Me (Solo)",
+        "artist": "Ellie Goulding, Diplo",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e398706f8f2493cbca665a62",
+        "url": "https://open.spotify.com/album/2mdwvBOoAyI5v17eJW9Nds",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DvVwgvTeursrplYuXc1Xj",
+        "title": "Ooh Laka Laka La",
+        "artist": "Enrique Iglesias, SANTOS BRAVOS",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241a89395decd8c4abb18af7f",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40IazTLGmRG2Hsbq8R4KaV",
+        "title": "LaberIntro",
+        "artist": "Canserbero",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dac534a11a21b97edd4acf77",
+        "url": "https://open.spotify.com/album/40IazTLGmRG2Hsbq8R4KaV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6bJ8cNQanzgNNzKIfQMxUC",
+        "title": "She'll Never Be Me",
+        "artist": "Britney Spears",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3ed8e9d40c6141cbcb9dbba",
+        "url": "https://open.spotify.com/album/6bJ8cNQanzgNNzKIfQMxUC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49I9McpqqUmCdr0GaXm4c9",
+        "title": "Kingdom of Fear (Acoustic)",
+        "artist": "Cameron Whitcomb",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a2987c8d0ed3ccd6401fb11",
+        "url": "https://open.spotify.com/album/49I9McpqqUmCdr0GaXm4c9",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "30bKA6XdH6Fa5ghF1O29uc",
+        "title": "Don't Forget (About Me)",
+        "artist": "Lost Frequencies",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225b06a8797b6b75dec6ee123",
+        "url": "https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4h8MJzl1FvwqLizmx8OuCA",
+        "title": "Caught Up",
+        "artist": "Marlon Hoffstadt, David Guetta",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e020351c353b53daf1c018264b9",
+        "url": "https://open.spotify.com/album/4h8MJzl1FvwqLizmx8OuCA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Gw42YnewWCUpHfpTrwAOg",
+        "title": "Church Bells",
+        "artist": "Amble",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b1a6051116fef4daea37744f",
+        "url": "https://open.spotify.com/album/7Gw42YnewWCUpHfpTrwAOg",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6ynb4cA7QCWrHKygvHm6lk",
+        "title": "HIPOTENUSA",
+        "artist": "Alex Zurdo, Madiel Lara",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266eec4cb0969aa0a51246c0a",
+        "url": "https://open.spotify.com/album/6ynb4cA7QCWrHKygvHm6lk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6orLRpvkn5fOXu7OuqqI9w",
+        "title": "The Sun Will Never Settle (Live from Malahide)",
+        "artist": "Kingfishr",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ab2edf7ec17ece390c615d3",
+        "url": "https://open.spotify.com/album/6orLRpvkn5fOXu7OuqqI9w",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1LQ92ixU0iowUe70VfqaVZ",
+        "title": "RMB (Ring My Bell) - Italian Remix",
+        "artist": "Aitch, Guè, FT Kings",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02deb43cd0aaa1cf09130d2589",
+        "url": "https://open.spotify.com/album/1LQ92ixU0iowUe70VfqaVZ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6qnrUBrKaQchwRquiP8A7o",
+        "title": "Send Shots (N:Fostell Remix)",
+        "artist": "Rudimental, Original Koffee, Winny, N:Fostell",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcf0689d99680e3ab5a1bb72",
+        "url": "https://open.spotify.com/album/6qnrUBrKaQchwRquiP8A7o",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3QjrVoDWDMx0pSV34mLM0o",
+        "title": "Stuck on You",
+        "artist": "Alex Crichton",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a146182dc5adbf4040b5012",
+        "url": "https://open.spotify.com/album/3QjrVoDWDMx0pSV34mLM0o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YNKggRKifPutSKyHEbUPq",
+        "title": "VISION",
+        "artist": "IVOXYGEN",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254b447dd6ecc7d8f1ac717e4",
+        "url": "https://open.spotify.com/album/3YNKggRKifPutSKyHEbUPq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DcNrtMakaYUsKYFWyv6zG",
+        "title": "когда наступит конец света",
+        "artist": "ooes",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc8e148066f8a68af1f0fb47",
+        "url": "https://open.spotify.com/album/0DcNrtMakaYUsKYFWyv6zG",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2cu3mSocMVwnSnV9Ge69Do",
+        "title": "Generic Everything",
+        "artist": "Chase & Status",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d30bf573b8ea60cf0aee821",
+        "url": "https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "35cfe9pqMi2wVpxT2HqEJB",
+        "title": "Fourah (Remix avec Nathan, MASUDI & El Dan Dorado)",
+        "artist": "Fally Ipupa, El Dan Dorado, MASUDI, NATHAN",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5072d2dced4571e7cbdec3e",
+        "url": "https://open.spotify.com/album/35cfe9pqMi2wVpxT2HqEJB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4yImdIG0lmAc3alJc52PGG",
+        "title": "Larger Than Life ft. Benjamin Hav",
+        "artist": "Christopher, Benjamin Hav",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02793f521245e2ff3cd1e52ee6",
+        "url": "https://open.spotify.com/album/4yImdIG0lmAc3alJc52PGG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ZwEisCHdkaTnOPpLkkefO",
+        "title": "Худший пример",
+        "artist": "uniqe",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02446ad9b93fd182eaaded7445",
+        "url": "https://open.spotify.com/album/1ZwEisCHdkaTnOPpLkkefO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0G9e3wiB41FKHJ1fIgUkEk",
+        "title": "Pas d'problèmes",
+        "artist": "Naza, Jul",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e151157df0c9f277fc1e842a",
+        "url": "https://open.spotify.com/album/0G9e3wiB41FKHJ1fIgUkEk",
         "total_tracks": 1,
         "genres": []
       }
