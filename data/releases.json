@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-09T12:38:11.736Z",
-  "total": 4660,
+  "fetched_at": "2026-10-10T11:58:11.177Z",
+  "total": 4681,
   "by_date": {
     "2026-05-15": [
       {
@@ -51235,6 +51235,72 @@
         "url": "https://open.spotify.com/album/5dSZx4DPmZROE58Y0SfZak",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1unXIJnXFCybjMUOLVFWf9",
+        "title": "Kannalane - Remix",
+        "artist": "A.R. Rahman, Vairamuthu, K. S. Chithra, Rishi",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02958fe0777c2edaee9413f46e",
+        "url": "https://open.spotify.com/album/1unXIJnXFCybjMUOLVFWf9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2SBZSmQ39wh6T6F2WleSzR",
+        "title": "Yellow Chunni (From \"Itllu Arjuna\")",
+        "artist": "Thaman S, Vishal Mishra, Sreejo",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e022278866536ef130c6115eb88",
+        "url": "https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5EHuOu31lj15vHPbzvCSFH",
+        "title": "Boom Boom",
+        "artist": "JSMTH",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ce55a24e22b8bd45efcc5af",
+        "url": "https://open.spotify.com/album/5EHuOu31lj15vHPbzvCSFH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0palH0mxkrq8t2ud7eDXbS",
+        "title": "Tāda saikne",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee4c0a930c2b16ddd0475727",
+        "url": "https://open.spotify.com/album/0palH0mxkrq8t2ud7eDXbS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7zGDJifLEZyz0RK1ssb2Cp",
+        "title": "Dzīve starp ekrāniem",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271c38da2bf3a8274ce9aea56",
+        "url": "https://open.spotify.com/album/7zGDJifLEZyz0RK1ssb2Cp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17lvJKyvRTcZYiSNsacVoJ",
+        "title": "Kad Ceļi Satiekas",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9cf7610b178189aa5fa4230",
+        "url": "https://open.spotify.com/album/17lvJKyvRTcZYiSNsacVoJ",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-09": [
@@ -51544,6 +51610,173 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e151157df0c9f277fc1e842a",
         "url": "https://open.spotify.com/album/0G9e3wiB41FKHJ1fIgUkEk",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47iPizzGjyu09MpJvKu8wh",
+        "title": "Ever Since U Left Me (UK Remix)",
+        "artist": "French Montana, Max B, Skepta, D-Block Europe",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f4309d736648df852998aae3",
+        "url": "https://open.spotify.com/album/47iPizzGjyu09MpJvKu8wh",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7Gh08NTaT7OVUQmUT0GJ76",
+        "title": "Vuelve",
+        "artist": "Anuel AA",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9bee9857e7d25a7fc6daff6",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5v75jD5MURAeY8JS8NCPoM",
+        "title": "MONTAGEM VALKARO",
+        "artist": "h6itam, Penkramin, SNYSTA",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e617ed9335e8d30f6fe8bbf9",
+        "url": "https://open.spotify.com/album/5v75jD5MURAeY8JS8NCPoM",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5EllwLTVxl7kuWxgAzkgQp",
+        "title": "X MOD 4 (Versions)",
+        "artist": "HELLBLADE, syxxsec",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc99bf7d1ac187079a0ce666",
+        "url": "https://open.spotify.com/album/5EllwLTVxl7kuWxgAzkgQp",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6m2QlEENkESok981dMEPDi",
+        "title": "limerence",
+        "artist": "DJ Javi26",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6dc3adecf102873997db09f",
+        "url": "https://open.spotify.com/album/6m2QlEENkESok981dMEPDi",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3FajkSxPacCsIGqEZyaNLI",
+        "title": "Soy Plenero",
+        "artist": "Trinix, Los Pleneros de la Cresta",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027818e489295d0470acbddd0e",
+        "url": "https://open.spotify.com/album/3FajkSxPacCsIGqEZyaNLI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17U60ryneeQTvjDa4pusdG",
+        "title": "губам",
+        "artist": "DJ ZUP RAlii",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd6ef711a165748c98860391",
+        "url": "https://open.spotify.com/album/17U60ryneeQTvjDa4pusdG",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3ilyrLylK4PB2ax5yb98ZM",
+        "title": "Easy Morning",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c6fe201f75fe195bde8ab47",
+        "url": "https://open.spotify.com/album/3ilyrLylK4PB2ax5yb98ZM",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7zYvgR6qc7FlKUetES3Oft",
+        "title": "Revma",
+        "artist": "Konstantinos Argiros",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e025a4b2c94d71ab471d7528bfa",
+        "url": "https://open.spotify.com/album/7zYvgR6qc7FlKUetES3Oft",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5YqjnkpyKkzWrEchhnUiEw",
+        "title": "Ultimate Dandiya Party",
+        "artist": "Amit Trivedi, Madhubanti Bagchi, Shreya Ghoshal, Tanishk Bagchi",
+        "type": "compilation",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200de964b53b5cc6230b76ec4",
+        "url": "https://open.spotify.com/album/5YqjnkpyKkzWrEchhnUiEw",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "483YnkDxfrASNzzNC2iQrK",
+        "title": "Hyvää Puuta",
+        "artist": "Käärijä, Joost",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b5819ea85f83a18a79fe6377",
+        "url": "https://open.spotify.com/album/483YnkDxfrASNzzNC2iQrK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5EJ5P4SXwoenXMcOCzFjf4",
+        "title": "Mirror",
+        "artist": "FORTUNA 812",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e020de127d480791e256c695a5b",
+        "url": "https://open.spotify.com/album/5EJ5P4SXwoenXMcOCzFjf4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2CKsIS7ggbsJI3RPGE2GPJ",
+        "title": "This Moment",
+        "artist": "Ava Valley",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9f08200e847cbf936373dd9",
+        "url": "https://open.spotify.com/album/2CKsIS7ggbsJI3RPGE2GPJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "754CjPS9ZEHR4bOpWd6YX3",
+        "title": "Repeat It",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f86af15e35767a81b3fceee",
+        "url": "https://open.spotify.com/album/754CjPS9ZEHR4bOpWd6YX3",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-10": [
+      {
+        "id": "1X7uf5zmkw14ciTzYjJjc5",
+        "title": "像一阵风啊",
+        "artist": "马也_Crabbit",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c35c01a2f46bebebc7d26635",
+        "url": "https://open.spotify.com/album/1X7uf5zmkw14ciTzYjJjc5",
+        "total_tracks": 2,
         "genres": []
       }
     ]
