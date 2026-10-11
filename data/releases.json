@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-10T11:58:11.177Z",
-  "total": 4681,
+  "fetched_at": "2026-10-11T12:10:12.023Z",
+  "total": 4730,
   "by_date": {
     "2026-05-15": [
       {
@@ -51765,6 +51765,237 @@
         "url": "https://open.spotify.com/album/754CjPS9ZEHR4bOpWd6YX3",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7KpY255V8Z2lC5du1920wJ",
+        "title": "MudaH",
+        "artist": "Carín León",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8d00b2b289672fb23f5f403",
+        "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "41KKB28cVV1mmotm3i2HQi",
+        "title": "The Paradise (Telugu)",
+        "artist": "Anirudh Ravichander",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a53a9638e5ad2a018bfa2b66",
+        "url": "https://open.spotify.com/album/41KKB28cVV1mmotm3i2HQi",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "1PLMz47jaGwsaHCsiK2mLk",
+        "title": "SET DO JAPA NK 3.0",
+        "artist": "DJ Japa NK, MC Ryan SP, MC Meno K, Marchi",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2db7d8f167350db74a45d0d",
+        "url": "https://open.spotify.com/album/1PLMz47jaGwsaHCsiK2mLk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Gj2orl8GZ2doSazKiJ1Oe",
+        "title": "Hoje É Sexta-Feira",
+        "artist": "DJ Oreia, MC Cebezinho",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e021453ec93b23fb624819ee451",
+        "url": "https://open.spotify.com/album/4Gj2orl8GZ2doSazKiJ1Oe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7hrMGopJhrqJD9N6irkGEk",
+        "title": "Dorul meu",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02819fd2c8f6a086a4d0fa786d",
+        "url": "https://open.spotify.com/album/7hrMGopJhrqJD9N6irkGEk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "311GySGQ7fz3n1RauxZfBF",
+        "title": "Ojitos Negros",
+        "artist": "Armonía 10 de Walther Lozada",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4cf719967b569686121b7da",
+        "url": "https://open.spotify.com/album/311GySGQ7fz3n1RauxZfBF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WGeSSam10aJqigSMTDIv9",
+        "title": "Domenica (From The Rooftop Live 2026 @ Sferisterio, Macerata)",
+        "artist": "Coez",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5eb9b03742910979fe8ef74",
+        "url": "https://open.spotify.com/album/1WGeSSam10aJqigSMTDIv9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5VRKZGvWEQZRRYooVjKQkv",
+        "title": "pop it",
+        "artist": "Gunna",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02280adcd77284ed590f9a4d7b",
+        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Bx3G8CzWGh9m0Qn4Tg9Al",
+        "title": "3ich B 9adrak",
+        "artist": "Cheba Warda",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d65185a0563192f8ebffd1cd",
+        "url": "https://open.spotify.com/album/7Bx3G8CzWGh9m0Qn4Tg9Al",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7F66TESgVVTngXd1pcn6PP",
+        "title": "Сүй жан сәулем",
+        "artist": "Yerbolat Qudaibergenov",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279a7768c426a97f6e3800353",
+        "url": "https://open.spotify.com/album/7F66TESgVVTngXd1pcn6PP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WwhSnsNZUKimfUAzug12Y",
+        "title": "Nu esti stapan pe nimic",
+        "artist": "Nicolae Guta",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268075678ef896cde454396ef",
+        "url": "https://open.spotify.com/album/1WwhSnsNZUKimfUAzug12Y",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xjbCvnNkn3rojsgoKl02j",
+        "title": "Melancolía",
+        "artist": "Gabito Ballesteros, Tombochio",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4e95c570c5549eb44b84e4f",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3VVF6lIpwTZ8iEYcN0PF5u",
+        "title": "Fearless",
+        "artist": "&TEAM",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2431dbcc640599f92d95cff",
+        "url": "https://open.spotify.com/album/3VVF6lIpwTZ8iEYcN0PF5u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0emOqJbgbUB1RGkar3Wt9Z",
+        "title": "Bėk!",
+        "artist": "bielskis",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217e8aa793fa5708d5f7d0cec",
+        "url": "https://open.spotify.com/album/0emOqJbgbUB1RGkar3Wt9Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Z2aifmIWVwmpJibmGd97E",
+        "title": "TINH HÀ \"SAY HI\" (LO-FI EDITION)",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c3120f0c18e9e6ff11412bb",
+        "url": "https://open.spotify.com/album/0Z2aifmIWVwmpJibmGd97E",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1q5VkNMDqpRmISefC0mvZQ",
+        "title": "Bahon Ke Darmiyan (Acoustic Version)",
+        "artist": "Alka Yagnik, Hariharan, Moin",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8dd0c498cb1e3192c755a97",
+        "url": "https://open.spotify.com/album/1q5VkNMDqpRmISefC0mvZQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3okVKpXVHWnBENIvQPwrdP",
+        "title": "Navratri Aarti & Bhakti Geet",
+        "artist": "Alka Yagnik, Sanjeev Chaturvedi, Arko, Asees Kaur",
+        "type": "compilation",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4826799ee154906f5ffc634",
+        "url": "https://open.spotify.com/album/3okVKpXVHWnBENIvQPwrdP",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6KBFFcHK33BT6849zSoD3N",
+        "title": "Mandaadi - Side B (Original Soundtrack)",
+        "artist": "G. V. Prakash",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d48dcb7a1e28754beee84d2",
+        "url": "https://open.spotify.com/album/6KBFFcHK33BT6849zSoD3N",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "6BnAbASUauTPDDSxYoJh4u",
+        "title": "Mandaadi - Side A (Original Soundtrack)",
+        "artist": "G. V. Prakash",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222157e023b4dd0eb210c335c",
+        "url": "https://open.spotify.com/album/6BnAbASUauTPDDSxYoJh4u",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "5yyCGhmhaYX6oY1biSnUww",
+        "title": "Welcome To The Next Dimension",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299580344e1b01a6d602a129b",
+        "url": "https://open.spotify.com/album/5yyCGhmhaYX6oY1biSnUww",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3BzE2z8AqZGNLm26HFFkO3",
+        "title": "My Addiction Is You",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a889153c095702e87401b4be",
+        "url": "https://open.spotify.com/album/3BzE2z8AqZGNLm26HFFkO3",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-10-10": [
@@ -51777,6 +52008,316 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02c35c01a2f46bebebc7d26635",
         "url": "https://open.spotify.com/album/1X7uf5zmkw14ciTzYjJjc5",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0rHoRvdJOKnSelaOsNiP4D",
+        "title": "Non Stop Garba Beats",
+        "artist": "Pritam, Arijit Singh, Jyotica Tangri, Jonita Gandhi",
+        "type": "compilation",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ce6aaa09f792abe942c1593",
+        "url": "https://open.spotify.com/album/0rHoRvdJOKnSelaOsNiP4D",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1lIM7DQ61OOS2oPomXaoO6",
+        "title": "Tamil Hits of Thaman",
+        "artist": "Thaman S",
+        "type": "compilation",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243f47d68de89f334db2fe96e",
+        "url": "https://open.spotify.com/album/1lIM7DQ61OOS2oPomXaoO6",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "2idJRFWlZASQg49Dadu1Xq",
+        "title": "Tempo",
+        "artist": "MC Leozinho ZS, SAMPAIO",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286fd17cf19115025a0b17adc",
+        "url": "https://open.spotify.com/album/2idJRFWlZASQg49Dadu1Xq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2KHaxA52aKWUNFz1kUhiCc",
+        "title": "Beste Zangers 2026 (Bizzey)",
+        "artist": "Bizzey, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcf06b475d67684d8c1d5f29",
+        "url": "https://open.spotify.com/album/2KHaxA52aKWUNFz1kUhiCc",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2jgioEj0ihGxVaKn7xWuZ2",
+        "title": "CHUNG KẾT (Anh Trai Vượt Ngàn Chông Gai 2026)",
+        "artist": "Anh Trai Vượt Ngàn Chông Gai",
+        "type": "album",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ac67a745e574c0765c94977",
+        "url": "https://open.spotify.com/album/2jgioEj0ihGxVaKn7xWuZ2",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5fjVFZslA8DLG50CqansB9",
+        "title": "ว่าไงเพื่อนรัก",
+        "artist": "Lipta",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7ca04c73507c916c04c7992",
+        "url": "https://open.spotify.com/album/5fjVFZslA8DLG50CqansB9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cgLbLpv77E7NJtbwW79PK",
+        "title": "Pra Desestressar",
+        "artist": "MC LUUKY, DJ Kaioken",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bcc34a703326b1cc732e689",
+        "url": "https://open.spotify.com/album/1cgLbLpv77E7NJtbwW79PK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zYwfOjlypq33qDNVzWVc8",
+        "title": "餓",
+        "artist": "Feanna Wong",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238def7e13c9f82b81c9c0dc0",
+        "url": "https://open.spotify.com/album/5zYwfOjlypq33qDNVzWVc8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FpUZRZ16Im6de8TfuJjsC",
+        "title": "2100 - Gen Eta (Part A)",
+        "artist": "Katerina Lioliou",
+        "type": "album",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029aa6edf9662c1837d9669623",
+        "url": "https://open.spotify.com/album/1FpUZRZ16Im6de8TfuJjsC",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "23yKsvdyBKVopG1vn7l5RP",
+        "title": "03' Bonnie & Clyde",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206b7fcd594bfd6f585a5e492",
+        "url": "https://open.spotify.com/album/23yKsvdyBKVopG1vn7l5RP",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5X0YnsnmxIKe5THL6EGiQM",
+        "title": "Tarp Tavęs Ir Manęs",
+        "artist": "Sel",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e15618cbae4df80673d395e",
+        "url": "https://open.spotify.com/album/5X0YnsnmxIKe5THL6EGiQM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "36KWYEKym6wrWkV3Af1xg3",
+        "title": "Roc Boys (And The Winner Is)...",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd075f8635449cda4b4aaa66",
+        "url": "https://open.spotify.com/album/36KWYEKym6wrWkV3Af1xg3",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "64y4juFxCPSWpSdfsxQQcR",
+        "title": "pitstop",
+        "artist": "Đorđe, Venok",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b42259881f96a738cb58f69d",
+        "url": "https://open.spotify.com/album/64y4juFxCPSWpSdfsxQQcR",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1c2L4RIw99bVhTrhF0sUwd",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261fcff7b531ef3c1136453a2",
+        "url": "https://open.spotify.com/album/1c2L4RIw99bVhTrhF0sUwd",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1cmk1tQ1rLTusk5CEfvot3",
+        "title": "ابتسامه",
+        "artist": "DEE PRODUCTION, Shotta",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dd89dcec90ec541579f30e",
+        "url": "https://open.spotify.com/album/1cmk1tQ1rLTusk5CEfvot3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73hmLVCcPnBjIT3Jeg3cty",
+        "title": "Candy Box Lover",
+        "artist": "Hearts2Hearts",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240caa7d72cfff4f81dc61c34",
+        "url": "https://open.spotify.com/album/73hmLVCcPnBjIT3Jeg3cty",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3PPLe1kikGkDL7BmSZ6B9L",
+        "title": "MABUK CINTA",
+        "artist": "lucidrari, Concerto",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d6b6534985471227f8b4cbe",
+        "url": "https://open.spotify.com/album/3PPLe1kikGkDL7BmSZ6B9L",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Euk8xfkrDVXoWxhcbGNpj",
+        "title": "Aflevering 7 - Fay Claassen",
+        "artist": "Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029110a857f503d30971657d80",
+        "url": "https://open.spotify.com/album/3Euk8xfkrDVXoWxhcbGNpj",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "5bM13CZesTFYJZCBhtNMOq",
+        "title": "Beste Zangers 2026 (Clouseau)",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02346e62243d331b7c03dfe301",
+        "url": "https://open.spotify.com/album/5bM13CZesTFYJZCBhtNMOq",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3ugj6H2zbVs8S5ocnlhT8E",
+        "title": "Beste Zangers 2026 (Zoë Livay)",
+        "artist": "Zoë Livay, Beste Zangers",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281e59041b7d8b1240b1dda3d",
+        "url": "https://open.spotify.com/album/3ugj6H2zbVs8S5ocnlhT8E",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "34mwMjLZbxsbgiWBMVwXUP",
+        "title": "Rise Without A Sound",
+        "artist": "JJ Lin",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc142732bc88e290d9f02b53",
+        "url": "https://open.spotify.com/album/34mwMjLZbxsbgiWBMVwXUP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3HNDgkxvu4dX71v1FRWfYL",
+        "title": "The Jakes Bejoy Collection",
+        "artist": "Jakes Bejoy",
+        "type": "album",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f63df6330ebd995819841630",
+        "url": "https://open.spotify.com/album/3HNDgkxvu4dX71v1FRWfYL",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "1kaYPNka5R5KFnyeRZ3Jj4",
+        "title": "REMIX COLLECTION - VOL. 1",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "album",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b34d610974dd8e37c25b0b39",
+        "url": "https://open.spotify.com/album/1kaYPNka5R5KFnyeRZ3Jj4",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0qyvGdsSiJ6bIozSsEdoYJ",
+        "title": "Back to basic (Jaywalker 2027)",
+        "artist": "Benjiz, Møkk-P, PRIMA",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02731bb12b97ab4aeaa309a781",
+        "url": "https://open.spotify.com/album/0qyvGdsSiJ6bIozSsEdoYJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AO38w4O3FWQnwlFBlyJaK",
+        "title": "The End of Galactic Night",
+        "artist": "Eon Prisma",
+        "type": "single",
+        "release_date": "2026-10-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a47e26fd67b1b889eec4a478",
+        "url": "https://open.spotify.com/album/3AO38w4O3FWQnwlFBlyJaK",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-11": [
+      {
+        "id": "2yHKAtIgMVgMKcxAKs9FTQ",
+        "title": "Vanilla·開始奏樂開始舞",
+        "artist": "Zhang Bichen",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e134d846d08f6f7eefa01165",
+        "url": "https://open.spotify.com/album/2yHKAtIgMVgMKcxAKs9FTQ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4xpVZ6u53lUR6z7M9RtZI5",
+        "title": "רוקד כל כך יפה",
+        "artist": "ליעד מאיר",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fac9dd1e5937a8dc136d25b",
+        "url": "https://open.spotify.com/album/4xpVZ6u53lUR6z7M9RtZI5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hW7As9pPYWlNAYn1QWSw0",
+        "title": "Echo After Silence",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6379dd74e60dc6a6146f5c8",
+        "url": "https://open.spotify.com/album/4hW7As9pPYWlNAYn1QWSw0",
+        "total_tracks": 1,
         "genres": []
       }
     ]
