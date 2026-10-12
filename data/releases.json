@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-11T12:10:12.023Z",
-  "total": 4730,
+  "fetched_at": "2026-10-12T14:31:33.224Z",
+  "total": 4771,
   "by_date": {
     "2026-05-15": [
       {
@@ -48724,6 +48724,17 @@
         "url": "https://open.spotify.com/album/1AmI2JkYhtQj1ZrswQBMcw",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1QFbsd56xkkvG1WE51O1bD",
+        "title": "Life 1",
+        "artist": "Quadeca",
+        "type": "album",
+        "release_date": "2026-10-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e4e4e1d8ae7643552ed0939",
+        "url": "https://open.spotify.com/album/1QFbsd56xkkvG1WE51O1bD",
+        "total_tracks": 14,
+        "genres": []
       }
     ],
     "2026-10-02": [
@@ -49429,6 +49440,61 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0293b6342d3037b1972e457bc4",
         "url": "https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF",
         "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "1wlMQzvQlRuf4zPpPBYoMT",
+        "title": "QRÖMELIFE",
+        "artist": "Quavo",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e029123c8e39e04e529d2013df9",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5jsWuuGmdHB9QFHYfukCng",
+        "title": "Crisco",
+        "artist": "Miranda Lambert",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c419a1f19f3032f2f65982f",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "6uKjWjH2r2fsgfKaIsaYWw",
+        "title": "Frequency Of Love",
+        "artist": "Victoria Monét",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296c1d798f17bede9a5457507",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "73CYSEv0ceeSLgJ8vyqKHi",
+        "title": "The Day I Hang It Up",
+        "artist": "Gavin Adcock",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c0ab64d498f4fe05176bd91f",
+        "url": "https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "6Vl0W9hhq2weIuqYbUZJJE",
+        "title": "Heaven on Mars",
+        "artist": "NoCap",
+        "type": "album",
+        "release_date": "2026-10-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e026003717c499ec27e0014dc40",
+        "url": "https://open.spotify.com/album/6Vl0W9hhq2weIuqYbUZJJE",
+        "total_tracks": 18,
         "genres": []
       }
     ],
@@ -51301,6 +51367,39 @@
         "url": "https://open.spotify.com/album/17lvJKyvRTcZYiSNsacVoJ",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7DtLXYT2f2FT95xcYDgnSD",
+        "title": "pop it",
+        "artist": "Gunna",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02160e99d9c147830e90b1ae54",
+        "url": "https://open.spotify.com/album/7DtLXYT2f2FT95xcYDgnSD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23mxsEa1VVtgWXpIx9gmyF",
+        "title": "PITCOIN",
+        "artist": "Pitbull",
+        "type": "album",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02180066773e4d659417b0380a",
+        "url": "https://open.spotify.com/album/23mxsEa1VVtgWXpIx9gmyF",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "2F2q4HeLHmn8jHHGT7RQYe",
+        "title": "Reach For The Stars",
+        "artist": "Pitbull, KISS",
+        "type": "single",
+        "release_date": "2026-10-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288537d2c19fac67826b9f9b6",
+        "url": "https://open.spotify.com/album/2F2q4HeLHmn8jHHGT7RQYe",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-09": [
@@ -51996,6 +52095,50 @@
         "url": "https://open.spotify.com/album/3BzE2z8AqZGNLm26HFFkO3",
         "total_tracks": 2,
         "genres": []
+      },
+      {
+        "id": "6zNke11RgaMOoQDruAYELb",
+        "title": "BURN (feat. Ava Max)",
+        "artist": "BigXthaPlug, Ava Max",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02356c832b0a891de81ab76270",
+        "url": "https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19cvoEE5d3pMkxLFL5TsAG",
+        "title": "Mud",
+        "artist": "Remi Wolf",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa3db827a24dd8dbaa1bf245",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "4Lkkfpt8ZkDmw4viHHi0IM",
+        "title": "PITCOIN",
+        "artist": "Pitbull",
+        "type": "album",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb5868a9fc3d54f8f0b95b0a",
+        "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM",
+        "total_tracks": 24,
+        "genres": []
+      },
+      {
+        "id": "1f0VmHdpPdcYX07LNje0MR",
+        "title": "BURN (feat. Ava Max)",
+        "artist": "BigXthaPlug, Ava Max",
+        "type": "single",
+        "release_date": "2026-10-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258e03c52b203162105c2d077",
+        "url": "https://open.spotify.com/album/1f0VmHdpPdcYX07LNje0MR",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-10": [
@@ -52317,6 +52460,316 @@
         "release_date": "2026-10-11",
         "image": "https://i.scdn.co/image/ab67616d00001e02f6379dd74e60dc6a6146f5c8",
         "url": "https://open.spotify.com/album/4hW7As9pPYWlNAYn1QWSw0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ogGuDN100OOUQqWxSpwL6",
+        "title": "Meri Maa Ne Bulaya Hai",
+        "artist": "Vishal Mishra, Kaushal Kishore",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276bc68b45fdafa6bfeb8e8ac",
+        "url": "https://open.spotify.com/album/0ogGuDN100OOUQqWxSpwL6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3PYFoWWD1GWVYSBSeycwWI",
+        "title": "Jai Ambe Bol From \"Yeh Prem Mol Liya\" (Reprise Extended)",
+        "artist": "Himesh Reshammiya, Shreya Ghoshal, Parthiv Gohil, Mayur Puri",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02441b62c26decddfb7b925f1b",
+        "url": "https://open.spotify.com/album/3PYFoWWD1GWVYSBSeycwWI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "73bYHf8sN8QL03OCVUGO9G",
+        "title": "اللي يجي يجي يلا يامراحب",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ddf7f24900060f6701ceeb22",
+        "url": "https://open.spotify.com/album/73bYHf8sN8QL03OCVUGO9G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3NOxI4ttn3YJvQhQeJTfTa",
+        "title": "Those Pe Badmashi",
+        "artist": "Masoom Sharma, Swara Verma, Vinu Gaur, Parhlad Phagna",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0227484ff8c106cdbe91d7b5ce",
+        "url": "https://open.spotify.com/album/3NOxI4ttn3YJvQhQeJTfTa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5G5pMiffom1OPpVKeiTN2j",
+        "title": "One Day",
+        "artist": "JSMTH",
+        "type": "single",
+        "release_date": "2026-10-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4f20d25e194b19b04a666c4",
+        "url": "https://open.spotify.com/album/5G5pMiffom1OPpVKeiTN2j",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-12": [
+      {
+        "id": "2u04sbbN8GsaPoe9JsQRcd",
+        "title": "You Must Love Me",
+        "artist": "Madonna",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c7b4777d61aa758c221486e",
+        "url": "https://open.spotify.com/album/2u04sbbN8GsaPoe9JsQRcd",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "7DwTwunZVxnPGmpUAxcxEN",
+        "title": "I SPY - The 4th Mini Album",
+        "artist": "NCT WISH",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0265cd6ccb20f03e763ae785d8",
+        "url": "https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6UMJ6mMYktUBnJgNXw2Sr6",
+        "title": "Trong Đôi Mắt Thiếu Nữ",
+        "artist": "RHYDER",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e025fbc69923f484eccc7d2dc0f",
+        "url": "https://open.spotify.com/album/6UMJ6mMYktUBnJgNXw2Sr6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vDIlyVJZzaJz4iw311vAj",
+        "title": "Fire Up (English Version)",
+        "artist": "Woody",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e804a2e81ca9ad0725329ed1",
+        "url": "https://open.spotify.com/album/3vDIlyVJZzaJz4iw311vAj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5jVb7JdeW7bH2q52f5lK4A",
+        "title": "Break-A-Way",
+        "artist": "Janice Vidal",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e82e43a3a970691a0b0f10a3",
+        "url": "https://open.spotify.com/album/5jVb7JdeW7bH2q52f5lK4A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3sW7jqivENm0w9uBFP07Ht",
+        "title": "It’s not a bad life",
+        "artist": "BE:FIRST",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e22bf4105c91d63eb768a5bf",
+        "url": "https://open.spotify.com/album/3sW7jqivENm0w9uBFP07Ht",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HipazmBpOsjfRMrmoet6w",
+        "title": "最愛是⋯⋯：祥の聯想",
+        "artist": "George Lam",
+        "type": "album",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e89ff1dc1924c9e88431edd9",
+        "url": "https://open.spotify.com/album/2HipazmBpOsjfRMrmoet6w",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4X6eeXmrZqvpWz3MGfqJQg",
+        "title": "My Favourite Songs Karthik",
+        "artist": "Karthik",
+        "type": "album",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e026a2d18b312abfd1102d3e46a",
+        "url": "https://open.spotify.com/album/4X6eeXmrZqvpWz3MGfqJQg",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5Si3zne2PC6ZkXOHDY2SXo",
+        "title": "GO HARD",
+        "artist": "MEOVV",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299461420f5e75af93d59f88c",
+        "url": "https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4ko1KdnymWZH0Pwl4VB4ZK",
+        "title": "Solo tu (ANUMOZ Tech Remix)",
+        "artist": "Costi, Adrian Saguna, Benzol, ANUMOZ",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a4f2d33e8e58c0d9d4f5756",
+        "url": "https://open.spotify.com/album/4ko1KdnymWZH0Pwl4VB4ZK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5IDoodLZxbcdKBgXDhxQgB",
+        "title": "Almost Lonely",
+        "artist": "Aimyon",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af00e9c2721a48be2b02cc78",
+        "url": "https://open.spotify.com/album/5IDoodLZxbcdKBgXDhxQgB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38tW98gcq2744sq33ksNYN",
+        "title": "Alabama Vs. Tennessee",
+        "artist": "Riley Green",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02501a90c27c2e921c8fcf036d",
+        "url": "https://open.spotify.com/album/38tW98gcq2744sq33ksNYN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BDUJctuTXmrVkfck5Q6Up",
+        "title": "Biba Sada Dil (Synthwave)",
+        "artist": "Nusrat Fateh Ali Khan, Moin",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290455d59cd368fec23005472",
+        "url": "https://open.spotify.com/album/5BDUJctuTXmrVkfck5Q6Up",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2LjGzqUESmhs5Y2v01kU5a",
+        "title": "エトランス・フィーバー",
+        "artist": "chotokkyu",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6c0a4474a3f9a6e4fa94514",
+        "url": "https://open.spotify.com/album/2LjGzqUESmhs5Y2v01kU5a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oWZh3okv8une19byXI9Qv",
+        "title": "Yaar Khafaa",
+        "artist": "Kumar Sanu, Raj Shekhar",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef76dbbdfefe397e5e005dba",
+        "url": "https://open.spotify.com/album/6oWZh3okv8une19byXI9Qv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0K5tLU7afMSFp0tZpXtDAb",
+        "title": "SEI QUE SE GOSTA",
+        "artist": "Mc Kadu, DJ Kaio Mix, Kissuk",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209ec1b4ebe4a05d50b3ea7d1",
+        "url": "https://open.spotify.com/album/0K5tLU7afMSFp0tZpXtDAb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0nqSneHPjSOYZrUhiUrGhG",
+        "title": "쉬어, 괜찮아",
+        "artist": "조선힙합",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5f8afccd7d7db2b1c38de07",
+        "url": "https://open.spotify.com/album/0nqSneHPjSOYZrUhiUrGhG",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6HPme6rXKQHJ2DBaqVdrj3",
+        "title": "Suprématie",
+        "artist": "La Fouine, Gazo",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4c3064d2f18700173562492",
+        "url": "https://open.spotify.com/album/6HPme6rXKQHJ2DBaqVdrj3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "20IvODSlsPVWXhlxnvgR1q",
+        "title": "HYPERDRIVE",
+        "artist": "PLAVE",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206f2ef9832e7e9fb0152b99d",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7D8hFKsaWSMj2N41G0WDUi",
+        "title": "Intro y Adicto",
+        "artist": "Charles Ans, Sabino",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a8e1b610ade8eb73dfdc4c2",
+        "url": "https://open.spotify.com/album/7D8hFKsaWSMj2N41G0WDUi",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1YBeuYwpS6xOnAKbTdBBGi",
+        "title": "\"'Notes from Another Century: Classical Masterpieces\"",
+        "artist": "Johann Sebastian Bach, Carl Philipp Emanuel Bach, Antonio Vivaldi, Frédéric Chopin, George Frideric Handel, Felix Mendelssohn, Ludwig van Beethoven, Franz Schubert, Wolfgang Amadeus Mozart, Pyotr Ilyich Tchaikovsky",
+        "type": "album",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f0e9a59eb61065f3b8effc7",
+        "url": "https://open.spotify.com/album/1YBeuYwpS6xOnAKbTdBBGi",
+        "total_tracks": 80,
+        "genres": []
+      },
+      {
+        "id": "6OzRLsogtr3QtEamRtVB9o",
+        "title": "Open Sky",
+        "artist": "Ava Valley",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020351a83d5a439ad1aee3e49f",
+        "url": "https://open.spotify.com/album/6OzRLsogtr3QtEamRtVB9o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3woRdpKiga2R4iMv96efVN",
+        "title": "El Precio de su Amor",
+        "artist": "G Romero",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028dd136cfc5b042a618a1a8c2",
+        "url": "https://open.spotify.com/album/3woRdpKiga2R4iMv96efVN",
         "total_tracks": 1,
         "genres": []
       }
