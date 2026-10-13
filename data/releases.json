@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-12T14:31:33.224Z",
-  "total": 4771,
+  "fetched_at": "2026-10-13T13:38:02.978Z",
+  "total": 4791,
   "by_date": {
     "2026-05-15": [
       {
@@ -52771,6 +52771,230 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028dd136cfc5b042a618a1a8c2",
         "url": "https://open.spotify.com/album/3woRdpKiga2R4iMv96efVN",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "43Aj35vCAMw4FKz25crj6R",
+        "title": "Nerissima",
+        "artist": "Nerissima Serpe, Fritu",
+        "type": "album",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02322519206ab521d2d8cb6fea",
+        "url": "https://open.spotify.com/album/43Aj35vCAMw4FKz25crj6R",
+        "total_tracks": 22,
+        "genres": []
+      },
+      {
+        "id": "5dcYUkOClLzrwYZXApfGcw",
+        "title": "Kisses",
+        "artist": "Dei V",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b527d4804ef316f501c07a29",
+        "url": "https://open.spotify.com/album/5dcYUkOClLzrwYZXApfGcw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2sWWLX6l7jLlbsDv7KudDL",
+        "title": "Toma Lapada Na Bct",
+        "artist": "Mc Gw, MC VN Cria, FreesTyle Sounds, DJ DX ORIGINAL",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02589b1463970bd4cb47a599f1",
+        "url": "https://open.spotify.com/album/2sWWLX6l7jLlbsDv7KudDL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74eJeDyGg3BlPsBJIU1Ymi",
+        "title": "Where Is Gone?",
+        "artist": "Fontaines D.C., ROSALÍA",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0a0c4cc23a1ad725fea81c5",
+        "url": "https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0CIFeXjeCPwCL2fvydBmtd",
+        "title": "Dientes De Fierro",
+        "artist": "Nsqk, Jean Dawson",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02446da8ee2b45c7ada72790a9",
+        "url": "https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-13": [
+      {
+        "id": "2IcyuoBzNE2AaaRzbOORd4",
+        "title": "Mise en scène",
+        "artist": "Epik High, DAVICHI",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259a62530a3b5d677344d050a",
+        "url": "https://open.spotify.com/album/2IcyuoBzNE2AaaRzbOORd4",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0Cb3XSsoTfaRKGrecIaSg5",
+        "title": "Thành-Thân (Ấn Bản Mở Rộng)",
+        "artist": "VƯƠNG BÌNH, Ngọc Sơn",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297a50a349446c5a28155a3cb",
+        "url": "https://open.spotify.com/album/0Cb3XSsoTfaRKGrecIaSg5",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5genVk6lc30aMId2Q81MEl",
+        "title": "Bandoleira (feat. MC Meno K, Mc Lele JP & Dj Daltin no Beat)",
+        "artist": "MC Ryan SP, Nego Trufa, MC Jvila, DJ Glenner",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c7f0a34ca5d2c5c95c8d58b",
+        "url": "https://open.spotify.com/album/5genVk6lc30aMId2Q81MEl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2lS9cV1rVsHCx6GhHaYM3J",
+        "title": "拼一個浪漫",
+        "artist": "PIZZALI",
+        "type": "album",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259de942a862922c3b4491419",
+        "url": "https://open.spotify.com/album/2lS9cV1rVsHCx6GhHaYM3J",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1TwVTTXfz2tr2ooTFL8WGK",
+        "title": "就算我錯漏百出",
+        "artist": "Kiri T",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02637a267df2ac6943107480f9",
+        "url": "https://open.spotify.com/album/1TwVTTXfz2tr2ooTFL8WGK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3v4rxkvhN8NPcQ7HPgrS7Q",
+        "title": "Lebih Beruntung Sedikit",
+        "artist": "Bernadya, Pamungkas",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e024039bc6c10bf26ec45924cdc",
+        "url": "https://open.spotify.com/album/3v4rxkvhN8NPcQ7HPgrS7Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "61XH0oylCD19UqolFKqI6B",
+        "title": "Baile Campero",
+        "artist": "Lucas Sugo, Soy tu Sol",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02975290eca5fac8310903fd54",
+        "url": "https://open.spotify.com/album/61XH0oylCD19UqolFKqI6B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4LA4x68UlZzgUc6A1sNwzq",
+        "title": "Heartbeat Diaries",
+        "artist": "Arijit Singh, Jyotica Tangri, Sunidhi Chauhan",
+        "type": "compilation",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02743b6f218c4dd27b7bdf3060",
+        "url": "https://open.spotify.com/album/4LA4x68UlZzgUc6A1sNwzq",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6LhnET7hygUxJosLT16cDf",
+        "title": "Розмова про Сільське Хазяйство",
+        "artist": "МУР",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e026eca480cd1fac4b13d146ba6",
+        "url": "https://open.spotify.com/album/6LhnET7hygUxJosLT16cDf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ZzWXObnHyXOvqwoenkwQS",
+        "title": "พอก่อน",
+        "artist": "9tokyo",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260c7e6d0643224dd79fe1162",
+        "url": "https://open.spotify.com/album/0ZzWXObnHyXOvqwoenkwQS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5z52hsnupgSY9eb2d9qX1B",
+        "title": "Sun Charkhe Di Mithi Mithi Ghook (Trap Mix)",
+        "artist": "Nusrat Fateh Ali Khan, Moin",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02506d07b1e3affcd48019db70",
+        "url": "https://open.spotify.com/album/5z52hsnupgSY9eb2d9qX1B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1lPHhNAuzRopZuXyKzK48O",
+        "title": "Dante Katab Ye Raja",
+        "artist": "Shilpi Raj",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201924cd4472d0008b9f39465",
+        "url": "https://open.spotify.com/album/1lPHhNAuzRopZuXyKzK48O",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2snscMmQGS2HSe2B1weKGY",
+        "title": "Lentito",
+        "artist": "Charles Ans, Sabino",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02365e9aebbc7d2fb8ae1f6dc1",
+        "url": "https://open.spotify.com/album/2snscMmQGS2HSe2B1weKGY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ZvWi2nzTiGOkeYUMhHfYr",
+        "title": "Mujer Mala",
+        "artist": "G Romero",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dee9d5a2c1cf63643e66b187",
+        "url": "https://open.spotify.com/album/6ZvWi2nzTiGOkeYUMhHfYr",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-14": [
+      {
+        "id": "1dWxgNMrfyq52yZ5SDjZgj",
+        "title": "הכל עליי",
+        "artist": "ששון איפרם שאולוב",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b6990cb8ff8eae2d1e03928",
+        "url": "https://open.spotify.com/album/1dWxgNMrfyq52yZ5SDjZgj",
+        "total_tracks": 5,
         "genres": []
       }
     ]
