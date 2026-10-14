@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-13T13:38:02.978Z",
-  "total": 4791,
+  "fetched_at": "2026-10-14T11:16:11.671Z",
+  "total": 4827,
   "by_date": {
     "2026-05-15": [
       {
@@ -52827,6 +52827,94 @@
         "url": "https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3k9krc8NesTRCICCYgO09z",
+        "title": "ดาวสีฟ้า",
+        "artist": "No One Else",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218d5665b88065467e44e4b59",
+        "url": "https://open.spotify.com/album/3k9krc8NesTRCICCYgO09z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4r0PKhedbijYmjoLqMm85y",
+        "title": "Unloveu (Clean Edit)",
+        "artist": "KATSEYE",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2afe50ead48c7345548c51f",
+        "url": "https://open.spotify.com/album/4r0PKhedbijYmjoLqMm85y",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0nPhdloFYXIqGUlNZWB67k",
+        "title": "Shing",
+        "artist": "Kapitani",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c1fb80cbf50d1de2616bb2e",
+        "url": "https://open.spotify.com/album/0nPhdloFYXIqGUlNZWB67k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "31FXYlSfZuXB03ARNcZbdM",
+        "title": "فكرة تجنن",
+        "artist": "Nasrat Al Badr, Salam Al Rasam",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c32c363ef74594477e27e01",
+        "url": "https://open.spotify.com/album/31FXYlSfZuXB03ARNcZbdM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1boIlppehJtZYKxHzdjLuj",
+        "title": "Kuula-Kuula (Kõhe versioon)",
+        "artist": "Lolala",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2897f47b6f351b2fa061c0b",
+        "url": "https://open.spotify.com/album/1boIlppehJtZYKxHzdjLuj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "10HUv04xa8kMeQYjbDdnFi",
+        "title": "Par vēlu solīt",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246c754e8e384954e621876a8",
+        "url": "https://open.spotify.com/album/10HUv04xa8kMeQYjbDdnFi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1SySrnlecgA68VzjqyPHOY",
+        "title": "Morning Wood",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02373f561f7c1146adae585b27",
+        "url": "https://open.spotify.com/album/1SySrnlecgA68VzjqyPHOY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zi0UlUiEdSXs6WLhrHAkc",
+        "title": "Sejjaht",
+        "artist": "Karm Debattista Mssp",
+        "type": "single",
+        "release_date": "2026-10-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e8bbb284fb9d25012d22bd67",
+        "url": "https://open.spotify.com/album/5zi0UlUiEdSXs6WLhrHAkc",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-13": [
@@ -52983,6 +53071,83 @@
         "url": "https://open.spotify.com/album/6ZvWi2nzTiGOkeYUMhHfYr",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0nXPL4xW2EcX1MEU0LqcF6",
+        "title": "Storm: Slowed & Nightcore Edition",
+        "artist": "SEREBRO, Batisto Grisagone",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e025008c3e21a53a70b178824c9",
+        "url": "https://open.spotify.com/album/0nXPL4xW2EcX1MEU0LqcF6",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0GYlG6wKAnnhP6pUO5ZmYa",
+        "title": "Gin Gin Tare Langdian Ratan (Live Version / Remastered)",
+        "artist": "Rahat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfcea5a9def3543379534184",
+        "url": "https://open.spotify.com/album/0GYlG6wKAnnhP6pUO5ZmYa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1dWxgNMrfyq52yZ5SDjZgj",
+        "title": "הכל עליי",
+        "artist": "ששון איפרם שאולוב",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b6990cb8ff8eae2d1e03928",
+        "url": "https://open.spotify.com/album/1dWxgNMrfyq52yZ5SDjZgj",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5I4nykZBhnvdCGBTuyUKsE",
+        "title": "Sarva Mangala Mangalaye",
+        "artist": "Ankit Tiwari",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d2bf86f26292c3c8d40d66a",
+        "url": "https://open.spotify.com/album/5I4nykZBhnvdCGBTuyUKsE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0ABVbMaLderU71g6uR9FU1",
+        "title": "goofy",
+        "artist": "Anson Lo 盧瀚霆",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee64bcf96ae8084800e45978",
+        "url": "https://open.spotify.com/album/0ABVbMaLderU71g6uR9FU1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58745aGSmbG4rHAxveiJww",
+        "title": "Unloveu",
+        "artist": "KATSEYE",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c17ee618486cb8c7adaf5107",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3JMzmmDyhZy5xRSkNFoYaD",
+        "title": "Megint nálad",
+        "artist": "Mario, Kretz",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cbae0f9e98ac50b705549224",
+        "url": "https://open.spotify.com/album/3JMzmmDyhZy5xRSkNFoYaD",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-14": [
@@ -52995,6 +53160,237 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028b6990cb8ff8eae2d1e03928",
         "url": "https://open.spotify.com/album/1dWxgNMrfyq52yZ5SDjZgj",
         "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "24oSk67TQF7dlvkVJwWtWt",
+        "title": "咲き誇れ",
+        "artist": "YOASOBI",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268faa01635ebf2a592fd715c",
+        "url": "https://open.spotify.com/album/24oSk67TQF7dlvkVJwWtWt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0FyaMUsOnxYdEEHXMWBlm0",
+        "title": "雲を抜け風下へ私だけ",
+        "artist": "ヨルシカ",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219be9f04a7bdde3b93b138ca",
+        "url": "https://open.spotify.com/album/0FyaMUsOnxYdEEHXMWBlm0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "44FAgDX3YEMQ6KmkUxCOuf",
+        "title": "Alfaaz - Vocals",
+        "artist": "Hamza Malik, Zain Zohaib",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e4e4f6df72764b68b94d250",
+        "url": "https://open.spotify.com/album/44FAgDX3YEMQ6KmkUxCOuf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "14y4V2QHlAI2bQeznVe97z",
+        "title": "Blood Brothers",
+        "artist": "Bleachers",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3af67a74f04d760fb12ba7c",
+        "url": "https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4fFQ7GjtFMfBs31YZbowFU",
+        "title": "Merry Christmas Darling (Spotify Singles Holiday)",
+        "artist": "NIKI",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02159acc77a33564ac05a611df",
+        "url": "https://open.spotify.com/album/4fFQ7GjtFMfBs31YZbowFU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1r5MGQBgXkKeKo8iah7XaJ",
+        "title": "Kiki",
+        "artist": "Juhn",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d05f5294ce833a1114aaa4c",
+        "url": "https://open.spotify.com/album/1r5MGQBgXkKeKo8iah7XaJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1MFQkGs4GF1ubUYXwRtJ6V",
+        "title": "מחרוזת מרכז תל אביב (Live)",
+        "artist": "Itay Levi",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02036413baa0fd8cbeab14b60e",
+        "url": "https://open.spotify.com/album/1MFQkGs4GF1ubUYXwRtJ6V",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1r5ImJYEt3SwLrXZjQ7sZU",
+        "title": "LEGEND",
+        "artist": "CHANMINA",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f725958737f9fcdea7fd4c9e",
+        "url": "https://open.spotify.com/album/1r5ImJYEt3SwLrXZjQ7sZU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72vDtyQq52k77K0NfPsfiG",
+        "title": "爱上 (《玉簟秋》电视剧执爱主题曲)",
+        "artist": "刘宇宁",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a4814bbc9a6f82ccb21c9da",
+        "url": "https://open.spotify.com/album/72vDtyQq52k77K0NfPsfiG",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7oIYfGvrSN74YK9cKCyxGq",
+        "title": "Différent",
+        "artist": "Bouss",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266eed6dd8ccc1f5a0fa283a1",
+        "url": "https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37Mdut0GkpHf4G4BoJDIAB",
+        "title": "Harmless Banger Kit",
+        "artist": "Coogie",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02219525d8bc54a9e76c9db3a1",
+        "url": "https://open.spotify.com/album/37Mdut0GkpHf4G4BoJDIAB",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4kBODgR33O63dN21ME3gce",
+        "title": "Мальвина 2.0",
+        "artist": "KhaliF",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae3be8f41b975663feef58aa",
+        "url": "https://open.spotify.com/album/4kBODgR33O63dN21ME3gce",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0rAQ8YL6M1CsriXQG8VCC7",
+        "title": "ขึ้นใจ (Final Call)",
+        "artist": "Mirrr, MILLI",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e024297443f47bf7b374c606e2a",
+        "url": "https://open.spotify.com/album/0rAQ8YL6M1CsriXQG8VCC7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6xilLl9yASkP2CjNIVa3so",
+        "title": "Live Ston Likavito",
+        "artist": "Michalis Hatzigiannis",
+        "type": "album",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e400560fe3f57e9a3c2f605",
+        "url": "https://open.spotify.com/album/6xilLl9yASkP2CjNIVa3so",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "4Hlww8NVHkkijLwDaZu7Pf",
+        "title": "KICHTA LOVA (feat. LILCR)",
+        "artist": "Nabi, LILCR",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c84c2ac6afffcf0f1b745a3",
+        "url": "https://open.spotify.com/album/4Hlww8NVHkkijLwDaZu7Pf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "609ZCnHLL9MR2lgEXTEb8x",
+        "title": "Expo Villeta (En Vivo)",
+        "artist": "Refugio De Amor",
+        "type": "album",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026049616517a3e6dfccfebff5",
+        "url": "https://open.spotify.com/album/609ZCnHLL9MR2lgEXTEb8x",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "0sTN6uIgTfg5foiUDXAcOJ",
+        "title": "Maukah Kau Menikah Denganku?",
+        "artist": "Judika, Tiroy Sihotang",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028acc92994eaeb6878db9384a",
+        "url": "https://open.spotify.com/album/0sTN6uIgTfg5foiUDXAcOJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hXqKyLViLmVZ9T9IHz0gG",
+        "title": "Bine ai venit în viața mea",
+        "artist": "Lele",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad06c5f70ee7037fd3b25d2e",
+        "url": "https://open.spotify.com/album/4hXqKyLViLmVZ9T9IHz0gG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2a7Wvx4jEduWHgQMze4vhV",
+        "title": "Samejenta",
+        "artist": "Breizaas",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f480e0733f8a3990e2c1015a",
+        "url": "https://open.spotify.com/album/2a7Wvx4jEduWHgQMze4vhV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1a5dbDoKPeXKPW6AW5apr1",
+        "title": "V8",
+        "artist": "Pusher, Oska030, DeeVoe, Baba Hassan",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f91944ed9d8fb0e4f3440c0",
+        "url": "https://open.spotify.com/album/1a5dbDoKPeXKPW6AW5apr1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pxqtta8Jlppz9HZdn7agQ",
+        "title": "One Window Still Burning",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255325c903e6e984efe0cc030",
+        "url": "https://open.spotify.com/album/4pxqtta8Jlppz9HZdn7agQ",
+        "total_tracks": 1,
         "genres": []
       }
     ]
