@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-14T11:16:11.671Z",
-  "total": 4827,
+  "fetched_at": "2026-10-15T10:54:54.934Z",
+  "total": 4864,
   "by_date": {
     "2026-05-15": [
       {
@@ -53148,6 +53148,72 @@
         "url": "https://open.spotify.com/album/3JMzmmDyhZy5xRSkNFoYaD",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0wlyusSNADTXNGNpY9YZRW",
+        "title": "RapBow",
+        "artist": "Ezzy R",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c38df5d55b9aa4de99f2d0a",
+        "url": "https://open.spotify.com/album/0wlyusSNADTXNGNpY9YZRW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Xcv0hVeOyTTwbZ4dSjHSo",
+        "title": "Feel Like Home",
+        "artist": "Kimo Sounds",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266e851aa906f537bfb2de214",
+        "url": "https://open.spotify.com/album/3Xcv0hVeOyTTwbZ4dSjHSo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DhxmfXDysmz1OoIboeuWV",
+        "title": "The Ultimate Mood Vol.2",
+        "artist": "Little Loove",
+        "type": "album",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9e78d463e13b03de3149130",
+        "url": "https://open.spotify.com/album/3DhxmfXDysmz1OoIboeuWV",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6uJ3yXY8z5gEUF6o8bqw0G",
+        "title": "Abar Elo Maa",
+        "artist": "Shilpa Rao, Dabbu, Rajiv Dutta",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e025274f438c06784ebfdea86f0",
+        "url": "https://open.spotify.com/album/6uJ3yXY8z5gEUF6o8bqw0G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TtsIoyY8yPjYX8rM1cM1V",
+        "title": "No Limits. Just Holdem",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250a9b8a4421cdccfc09b8cc6",
+        "url": "https://open.spotify.com/album/3TtsIoyY8yPjYX8rM1cM1V",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2bqkeCsVW9Cv0ZwbzXobo5",
+        "title": "Back In Time",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b51035f3101a67547b2e16c4",
+        "url": "https://open.spotify.com/album/2bqkeCsVW9Cv0ZwbzXobo5",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-14": [
@@ -53391,6 +53457,349 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0255325c903e6e984efe0cc030",
         "url": "https://open.spotify.com/album/4pxqtta8Jlppz9HZdn7agQ",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4XqDX4ElfD8ZDN0xr7SP0W",
+        "title": "Click Clack Symphony. (feat. Hans Zimmer) [Orchestral Mix]",
+        "artist": "RAYE, Hans Zimmer",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02350f9822ed4e0be7fb73eb3e",
+        "url": "https://open.spotify.com/album/4XqDX4ElfD8ZDN0xr7SP0W",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2NUCoWqbNiXQyFGlR19nBP",
+        "title": "Shorty Pain",
+        "artist": "NTG, Loe Shimmy",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3715f3e207e1060741689f2",
+        "url": "https://open.spotify.com/album/2NUCoWqbNiXQyFGlR19nBP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3EUBsyVWQTIIu91XLmPbpN",
+        "title": "No Lo Pienses Tanto",
+        "artist": "Lucky Brown, Tobal Mj, Nacho G Flow",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aeafaf387fe7cb7271cbf00c",
+        "url": "https://open.spotify.com/album/3EUBsyVWQTIIu91XLmPbpN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7JZMiR6EJ6KL3cwMwS7wQK",
+        "title": "Refe 2018",
+        "artist": "Amenazzy",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209ab3fe8f1eb759983d5f81f",
+        "url": "https://open.spotify.com/album/7JZMiR6EJ6KL3cwMwS7wQK",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3bAk7JphIDR448fgFWzCgq",
+        "title": "Pee Mak (Original Movie Soundtrack)",
+        "artist": "Cup of Joe, Rob Deniel, Wilbert Ross",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb85f57d8db8a48dd8599928",
+        "url": "https://open.spotify.com/album/3bAk7JphIDR448fgFWzCgq",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0UKn9STZ9BkRkWx4iyoMsX",
+        "title": "Naachte Milenge Hanumanaa",
+        "artist": "Sonu Nigam, Shaan Lochan Singh, Manoj Muntashir",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fac702b36e926636f0e98a1f",
+        "url": "https://open.spotify.com/album/0UKn9STZ9BkRkWx4iyoMsX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "362sWcKJr0sfC0zGAaJbtO",
+        "title": "ข้างเธอ",
+        "artist": "atom chanakan",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6151569672aff15417ed229",
+        "url": "https://open.spotify.com/album/362sWcKJr0sfC0zGAaJbtO",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1TTK3aZHak25aKAOksT0vv",
+        "title": "Sobrios Somos Ex",
+        "artist": "Migrantes, Nico Valdi",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218b47efc6c741758ecbf56ce",
+        "url": "https://open.spotify.com/album/1TTK3aZHak25aKAOksT0vv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7L92KU2H6I5hPFOgiqPWNO",
+        "title": "Desde Cuando (En Vivo)",
+        "artist": "Ulises Bueno",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e021680e47a00c6a091602575a0",
+        "url": "https://open.spotify.com/album/7L92KU2H6I5hPFOgiqPWNO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "20ostIhQRVDe11euj4sckX",
+        "title": "Poker face",
+        "artist": "QANO",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613ebe1d7b0d0a0388754a8",
+        "url": "https://open.spotify.com/album/20ostIhQRVDe11euj4sckX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6SCl6uaLgyhuuGkelKYGUQ",
+        "title": "Nikkumbatti",
+        "artist": "ONE11",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e025fcbc572aa9e040ca2b7d458",
+        "url": "https://open.spotify.com/album/6SCl6uaLgyhuuGkelKYGUQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0wv88MExtRopQWFwdwbho3",
+        "title": "MÄRJAKS",
+        "artist": "multimahl",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224bbdf920300a08aa22da5d4",
+        "url": "https://open.spotify.com/album/0wv88MExtRopQWFwdwbho3",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-15": [
+      {
+        "id": "3n2HAqzcZFSbXxdwJ9TnmW",
+        "title": "Déjame Extrañarte",
+        "artist": "Moy Bobadilla",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e025bceea810dd963ce0aee49cf",
+        "url": "https://open.spotify.com/album/3n2HAqzcZFSbXxdwJ9TnmW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1wqnLiqd9x2fAM0VHHvb97",
+        "title": "Blue Moon",
+        "artist": "Zara Larsson",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217de0825c1f62b5a3a1d808d",
+        "url": "https://open.spotify.com/album/1wqnLiqd9x2fAM0VHHvb97",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5DdKRGlTERfS3d88iqp4jQ",
+        "title": "Every Moment Of You [The Seasons : Sung Si-kyung's Ear Candy]",
+        "artist": "D.O.",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fe5a044dd62b3598bca5ee4",
+        "url": "https://open.spotify.com/album/5DdKRGlTERfS3d88iqp4jQ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7znjNDC9XfgvnwiGpps3GH",
+        "title": "Babuszka",
+        "artist": "Cypis, Diho, Majki, Funky Beatz",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f27402c4e0474ebb12457fb",
+        "url": "https://open.spotify.com/album/7znjNDC9XfgvnwiGpps3GH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "16mb3LzNV9LPFcYq7a04fU",
+        "title": "TATA",
+        "artist": "Loco",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2fc2a289801956ac331e43d",
+        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HDn7KxHULy0KxFwu22P2d",
+        "title": "Make me tingle (Original Television Soundtrack), Pt. 1",
+        "artist": "Wonstein",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b1b1f05c000d204f79dc57e",
+        "url": "https://open.spotify.com/album/1HDn7KxHULy0KxFwu22P2d",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4vu7qs4qkjVtwUTLzAeFO6",
+        "title": "Humsafar (From \"Tu Hai Meri Kiran\")",
+        "artist": "Vishal Mishra",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de2968fa2386de5547551bed",
+        "url": "https://open.spotify.com/album/4vu7qs4qkjVtwUTLzAeFO6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TGBSAaRm5UTWy455TzwTC",
+        "title": "In Yeonhui-dong",
+        "artist": "Zion.T",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a75b0b9bbd732628ce29cb3",
+        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6sBVb3cruV2D0O8iHl3I9A",
+        "title": "ไม่แบ่งใคร (Mine) (Live Session)",
+        "artist": "ASIA7, PROXIE",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9e94f62f4951277cd6e7021",
+        "url": "https://open.spotify.com/album/6sBVb3cruV2D0O8iHl3I9A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3idmMrUYHuWazYXyZrp741",
+        "title": "一如",
+        "artist": "Stephy Tang",
+        "type": "album",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02535dc76cfab660a8bec66701",
+        "url": "https://open.spotify.com/album/3idmMrUYHuWazYXyZrp741",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "784Q75kUVg175Op4gj2Od6",
+        "title": "艾薇塔 Evita《傳說對決 艾薇塔主題曲》",
+        "artist": "艾薇 Ivy",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f864be23178200e6504fefa",
+        "url": "https://open.spotify.com/album/784Q75kUVg175Op4gj2Od6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0W1ANoYtcZP8S888hUVQX9",
+        "title": "KINKI",
+        "artist": "El Yeyo PP, El Jabbar, JD PTY, Yaires",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b86ed7e18214c75c1ee6396a",
+        "url": "https://open.spotify.com/album/0W1ANoYtcZP8S888hUVQX9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5H3EfjnDF0TqAGle0gqgsq",
+        "title": "Fa-ti Talentu'! (Carmen)",
+        "artist": "Connect-R, Karmen",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6d39ebadddca483213e6b55",
+        "url": "https://open.spotify.com/album/5H3EfjnDF0TqAGle0gqgsq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "35XuUVaP5xOPCAKolaDwza",
+        "title": "Bebê de Academia",
+        "artist": "MC Joãozinho VT, MC Tuto, DJ Glenner",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0219bd094b209b61891f6206c2",
+        "url": "https://open.spotify.com/album/35XuUVaP5xOPCAKolaDwza",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5vb6oPi1fxVXGI5cSMRas3",
+        "title": "X",
+        "artist": "Avi, Louis Villain",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d0e39df99a831b6f6e05c39",
+        "url": "https://open.spotify.com/album/5vb6oPi1fxVXGI5cSMRas3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38IvsUBaYb9KpyoZ2h4pDL",
+        "title": "AA Gaye Se Haryana Te",
+        "artist": "Masoom Sharma, Ashu Twinkle, Until Saket",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203fd0037b73f02a2263c9d6a",
+        "url": "https://open.spotify.com/album/38IvsUBaYb9KpyoZ2h4pDL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4T4GeJXrepU3jERscnI1eq",
+        "title": "Have mercy",
+        "artist": "Chiefmaobi",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020be4fd08d5d79492c741d532",
+        "url": "https://open.spotify.com/album/4T4GeJXrepU3jERscnI1eq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2OVUBPmCORHTyYgOFHKksH",
+        "title": "Still in My Heart",
+        "artist": "Ava Valley",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ae4edebfaf9ea6d3e6700d6",
+        "url": "https://open.spotify.com/album/2OVUBPmCORHTyYgOFHKksH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2FR7ZJAacy4x7BoEfT7dup",
+        "title": "Shaping the 80s, Pt. 2",
+        "artist": "MySoul",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200f905b2048d212f14228124",
+        "url": "https://open.spotify.com/album/2FR7ZJAacy4x7BoEfT7dup",
+        "total_tracks": 4,
         "genres": []
       }
     ]
