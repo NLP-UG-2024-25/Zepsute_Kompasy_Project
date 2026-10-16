@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-15T10:54:54.934Z",
-  "total": 4864,
+  "fetched_at": "2026-10-16T10:46:39.510Z",
+  "total": 4912,
   "by_date": {
     "2026-05-15": [
       {
@@ -50604,6 +50604,17 @@
         "url": "https://open.spotify.com/album/3yoEC4shVUMAq3PFkg40xN",
         "total_tracks": 2,
         "genres": []
+      },
+      {
+        "id": "28UoxwSD6QBVNDOZRvCxNo",
+        "title": "I still dk",
+        "artist": "I Luv Da Gritty",
+        "type": "single",
+        "release_date": "2026-10-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292c5ba4d80666c9bf5a5e32e",
+        "url": "https://open.spotify.com/album/28UoxwSD6QBVNDOZRvCxNo",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-07": [
@@ -53590,6 +53601,28 @@
         "url": "https://open.spotify.com/album/0wv88MExtRopQWFwdwbho3",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2hky4LGRpZzc892hOMYxGv",
+        "title": "Flavorz Pack",
+        "artist": "Dei V",
+        "type": "album",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0f86f6582fa0b84d587ede8",
+        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "74cTcbgZGJXH8N6KYiMRUz",
+        "title": "Bastafizzak",
+        "artist": "Nancy Ajram",
+        "type": "single",
+        "release_date": "2026-10-14",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8cb206f27622ae944358097",
+        "url": "https://open.spotify.com/album/74cTcbgZGJXH8N6KYiMRUz",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-15": [
@@ -53800,6 +53833,505 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0200f905b2048d212f14228124",
         "url": "https://open.spotify.com/album/2FR7ZJAacy4x7BoEfT7dup",
         "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6JvmSyocXef7RZDZFaymNl",
+        "title": "Housewife",
+        "artist": "Tate McRae",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c6236a76fbcee4f1b8ace08",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2butoupcYhsMrCOWpM54nw",
+        "title": "Out of My Head",
+        "artist": "ANOTR",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d22604c28a024f6f3a5b6b67",
+        "url": "https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MwIrn9idZgaFbTmmzz2DG",
+        "title": "ETDK 2",
+        "artist": "Kris R.",
+        "type": "album",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02be21e09dd4b882e24c4f7a34",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6YDBrEr2LJoNsKQD3Le4eR",
+        "title": "Raven Sky",
+        "artist": "Ado",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214aa991ebc7b7225213b5bcf",
+        "url": "https://open.spotify.com/album/6YDBrEr2LJoNsKQD3Le4eR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ALh95O2ioQV7a3sW4L2CG",
+        "title": "ZUKO!",
+        "artist": "Fireboy DML",
+        "type": "album",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de1e2aeaab0a31b53c94d1d7",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "29uk1uHe8X13oqiWzKxeyN",
+        "title": "TBT 16",
+        "artist": "Noriel",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e738218437d6226c5d90eb76",
+        "url": "https://open.spotify.com/album/29uk1uHe8X13oqiWzKxeyN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Ia0spLxbq9NuWopYJ8g9v",
+        "title": "SENSACIONESS",
+        "artist": "Kidd Voodoo",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e4a051c252c2c047fca1dc2",
+        "url": "https://open.spotify.com/album/0Ia0spLxbq9NuWopYJ8g9v",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5bAhyAktQQvqvJhBNSrS3b",
+        "title": "العيله",
+        "artist": "Ahmed Saad",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02399a462720ccec20419d13ee",
+        "url": "https://open.spotify.com/album/5bAhyAktQQvqvJhBNSrS3b",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-16": [
+      {
+        "id": "1q9LM9xC5ebSY216u31FOx",
+        "title": "expectations (feat. Chappell Roan)",
+        "artist": "Olivia Rodrigo, Chappell Roan",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02706ab55cf3e8cb64efb0ccba",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3EB8m11r5Rls7NtOU7mkx5",
+        "title": "Patient Zero",
+        "artist": "Taylor Swift",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225251c06d0220ed2f1becb00",
+        "url": "https://open.spotify.com/album/3EB8m11r5Rls7NtOU7mkx5",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "61Sce8yicPSTcvGnBQAKgb",
+        "title": "Baby",
+        "artist": "The Chainsmokers",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02060079d1b7e0a8f7bee405df",
+        "url": "https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "09X99K8sYoPQZ0n8nYhrUv",
+        "title": "Sex & Drugs",
+        "artist": "Temper City",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fabd0c1dc8f8f2742fbed509",
+        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03HD0ohJOvejRoesXWKZFl",
+        "title": "The Girl Of Your Dreams",
+        "artist": "Ashe",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efe09b635b15763133198101",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "385M8ex7dAinRxjMHlY9Ph",
+        "title": "Loverboy (Remix)",
+        "artist": "Mariah Carey",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c62a72001e94381c7dd3c22",
+        "url": "https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1LHFpC2rfMkx72OwSODiiJ",
+        "title": "prada",
+        "artist": "Lil Peep",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aeca9eb7c96a4bbe7682fba5",
+        "url": "https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3c4YSsbZQRcnnFPni2ORG8",
+        "title": "Last Laugh [archive tape]",
+        "artist": "LUCKI",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02deb35ec4f121e2bbad0b1367",
+        "url": "https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "4q7mI2Qh8J13e1IWkXCXdA",
+        "title": "H.O.U.S.E",
+        "artist": "HUGEL, Snoop Dogg",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280b0e9f375fe05b07b3a446d",
+        "url": "https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "09MFYa0kaj2G2LpRZfKUyo",
+        "title": "Before You Know It",
+        "artist": "Kygo, Ava Max",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b7f5ca7addb0cd2f3dc004a3",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32MsSrsPuTTYwJz5fZcu6e",
+        "title": "uno+1",
+        "artist": "Alleh",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f6122b7c6c499a67796a275",
+        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JICUfSKOdGqzE9FJSrNci",
+        "title": "Dopamine Chamber",
+        "artist": "Fontaines D.C.",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a01e49054c2135f979e06de0",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "6nMEV7d2KdbVBy0BZrdgQi",
+        "title": "III. One Day (Suite from Pirates of the Caribbean)",
+        "artist": "Hans Zimmer, Henry Jackman, John Sponsler, Tom Gire, Anna Lapwood",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269339683e5ce30b381c5a90f",
+        "url": "https://open.spotify.com/album/6nMEV7d2KdbVBy0BZrdgQi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ZXpL4NUGACLpFdYpAUklt",
+        "title": "Después De Un KO (Knockout) [From the Motion Picture \"Campeón Gabacho\"]",
+        "artist": "Rawayana",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225e55d7cb695609856b8c411",
+        "url": "https://open.spotify.com/album/3ZXpL4NUGACLpFdYpAUklt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2Ci0O6Uf86Mj0fNwDuygCl",
+        "title": "Todo Pasa Por Algo",
+        "artist": "Banda El Recodo",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e022337ca7d0fa07a1d6f64df9d",
+        "url": "https://open.spotify.com/album/2Ci0O6Uf86Mj0fNwDuygCl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45G5tlUBB4G9SpIPlNWT9e",
+        "title": "The Ant and the Grasshopper",
+        "artist": "Nursery Rhymes 123",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbb0b3001acd10222a2c46c7",
+        "url": "https://open.spotify.com/album/45G5tlUBB4G9SpIPlNWT9e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4hcegnEOFKkp8qKlgDzirk",
+        "title": "Think of You",
+        "artist": "KETTAMA, Prospa, Rohan Pinnock-Hamilton",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02905df05c683b600c87832fb7",
+        "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03SRJBJIqoJOQhcdso8JXc",
+        "title": "Tú Tú Tú",
+        "artist": "T3R Elemento, Emmanuel Cortes",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b99d53f4969e675e95744aa",
+        "url": "https://open.spotify.com/album/03SRJBJIqoJOQhcdso8JXc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zZJ84kY618UvAtkDX6w8X",
+        "title": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+        "artist": "Victony, Summer Walker",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240bebf44b41c08ca818c1ee1",
+        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ahPZGqNNBmA56jUJUGE67",
+        "title": "A State of Trance - Tune of the Year: 25th Anniversary Collection",
+        "artist": "Armin van Buuren, Armin van Buuren ASOT Classics, Armin van Buuren ASOT Radio",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02073076e41d91c5613d3b7198",
+        "url": "https://open.spotify.com/album/6ahPZGqNNBmA56jUJUGE67",
+        "total_tracks": 49,
+        "genres": []
+      },
+      {
+        "id": "3aOq7YwgI0lUGkmQmGno7I",
+        "title": "Chiltern Firehouse .",
+        "artist": "fakemink, Skepta",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecfc27fbfdc6b4c0bbacab7a",
+        "url": "https://open.spotify.com/album/3aOq7YwgI0lUGkmQmGno7I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5B0KOoGFvwESmztitghvQo",
+        "title": "LUCKY LUKE",
+        "artist": "HARDWICK",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024380b6804b59099d7c38d635",
+        "url": "https://open.spotify.com/album/5B0KOoGFvwESmztitghvQo",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2VmBZ9e83yVxu4CFMpMOjq",
+        "title": "Instinct",
+        "artist": "Angèle",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
+        "url": "https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6c4Dv3U3Sf325JaOQsOddD",
+        "title": "Shabnam | Coke Studio Nu.WAV",
+        "artist": "Maanu, Zoha Waseem, Talal Qureshi",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02051bb4505fa818a91e259b59",
+        "url": "https://open.spotify.com/album/6c4Dv3U3Sf325JaOQsOddD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BaYBsy0FlFCZpRfU4GTHr",
+        "title": "HAYEK",
+        "artist": "Dopebwoy",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281402b8ea1db95d287144b26",
+        "url": "https://open.spotify.com/album/4BaYBsy0FlFCZpRfU4GTHr",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "66F8JYgynCYmmvGb9plaru",
+        "title": "SACRED",
+        "artist": "IVOXYGEN, HXPETRAIN, zaichkou888",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f1d79564bb689c3d482773b",
+        "url": "https://open.spotify.com/album/66F8JYgynCYmmvGb9plaru",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2fpizgi6ekOCj8meNum056",
+        "title": "+ BULLSHIT",
+        "artist": "Topboy TGR",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b62d3547f95a14ab1cf4113a",
+        "url": "https://open.spotify.com/album/2fpizgi6ekOCj8meNum056",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "16ODpjkERKGnEtU4BMQyV8",
+        "title": "Тайный город",
+        "artist": "Icegergert",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e021d4a3742ee0665e66d5b31cd",
+        "url": "https://open.spotify.com/album/16ODpjkERKGnEtU4BMQyV8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5w2TZwzYr7NSooa5tRYXHv",
+        "title": "УЛЕТАЙ",
+        "artist": "lightprey",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208e766172eff6c6b6c04e73a",
+        "url": "https://open.spotify.com/album/5w2TZwzYr7NSooa5tRYXHv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7q01MmYmGGFHADR5RYC54G",
+        "title": "J'assume",
+        "artist": "RnBoi",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ece085d25e2757f6c798a86",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GQv9fO8cPaKZtIoQT7qFK",
+        "title": "TUTTO È POSSIBILE - ATTO II",
+        "artist": "Geolier",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa24f6d0fae0fb6ee01169c5",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "3GQiU9BMpDG3ukXglrLzGI",
+        "title": "На рейвах",
+        "artist": "Lida",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a97f64afa653a1eb62001706",
+        "url": "https://open.spotify.com/album/3GQiU9BMpDG3ukXglrLzGI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6y0Szt7uGqMiQ6XT7JHPVp",
+        "title": "Lumen",
+        "artist": "FTR$",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d5b27fee821099dddb9912d",
+        "url": "https://open.spotify.com/album/6y0Szt7uGqMiQ6XT7JHPVp",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5zW3FGv3saNk8xSE3r1YWc",
+        "title": "Kamikaze Cup",
+        "artist": "YUNO MISFIT",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c85637a7b7a916843aa5ace7",
+        "url": "https://open.spotify.com/album/5zW3FGv3saNk8xSE3r1YWc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0VzyiwPUe4aH6bmWjcnelc",
+        "title": "Fljótið",
+        "artist": "Haraldur",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8622fa24f9abe790e9e4dbc",
+        "url": "https://open.spotify.com/album/0VzyiwPUe4aH6bmWjcnelc",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "33oVJ97NUXb4Q1PXuFoysW",
+        "title": "designer ass gesond 4",
+        "artist": "Vintage.Justin",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfca9ab00587b92326eaa692",
+        "url": "https://open.spotify.com/album/33oVJ97NUXb4Q1PXuFoysW",
+        "total_tracks": 10,
+        "genres": []
+      }
+    ],
+    "2026-10-23": [
+      {
+        "id": "0KjKJtnCJ1BpYi7M2DzyD3",
+        "title": "Obsession (feat. Ty Dolla $ign)",
+        "artist": "MK",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026a2c93bcdd42a8303fbb560d",
+        "url": "https://open.spotify.com/album/0KjKJtnCJ1BpYi7M2DzyD3",
+        "total_tracks": 2,
         "genres": []
       }
     ]
