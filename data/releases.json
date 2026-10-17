@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-16T10:46:39.510Z",
-  "total": 4912,
+  "fetched_at": "2026-10-17T10:12:24.827Z",
+  "total": 4937,
   "by_date": {
     "2026-05-15": [
       {
@@ -53922,6 +53922,94 @@
         "url": "https://open.spotify.com/album/5bAhyAktQQvqvJhBNSrS3b",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6ywGBu7bbtMTzzdb46iRs7",
+        "title": "SABIA DELUXE",
+        "artist": "Los Dareyes De La Sierra",
+        "type": "album",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f76787c295bb69ee621aa018",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7",
+        "total_tracks": 31,
+        "genres": []
+      },
+      {
+        "id": "4kdr71mYm6KS8Wxt5TRLPh",
+        "title": "Me Regalo Contigo",
+        "artist": "Santa Fe Klan",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02328dffcb4cf9556632851dba",
+        "url": "https://open.spotify.com/album/4kdr71mYm6KS8Wxt5TRLPh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "79iMHCOVwGFO7i8xn3S7T8",
+        "title": "عايش | ريد بُل مزيكا صالونات",
+        "artist": "Marwan Pablo, Hesham Nazih, Red Bull Sika",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3b940c4a479dd21f5eebf7d",
+        "url": "https://open.spotify.com/album/79iMHCOVwGFO7i8xn3S7T8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Jk7bUbDBaHvsU7j67IHJ2",
+        "title": "Can't Sue Me",
+        "artist": "Skusta Clee, Flow G",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5746abea97341a7ee063186",
+        "url": "https://open.spotify.com/album/6Jk7bUbDBaHvsU7j67IHJ2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0vbHMnRXW9YZPHo3ygNd6v",
+        "title": "Dzīvojam tikai vienreiz",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff031cf2613815f851e3bb5d",
+        "url": "https://open.spotify.com/album/0vbHMnRXW9YZPHo3ygNd6v",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Q1ZmXkcdSCiSGqryXS5UF",
+        "title": "Es Nepaliku Svešs",
+        "artist": "Vētra Music",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da15f100ab7669f2fe597dce",
+        "url": "https://open.spotify.com/album/0Q1ZmXkcdSCiSGqryXS5UF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40HvFdURsCarmxKEGC1mKj",
+        "title": "Sold Me Out",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e0286aa62b27b0fd02657e7642d",
+        "url": "https://open.spotify.com/album/40HvFdURsCarmxKEGC1mKj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5kBrErf8XOXIJCj98zoI8U",
+        "title": "Tension Release",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e020335a7e6d72de88c44b4c90c",
+        "url": "https://open.spotify.com/album/5kBrErf8XOXIJCj98zoI8U",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-16": [
@@ -54320,6 +54408,160 @@
         "url": "https://open.spotify.com/album/33oVJ97NUXb4Q1PXuFoysW",
         "total_tracks": 10,
         "genres": []
+      },
+      {
+        "id": "77SbU8zsjIG7W53BURvr65",
+        "title": "Great Expectation (Live from the 2026 VMAs)",
+        "artist": "SIENNA SPIRO",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0452b67f6a5bed5577aa11f",
+        "url": "https://open.spotify.com/album/77SbU8zsjIG7W53BURvr65",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4bYKT4TR81oEeu5j8Je813",
+        "title": "Shroom Clouds (feat. reggie & Jeremih)",
+        "artist": "A$AP Rocky, reggie, Jeremih",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b87c1110a1fc511700a4fa3",
+        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1O2BobyL6J7bcat222sLAz",
+        "title": "Rabbit Gets The Gun",
+        "artist": "Cody Johnson, Jay Buchanan",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e026eeae643eb1c57b3107ee42e",
+        "url": "https://open.spotify.com/album/1O2BobyL6J7bcat222sLAz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5eV2ysYBfmrVpNEGKaV9QT",
+        "title": "Good Morning World",
+        "artist": "CoComelon",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02152bf255796bd9e46b691ee6",
+        "url": "https://open.spotify.com/album/5eV2ysYBfmrVpNEGKaV9QT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3i8eqrtiheOxXnnJVA2IlZ",
+        "title": "Neeyum Naanum Lofi Remix",
+        "artist": "Anirudh Ravichander, Thamarai, Neeti Mohan, Som3bdy",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268924b514d7583f347d1e962",
+        "url": "https://open.spotify.com/album/3i8eqrtiheOxXnnJVA2IlZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5LMQqfEASaqZJHtXZdm9xj",
+        "title": "Pancha EP",
+        "artist": "Ya Ice Dilan",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240a17cd279d29cb6c9a2e31e",
+        "url": "https://open.spotify.com/album/5LMQqfEASaqZJHtXZdm9xj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2knJBFFEYk8fct26mnXNrW",
+        "title": "JUMPMAC6",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdbfb2abe6ba9b07dc4f7cbf",
+        "url": "https://open.spotify.com/album/2knJBFFEYk8fct26mnXNrW",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "2tgOkBZgGuMHMtL04cASl0",
+        "title": "Kiss My Eyes (Nico Zandolino Remix)",
+        "artist": "Bob Sinclar, Nico Zandolino",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb61fc828ae8f96c308f821d",
+        "url": "https://open.spotify.com/album/2tgOkBZgGuMHMtL04cASl0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6tzZiMZNTVvCRFNJSOJEZm",
+        "title": "La vida que nos espera (feat. Gilberto Santa Rosa)",
+        "artist": "Pablo Alborán, Gilberto Santa Rosa",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b4dfda0e5f369da4741cc8b",
+        "url": "https://open.spotify.com/album/6tzZiMZNTVvCRFNJSOJEZm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6oN0sR2tfyLtwLtPCeoIGA",
+        "title": "No Te Conozco",
+        "artist": "Franco \"El Gorilla\", Fronti",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6f4a7dfc41808ff4c113008",
+        "url": "https://open.spotify.com/album/6oN0sR2tfyLtwLtPCeoIGA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FIW6hQYWnb3QpiztyuAx4",
+        "title": "TOMA CABEÇADA",
+        "artist": "-Prey, ToufG, TVNXi",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a86b60253281ff68582dcc3",
+        "url": "https://open.spotify.com/album/1FIW6hQYWnb3QpiztyuAx4",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "072SQotjjkhV0HL9u9GWsN",
+        "title": "Four To The Floor (Cloned Version)",
+        "artist": "Ofenbach, Starsailor",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027cf45aa10941fe88cf0dfc91",
+        "url": "https://open.spotify.com/album/072SQotjjkhV0HL9u9GWsN",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5w8BWgvkabp4eWuP0YgR3A",
+        "title": "Udta Teer (Original Motion Picture Soundtrack)",
+        "artist": "Sachin-Jigar, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02765858150b49389c64064f2c",
+        "url": "https://open.spotify.com/album/5w8BWgvkabp4eWuP0YgR3A",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4n0nTB8pIwlLsGN3ugFXHC",
+        "title": "Life in Bloom",
+        "artist": "JESSE, Posple",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205c3202f5df5918d4cd90f9e",
+        "url": "https://open.spotify.com/album/4n0nTB8pIwlLsGN3ugFXHC",
+        "total_tracks": 9,
+        "genres": []
       }
     ],
     "2026-10-23": [
@@ -54332,6 +54574,41 @@
         "image": "https://i.scdn.co/image/ab67616d00001e026a2c93bcdd42a8303fbb560d",
         "url": "https://open.spotify.com/album/0KjKJtnCJ1BpYi7M2DzyD3",
         "total_tracks": 2,
+        "genres": []
+      }
+    ],
+    "2026-10-17": [
+      {
+        "id": "2e0V2Ak71eQTH2cmVqOuOq",
+        "title": "I Just Wanna Love U (Give It 2 Me)",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216f6a87b36b7c7b6d043686c",
+        "url": "https://open.spotify.com/album/2e0V2Ak71eQTH2cmVqOuOq",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "69F5Brn6dhja0I4cXA4tla",
+        "title": "Ħamiema Bajda",
+        "artist": "The JoyGivers",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026def2012872224d074457ddb",
+        "url": "https://open.spotify.com/album/69F5Brn6dhja0I4cXA4tla",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "015gPzvq6MpEFUBtuOIMzd",
+        "title": "Red Lights Ahead",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026471f88facf74c3fd2a5e38c",
+        "url": "https://open.spotify.com/album/015gPzvq6MpEFUBtuOIMzd",
+        "total_tracks": 1,
         "genres": []
       }
     ]
