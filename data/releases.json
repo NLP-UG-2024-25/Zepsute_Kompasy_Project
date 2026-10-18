@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-17T10:12:24.827Z",
-  "total": 4937,
+  "fetched_at": "2026-10-18T10:27:37.938Z",
+  "total": 4983,
   "by_date": {
     "2026-05-15": [
       {
@@ -54562,6 +54562,193 @@
         "url": "https://open.spotify.com/album/4n0nTB8pIwlLsGN3ugFXHC",
         "total_tracks": 9,
         "genres": []
+      },
+      {
+        "id": "3sv5hVQYu4FB7kOPQrgZPc",
+        "title": "Kaali Hoodie",
+        "artist": "Sidhu Moose Wala, Bohemia, The Kidd",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b73c99c11303fea05786e87",
+        "url": "https://open.spotify.com/album/3sv5hVQYu4FB7kOPQrgZPc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "22sKPJ4HaJbLghwRQXac1u",
+        "title": "Young Manhood and Other Donatable Organs",
+        "artist": "Zach Bryan",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba70a696fe52aadc49d9d63b",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "23jiSmKXfw5t0lRXk6QPB9",
+        "title": "Against All Odds",
+        "artist": "Gucci Mane",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e025be741623ae153f969adf7e9",
+        "url": "https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "1ePjvJSvlccZnTibJPCOEi",
+        "title": "正或反",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02392d869341c91ea66a5aa216",
+        "url": "https://open.spotify.com/album/1ePjvJSvlccZnTibJPCOEi",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "68Eo39p4QARbUXE7P7SYhk",
+        "title": "Tengo Ganas 2.0",
+        "artist": "Andrés Cepeda",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275cce477b220b5aded585c80",
+        "url": "https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cUa9UhBiUhYWSSugG2PH0",
+        "title": "Etneen Magnen",
+        "artist": "Tamer Hosny, Yasmina El-Abd",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e022676cffdb8d76af6d375d572",
+        "url": "https://open.spotify.com/album/1cUa9UhBiUhYWSSugG2PH0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hSdQo6ikYcUvPHo9VZq3H",
+        "title": "Sick Leave",
+        "artist": "Neha Kakkar, Rohanpreet Singh, Brahm",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e028401945a701e023908b9f628",
+        "url": "https://open.spotify.com/album/3hSdQo6ikYcUvPHo9VZq3H",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RsormrZ4ClYeWomRawJJA",
+        "title": "Proibido Romance",
+        "artist": "DJ Gu, MC Joãozinho VT",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3bdb64e2c5f542e6f1b5975",
+        "url": "https://open.spotify.com/album/5RsormrZ4ClYeWomRawJJA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5tyqXjpUkYYyzSovYOgMSx",
+        "title": "Dinheiro Pra Nunca Mais Acabar",
+        "artist": "Aaron Modesto, MC Guimê, MC Duzin, Mineirin",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3fed9cf27423ccf7171ee14",
+        "url": "https://open.spotify.com/album/5tyqXjpUkYYyzSovYOgMSx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3CkJjboRGsnIoYa8kMA6XK",
+        "title": "我想",
+        "artist": "姚晓棠",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb71c7d152de38015c4f1af7",
+        "url": "https://open.spotify.com/album/3CkJjboRGsnIoYa8kMA6XK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3rU7c934ngxDXPfjgXyzyu",
+        "title": "Patient Zero",
+        "artist": "Taylor Swift",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216bc19366517944ef91c6654",
+        "url": "https://open.spotify.com/album/3rU7c934ngxDXPfjgXyzyu",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4QJNeD0d6M7HrvVNhs3Sz9",
+        "title": "Belo Horizonte",
+        "artist": "MC Rick, Jogador da Rima, DJ Yure Rodrigues, DJ BIEL PROD",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281473d65769950dde786b570",
+        "url": "https://open.spotify.com/album/4QJNeD0d6M7HrvVNhs3Sz9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0MMY5flz23tDZV1kRs1PgM",
+        "title": "Known Unknowns",
+        "artist": "Gur Sidhu, Kaptaan",
+        "type": "album",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213cd33ff4e7f6d4bdb233b68",
+        "url": "https://open.spotify.com/album/0MMY5flz23tDZV1kRs1PgM",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3KaWiuTyln7t4uUnDxYM15",
+        "title": "Ce te-aș",
+        "artist": "JO, Lazy Ed",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e025be018f355e4b4a216a19f88",
+        "url": "https://open.spotify.com/album/3KaWiuTyln7t4uUnDxYM15",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6bupk9VoLfJ50W3uJGxq9k",
+        "title": "BAU BAU BAU",
+        "artist": "Boro Purvi, KSIOR",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0280130129dd665176197a9dc6",
+        "url": "https://open.spotify.com/album/6bupk9VoLfJ50W3uJGxq9k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "598UZtxGf6h5EK9eknd11o",
+        "title": "OT OÑO",
+        "artist": "LIPE NOVA",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ff2e6a97062a9d95ad0346b",
+        "url": "https://open.spotify.com/album/598UZtxGf6h5EK9eknd11o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3pYvBAflw4qnjclpSW7LSc",
+        "title": "Noktirne",
+        "artist": "marciz",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b30f65eeb001b295a67c021d",
+        "url": "https://open.spotify.com/album/3pYvBAflw4qnjclpSW7LSc",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-23": [
@@ -54608,6 +54795,329 @@
         "release_date": "2026-10-17",
         "image": "https://i.scdn.co/image/ab67616d00001e026471f88facf74c3fd2a5e38c",
         "url": "https://open.spotify.com/album/015gPzvq6MpEFUBtuOIMzd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4z7PgWXYp7tgkrNU6joOfn",
+        "title": "Beste Zangers 2026 (Bizzey)",
+        "artist": "Bizzey, Beste Zangers",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f57f865c188c3a044ae47da7",
+        "url": "https://open.spotify.com/album/4z7PgWXYp7tgkrNU6joOfn",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "5jel1Qur9awgw7oHROOPvp",
+        "title": "Ishq Daa Challa - Jhankar Beatz",
+        "artist": "Alka Yagnik, Udit Narayan, Sneha Pant, Sameer Anjaan",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b82e37e8d64867e99dde491",
+        "url": "https://open.spotify.com/album/5jel1Qur9awgw7oHROOPvp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2oZCiA2bRnZz5pUvVBJqI9",
+        "title": "Prva klasa",
+        "artist": "Crni Cerak",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3ba70e10b52b431e4054581",
+        "url": "https://open.spotify.com/album/2oZCiA2bRnZz5pUvVBJqI9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1f3IArNPvQGEAPEf2Fd0lA",
+        "title": "E draga draga (Malbasa edit)",
+        "artist": "Zdravko Čolić, Malbasa",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4ccbd8ab19f8ca398715f28",
+        "url": "https://open.spotify.com/album/1f3IArNPvQGEAPEf2Fd0lA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5G8otCJy7xPb9fNBz1PKwf",
+        "title": "ได้โปรดอยู่ตรงนี้ (Upside Down) [Solo Version]",
+        "artist": "BLVCKHEART",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ebdd7427ef42a5d7f382abd2",
+        "url": "https://open.spotify.com/album/5G8otCJy7xPb9fNBz1PKwf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "70cUAo97nlXQCk7956MzWc",
+        "title": "ยิ้มอันตราย",
+        "artist": "PORZAX",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d63d77a82a42deb99ea6f77b",
+        "url": "https://open.spotify.com/album/70cUAo97nlXQCk7956MzWc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0z8uFQFvq2WunXMbPg90G2",
+        "title": "بنادم ضعيف و الضغط راه عليا",
+        "artist": "Abdou Gambetta",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287aea7016d19f4d886b4cd19",
+        "url": "https://open.spotify.com/album/0z8uFQFvq2WunXMbPg90G2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VUCrlJ0oDSaUMewo4Robq",
+        "title": "TOPUL",
+        "artist": "Nicolae Guta, Mr. Juve, Susanu, Don Genove",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281fe7f3edbdd5937f09f4fc8",
+        "url": "https://open.spotify.com/album/4VUCrlJ0oDSaUMewo4Robq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dWD7yVN3pCwGGHbgCQQFT",
+        "title": "Mahouche Denbi",
+        "artist": "Cheb Hasni",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e027fdd25ec56fde5e8690b24b7",
+        "url": "https://open.spotify.com/album/4dWD7yVN3pCwGGHbgCQQFT",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "0jmJ7vrNCRW9yHAEa58TKQ",
+        "title": "Aflevering 8 - Duetten",
+        "artist": "Beste Zangers",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba57b061fcb407e734ce145f",
+        "url": "https://open.spotify.com/album/0jmJ7vrNCRW9yHAEa58TKQ",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "3WvzgNsEbenH7BJ0blFQkz",
+        "title": "Beste Zangers 2026 (Yves Berendse)",
+        "artist": "Yves Berendse, Beste Zangers",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6778a269d86b70c65e41a6f",
+        "url": "https://open.spotify.com/album/3WvzgNsEbenH7BJ0blFQkz",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "3GJD2DNFq5oPBhqUZzYjcN",
+        "title": "Barcelona",
+        "artist": "Jala Brat, Buba Corelli",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e8e89cca3353317c705a818",
+        "url": "https://open.spotify.com/album/3GJD2DNFq5oPBhqUZzYjcN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YBKCFdXKLTRnwPqCZ69EV",
+        "title": "Shalala",
+        "artist": "Jala Brat, Buba Corelli, Elena",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02355fc59641a60a40e0976b78",
+        "url": "https://open.spotify.com/album/4YBKCFdXKLTRnwPqCZ69EV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "76sf672Zqm2NHKBLUaOeoD",
+        "title": "Corazón Partido",
+        "artist": "The La Planta, Valentino Merlo",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02012f1631b88412fbfc67b364",
+        "url": "https://open.spotify.com/album/76sf672Zqm2NHKBLUaOeoD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6BUnUbLdHYK4Av6ABfRcNW",
+        "title": "Beste Zangers 2026 (Clouseau)",
+        "artist": "Clouseau, Beste Zangers",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a78b39a2755142534a351bc0",
+        "url": "https://open.spotify.com/album/6BUnUbLdHYK4Av6ABfRcNW",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4r5YD8D2gp85QTuo6pcv26",
+        "title": "Beste Zangers 2026 (Zoë Livay)",
+        "artist": "Zoë Livay, Beste Zangers",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02812f1829bcf81ebf2dd0e662",
+        "url": "https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2F9QsraItduWKdKMp5e6QG",
+        "title": "Gravity & Glass",
+        "artist": "Vank Hustle",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e028de471fd778fabfeb2d1d604",
+        "url": "https://open.spotify.com/album/2F9QsraItduWKdKMp5e6QG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6O7Nm8gMbXdV2gRJ35xtpt",
+        "title": "Receipts",
+        "artist": "Vank Hustle",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f40b66c9386dc2a64af04cee",
+        "url": "https://open.spotify.com/album/6O7Nm8gMbXdV2gRJ35xtpt",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-18": [
+      {
+        "id": "6TZAIFYiPfj0aiEX7HdPZY",
+        "title": "קאט לדבר הבא",
+        "artist": "נדב חנציס",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c054962bcefa5939f51e368",
+        "url": "https://open.spotify.com/album/6TZAIFYiPfj0aiEX7HdPZY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7fuEl7SjqQm4UItKLLo5qP",
+        "title": "Za nas kasno je",
+        "artist": "Aleksandra Prijovic",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f83851c64773a3ee4d0f50d",
+        "url": "https://open.spotify.com/album/7fuEl7SjqQm4UItKLLo5qP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QMTckTDkbDnSJFwzA48WY",
+        "title": "GIỮA MỘT VẠN NGƯỜI (INSTRUMENTAL VERSION)",
+        "artist": "Phùng Khánh Linh",
+        "type": "album",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aab9c70870662e903892186a",
+        "url": "https://open.spotify.com/album/6QMTckTDkbDnSJFwzA48WY",
+        "total_tracks": 34,
+        "genres": []
+      },
+      {
+        "id": "3gYd7rkb7M2HCm1gp9WrT7",
+        "title": "Mi Ángel, Mi Madre",
+        "artist": "Eugenia Quevedo",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2531b5240dfeb227d615bf8",
+        "url": "https://open.spotify.com/album/3gYd7rkb7M2HCm1gp9WrT7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3quSJ4mg7PCTJs1iFYB0b8",
+        "title": "תקופה שלכת (לייב היכל מנורה)",
+        "artist": "Agam Buhbut",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e38e543f52c60998bef6860c",
+        "url": "https://open.spotify.com/album/3quSJ4mg7PCTJs1iFYB0b8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qkSbtU4noyDaE41MuJWYX",
+        "title": "Billy Bruto: ATÉ O FIM",
+        "artist": "7 Minutoz",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231dc2fc12260cc50d81944bf",
+        "url": "https://open.spotify.com/album/5qkSbtU4noyDaE41MuJWYX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2th9FZgMuTwF2kbJ6nVyCV",
+        "title": "你是故事的起因 (《玉簟秋》电视剧心弦微漾曲)",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c82f0206f8fd5f334e7cc785",
+        "url": "https://open.spotify.com/album/2th9FZgMuTwF2kbJ6nVyCV",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2LGWx7CR40iTk6zqnA4sJj",
+        "title": "A love other than yours OST Part.5",
+        "artist": "Heize",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af07c0a71444288c8f2c7e2c",
+        "url": "https://open.spotify.com/album/2LGWx7CR40iTk6zqnA4sJj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5ApntUDv2U8R9ASeSu2nlN",
+        "title": "Where Time Ends",
+        "artist": "Ava Valley",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a998e7a6d9bb306da01487d9",
+        "url": "https://open.spotify.com/album/5ApntUDv2U8R9ASeSu2nlN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4YIVYnW2u1jOJbNrsFODmy",
+        "title": "Здесь и сейчас",
+        "artist": "NightEvil",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205a0617ab6b84a9b33bf763a",
+        "url": "https://open.spotify.com/album/4YIVYnW2u1jOJbNrsFODmy",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-19": [
+      {
+        "id": "6wgnP74NPhI4lL1t305KSS",
+        "title": "מאוהב בגשם",
+        "artist": "Itay Levi",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211e607c9d06e51e177442be6",
+        "url": "https://open.spotify.com/album/6wgnP74NPhI4lL1t305KSS",
         "total_tracks": 1,
         "genres": []
       }
