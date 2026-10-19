@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-18T10:27:37.938Z",
-  "total": 4983,
+  "fetched_at": "2026-10-19T12:14:24.557Z",
+  "total": 5016,
   "by_date": {
     "2026-05-15": [
       {
@@ -54010,6 +54010,28 @@
         "url": "https://open.spotify.com/album/5kBrErf8XOXIJCj98zoI8U",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2JGeJAaYYGEB2geK9ejaoF",
+        "title": "Lies (feat. Lana Del Rey)",
+        "artist": "Zach Bryan, Lana Del Rey",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c6962d2073c0378348cac37",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2y6T5TpxvA3163wUWzgM3J",
+        "title": "Plainsman (feat. Turnpike Troubadours)",
+        "artist": "Zach Bryan, Turnpike Troubadours",
+        "type": "single",
+        "release_date": "2026-10-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b8b4ce4dc55ce1fd1098694e",
+        "url": "https://open.spotify.com/album/2y6T5TpxvA3163wUWzgM3J",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-16": [
@@ -54995,6 +55017,116 @@
         "url": "https://open.spotify.com/album/6O7Nm8gMbXdV2gRJ35xtpt",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2unrStEdVR4ds4O9TP1Ato",
+        "title": "Amma KanakaDurga (From \"Kanaka Durga\")",
+        "artist": "Thaman S, Ananthu, Sruthi Ranjani, Sirasri",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e026488f03f446b443e479d484b",
+        "url": "https://open.spotify.com/album/2unrStEdVR4ds4O9TP1Ato",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "28k8CkA1fIpPseFfSpvG2D",
+        "title": "Maha Aarti (Sampoorna Deviyo Ki)",
+        "artist": "Anuradha Paudwal, Kavita Paudwal",
+        "type": "album",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce536eb699b5b5ff9f678d99",
+        "url": "https://open.spotify.com/album/28k8CkA1fIpPseFfSpvG2D",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3i2XIb6nGWNpRN2lXgnPSW",
+        "title": "Vida De Artista",
+        "artist": "Mc Rodrigo do CN, Game Records, DJ EB da BS, MC Daniel DN",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe4481543eabd33d44e92427",
+        "url": "https://open.spotify.com/album/3i2XIb6nGWNpRN2lXgnPSW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yNHkG11wX1JTYWrQAbaoq",
+        "title": "Tá A Tocar Bué",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02191ebecb5c132ae27c56917f",
+        "url": "https://open.spotify.com/album/3yNHkG11wX1JTYWrQAbaoq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3PxiRVWeQo7OaMF0RxHq8g",
+        "title": "Vou Voltar a Namorar",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a10555a23ff6d173e723c0ce",
+        "url": "https://open.spotify.com/album/3PxiRVWeQo7OaMF0RxHq8g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AkvWw9KuWHOfMosXQkfNS",
+        "title": "Esta Noite É Nossa",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd49d571a64813c97bab56ac",
+        "url": "https://open.spotify.com/album/3AkvWw9KuWHOfMosXQkfNS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3sSk20oCGnwBx45hpBzsTZ",
+        "title": "Africa Boom",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273851e2e07d1bda57a4063b7",
+        "url": "https://open.spotify.com/album/3sSk20oCGnwBx45hpBzsTZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0wQHBxeKo1mMwYLjKcYf8M",
+        "title": "TIEMPO AL TEMPO",
+        "artist": "DILAN OWEN",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a03e16b6b36233adfec0d7d4",
+        "url": "https://open.spotify.com/album/0wQHBxeKo1mMwYLjKcYf8M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2IQSByvCUFUOBLS8CC3vQP",
+        "title": "Driven",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02607ef8b42e75508b0d856c5a",
+        "url": "https://open.spotify.com/album/2IQSByvCUFUOBLS8CC3vQP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2w9j2qVzZexBK6pD1BGIjs",
+        "title": "Artificial Intelligence",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e029591bf5914d80e451b29c0a0",
+        "url": "https://open.spotify.com/album/2w9j2qVzZexBK6pD1BGIjs",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-18": [
@@ -55107,6 +55239,39 @@
         "url": "https://open.spotify.com/album/4YIVYnW2u1jOJbNrsFODmy",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6OfOFrYEDInYDOs2GZL33a",
+        "title": "اجمعو جالكو الدبابة ( انا بعشق كل حروفها )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c1a721d4a65fa3731bab5d9a",
+        "url": "https://open.spotify.com/album/6OfOFrYEDInYDOs2GZL33a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18RKWkN56zWVK70zyOOOh6",
+        "title": "Chhathi Mayi Thadi Duar",
+        "artist": "Anuradha Paudwal, Rajib-Mona",
+        "type": "single",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02993f4042364513a7c0092c67",
+        "url": "https://open.spotify.com/album/18RKWkN56zWVK70zyOOOh6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0dbWsgl1uBaPnv0xPdfZMR",
+        "title": "Focus on the Piano - An Essential Classical Stopover",
+        "artist": "Wolfgang Amadeus Mozart",
+        "type": "album",
+        "release_date": "2026-10-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc6e5d37fdfcc49cc5572e72",
+        "url": "https://open.spotify.com/album/0dbWsgl1uBaPnv0xPdfZMR",
+        "total_tracks": 191,
+        "genres": []
       }
     ],
     "2026-10-19": [
@@ -55119,6 +55284,204 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0211e607c9d06e51e177442be6",
         "url": "https://open.spotify.com/album/6wgnP74NPhI4lL1t305KSS",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7x1ecpq0KS8olPNzUJOyF6",
+        "title": "her (boy version)",
+        "artist": "JVKE, ZVC",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e026816991cce05aa43778451eb",
+        "url": "https://open.spotify.com/album/7x1ecpq0KS8olPNzUJOyF6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cbYNkG0QibGE476eVjOUe",
+        "title": "Let Me Cook",
+        "artist": "Diplo, A$AP Ferg",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02791a7f8197955776ae8c6e7f",
+        "url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zrFuDFSdyT14h43U0PRxa",
+        "title": "ฟ้าวมา ฟ้าใหม่",
+        "artist": "F.HERO, ลำไย ไหทองคำ",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f429db9165e86aae839d4b99",
+        "url": "https://open.spotify.com/album/5zrFuDFSdyT14h43U0PRxa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1GmpR9k9D4AUSsokY2718G",
+        "title": "My Favourite Songs Hariharan",
+        "artist": "Hariharan",
+        "type": "album",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdb71cb940bbf807ead43cc3",
+        "url": "https://open.spotify.com/album/1GmpR9k9D4AUSsokY2718G",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5NS1o3MBKkwpTESMl4I491",
+        "title": "THẾ NÀO LÀ ĐÚNG (OST \"CHỊ CHỊ EM EM 3\")",
+        "artist": "Bảo Anh",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025969ee83260c6c380bb137c6",
+        "url": "https://open.spotify.com/album/5NS1o3MBKkwpTESMl4I491",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0WaMBfvr5iUIGGm4vVb5Oe",
+        "title": "Nedogled",
+        "artist": "Rasta",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021cd12878c45961edd260f14b",
+        "url": "https://open.spotify.com/album/0WaMBfvr5iUIGGm4vVb5Oe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1UPF29WBODjQmqukqPdE5R",
+        "title": "Nothing Personal",
+        "artist": "Bir, Shraban",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299489177dc76c7029c13719e",
+        "url": "https://open.spotify.com/album/1UPF29WBODjQmqukqPdE5R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iLHuxVUh7bmSUnp7PSd4O",
+        "title": "Aș da haina de pe mine (Acustic)",
+        "artist": "Florin Salam, Manele VTM",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02485f5ae3f88bcdb010e0f0f7",
+        "url": "https://open.spotify.com/album/7iLHuxVUh7bmSUnp7PSd4O",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5THoRSW95zrctekQKdT8nD",
+        "title": "My Favourite Songs Shankar Mahadevan",
+        "artist": "Shankar Mahadevan",
+        "type": "album",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd13e075a4d31fcd5cd8369c",
+        "url": "https://open.spotify.com/album/5THoRSW95zrctekQKdT8nD",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "7fuPzEGiLwEjGAzd7JzUze",
+        "title": "Touch",
+        "artist": "MAZZEL",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3adc783062bc083595ad914",
+        "url": "https://open.spotify.com/album/7fuPzEGiLwEjGAzd7JzUze",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "76i2Ntgo4N3RsrhjsjmbS0",
+        "title": "ラブリーズン",
+        "artist": "原因は自分にある。",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a6d8b519d08c48c2eadbf1d",
+        "url": "https://open.spotify.com/album/76i2Ntgo4N3RsrhjsjmbS0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17OFj0qjDitOuCAceZulkt",
+        "title": "Last Dance",
+        "artist": "BRÍET",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a269176338f2cf33e262bb2d",
+        "url": "https://open.spotify.com/album/17OFj0qjDitOuCAceZulkt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BjWrfxY767ElLZmoVCDMD",
+        "title": "Вярно с оригинала",
+        "artist": "100 Kila, Wosh Mc",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292818eca714c86a73c535ae3",
+        "url": "https://open.spotify.com/album/4BjWrfxY767ElLZmoVCDMD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Sfp09KjeDXt9fRwJ3bTbM",
+        "title": "Depart",
+        "artist": "Jazzy",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2651401b3a5b12b2b4feef3",
+        "url": "https://open.spotify.com/album/6Sfp09KjeDXt9fRwJ3bTbM",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "68dI3yXiCXbAHRbW2T09Uy",
+        "title": "Strange Muse",
+        "artist": "NMIXX",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6d5b4cb596df033b99759ea",
+        "url": "https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6DStYRq1Xvia2jXG2XQv6g",
+        "title": "Looks Can Kill",
+        "artist": "IVE",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9ba6f2900e344f17c05a9aa",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45vU3ObvxWBxeNo8BYMhvN",
+        "title": "Gemiler",
+        "artist": "Gökhan Türkmen",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f06a15f6f478c95fa4784cdd",
+        "url": "https://open.spotify.com/album/45vU3ObvxWBxeNo8BYMhvN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3kygSjTtvDLOiXj9ySudgR",
+        "title": "Bach's Piano",
+        "artist": "Johann Sebastian Bach, Various Artists",
+        "type": "compilation",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255e38a8884e372aec09e7706",
+        "url": "https://open.spotify.com/album/3kygSjTtvDLOiXj9ySudgR",
+        "total_tracks": 20,
         "genres": []
       }
     ]
