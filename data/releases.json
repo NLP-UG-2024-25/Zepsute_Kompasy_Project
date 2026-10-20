@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-19T12:14:24.557Z",
-  "total": 5016,
+  "fetched_at": "2026-10-20T10:58:07.636Z",
+  "total": 5041,
   "by_date": {
     "2026-05-15": [
       {
@@ -54771,6 +54771,17 @@
         "url": "https://open.spotify.com/album/3pYvBAflw4qnjclpSW7LSc",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5WGuOVHo70fuTl1TiTGAvU",
+        "title": "Plastic Soul",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02540e096696c6120fcd0551cc",
+        "url": "https://open.spotify.com/album/5WGuOVHo70fuTl1TiTGAvU",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-23": [
@@ -55482,6 +55493,272 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0255e38a8884e372aec09e7706",
         "url": "https://open.spotify.com/album/3kygSjTtvDLOiXj9ySudgR",
         "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "7F0wEfyBPyUlHyCnXHQwiG",
+        "title": "Pangea",
+        "artist": "Dominic Fike",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b17d48730dfa852269b51b9",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "25zDrPE10UYSL2ZoIdcKT3",
+        "title": "1920 Cold Winter (Resonance)",
+        "artist": "Himesh Reshammiya",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269b47ccabbf699577a3487a4",
+        "url": "https://open.spotify.com/album/25zDrPE10UYSL2ZoIdcKT3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "051fQbARzD4ExtG6WSd783",
+        "title": "Kaadhal Kasakuthu (From \"Jolliya Iruntha Oruthan\")",
+        "artist": "Yuvan Shankar Raja, Adithya RK, Velu",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e693719a1f31af0cd2fcd4e3",
+        "url": "https://open.spotify.com/album/051fQbARzD4ExtG6WSd783",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ZAbtvDAnfYSOKuZNA82kL",
+        "title": "يرن يرن",
+        "artist": "Mohamed AlSalim",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d17234d2959297bb405a9819",
+        "url": "https://open.spotify.com/album/4ZAbtvDAnfYSOKuZNA82kL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cL9P0veCWYrehihlmOvF0",
+        "title": "AQAREB (Deluxe Edition)",
+        "artist": "Wegz",
+        "type": "album",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d7719a6ff806301d47e6ee7",
+        "url": "https://open.spotify.com/album/1cL9P0veCWYrehihlmOvF0",
+        "total_tracks": 30,
+        "genres": []
+      },
+      {
+        "id": "6NELSo4ruAl2lDbVyTob22",
+        "title": "Kodust kaugel",
+        "artist": "margiiela",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3fdb46e2faf5b1518fe2ca8",
+        "url": "https://open.spotify.com/album/6NELSo4ruAl2lDbVyTob22",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2nOFPiKwZSQccxG0lakaEV",
+        "title": "expectations (feat. Chappell Roan) [wheel of misfortune]",
+        "artist": "Olivia Rodrigo, Chappell Roan",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02609b15ffbc826411e19226da",
+        "url": "https://open.spotify.com/album/2nOFPiKwZSQccxG0lakaEV",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3In6B6PNBhpgNxScYS0AHt",
+        "title": "Jordan en la Cancha",
+        "artist": "Madara",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e028de52211df6dfa95f3229a28",
+        "url": "https://open.spotify.com/album/3In6B6PNBhpgNxScYS0AHt",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-20": [
+      {
+        "id": "7dSNMTHdE0uLd9FT1jcqPi",
+        "title": "旅行的天賦",
+        "artist": "告五人",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b05d12f5b6c8abd4afd6eda0",
+        "url": "https://open.spotify.com/album/7dSNMTHdE0uLd9FT1jcqPi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ylnjm0URGeTGGo0xYdsW3",
+        "title": "Come into my world!",
+        "artist": "WOODZ",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e45acad6269cd18bfe0b001d",
+        "url": "https://open.spotify.com/album/6ylnjm0URGeTGGo0xYdsW3",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3a3jw6AMMrGQDnuPq2Y8jQ",
+        "title": "Who You Callin' Crazy",
+        "artist": "The Rolling Stones",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e87137982486dac624205e00",
+        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "26HiiG7aSOciZxANBrD6LS",
+        "title": "No Favours",
+        "artist": "Dhanda Nyoliwala",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c414badcc1e6adf933722042",
+        "url": "https://open.spotify.com/album/26HiiG7aSOciZxANBrD6LS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6E3cys2WmvPgXlpuSJe4ej",
+        "title": "Tudo Que Pedi Pra Deus",
+        "artist": "Mc Lele JP, MC Tuto, DJ Hyago",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4dbb62cd62100987e6b64a8",
+        "url": "https://open.spotify.com/album/6E3cys2WmvPgXlpuSJe4ej",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "419bm7nIoqiNXgGbtpBKlw",
+        "title": "EGERO",
+        "artist": "데이먼스 이어 Damons year",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b1cf8798f97baa26e92e85f",
+        "url": "https://open.spotify.com/album/419bm7nIoqiNXgGbtpBKlw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38xQGKjbvgX9BOCzJrk5ZD",
+        "title": "Sagaram",
+        "artist": "M. G. Sreekumar, K. S. Chithra, Thushar, Shubha Raghunath",
+        "type": "album",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b69c6714c2bc14c75d759dbc",
+        "url": "https://open.spotify.com/album/38xQGKjbvgX9BOCzJrk5ZD",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "3wBCFN2gQexfJ1FjLBBtKg",
+        "title": "ข้างๆกัน (I'm yours)",
+        "artist": "URBOYTJ",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a456e1d9a7825b691460c687",
+        "url": "https://open.spotify.com/album/3wBCFN2gQexfJ1FjLBBtKg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3CjqKNT1hILpeqMLRmMEcx",
+        "title": "Moonwater",
+        "artist": "There's No Way Music",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f7c8724506496531b126ea4f",
+        "url": "https://open.spotify.com/album/3CjqKNT1hILpeqMLRmMEcx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Sx4FYdrHevI0wVNidn3Oc",
+        "title": "Vacations",
+        "artist": "There's No Way Music",
+        "type": "album",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8b32447c14e0b68dfb5787d",
+        "url": "https://open.spotify.com/album/0Sx4FYdrHevI0wVNidn3Oc",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5iMS9spEbphcwrm3q1bxBb",
+        "title": "מתגעגע לתקופה",
+        "artist": "Eyal Golan, Offer Nissim",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026233ccc348ed48f6a4d7fc13",
+        "url": "https://open.spotify.com/album/5iMS9spEbphcwrm3q1bxBb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "01yMxTh96pEEEVlifh3TCr",
+        "title": "ערב יום שישי",
+        "artist": "Eyal Golan, ששון איפרם שאולוב",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c21ec52ca1942c7e8621ff23",
+        "url": "https://open.spotify.com/album/01yMxTh96pEEEVlifh3TCr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xsZzd1h99RcnkNHa8N3Jy",
+        "title": "היה לנו דואט",
+        "artist": "Eyal Golan, Eden Ben Zaken",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e024be160e52627d1506fe21ced",
+        "url": "https://open.spotify.com/album/4xsZzd1h99RcnkNHa8N3Jy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2KZ9GnBGbmX16hCajVO2wN",
+        "title": "אני את ואלוהים",
+        "artist": "Eyal Golan, Eden Hason",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b633363f4b768291e5f6720",
+        "url": "https://open.spotify.com/album/2KZ9GnBGbmX16hCajVO2wN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6w3R1ZKXneG53UgNkFvo1c",
+        "title": "Pawn Shop Halo",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e022461fc14ae1aee95f293033b",
+        "url": "https://open.spotify.com/album/6w3R1ZKXneG53UgNkFvo1c",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AlWsiWGZohyR1Wc2JiOIk",
+        "title": "Black Monolith",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b172a57bc32ee5cbdddd2d91",
+        "url": "https://open.spotify.com/album/3AlWsiWGZohyR1Wc2JiOIk",
+        "total_tracks": 1,
         "genres": []
       }
     ]
