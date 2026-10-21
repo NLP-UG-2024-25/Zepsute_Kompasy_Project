@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-20T10:58:07.636Z",
-  "total": 5041,
+  "fetched_at": "2026-10-21T11:13:53.878Z",
+  "total": 5079,
   "by_date": {
     "2026-05-15": [
       {
@@ -55138,6 +55138,17 @@
         "url": "https://open.spotify.com/album/2w9j2qVzZexBK6pD1BGIjs",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3UP1KFR9THVz3GrbMMUNao",
+        "title": "Not another untitled",
+        "artist": "I Luv Da Gritty",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200f1f8df35ae50a45b2a4a27",
+        "url": "https://open.spotify.com/album/3UP1KFR9THVz3GrbMMUNao",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-18": [
@@ -55582,6 +55593,127 @@
         "url": "https://open.spotify.com/album/3In6B6PNBhpgNxScYS0AHt",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1eXcyaTvaRD3E6QhW13hMQ",
+        "title": "EL TEMBLOR 1 | RIP ARCÁNGEL & ALFA",
+        "artist": "Rochy RD",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f03c877f542b1aad06e3df7",
+        "url": "https://open.spotify.com/album/1eXcyaTvaRD3E6QhW13hMQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2WQk2BrlL3wzF1yXlcPilE",
+        "title": "Yeh Bawla Hai (From \"Nakhrewaalii\")",
+        "artist": "Tanishk Bagchi, Papon, Vayu",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02394e56f32319d92574093323",
+        "url": "https://open.spotify.com/album/2WQk2BrlL3wzF1yXlcPilE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03spml1FtksoXJmgX37WaQ",
+        "title": "EL ALBAÑIL CUMBIERO (El Lauti) / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS 2",
+        "artist": "La Juntada De Los Artistas, El Lauti",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279a701bb3f4ca60bc2b991fe",
+        "url": "https://open.spotify.com/album/03spml1FtksoXJmgX37WaQ",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6JmaNsXwoIoEsF6hbCW8bC",
+        "title": "Nayyi Navelli (Original Motion Picture Soundtrack)",
+        "artist": "G. V. Prakash, Shreya Ghoshal, Madhubanti Bagchi, Vayu",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0271adb9e23dfb0ff7e0977334",
+        "url": "https://open.spotify.com/album/6JmaNsXwoIoEsF6hbCW8bC",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3KI4D9gKFfBqXJM3tTnslY",
+        "title": "Ala Rohak",
+        "artist": "Naser Albhar",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cebadda253ce027f58909b21",
+        "url": "https://open.spotify.com/album/3KI4D9gKFfBqXJM3tTnslY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6xxgCtYF2mtUvjOIAi9lgq",
+        "title": "Atshor Roos 3Odwanak",
+        "artist": "Mohamed AlSalim",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f59c80929a8f420a06945643",
+        "url": "https://open.spotify.com/album/6xxgCtYF2mtUvjOIAi9lgq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ScCHicPreDibgW6iqaOPG",
+        "title": "Jai Hind (From \"Maatrubhumi: May War Rest in Peace\")",
+        "artist": "Himesh Reshammiya, Stebin Ben, Sameer Anjaan",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e328df73d4cc33ddbdf820e",
+        "url": "https://open.spotify.com/album/6ScCHicPreDibgW6iqaOPG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4v8it27k9bwWkaSX8PEOhq",
+        "title": "Maala (From \"Aadarsha Kutumbam - AK47\")",
+        "artist": "Thaman S, Saraswati Putra Ramajogayya Sastry",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024263f05e09fe822ac4de9ed4",
+        "url": "https://open.spotify.com/album/4v8it27k9bwWkaSX8PEOhq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4fcSr8XVvnq8gXdXA8ECvJ",
+        "title": "Meri Hazri",
+        "artist": "Kumaar, Nikita Rai, Piyush Ranjan",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d9f509a80d8d39f11d15776",
+        "url": "https://open.spotify.com/album/4fcSr8XVvnq8gXdXA8ECvJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1leW6xa9CXOxeYT4OWnmO6",
+        "title": "Artists Spotlight - Sunny Deol",
+        "artist": "Thaman S, Mithoon, Udit Narayan",
+        "type": "compilation",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cad3ed9a030521fa6f640f5f",
+        "url": "https://open.spotify.com/album/1leW6xa9CXOxeYT4OWnmO6",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4md16Yf87591cp6sE7lmmK",
+        "title": "Sajūtu saprotu",
+        "artist": "Ivo Grīsniņš Grīslis",
+        "type": "single",
+        "release_date": "2026-10-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7f013d3b81021e9b2d2369d",
+        "url": "https://open.spotify.com/album/4md16Yf87591cp6sE7lmmK",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-20": [
@@ -55758,6 +55890,294 @@
         "release_date": "2026-10-20",
         "image": "https://i.scdn.co/image/ab67616d00001e02b172a57bc32ee5cbdddd2d91",
         "url": "https://open.spotify.com/album/3AlWsiWGZohyR1Wc2JiOIk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VXAdKD1wkj6IaZMxkihyp",
+        "title": "Broken Heart Bollywood",
+        "artist": "Pritam, Ankit Tiwari, Jyotica Tangri, Sachet Tandon",
+        "type": "compilation",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7e8ffb37e02769fea30c426",
+        "url": "https://open.spotify.com/album/4VXAdKD1wkj6IaZMxkihyp",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6AMGKZIQhiqasdjd6vxiG9",
+        "title": "Couple Dance Bollywood",
+        "artist": "Sachin-Jigar, Arijit Singh, Shreya Ghoshal, Jubin Nautiyal",
+        "type": "compilation",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce8c5c81508e53d930dcb881",
+        "url": "https://open.spotify.com/album/6AMGKZIQhiqasdjd6vxiG9",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2KOzmGUBI2lp7H6MuinRFp",
+        "title": "Mix Ay Pobre Amor: Guambra de Mi Vida/Ay Pobre Amor/El Marino",
+        "artist": "La Bella Luz",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02165bf1740607dc075bcb53f7",
+        "url": "https://open.spotify.com/album/2KOzmGUBI2lp7H6MuinRFp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "27HDtE551Yh6oOs9cdYieQ",
+        "title": "JESUS É O CENTRO",
+        "artist": "Julliany Souza, Nívea Soares",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02031d380b9d4463047852aa1b",
+        "url": "https://open.spotify.com/album/27HDtE551Yh6oOs9cdYieQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "15eFcsVLSwMu4vCRBxrjqo",
+        "title": "Sona Jaisan Suratiya",
+        "artist": "Udit Narayan",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fef4f535f812f265d9ae4d4",
+        "url": "https://open.spotify.com/album/15eFcsVLSwMu4vCRBxrjqo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5sLaAI11mXZQUdrKEfdbpa",
+        "title": "Peperio",
+        "artist": "Kiry Curu",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255a78b60e54b5ed698c5f1c5",
+        "url": "https://open.spotify.com/album/5sLaAI11mXZQUdrKEfdbpa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2gPRFlZg3Dw8xTn9U9wlD1",
+        "title": "En Mi Alcoba",
+        "artist": "Lleflight, Tobal Mj",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02613904fb37172af0bf431fc7",
+        "url": "https://open.spotify.com/album/2gPRFlZg3Dw8xTn9U9wlD1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4RZlePF5nPnV08HVBJmQgg",
+        "title": "ดีใจที่ตรงนั้นไม่ใช่เรา",
+        "artist": "Only Monday",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234e49e147fe27f3060942ddb",
+        "url": "https://open.spotify.com/album/4RZlePF5nPnV08HVBJmQgg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3PNrJJ6V3r4vW6Wi2saoVS",
+        "title": "午夜場",
+        "artist": "Anson Lo 盧瀚霆",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec7bda3ca12e42e45619289c",
+        "url": "https://open.spotify.com/album/3PNrJJ6V3r4vW6Wi2saoVS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3pNCeo1Dt6g4syS1tU0OYn",
+        "title": "رساله للمية وعشرين مليون ( صاحب الاسطبل انا يا وحوش )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202b2b5d97eaf5600cbc235bf",
+        "url": "https://open.spotify.com/album/3pNCeo1Dt6g4syS1tU0OYn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oG4xEk5CwDgChH3BJ101l",
+        "title": "Életem Szerelme",
+        "artist": "mollywood",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bba7daf94eaf7d4f891977ab",
+        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yPHqydQ9DYR8eX4wcJKFa",
+        "title": "蔷薇青竹 (《尚公主》影视剧扶摇直尚情感主题曲/片尾曲)",
+        "artist": "张远, 黃霄雲",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281a6773601a660b8b068f0d9",
+        "url": "https://open.spotify.com/album/3yPHqydQ9DYR8eX4wcJKFa",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5fmsGkc9fvR1MYajeQFwB7",
+        "title": "Burukutu",
+        "artist": "Olamide",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bef0d1bf21bd76842d25236",
+        "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-21": [
+      {
+        "id": "7h0kJywzQszsL4a1CuPgAY",
+        "title": "Diwali Party Bangers",
+        "artist": "Badshah, Sachin-Jigar, Amitabh Bhattacharya",
+        "type": "album",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e024755d271cc3abb4c256cde4e",
+        "url": "https://open.spotify.com/album/7h0kJywzQszsL4a1CuPgAY",
+        "total_tracks": 35,
+        "genres": []
+      },
+      {
+        "id": "6KbCtAZeKS65sKR6ElxnRs",
+        "title": "seesaw (Feat. IU)",
+        "artist": "Crush",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d506285395d9bc3850f904c",
+        "url": "https://open.spotify.com/album/6KbCtAZeKS65sKR6ElxnRs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fs1GEo05Hf7en1BaIvN1I",
+        "title": "Midnight Romance Bollywood",
+        "artist": "Arijit Singh, Parampara Thakur, Amit Trivedi, Jasleen Royal",
+        "type": "compilation",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276c824b1018ce05b50f37c74",
+        "url": "https://open.spotify.com/album/1fs1GEo05Hf7en1BaIvN1I",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0YzsFBLyc1NlAYgrfFlxEA",
+        "title": "Cinderella",
+        "artist": "Amit Trivedi, Dev Negi, Kausar Munir",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0283c1e470272cf500b6192a01",
+        "url": "https://open.spotify.com/album/0YzsFBLyc1NlAYgrfFlxEA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Va2358ZbfKQiJ29mv2MhE",
+        "title": "Busisiwe",
+        "artist": "Young Stunna",
+        "type": "album",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b475a7c4465e119bee9b212",
+        "url": "https://open.spotify.com/album/6Va2358ZbfKQiJ29mv2MhE",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "6yzqDgbgD9I8t8siXYahma",
+        "title": "Ti ne licis ni na jednu",
+        "artist": "Aca Lukas",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02faf0e7ce1b25884bb182dc93",
+        "url": "https://open.spotify.com/album/6yzqDgbgD9I8t8siXYahma",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2lLnc1lAMn4HC4cfZzDCs2",
+        "title": "take my hand (Thailand Edit)",
+        "artist": "COPACABANA",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e024239cd967637934557238647",
+        "url": "https://open.spotify.com/album/2lLnc1lAMn4HC4cfZzDCs2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7GBg1msfZi80TdgwTGnmcg",
+        "title": "Star Trace (Future House Remix)",
+        "artist": "PLAVE",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b838f71ab2cb0f8a5a435e0e",
+        "url": "https://open.spotify.com/album/7GBg1msfZi80TdgwTGnmcg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2f0rKNsG9GxXjvClMGgG8I",
+        "title": "Dinheiro",
+        "artist": "Mc Kadu, Mc Ruzika, Campanha MC, Ducorti",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdf88546104f18aacaeec83a",
+        "url": "https://open.spotify.com/album/2f0rKNsG9GxXjvClMGgG8I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "51f1gXuiqnZXNXQG5pWQ7R",
+        "title": "Witte Zwanen, Zwarte Zwanen",
+        "artist": "Bumba",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299865932dc56cfdd7c5bc4a3",
+        "url": "https://open.spotify.com/album/51f1gXuiqnZXNXQG5pWQ7R",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1wGto3TmE9qKIkEkNuhDrl",
+        "title": "Don't stop",
+        "artist": "Lele, Iosif, Manele VTM",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f63d57819224f84e44929f5",
+        "url": "https://open.spotify.com/album/1wGto3TmE9qKIkEkNuhDrl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "332gw6yBXSfSVpEOPMmGmf",
+        "title": "Sem Amor",
+        "artist": "MC Leozinho ZS, Mc DR, MC Neguinho do Kaxeta, DJ JHOW BEATS",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c60d7d539fd2a855373539b3",
+        "url": "https://open.spotify.com/album/332gw6yBXSfSVpEOPMmGmf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6HiKZb8BdXjS4LoFUFsBx7",
+        "title": "Housebroken",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c257f2a2cd10d76db7fef5a2",
+        "url": "https://open.spotify.com/album/6HiKZb8BdXjS4LoFUFsBx7",
         "total_tracks": 1,
         "genres": []
       }
