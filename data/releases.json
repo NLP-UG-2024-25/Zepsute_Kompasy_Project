@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-21T11:13:53.878Z",
-  "total": 5079,
+  "fetched_at": "2026-10-22T11:13:15.678Z",
+  "total": 5114,
   "by_date": {
     "2026-05-15": [
       {
@@ -56035,6 +56035,105 @@
         "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6DCoyEtk9wWyOat7GwgZSt",
+        "title": "Tiger Muthuvel Pandian (From \"Jailer 2\")",
+        "artist": "Anirudh Ravichander, M.S Krsna, Super Subu",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02741cf92aeb203a0dc858897a",
+        "url": "https://open.spotify.com/album/6DCoyEtk9wWyOat7GwgZSt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5HwuEE0vHf28fHa7CHmWZf",
+        "title": "TRAPPii 2 (Deluxe)",
+        "artist": "Conep",
+        "type": "album",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba80ede084cfc73b0207c873",
+        "url": "https://open.spotify.com/album/5HwuEE0vHf28fHa7CHmWZf",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "23AiJm2EyAwA3g7hiqKPNj",
+        "title": "Show no JK",
+        "artist": "Mc Davi, DU'L, DJ Glenner, MC Allan JR",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0235ecaed9514851e61687b3f5",
+        "url": "https://open.spotify.com/album/23AiJm2EyAwA3g7hiqKPNj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49tYOWwyJ6Vz4pc0OoNcp9",
+        "title": "SUNA-MA",
+        "artist": "Berechet, Marrio Nadal",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cad20f35b8a03da1c42a011",
+        "url": "https://open.spotify.com/album/49tYOWwyJ6Vz4pc0OoNcp9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6utwMyUavVMC5qnHNpLUFk",
+        "title": "Quero Ser Eu",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2b3a4b275761e164605eee9",
+        "url": "https://open.spotify.com/album/6utwMyUavVMC5qnHNpLUFk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2hObj0TVyBEAH0tHPGoXU9",
+        "title": "ENCIENDE LA NOCHE",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b3ad04da762c0dc2f1c1ecda",
+        "url": "https://open.spotify.com/album/2hObj0TVyBEAH0tHPGoXU9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "026JXZzVDLRG0zOH2ArA72",
+        "title": "Quando Tu Me Olhas",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027208a3777bd45393a4596a50",
+        "url": "https://open.spotify.com/album/026JXZzVDLRG0zOH2ArA72",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NR7qspvMvVYNLGf5gCeUn",
+        "title": "Só Quero O Teu Amor",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02243056c42f34846b284517a3",
+        "url": "https://open.spotify.com/album/4NR7qspvMvVYNLGf5gCeUn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6aDR4lMv5SQMjuDWJnwBNG",
+        "title": "Cyber Roller",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f04b8fdc44cf603a488ea13",
+        "url": "https://open.spotify.com/album/6aDR4lMv5SQMjuDWJnwBNG",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-21": [
@@ -56179,6 +56278,294 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02c257f2a2cd10d76db7fef5a2",
         "url": "https://open.spotify.com/album/6HiKZb8BdXjS4LoFUFsBx7",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4lJFHzrwI3bVojNcltDf9i",
+        "title": "Vulnerable",
+        "artist": "Ozuna, Ñengo Flow, Jory Boy",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e029259c83cfe4e0332db2ec8ea",
+        "url": "https://open.spotify.com/album/4lJFHzrwI3bVojNcltDf9i",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5wlpcIXWRQQ2IrpvKkGSzN",
+        "title": "Te Imagino",
+        "artist": "Myke Towers",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e028962a4b9f4e3e1e8ede55d02",
+        "url": "https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2K4PugGOkpi5qPrkuCauXV",
+        "title": "entre CIELOS",
+        "artist": "Paulo Londra",
+        "type": "album",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254f1397c56ca145e84a6e106",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1XUc18hy9eV6XkIAd3qb0o",
+        "title": "No Dan el Nivel",
+        "artist": "Jere Klein, Pink Panther Music, Raven la R, Valdi",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293ab70476853a712d7587013",
+        "url": "https://open.spotify.com/album/1XUc18hy9eV6XkIAd3qb0o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ezOOWrWgZHW3dqsgwjPSz",
+        "title": "I-Popstar: Vol. 2 | Episode 13",
+        "artist": "Neha Kakkar, Chetanya Vaish, Bharat Chandak, Anmol Salh",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02150ceb9c85756119b4d57cc4",
+        "url": "https://open.spotify.com/album/6ezOOWrWgZHW3dqsgwjPSz",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7zqNjAC0w6yJFyn604PUDq",
+        "title": "Sentimento Seu Nenhum",
+        "artist": "Oldilla, MC Ryan SP, MC Meno K",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0294282ad4bef4838b5fbca330",
+        "url": "https://open.spotify.com/album/7zqNjAC0w6yJFyn604PUDq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1u85IFEbsSWqa1NcfO5omo",
+        "title": "PULL UP (Explicit)",
+        "artist": "Dangrangto, TeuYungBoy, DONAL",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02686dd056571f8a9cdbf0bfb8",
+        "url": "https://open.spotify.com/album/1u85IFEbsSWqa1NcfO5omo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jfxtUp8ToMvItUfXoCzFF",
+        "title": "Hungama Hungama",
+        "artist": "Udit Narayan, Pallabi Barua",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d58ac566d46cdb7c8af031e2",
+        "url": "https://open.spotify.com/album/6jfxtUp8ToMvItUfXoCzFF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "65jQ1Xwa19VsxBZIGmM8s1",
+        "title": "Bodybag",
+        "artist": "Uncle Dags",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216760f8c4f2756dedbb10e97",
+        "url": "https://open.spotify.com/album/65jQ1Xwa19VsxBZIGmM8s1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0h2u1ikVqnFckItpMMVl58",
+        "title": "Mundo Fashion",
+        "artist": "Tz da Coronel, Matuê",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02139e28ee384b30cf92eee3f0",
+        "url": "https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0J24mzwh25rItmiNN2XRHQ",
+        "title": "Мій рід",
+        "artist": "Artem Pivovarov",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c60c089264fdfc6fa7b6155",
+        "url": "https://open.spotify.com/album/0J24mzwh25rItmiNN2XRHQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7bolJZ8eXylUG8J6gvUyZG",
+        "title": "Anaconda",
+        "artist": "Seksi",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b29792f12753e064a3aa2d8c",
+        "url": "https://open.spotify.com/album/7bolJZ8eXylUG8J6gvUyZG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Qjtt5c8sOXfTPimrd1cYu",
+        "title": "Deg Mans Ugunskurs",
+        "artist": "Intars Busulis",
+        "type": "album",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206680eee69ec1e379054147b",
+        "url": "https://open.spotify.com/album/0Qjtt5c8sOXfTPimrd1cYu",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5sW78yEbHr66ibqHDw4tY0",
+        "title": "Ole Koos Minuga",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2254909b67ebabccb0e0b0b",
+        "url": "https://open.spotify.com/album/5sW78yEbHr66ibqHDw4tY0",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-22": [
+      {
+        "id": "7jqSfBulRrXBxPJiTrGEEe",
+        "title": "Such A Waste (2027 Remastered)",
+        "artist": "The Cranberries",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc20cb758f664e910c0f3221",
+        "url": "https://open.spotify.com/album/7jqSfBulRrXBxPJiTrGEEe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5JczBvoNVXytVZ5K8QYrNK",
+        "title": "October Archive",
+        "artist": "BOL4",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02469d5ec2a940bc14d6a405b1",
+        "url": "https://open.spotify.com/album/5JczBvoNVXytVZ5K8QYrNK",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "4OPcXc8cBOjL2cy76s6Q3o",
+        "title": "REMIX COLLECTION - VOL. 2",
+        "artist": "TINH HÀ \"SAY HI\"",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212f58da3a8dbce41b1d30561",
+        "url": "https://open.spotify.com/album/4OPcXc8cBOjL2cy76s6Q3o",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5K1wHcKZWiUdCgg7Yc0S8e",
+        "title": "Localização Desativada",
+        "artist": "MC Tuto, DJ Gu, DJ Breninho",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0bea391f044fcd7310485c2",
+        "url": "https://open.spotify.com/album/5K1wHcKZWiUdCgg7Yc0S8e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MQYl5WkuBdB6cB6r3xWmC",
+        "title": "Фортуна",
+        "artist": "KRBK",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02103da0e1965e0c093b63afe2",
+        "url": "https://open.spotify.com/album/5MQYl5WkuBdB6cB6r3xWmC",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2l8q7TYv0p02DeBdZpMRT7",
+        "title": "渡我",
+        "artist": "moon tang",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e029af6d015261ba03401d25a84",
+        "url": "https://open.spotify.com/album/2l8q7TYv0p02DeBdZpMRT7",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5YNHon1mfRWW28E2JmFn20",
+        "title": "Melancolie",
+        "artist": "Smiley",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4ae3ae152b13f87c762ac48",
+        "url": "https://open.spotify.com/album/5YNHon1mfRWW28E2JmFn20",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08EZrAyCwh7vCaGyqBUW3O",
+        "title": "Trago Amargo",
+        "artist": "Lucas Sugo, Sebastian Barboza",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240ed2a06604364343993585e",
+        "url": "https://open.spotify.com/album/08EZrAyCwh7vCaGyqBUW3O",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6WLp2EGxHOs0GA2eb5OhS3",
+        "title": "Добро не ти желая",
+        "artist": "Medi",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fb0598c420db2eeb69d7e39",
+        "url": "https://open.spotify.com/album/6WLp2EGxHOs0GA2eb5OhS3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6tOx31brSetHhy5ifUZESV",
+        "title": "面目全非",
+        "artist": "张远",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf694ef65db500c3f372d7f6",
+        "url": "https://open.spotify.com/album/6tOx31brSetHhy5ifUZESV",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1e8Jq8PqYW2MwXW6OITxIx",
+        "title": "LA ÚLTIMA CANCIÓN",
+        "artist": "Pushi, Enzo y la Sub 21",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263b77105cd25cbfeb4795a35",
+        "url": "https://open.spotify.com/album/1e8Jq8PqYW2MwXW6OITxIx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1L99VI74QL4gxsgnzYu638",
+        "title": "Hõõguv planeet",
+        "artist": "Ouu",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02207f45514333f96af4e13ed6",
+        "url": "https://open.spotify.com/album/1L99VI74QL4gxsgnzYu638",
+        "total_tracks": 2,
         "genres": []
       }
     ]
