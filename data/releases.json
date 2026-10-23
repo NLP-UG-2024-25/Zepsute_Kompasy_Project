@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-22T11:13:15.678Z",
-  "total": 5114,
+  "fetched_at": "2026-10-23T11:04:37.102Z",
+  "total": 5166,
   "by_date": {
     "2026-05-15": [
       {
@@ -54795,6 +54795,391 @@
         "url": "https://open.spotify.com/album/0KjKJtnCJ1BpYi7M2DzyD3",
         "total_tracks": 2,
         "genres": []
+      },
+      {
+        "id": "4vIpcjWLlMwyEdZsC1BKv3",
+        "title": "Olimpo",
+        "artist": "Neton Vega, Fuerza Regida",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e1ad864f2e476cdd9ebc42b",
+        "url": "https://open.spotify.com/album/4vIpcjWLlMwyEdZsC1BKv3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iaBsoHbAEojKr8DdmbdWf",
+        "title": "Like You (Remastered 2026)",
+        "artist": "Evanescence",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bf221aee0efac4028907525",
+        "url": "https://open.spotify.com/album/7iaBsoHbAEojKr8DdmbdWf",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4M2QW8nne81nwIX7pBCk2U",
+        "title": "The Black Parade (20th Anniversary Deluxe Edition)",
+        "artist": "My Chemical Romance",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02883c54c541f95644f7ae2ba3",
+        "url": "https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "3rZA8uGzNRbzhtacy5Eb8U",
+        "title": "Handball (Live at The Palmer Auditorium, New London, CT - December 5, 1976)",
+        "artist": "Billy Joel",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02568ba02c8a94569af5b0c6dd",
+        "url": "https://open.spotify.com/album/3rZA8uGzNRbzhtacy5Eb8U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5mutH6AczN5onZ1binwkvO",
+        "title": "BLUE",
+        "artist": "girl in red",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3c4fba8a4034c5e4ff57ba2",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7H0c8sfmrbAbrMjYuEvWQk",
+        "title": "PRESS PLAY",
+        "artist": "LISA",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae49c87dcf0b8e27f27303c5",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "75M68vfbVxa6d4qN18PcLK",
+        "title": "Camilo: El Setlist 2026",
+        "artist": "Camilo",
+        "type": "compilation",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277236a11d0a7ccaec1ffca3e",
+        "url": "https://open.spotify.com/album/75M68vfbVxa6d4qN18PcLK",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "5TA8wPrlCk5UunsDcIkumA",
+        "title": "All Good Things (Come To An End)",
+        "artist": "Ian Asher, Nelly Furtado",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02104b7d409d93f071500fda00",
+        "url": "https://open.spotify.com/album/5TA8wPrlCk5UunsDcIkumA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5PflBP4GjYSCtb54nCdra0",
+        "title": "Tom and Jerry",
+        "artist": "John Mayer",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e028be2adbc6f0b0d4dc82e2db1",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0hIUOteR2XPKT11weRpjh3",
+        "title": "The Calm",
+        "artist": "Wiz Khalifa",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6e14598a5143e2357e6437b",
+        "url": "https://open.spotify.com/album/0hIUOteR2XPKT11weRpjh3",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2HBN0etLNWp4CbBEUAtC96",
+        "title": "The Good, The Bad, And The Ugly (Remastered 2026)",
+        "artist": "Willie Colón, Héctor Lavoe, Yomo Toro",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f6bee0b5f62ff930b187ccb",
+        "url": "https://open.spotify.com/album/2HBN0etLNWp4CbBEUAtC96",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "51yzkdrWdOiLOnsjQ3meX9",
+        "title": "Alguien Que No Soy",
+        "artist": "Dalex",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0a1667da33f8b75b58971e3",
+        "url": "https://open.spotify.com/album/51yzkdrWdOiLOnsjQ3meX9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MI7vJNdtIoDFS52V5zEK2",
+        "title": "NO TE SORPRENDAS",
+        "artist": "Justin Quiles",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0792a8539e82934e1813f4f",
+        "url": "https://open.spotify.com/album/5MI7vJNdtIoDFS52V5zEK2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "53MSzsOd4gMw9VEeLiejOs",
+        "title": "Homenaje Con Los Que Siempre Quise",
+        "artist": "La Adictiva",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231417ba44de56914af0fd346",
+        "url": "https://open.spotify.com/album/53MSzsOd4gMw9VEeLiejOs",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "6PHOOfyWlcgG1nvuZbot9H",
+        "title": "PHAZON VARIA",
+        "artist": "Odetari",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e85fd42f99cbd189e3a63b3",
+        "url": "https://open.spotify.com/album/6PHOOfyWlcgG1nvuZbot9H",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "24njVg7vib4yr8meHlzAy4",
+        "title": "Shinjuku (Extended Mix)",
+        "artist": "Franky Rizardo",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e7d523258a356fc6c5f5a36",
+        "url": "https://open.spotify.com/album/24njVg7vib4yr8meHlzAy4",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0MyBDaWaPoZDIPPCjeL0au",
+        "title": "Levi Did It",
+        "artist": "BUNT.",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02672f0378308f28cc4a9e5e6b",
+        "url": "https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "0nJQCivbQGRiCwZh6gGuDI",
+        "title": "Jaan-E-Jaan (From \"Between Distances\")",
+        "artist": "Aditya Rikhari, Farhan Khan, Ravator",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2f69469548c0f55b972520d",
+        "url": "https://open.spotify.com/album/0nJQCivbQGRiCwZh6gGuDI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32HQhc5oNwn11FL7jkOs8k",
+        "title": "DES SOUS",
+        "artist": "GIMS",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02172f1aac4dfd53435cc2b924",
+        "url": "https://open.spotify.com/album/32HQhc5oNwn11FL7jkOs8k",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1KBxvVNCaEoUkCImOiZYh5",
+        "title": "TOGETHER IN MOTION",
+        "artist": "SB19",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ffbca650ea2b192fa6a5d0b",
+        "url": "https://open.spotify.com/album/1KBxvVNCaEoUkCImOiZYh5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "61Esz81rMOVlluWJ25xP1T",
+        "title": "Liwanag",
+        "artist": "Cup of Joe",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02199b89516838ea3edf1b0fbd",
+        "url": "https://open.spotify.com/album/61Esz81rMOVlluWJ25xP1T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5PsXnkGw8wx2gGBi8dIcdh",
+        "title": "Diesel Riddim",
+        "artist": "Vybz Kartel, Mad Cobra, Ward 21, Terror Fabulous",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd31b7b9aa9d30a179449680",
+        "url": "https://open.spotify.com/album/5PsXnkGw8wx2gGBi8dIcdh",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7yeQlduGXgBUhVdeuD9hF2",
+        "title": "迟来的海啸",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285bcf2089fd4703cacc1bb76",
+        "url": "https://open.spotify.com/album/7yeQlduGXgBUhVdeuD9hF2",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1qREK38x9lTjIBeo2X1pNS",
+        "title": "Goyard",
+        "artist": "Mavo",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026fd1847308ee61e23d75f132",
+        "url": "https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Xqnwnf1KiSEot9peaO64C",
+        "title": "WayWard",
+        "artist": "Shallipopi",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259b28f72cc71ab4930b6161a",
+        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3G14lgCBWjmTEM4elQbXYr",
+        "title": "The Everafter",
+        "artist": "Darshan Raval",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022387fce8257a37fb6ab477eb",
+        "url": "https://open.spotify.com/album/3G14lgCBWjmTEM4elQbXYr",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5bX6fQe78SeDHwYvbrWDrh",
+        "title": "Pandora's Box",
+        "artist": "Skepta",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e028875f6b0615d9e13f874847f",
+        "url": "https://open.spotify.com/album/5bX6fQe78SeDHwYvbrWDrh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5VO4QtNGe7UrChuMF3T5Pz",
+        "title": "Linnakad Ja Maakad",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dc498bead7d52f887d37688",
+        "url": "https://open.spotify.com/album/5VO4QtNGe7UrChuMF3T5Pz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GYCz8I8TmT60n1qdCGr76",
+        "title": "Vaikides",
+        "artist": "Birgit",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff30db69ba7b66fc91883c50",
+        "url": "https://open.spotify.com/album/0GYCz8I8TmT60n1qdCGr76",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0otyr9IvveitrDyNmIh79o",
+        "title": "BELTIÐ GLITRAR",
+        "artist": "ICY-G",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f08246ce6174eff325f6aa1",
+        "url": "https://open.spotify.com/album/0otyr9IvveitrDyNmIh79o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "16jOL1NZOZzRBx6k0myvtO",
+        "title": "Nothing",
+        "artist": "FTR$",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3eb84a06c38f84c4d79fb4d",
+        "url": "https://open.spotify.com/album/16jOL1NZOZzRBx6k0myvtO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2g3pWj3jcVqLwipWpBP8oh",
+        "title": "Soft Threat",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2fea7506c1c8b5fdf3269f9",
+        "url": "https://open.spotify.com/album/2g3pWj3jcVqLwipWpBP8oh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3aAcVWXerq8oPbayIt2SDD",
+        "title": "I Make You Leave",
+        "artist": "Body Furnace, XTRX",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233363ab3583d8456019a7be1",
+        "url": "https://open.spotify.com/album/3aAcVWXerq8oPbayIt2SDD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HGag7zCyERsKWMkHkAMGG",
+        "title": "111/2700 Free$tyle",
+        "artist": "YoungBoy Mikki, Mikki Ginger",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276c1aa6a41e14e526a04edf9",
+        "url": "https://open.spotify.com/album/1HGag7zCyERsKWMkHkAMGG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6iO47mgY7aiofxaLDb2WkG",
+        "title": "The Signal Beneath",
+        "artist": "ITANAMI",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02038152400bdd763229c489ad",
+        "url": "https://open.spotify.com/album/6iO47mgY7aiofxaLDb2WkG",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-17": [
@@ -55147,6 +55532,17 @@
         "release_date": "2026-10-17",
         "image": "https://i.scdn.co/image/ab67616d00001e0200f1f8df35ae50a45b2a4a27",
         "url": "https://open.spotify.com/album/3UP1KFR9THVz3GrbMMUNao",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4kKrgctmbDUYJkw8XpKN9y",
+        "title": "chanel beat",
+        "artist": "I Luv Da Gritty",
+        "type": "single",
+        "release_date": "2026-10-17",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d12290271cdb45f0fdfb8218",
+        "url": "https://open.spotify.com/album/4kKrgctmbDUYJkw8XpKN9y",
         "total_tracks": 1,
         "genres": []
       }
@@ -56433,6 +56829,28 @@
         "url": "https://open.spotify.com/album/5sW78yEbHr66ibqHDw4tY0",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1YWFk09tfgV1x2ObzTLrFx",
+        "title": "Designer",
+        "artist": "Lucito.official",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236c65f054456fa31680d8605",
+        "url": "https://open.spotify.com/album/1YWFk09tfgV1x2ObzTLrFx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3kQgwCmGgJzpnJWZfKxZqA",
+        "title": "I Almost Told You",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288e7216a3559b13d71272f85",
+        "url": "https://open.spotify.com/album/3kQgwCmGgJzpnJWZfKxZqA",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-22": [
@@ -56566,6 +56984,160 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02207f45514333f96af4e13ed6",
         "url": "https://open.spotify.com/album/1L99VI74QL4gxsgnzYu638",
         "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2l7dOY9oiOln2Ln4osavpP",
+        "title": "Love Sick (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "artist": "Ravyn Lenae",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02322f82c183fc0f887efd1ad8",
+        "url": "https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07DBKWgX234vd4ub5ELhk0",
+        "title": "getting over u (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "artist": "Alyssa Grace",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02afd877c87437b1eb9602c49d",
+        "url": "https://open.spotify.com/album/07DBKWgX234vd4ub5ELhk0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2wwyJnEbbzghF7YGiXD8Zq",
+        "title": "My Kinda Love (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "artist": "STELLA LEFTY, Bailey Zimmerman",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e023aacc0b346464e228f63237b",
+        "url": "https://open.spotify.com/album/2wwyJnEbbzghF7YGiXD8Zq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3U2CmUAxCVlX34DJXoWePk",
+        "title": "Home Tonight (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "artist": "Bella Kay",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fed05aaf859e5fc94ec39c45",
+        "url": "https://open.spotify.com/album/3U2CmUAxCVlX34DJXoWePk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Vh4oQSFSokbfcuXy7HH2i",
+        "title": "No Hay Ángeles Aquí",
+        "artist": "Victor Mendivil",
+        "type": "album",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e07372e4f841363e73935bb5",
+        "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "0cVPJWwvk76ZCWTykU0lDE",
+        "title": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "artist": "Cameron Whitcomb",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efd45c9ddc3927cd8e00d70f",
+        "url": "https://open.spotify.com/album/0cVPJWwvk76ZCWTykU0lDE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0BySxoEgQtQ81KCIhRhywj",
+        "title": "I Feel Like A Bullet (In The Gun Of Robert Ford) [Piano / Vocal Version]",
+        "artist": "Elton John",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02314c40cb512b8dd0bcf5d8ff",
+        "url": "https://open.spotify.com/album/0BySxoEgQtQ81KCIhRhywj",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "67a22KUm2NBwYBboyePyPh",
+        "title": "Muertx",
+        "artist": "Yan Block",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d780ce209aef97de4503c0e1",
+        "url": "https://open.spotify.com/album/67a22KUm2NBwYBboyePyPh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07YHu0UWSZQeKmsiDg2n4T",
+        "title": "HIDRATATE",
+        "artist": "Jombriel, Jøtta",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb9300f307e5402fe2f0c736",
+        "url": "https://open.spotify.com/album/07YHu0UWSZQeKmsiDg2n4T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Ff1vmuejWakKEfWMKDSwc",
+        "title": "Cóbrame tú",
+        "artist": "Nanpa Básico, Kapo, SOG",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f7c2db7eed24e823c1a0e00",
+        "url": "https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3cAoAytaLUCNnJhjBcbgzQ",
+        "title": "The Room",
+        "artist": "Zoé, vōx",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238466f8862498c8a5aa073eb",
+        "url": "https://open.spotify.com/album/3cAoAytaLUCNnJhjBcbgzQ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "74DiRJoIUGeRdXAgXa38dp",
+        "title": "El Que Se La Queda Pierde",
+        "artist": "KHEA, Luck Ra",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278316b67326b2ec720001e11",
+        "url": "https://open.spotify.com/album/74DiRJoIUGeRdXAgXa38dp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1rlJ0h1OLB2ebkeg00oUwe",
+        "title": "Primavera",
+        "artist": "Jorge & Mateus",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243c1b6c8d02e09d56b4ff1fd",
+        "url": "https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7K7Likk7T0lJqYqRIZX7pT",
+        "title": "It Sounds Like Me",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb8f90885a89dc8e4ee5621c",
+        "url": "https://open.spotify.com/album/7K7Likk7T0lJqYqRIZX7pT",
+        "total_tracks": 1,
         "genres": []
       }
     ]
