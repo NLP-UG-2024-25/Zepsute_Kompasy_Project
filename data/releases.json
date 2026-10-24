@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-23T11:04:37.102Z",
-  "total": 5166,
+  "fetched_at": "2026-10-24T10:20:57.654Z",
+  "total": 5182,
   "by_date": {
     "2026-05-15": [
       {
@@ -55180,6 +55180,127 @@
         "url": "https://open.spotify.com/album/6iO47mgY7aiofxaLDb2WkG",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "6AgkhCQME5wqQ2xqFgeMYK",
+        "title": "Bandit",
+        "artist": "EsDeeKid",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf78fac0a3916813bbacfba8",
+        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2AyMtdDF0mmc6bI4ljSIaN",
+        "title": "Luh Leakyz Vol. 1",
+        "artist": "Yeat, Lyfestyle Corporation",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9b950f174820d439ee205d9",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6KxJzeHMNbGJvcj9qM9DWd",
+        "title": "Relax (2009)",
+        "artist": "YG, Ty Dolla $ign",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022469a960d0f357e97fe9106f",
+        "url": "https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6D9j0i4RZNjm182X7PI2mH",
+        "title": "Naked",
+        "artist": "Dean Lewis",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2c143ee1b5a015d3be0be2b",
+        "url": "https://open.spotify.com/album/6D9j0i4RZNjm182X7PI2mH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4d6GjhNKWFaw0HfBmoLz6y",
+        "title": "The Great Beyond (Live at the Black Sessions / 2001)",
+        "artist": "R.E.M.",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a469c19f242f0fda42b7d1f1",
+        "url": "https://open.spotify.com/album/4d6GjhNKWFaw0HfBmoLz6y",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "0lqNa97gaZxaD9AAGj51Ee",
+        "title": "NIGHTTIME",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f43fe12ef16440986867b811",
+        "url": "https://open.spotify.com/album/0lqNa97gaZxaD9AAGj51Ee",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2DPNsa3Og61DgWM7aeDs83",
+        "title": "What a Karavaad Remix",
+        "artist": "Anirudh Ravichander, Dhanush, Ashwathama",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e32ce778b7889aefd18a301",
+        "url": "https://open.spotify.com/album/2DPNsa3Og61DgWM7aeDs83",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7dtaduVhZ4Ho8ybCNtnpOs",
+        "title": "KINETIC",
+        "artist": "DJ Javi26, SCHWVFTY",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ea8abb37f6c405526e30b7d",
+        "url": "https://open.spotify.com/album/7dtaduVhZ4Ho8ybCNtnpOs",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2mnFhOmFWvEbgeNZDpOHeR",
+        "title": "Hypnotize",
+        "artist": "Vintage Culture, Zaark",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026fb8555f09d9ed24e4447b8d",
+        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cNueJfyenoaK3dEV4wMXa",
+        "title": "ANA DEVIN / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas, Ana Devin",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8a9118f601915b75b828ca6",
+        "url": "https://open.spotify.com/album/6cNueJfyenoaK3dEV4wMXa",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "13iGM2g2NeFF1FuBgMpwFX",
+        "title": "So Swaezy",
+        "artist": "Yo Yo Honey Singh, Hommie Dilliwala",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e028919c240fdc11918c1b2a5e4",
+        "url": "https://open.spotify.com/album/13iGM2g2NeFF1FuBgMpwFX",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-17": [
@@ -57138,6 +57259,63 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02cb8f90885a89dc8e4ee5621c",
         "url": "https://open.spotify.com/album/7K7Likk7T0lJqYqRIZX7pT",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wBx7hn6zMtzLrUapQgV76",
+        "title": "Romantic Dance Floor Hits",
+        "artist": "Pritam, Arijit Singh, Shilpa Rao, Jyotica Tangri",
+        "type": "compilation",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02301532b8c7f20005292f3bac",
+        "url": "https://open.spotify.com/album/6wBx7hn6zMtzLrUapQgV76",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0WNF0XGRoc6GVoMi2wlOh7",
+        "title": "Mutant",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209bc010011a631808f51cc60",
+        "url": "https://open.spotify.com/album/0WNF0XGRoc6GVoMi2wlOh7",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-24": [
+      {
+        "id": "1vbSMRSuCOsIHRuNldnmJo",
+        "title": "Power Up Bollywood",
+        "artist": "Shashwat Sachdev, Yo Yo Honey Singh, Vishal Mishra, Daler Mehndi",
+        "type": "compilation",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca28a065282cea546a84d5a5",
+        "url": "https://open.spotify.com/album/1vbSMRSuCOsIHRuNldnmJo",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "58WRLuwv8A5G5P6Keqzr6I",
+        "title": "Alfaaz - Acoustic",
+        "artist": "Hamza Malik, Zain Zohaib, Atif Khan",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9656c4c0638022af5e38b47",
+        "url": "https://open.spotify.com/album/58WRLuwv8A5G5P6Keqzr6I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2AntUnU8MDyf56ftDlMr3r",
+        "title": "Sangeet Night Bollywood",
+        "artist": "Sachin-Jigar, Neha Kakkar, Jyotica Tangri, Yasser Desai",
+        "type": "compilation",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4e82b25e6c1416ae459cc80",
+        "url": "https://open.spotify.com/album/2AntUnU8MDyf56ftDlMr3r",
+        "total_tracks": 10,
         "genres": []
       }
     ]
