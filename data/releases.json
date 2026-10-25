@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-24T10:20:57.654Z",
-  "total": 5182,
+  "fetched_at": "2026-10-25T10:48:28.079Z",
+  "total": 5224,
   "by_date": {
     "2026-05-15": [
       {
@@ -55301,6 +55301,270 @@
         "url": "https://open.spotify.com/album/13iGM2g2NeFF1FuBgMpwFX",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "1mHwnR4Okof3WWM7kOlMsG",
+        "title": "Trap Island 2",
+        "artist": "Noriel",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02580f61382c0155ce508556e1",
+        "url": "https://open.spotify.com/album/1mHwnR4Okof3WWM7kOlMsG",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "7EA64dd9j45VLFXFER2NYH",
+        "title": "Holy Is The Name",
+        "artist": "Hillsong Worship",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211c963b17682aa684b931247",
+        "url": "https://open.spotify.com/album/7EA64dd9j45VLFXFER2NYH",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "3h0Xj0wl3zntndzXuTKZOx",
+        "title": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "artist": "Anirudh Ravichander, Deepak Ram, Super Subu, Ritesh G Rao",
+        "type": "album",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4b17fab4ac5fce1ae9a0063",
+        "url": "https://open.spotify.com/album/3h0Xj0wl3zntndzXuTKZOx",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "4mbNkgafzjIEDUm9e67SZp",
+        "title": "Tu Hi Disda - Karwa Chauth 2026",
+        "artist": "Pritam, Arijit Singh, Nikhita Gandhi, Kumaar",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217fb7f4dda10920a7c5d49f1",
+        "url": "https://open.spotify.com/album/4mbNkgafzjIEDUm9e67SZp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "67QpK5XF63PSIh3jHsFHRe",
+        "title": "TU LA VA SENTIR",
+        "artist": "Ronny GTA, Demente1212",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c1218c6e86a2c9619695249",
+        "url": "https://open.spotify.com/album/67QpK5XF63PSIh3jHsFHRe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2UJM2Y76RIetE79yFBVNV0",
+        "title": "Pyaar Unlimited",
+        "artist": "Shreya Ghoshal, Jyotica Tangri, Arijit Singh",
+        "type": "compilation",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e73a1561860cbf097a50b36d",
+        "url": "https://open.spotify.com/album/2UJM2Y76RIetE79yFBVNV0",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4NZPLdLPNP6WTS0TjdPdlt",
+        "title": "Outfit",
+        "artist": "La Rvfleuze",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208aff7ceaa4836afa1a7244a",
+        "url": "https://open.spotify.com/album/4NZPLdLPNP6WTS0TjdPdlt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7wm83yZgkOEpkHhEsiAKTq",
+        "title": "Dorothy (Telugu) [Original Motion Picture Soundtrack]",
+        "artist": "Ilaiyaraaja",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5b31b14aa44887093d2f5a9",
+        "url": "https://open.spotify.com/album/7wm83yZgkOEpkHhEsiAKTq",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7aCjBZehj6KjYuNFE4LucQ",
+        "title": "Terra bruciata (From The Rooftop Live 2026 @ Anfiteatro del Vittoriale, Gardone Riviera)",
+        "artist": "Coez",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d0a972846903611a77c09af5",
+        "url": "https://open.spotify.com/album/7aCjBZehj6KjYuNFE4LucQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7hOMhbsWbzTNupVFeRnoJt",
+        "title": "KAIZEN",
+        "artist": "L'morphine",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e025949635c77231876970c7c7c",
+        "url": "https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1cyosajQlz2hBQv3hFajV8",
+        "title": "Nadie Te Extraña",
+        "artist": "Xavi",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a85929a4a9cc4b1674f9640",
+        "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1dvB4QC4MPwJpQm724YDyO",
+        "title": "在遠方的你",
+        "artist": "陳卓賢 Ian",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e9d9d4386ff54bfb4133b87",
+        "url": "https://open.spotify.com/album/1dvB4QC4MPwJpQm724YDyO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74nlN1OilpnBurc4WZJNor",
+        "title": "Você Mudou",
+        "artist": "Belo",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ca3b54e67e3494f1fe80f846",
+        "url": "https://open.spotify.com/album/74nlN1OilpnBurc4WZJNor",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RAg0Dd2xkkZ3LEZzPNxYT",
+        "title": "Drip",
+        "artist": "ATEEZ",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02761f1b46b99f5b8407b4fb20",
+        "url": "https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "32gqKte9wQSV0Lk0Naz01B",
+        "title": "แกล้มเหล้า",
+        "artist": "KRK",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02147955d4071f695a28eb16fb",
+        "url": "https://open.spotify.com/album/32gqKte9wQSV0Lk0Naz01B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21lOEjUPRnYZjPyMAAxopV",
+        "title": "Si No Es Contigo",
+        "artist": "Luciano Pereyra",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b47b16fc24b897116e2014eb",
+        "url": "https://open.spotify.com/album/21lOEjUPRnYZjPyMAAxopV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7fHXQNeLRllq0cV94WTdQW",
+        "title": "Motivation Mode On",
+        "artist": "Thaman S, DIVINE, Raftaar, Shashwat Sachdev",
+        "type": "compilation",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208c417d1ac37ccc64b4e9abd",
+        "url": "https://open.spotify.com/album/7fHXQNeLRllq0cV94WTdQW",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7Aj6krHADdqO0MQaYejME0",
+        "title": "DESERVE",
+        "artist": "BABYMONSTER",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229c909f6216434515f2ab438",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58lmVTzxCX88ldFN9PNEMC",
+        "title": "GRACIAS JAH",
+        "artist": "Valentino GRM, Reboll333",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02053bc707ff8b46844356d324",
+        "url": "https://open.spotify.com/album/58lmVTzxCX88ldFN9PNEMC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "70EYVexbhq68CwbDkexTNn",
+        "title": "Kannum Kannum (From \"Hello Kadhal\")",
+        "artist": "G. V. Prakash, Kapil Kapilan, Sivaangi Krishnakumar, Vivek",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f02fc607b9f78b643f67eec",
+        "url": "https://open.spotify.com/album/70EYVexbhq68CwbDkexTNn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6W2Ti0BCUGFkNkg1RjNz7M",
+        "title": "الشبكة يا ابطال فور چي ( قدامك عامل هيرو )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02660faaabbbd1d738825d896d",
+        "url": "https://open.spotify.com/album/6W2Ti0BCUGFkNkg1RjNz7M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1i7H6QvworYz98QZfJnouw",
+        "title": "Kallu Kallu (From \"Hello Prema\")",
+        "artist": "G. V. Prakash, Krishna Tejasvi, Srinisha Jayaseelan, Sreemani",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e4dd6e32d0b0ee5cbec13f3",
+        "url": "https://open.spotify.com/album/1i7H6QvworYz98QZfJnouw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7xmOXIqcI5twumuM1TGbLD",
+        "title": "Baila Que Baila",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6b157194f4d767d4609ee2f",
+        "url": "https://open.spotify.com/album/7xmOXIqcI5twumuM1TGbLD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4etbnbtMZ6C6knNeQKULy0",
+        "title": "Mundo Vai Dançar",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a657ae8ae2b0a18546a8cbc0",
+        "url": "https://open.spotify.com/album/4etbnbtMZ6C6knNeQKULy0",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-17": [
@@ -57316,6 +57580,206 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e4e82b25e6c1416ae459cc80",
         "url": "https://open.spotify.com/album/2AntUnU8MDyf56ftDlMr3r",
         "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "5BskxQl78jotslv7DMPW4p",
+        "title": "Mi Chico (Josh Fawaz Remix)",
+        "artist": "DJ Goja, Jason Derulo, Melody, Josh Fawaz",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e995d69cbfbbe38b22b9381b",
+        "url": "https://open.spotify.com/album/5BskxQl78jotslv7DMPW4p",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4LnhWckBTcEs4mEbyWpcyl",
+        "title": "Crno zlato",
+        "artist": "Maya Berovic, Barbara Bobak",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222df18c69f1b82c3f6d38b93",
+        "url": "https://open.spotify.com/album/4LnhWckBTcEs4mEbyWpcyl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yxUe9PLHpMG3GHwkESDUg",
+        "title": "Decidiu Partir",
+        "artist": "DU'L, Vital",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02febc8c7f06b0d5207030d980",
+        "url": "https://open.spotify.com/album/0yxUe9PLHpMG3GHwkESDUg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3x1R1xZ1adSQ7ftrTWnN8g",
+        "title": "Patient A",
+        "artist": "Ado",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02beda72be919fa8ab591e2b43",
+        "url": "https://open.spotify.com/album/3x1R1xZ1adSQ7ftrTWnN8g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6pgg8ZnFlRtrrVsVy5FrsR",
+        "title": "NEMELVAGYUNK? II.",
+        "artist": "Bruno X Spacc",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c0baea9d14a276654664e2f8",
+        "url": "https://open.spotify.com/album/6pgg8ZnFlRtrrVsVy5FrsR",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "6vIpwIMySXXNRrFG3IV8HM",
+        "title": "Aaj Se Teri - Karwa Chauth 2026",
+        "artist": "Arijit Singh",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f1220bab9a2d5319a3e95f5",
+        "url": "https://open.spotify.com/album/6vIpwIMySXXNRrFG3IV8HM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4b8JcirXhRWPH4pQJCW8Df",
+        "title": "Dekha Hazaro Dafaa - Karwa Chauth 2026",
+        "artist": "Arijit Singh, Palak Muchhal",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267c1dcd2ae753db702c093da",
+        "url": "https://open.spotify.com/album/4b8JcirXhRWPH4pQJCW8Df",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2QpgpwKNX6zzelwAZ1oYAY",
+        "title": "Beast Mode Hindi",
+        "artist": "Thaman S, Farhad Bhiwandiwala, King, Jakes Bejoy",
+        "type": "compilation",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243107bdb389440e7934106e1",
+        "url": "https://open.spotify.com/album/2QpgpwKNX6zzelwAZ1oYAY",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "1zOek918qSiAsPCJQJavUk",
+        "title": "YUTHIEL / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "artist": "La Juntada De Los Artistas",
+        "type": "album",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c2f5b796437655b517318041",
+        "url": "https://open.spotify.com/album/1zOek918qSiAsPCJQJavUk",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "1ZEtQY4ZdLURLcZrgAlICq",
+        "title": "Usure Needhan Pulla - Reprise (From \"Mandaadi\")",
+        "artist": "G. V. Prakash",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c02925c35d167a87946ba88a",
+        "url": "https://open.spotify.com/album/1ZEtQY4ZdLURLcZrgAlICq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7B3NbZ4ACuBDCWmOaHDxD3",
+        "title": "Falcons (Hjemmesnekk)",
+        "artist": "BORGHINI, FALCONS",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e027866e51463a465132ab69d93",
+        "url": "https://open.spotify.com/album/7B3NbZ4ACuBDCWmOaHDxD3",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-25": [
+      {
+        "id": "0f36H2162invSaHvpSYsZt",
+        "title": "Tere Sang Yaara - Vocals Only",
+        "artist": "Atif Aslam, Arko",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02162cb725c164325e5f8bfb2c",
+        "url": "https://open.spotify.com/album/0f36H2162invSaHvpSYsZt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4kUbelD7HOB5b3QjyEcqp5",
+        "title": "VLONE",
+        "artist": "1MILL",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230840ee097bd406b8d555180",
+        "url": "https://open.spotify.com/album/4kUbelD7HOB5b3QjyEcqp5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ziNUxYnYVFdkQG4CQVqtv",
+        "title": "Nhạc Remix MeMe Media 31",
+        "artist": "MeMe Media",
+        "type": "album",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289fc9dd0e0d21f747d43cb1b",
+        "url": "https://open.spotify.com/album/2ziNUxYnYVFdkQG4CQVqtv",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "3RkTnqvb16aWSqN73mZXyr",
+        "title": "Солай ма?",
+        "artist": "Duman",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e028adaefc15378413a1361f37c",
+        "url": "https://open.spotify.com/album/3RkTnqvb16aWSqN73mZXyr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DMn2fgao5CyQKWbKyLquO",
+        "title": "Ud Daa Punjab - Tribal House Mix",
+        "artist": "Vishal Dadlani, Amit Trivedi, IQQANVE",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0277ddc4e20852fc1fdcea2410",
+        "url": "https://open.spotify.com/album/1DMn2fgao5CyQKWbKyLquO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "52SeVa6q4qBy48Ndyt39AT",
+        "title": "Reham Rakh",
+        "artist": "Vishal Dadlani, Kumaar, Mandeep Panghal, Sakshi Holkar",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02912f64f969049eb145d8fc92",
+        "url": "https://open.spotify.com/album/52SeVa6q4qBy48Ndyt39AT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "58VWdhRWrHkp8nVsKMj4Fo",
+        "title": "Vet hva du vil si (kraken 2027)",
+        "artist": "Benjiz, Bærlãnd, Ørnen",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc02870a4a3be92e047b44e4",
+        "url": "https://open.spotify.com/album/58VWdhRWrHkp8nVsKMj4Fo",
+        "total_tracks": 1,
         "genres": []
       }
     ]
