@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-25T10:48:28.079Z",
-  "total": 5224,
+  "fetched_at": "2026-10-26T12:19:09.397Z",
+  "total": 5260,
   "by_date": {
     "2026-05-15": [
       {
@@ -57702,6 +57702,105 @@
         "url": "https://open.spotify.com/album/7B3NbZ4ACuBDCWmOaHDxD3",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7us0zl46Z7mkATIjbMuZop",
+        "title": "Tina Tuesday Freestyles",
+        "artist": "Megan Thee Stallion",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020176f54edd31be2080f6b32e",
+        "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0PjKRRZUkNDl0kjTjxo4pj",
+        "title": "طلعو على ايدى",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6edf0022331c37709d1a58f",
+        "url": "https://open.spotify.com/album/0PjKRRZUkNDl0kjTjxo4pj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pWgUqasqrqsGE0Sluw3mp",
+        "title": "Panti Y Colale 2.0 / Muévelo",
+        "artist": "DesaKTa2",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ae8175c0bb39bc7d44828de",
+        "url": "https://open.spotify.com/album/4pWgUqasqrqsGE0Sluw3mp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aHi1GGSaqS2VG64QLTQFW",
+        "title": "Mexe Esse Coração",
+        "artist": "DEEJAY EL REY",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02895448c20ec9c48f3750c600",
+        "url": "https://open.spotify.com/album/4aHi1GGSaqS2VG64QLTQFW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38WO9zbq6hJR6QA2z7ktMm",
+        "title": "BICH",
+        "artist": "IXTLOO",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022ba7b56343c9a77b5db9e558",
+        "url": "https://open.spotify.com/album/38WO9zbq6hJR6QA2z7ktMm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1UytTNSjwQSHQrYz7JKnCV",
+        "title": "CAGA",
+        "artist": "IXTLOO",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f11bb184b1fb14f801a57d82",
+        "url": "https://open.spotify.com/album/1UytTNSjwQSHQrYz7JKnCV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4PmqDI5khuc89OsNqHkp4G",
+        "title": "CHACRA",
+        "artist": "DILAN OWEN",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c83ac99e048d82dbc5d333b",
+        "url": "https://open.spotify.com/album/4PmqDI5khuc89OsNqHkp4G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1yVDqyG8wl5nBtYaC2FiNU",
+        "title": "CASAMOS",
+        "artist": "DILAN OWEN",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216e6c0892a7357ef2ec24cad",
+        "url": "https://open.spotify.com/album/1yVDqyG8wl5nBtYaC2FiNU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6njYGr6g4QhdHH9plKLyuh",
+        "title": "Drop The Code",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b5d58929e281d998c1b44f0",
+        "url": "https://open.spotify.com/album/6njYGr6g4QhdHH9plKLyuh",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-25": [
@@ -57779,6 +57878,305 @@
         "release_date": "2026-10-25",
         "image": "https://i.scdn.co/image/ab67616d00001e02fc02870a4a3be92e047b44e4",
         "url": "https://open.spotify.com/album/58VWdhRWrHkp8nVsKMj4Fo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "21ekXR2GTz5plX211JgKqI",
+        "title": "باقه الخيانه - سوبر ستار",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02094107bece73ae5bae0b863f",
+        "url": "https://open.spotify.com/album/21ekXR2GTz5plX211JgKqI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3gYZAnnBf5yDxaiOiLmNIc",
+        "title": "Maari’s Aanandhi R&B Remix",
+        "artist": "Yuvan Shankar Raja, Dhanush, Ilaiyaraaja, M.M.Manasi",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2ce43567b02d3a0451bfc2e",
+        "url": "https://open.spotify.com/album/3gYZAnnBf5yDxaiOiLmNIc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1hltLWr2Sc00ighYPAEMvO",
+        "title": "Hai Đường Song Song",
+        "artist": "Tiên Tiên, Shiki",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02591570163f9173942c9ebe07",
+        "url": "https://open.spotify.com/album/1hltLWr2Sc00ighYPAEMvO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37l2zfErAJTv9d9DCmbEcO",
+        "title": "خاينين مالكمش امان ( انا جيت وانتو مجتوش )",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d50436586af246841af2c7d",
+        "url": "https://open.spotify.com/album/37l2zfErAJTv9d9DCmbEcO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Y63A3dWDbj39XvxHnfO22",
+        "title": "PUMP",
+        "artist": "Wezza Montaser",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0260974dff587aef1ea5f385cf",
+        "url": "https://open.spotify.com/album/4Y63A3dWDbj39XvxHnfO22",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6HYAbKPD9xL0ITLMqRR4sI",
+        "title": "هتقولي انا وانا ( الكدابين في بلدنا كترو )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261f0d1964e35f01d288c7d04",
+        "url": "https://open.spotify.com/album/6HYAbKPD9xL0ITLMqRR4sI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1p2UyLZ2vf0jfwpAGishl1",
+        "title": "Insomnia",
+        "artist": "RIIZE",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02beca8928729613742ac0246f",
+        "url": "https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ZhyjPsqYuZn3X4KAyZVn6",
+        "title": "Plain",
+        "artist": "Yisa Yu",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02936f288f3e74d115497dd8b4",
+        "url": "https://open.spotify.com/album/4ZhyjPsqYuZn3X4KAyZVn6",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "39OfJyQaNM8Omr5eWbdUT1",
+        "title": "Relaxing Classical Cello",
+        "artist": "Johann Sebastian Bach, Frédéric Chopin, Pyotr Ilyich Tchaikovsky, Gabriel Fauré, Alexander Glazunov, Camille Saint-Saëns, Sergei Rachmaninoff, Felix Mendelssohn, Antonio Vivaldi, Sergei Prokofiev",
+        "type": "album",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe8bb9ea821fdac5a6a7ac4e",
+        "url": "https://open.spotify.com/album/39OfJyQaNM8Omr5eWbdUT1",
+        "total_tracks": 28,
+        "genres": []
+      },
+      {
+        "id": "58Ze0iYKXbnPIYbj56lmhI",
+        "title": "Jeevitha Ragame (From \"Ramayana\")",
+        "artist": "A.R. Rahman, Naresh Iyer, Amritha Rajan, Vinayak Sasikumar",
+        "type": "single",
+        "release_date": "2026-10-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e27647ad9a3eba57315c0da9",
+        "url": "https://open.spotify.com/album/58Ze0iYKXbnPIYbj56lmhI",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-26": [
+      {
+        "id": "4xYpXVSKqRTsL3ucRd8EMM",
+        "title": "BREAK EVEN",
+        "artist": "ILLIT",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df9518845a9897da168eb9df",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4YK8vliivgsFyAmOBoUqIj",
+        "title": "Ikk Kudi - Diljit Dosanjh Vocals Only",
+        "artist": "Diljit Dosanjh",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b8d71395fb95cb6cc6a54d9",
+        "url": "https://open.spotify.com/album/4YK8vliivgsFyAmOBoUqIj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63ywuRp9C1XeAIVLBtiZIf",
+        "title": "别来我梦里",
+        "artist": "Ren Ran",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c6e3950a1e69f85cece9f7eb",
+        "url": "https://open.spotify.com/album/63ywuRp9C1XeAIVLBtiZIf",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4oXo2TCqHYTNyVB8wNQLgM",
+        "title": "Badshah Bangers",
+        "artist": "Badshah",
+        "type": "album",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e025dd6c1d751f7e45d2f1e91ae",
+        "url": "https://open.spotify.com/album/4oXo2TCqHYTNyVB8wNQLgM",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "355n1THOAzpsZh4R8crspO",
+        "title": "欲落未落",
+        "artist": "DIOR 大穎",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02163e4d258134d3e785d51007",
+        "url": "https://open.spotify.com/album/355n1THOAzpsZh4R8crspO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fV7N7DWvk6oAU3kA8jAcA",
+        "title": "ทายาทอสูร (From \"คุณยายวรนาฏ INHERIT\")",
+        "artist": "Palmy",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e024adb92b2d994e60e4008b96b",
+        "url": "https://open.spotify.com/album/1fV7N7DWvk6oAU3kA8jAcA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3M3hVGAPDk0hvp0WColPxV",
+        "title": "Aarti Kunj Bihari Ki",
+        "artist": "Anuradha Paudwal, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02294b7166ac8e9054e0a0f131",
+        "url": "https://open.spotify.com/album/3M3hVGAPDk0hvp0WColPxV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6rjR0utUVeDLkFfoYIKvOS",
+        "title": "BCT de Ouro",
+        "artist": "MC LUUKY, DJ Glenner",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f47bf46acbc3b314c395cbdb",
+        "url": "https://open.spotify.com/album/6rjR0utUVeDLkFfoYIKvOS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ncQtCyoNoMnhyGof1CpbW",
+        "title": "เพียงแค่โทร",
+        "artist": "SEA.",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200b72f4a8efa0a863dcd6304",
+        "url": "https://open.spotify.com/album/3ncQtCyoNoMnhyGof1CpbW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72azCiM8I1rR0ZpGRUQKjB",
+        "title": "ผิดที่เขา (Who Cares)",
+        "artist": "2Ectasy, jeffy, Kakagoesbackhome",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f22444b619ec545b26c79ce6",
+        "url": "https://open.spotify.com/album/72azCiM8I1rR0ZpGRUQKjB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6F9SPJeViUnEicebxhbK2G",
+        "title": "SZALAD EL",
+        "artist": "Beton.Hofi, Beatrick, millair",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e028f2694208f43b87429620e69",
+        "url": "https://open.spotify.com/album/6F9SPJeViUnEicebxhbK2G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4SNGfkQqV53jzZp55DxYDl",
+        "title": "That's!Chojo",
+        "artist": "M!LK",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c7af77f0c1a3e83cad2dbcb",
+        "url": "https://open.spotify.com/album/4SNGfkQqV53jzZp55DxYDl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "602mraWtM2LiIZ6RAhIueb",
+        "title": "דרך העושים מאהבה (Live)",
+        "artist": "Ishay Ribo, Zusha",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e023339a68ea3e6857eeafa7ca3",
+        "url": "https://open.spotify.com/album/602mraWtM2LiIZ6RAhIueb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2lT7OFxgCuDO3CwTZ9kUjs",
+        "title": "BEGESTAN",
+        "artist": "Bandata Na Ruba, MOMO RECORDS",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0261f78211494943ff870e0789",
+        "url": "https://open.spotify.com/album/2lT7OFxgCuDO3CwTZ9kUjs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "20cLY0TPPUcVLVOxcGmD1a",
+        "title": "Kar Mehnat (From \"Ganesh : Dust to Stardust\")",
+        "artist": "Sonu Nigam, Ganesh Acharya, Junaid Kumar, Kalyan Vasanth",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c341a2a0eae6e69cb1549a3",
+        "url": "https://open.spotify.com/album/20cLY0TPPUcVLVOxcGmD1a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iGqCu6Ny5cKSfub5sBibf",
+        "title": "Looks Can Kill",
+        "artist": "IVE",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241ecb27528efa3aa1a43d404",
+        "url": "https://open.spotify.com/album/7iGqCu6Ny5cKSfub5sBibf",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6enyuWNJERmAqrHtYqogWc",
+        "title": "Saanp Seedhi (feat. Bindu Ranwa)",
+        "artist": "Masoom Sharma, Mohini Patel, Bittu Sorkhi, NMN Sharma",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f3c816ea4a187aff847d1e20",
+        "url": "https://open.spotify.com/album/6enyuWNJERmAqrHtYqogWc",
         "total_tracks": 1,
         "genres": []
       }
