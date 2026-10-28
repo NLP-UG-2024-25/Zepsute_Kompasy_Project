@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-27T11:39:11.754Z",
-  "total": 5286,
+  "fetched_at": "2026-10-28T12:10:51.732Z",
+  "total": 5316,
   "by_date": {
     "2026-05-15": [
       {
@@ -58289,6 +58289,83 @@
         "url": "https://open.spotify.com/album/3h6GGyx4ZResWXp8pDC0eR",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5jT7IJGZZP7sTvkOjgkGBa",
+        "title": "Roddy Theme (From \"Jailer 2\")",
+        "artist": "Anirudh Ravichander",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aca6072e9de51b526e5428d4",
+        "url": "https://open.spotify.com/album/5jT7IJGZZP7sTvkOjgkGBa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3z7AwIsn0G4Z00kZ84p1m7",
+        "title": "OM Special Duty (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+        "artist": "Sai Abhyankkar",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e022de772ed32d6f919b6ba4254",
+        "url": "https://open.spotify.com/album/3z7AwIsn0G4Z00kZ84p1m7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fXezWezjYIWd01nlbJdhD",
+        "title": "MENELADANIMU (YA RASULULLAH)",
+        "artist": "Hud",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af30a5db6d123ee116a3894a",
+        "url": "https://open.spotify.com/album/1fXezWezjYIWd01nlbJdhD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0I7vdQP1c3eNgRBApANF0J",
+        "title": "Ghadi Nwalef",
+        "artist": "Cheb Bilal",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e44de12310c70d4633b6fad3",
+        "url": "https://open.spotify.com/album/0I7vdQP1c3eNgRBApANF0J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2U2X5NdPJ65p6Xz8ktSh8a",
+        "title": "Ma imbrac cum imi convine",
+        "artist": "Florin Cercel",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02349a41712ef060feab6f8dbc",
+        "url": "https://open.spotify.com/album/2U2X5NdPJ65p6Xz8ktSh8a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5bSNp7IKGBu3JYsoslrn2P",
+        "title": "Positif",
+        "artist": "Djalil Palermo",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02898dac48492f90f7ac86f12b",
+        "url": "https://open.spotify.com/album/5bSNp7IKGBu3JYsoslrn2P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ce0zdyX4KZ7jX5dHFVJm2",
+        "title": "Confieso",
+        "artist": "Kany García",
+        "type": "single",
+        "release_date": "2026-10-26",
+        "image": "https://i.scdn.co/image/ab67616d00001e02884a44a6f6074cc6a2357acf",
+        "url": "https://open.spotify.com/album/6ce0zdyX4KZ7jX5dHFVJm2",
+        "total_tracks": 4,
+        "genres": []
       }
     ],
     "2026-10-27": [
@@ -58465,6 +58542,261 @@
         "release_date": "2026-10-27",
         "image": "https://i.scdn.co/image/ab67616d00001e0240a456c6f5bf269242ee457c",
         "url": "https://open.spotify.com/album/4fyxflfQhnH2854EftW3Dh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Pc1BAFdJPNzbhE5UJH7rt",
+        "title": "người điên NẶNG",
+        "artist": "tlinh",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cb7819e2eee39ca895a4879",
+        "url": "https://open.spotify.com/album/3Pc1BAFdJPNzbhE5UJH7rt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0WvSGbvZboyQUHUd7ECP1j",
+        "title": "Домой",
+        "artist": "Elbrus Djanmirzoev",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e029cf1717aad62a0de248ce654",
+        "url": "https://open.spotify.com/album/0WvSGbvZboyQUHUd7ECP1j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2CnOwLaZlpjYcVOAeApaHq",
+        "title": "3 Phải 6 Đừng",
+        "artist": "Quân A.P",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7088fbe77019cda7b9fa697",
+        "url": "https://open.spotify.com/album/2CnOwLaZlpjYcVOAeApaHq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "18MLpvD2JBwumDvRJgoxV1",
+        "title": "Shabadaba",
+        "artist": "RADWIMPS",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242965c13d41c9360af87ed6e",
+        "url": "https://open.spotify.com/album/18MLpvD2JBwumDvRJgoxV1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5xnS9lRfUstrYHrr8dsW8R",
+        "title": "La Carretera",
+        "artist": "La Juntada De Los Artistas, El Lauti",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9ab8420c0a256a511c80baa",
+        "url": "https://open.spotify.com/album/5xnS9lRfUstrYHrr8dsW8R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ZLNqUu8RWt5GTrMmQQXi8",
+        "title": "Pasión Intimo - Uriel Lozano",
+        "artist": "Uriel Lozano, Pasión de Sábado",
+        "type": "album",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273562cad191c24bdc28cf9eb",
+        "url": "https://open.spotify.com/album/6ZLNqUu8RWt5GTrMmQQXi8",
+        "total_tracks": 7,
+        "genres": []
+      }
+    ],
+    "2026-10-28": [
+      {
+        "id": "525xLSh6qa3af95ycb8yme",
+        "title": "Blue Valentine (Japanese ver.)",
+        "artist": "NMIXX",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023fe4da27ff63ff6813e1f542",
+        "url": "https://open.spotify.com/album/525xLSh6qa3af95ycb8yme",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3v8TLhsflfaLQWJfQHqTWY",
+        "title": "Koh-Lanta",
+        "artist": "TRIANGLE DES BERMUDES",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02061c647a9a24373054a1c3ef",
+        "url": "https://open.spotify.com/album/3v8TLhsflfaLQWJfQHqTWY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oeHIk0Ya7VdiIVMVcCkwH",
+        "title": "Charan Ke Dhulwa",
+        "artist": "Vishal Mishra, Sanju Baba",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aeada2b71a243d5e99424b4f",
+        "url": "https://open.spotify.com/album/1oeHIk0Ya7VdiIVMVcCkwH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49fXqI1MWWAy6cfLC1pk3E",
+        "title": "Gloss de Pimenta",
+        "artist": "Aaron Modesto, Mc J Mito, MC Tairon, DJ PEPI",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3398b3f8fa20659263eae60",
+        "url": "https://open.spotify.com/album/49fXqI1MWWAy6cfLC1pk3E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74awrvJtXY0wKUReYVNzLv",
+        "title": "Christmas with Michalis Hatzigiannis",
+        "artist": "Michalis Hatzigiannis",
+        "type": "album",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e029283174f0068670ae5fe11a9",
+        "url": "https://open.spotify.com/album/74awrvJtXY0wKUReYVNzLv",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "0SrjAwr1D3ypPcIWAQvjpW",
+        "title": "Fugindo de Perreco",
+        "artist": "Mc Davi, Trick, DJ Kaioken, Restrito Records",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02295fb6f80519c166d8849637",
+        "url": "https://open.spotify.com/album/0SrjAwr1D3ypPcIWAQvjpW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2L6JzM0QTXIEgqCyxWKiEA",
+        "title": "วิคตอเรีย",
+        "artist": "YUNGTARR",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020390452409c27974cfab2b8c",
+        "url": "https://open.spotify.com/album/2L6JzM0QTXIEgqCyxWKiEA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xgxtLarcoDSQlPMqpVnzm",
+        "title": "Khandar (feat. Pranjal Dahiya & Mannu Dabas)",
+        "artist": "Masoom Sharma, Ashu Twinkle, Harry Lather, Pinna Music",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbd4fd82afe7c441f2c67368",
+        "url": "https://open.spotify.com/album/4xgxtLarcoDSQlPMqpVnzm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zN3IUevDr90RGGgNwA3YX",
+        "title": "Młody Białas (Freestyle)",
+        "artist": "Białas",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d85d0a1fe88340fb2fb7742",
+        "url": "https://open.spotify.com/album/3zN3IUevDr90RGGgNwA3YX",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6z0y7JVqs7hL7hm8ZQbHJU",
+        "title": "Lake Ontario",
+        "artist": "Bryan Adams",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b7fb70e055d1042520e4965",
+        "url": "https://open.spotify.com/album/6z0y7JVqs7hL7hm8ZQbHJU",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3cQaUnKJKFawKVhTRZWZDo",
+        "title": "OTKRADNI ME",
+        "artist": "KSIOR, SISS",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02726c9f24bed62c06661cb395",
+        "url": "https://open.spotify.com/album/3cQaUnKJKFawKVhTRZWZDo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0NwMKMHgfkyxNtSTCSqm7c",
+        "title": "BAGHDAD",
+        "artist": "Roi 6/12, Lived, BAKV",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e029373af21165e7073f1b4cad2",
+        "url": "https://open.spotify.com/album/0NwMKMHgfkyxNtSTCSqm7c",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5MvqJa8Qu7aZWKn6OdkTUh",
+        "title": "Drømmen jeg vil selge, holder meg våken.",
+        "artist": "GOLF",
+        "type": "album",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b9ef361e75a2710abafa9f4",
+        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "2nsnfcWhtdxYy3Y1N4DAIW",
+        "title": "Bayagy Mahabbat",
+        "artist": "akimmmich, Bimo",
+        "type": "album",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206a372c26893764b708d51f8",
+        "url": "https://open.spotify.com/album/2nsnfcWhtdxYy3Y1N4DAIW",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "2EHrME2XZ031pc64ZqWKoK",
+        "title": "Kui Mul Oleks Selline Võim",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d4bb12eaf15ac5ac7dff357",
+        "url": "https://open.spotify.com/album/2EHrME2XZ031pc64ZqWKoK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1ea1dj3GjdEZwCrMKSEo1I",
+        "title": "Filthy Rotten Shame",
+        "artist": "Moon Phases",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f80c6b0cf0ff979ecb6ce5b",
+        "url": "https://open.spotify.com/album/1ea1dj3GjdEZwCrMKSEo1I",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3vBZRGBa62zbZ4peVF6d1o",
+        "title": "Twin",
+        "artist": "Bobin Bruke",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a741f414d85df6355299bd01",
+        "url": "https://open.spotify.com/album/3vBZRGBa62zbZ4peVF6d1o",
         "total_tracks": 1,
         "genres": []
       }
