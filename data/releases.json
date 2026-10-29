@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-28T12:10:51.732Z",
-  "total": 5316,
+  "fetched_at": "2026-10-29T12:21:35.136Z",
+  "total": 5347,
   "by_date": {
     "2026-05-15": [
       {
@@ -58610,6 +58610,50 @@
         "url": "https://open.spotify.com/album/6ZLNqUu8RWt5GTrMmQQXi8",
         "total_tracks": 7,
         "genres": []
+      },
+      {
+        "id": "2zWvpuyilPgQKsBIzgsN42",
+        "title": "النيل ده نيلنا",
+        "artist": "Amr Mostafa",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fd8e129c415292a4e1e5afd",
+        "url": "https://open.spotify.com/album/2zWvpuyilPgQKsBIzgsN42",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4q3vt7MbaN7sVpUuxA6V8z",
+        "title": "Forever Young - X (Versions)",
+        "artist": "vers1zee",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c59a7ace4d5b3f59cf1f054",
+        "url": "https://open.spotify.com/album/4q3vt7MbaN7sVpUuxA6V8z",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "44snFPGaK8MEWKoFZoxDjK",
+        "title": "Baby",
+        "artist": "Mc Paiva ZS, Ollie",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bab42036282347a30bacdf7e",
+        "url": "https://open.spotify.com/album/44snFPGaK8MEWKoFZoxDjK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jsWYQP5Umis6fYAcqh80j",
+        "title": "Pulung",
+        "artist": "Denny Caknan",
+        "type": "single",
+        "release_date": "2026-10-27",
+        "image": "https://i.scdn.co/image/ab67616d00001e02011bbb8ce8189179e623ad13",
+        "url": "https://open.spotify.com/album/3jsWYQP5Umis6fYAcqh80j",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-28": [
@@ -58798,6 +58842,305 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a741f414d85df6355299bd01",
         "url": "https://open.spotify.com/album/3vBZRGBa62zbZ4peVF6d1o",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "726HPmLHK2DtpFZd5BcIgl",
+        "title": "Ajnabi",
+        "artist": "Asim Azhar",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e09efac630eddb29ed1ba95",
+        "url": "https://open.spotify.com/album/726HPmLHK2DtpFZd5BcIgl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Pc1BAFdJPNzbhE5UJH7rt",
+        "title": "người điên NẶNG",
+        "artist": "tlinh",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cb7819e2eee39ca895a4879",
+        "url": "https://open.spotify.com/album/3Pc1BAFdJPNzbhE5UJH7rt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SCg2evZWwMIFC3vBAnqEm",
+        "title": "季候風",
+        "artist": "Faye Wong",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241fc9d49e4e074c076f9c51e",
+        "url": "https://open.spotify.com/album/5SCg2evZWwMIFC3vBAnqEm",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4HLYQlH2aL2dIg1aKSpY9m",
+        "title": "Aai Jijai (From \"Jijai\")",
+        "artist": "Shankar Mahadevan, Gulraj Singh, Manoj Yadav",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee4312dcca3b9cdf696f763e",
+        "url": "https://open.spotify.com/album/4HLYQlH2aL2dIg1aKSpY9m",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1FxMSAa14DJIRVNLQ2ju5Q",
+        "title": "Quando Cê Volta",
+        "artist": "MC GP, KayBlack, Mc Paiva ZS, Aaron Modesto",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb0a5402026b22f861bb2264",
+        "url": "https://open.spotify.com/album/1FxMSAa14DJIRVNLQ2ju5Q",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0HimDRgSepWqLvbpqU2kTv",
+        "title": "Obsesión",
+        "artist": "La Joaqui, Tiago PZK, Ovy On The Drums",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6bb83731edd684092b8080d",
+        "url": "https://open.spotify.com/album/0HimDRgSepWqLvbpqU2kTv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GKaTDVdFAUiT8YVXFvara",
+        "title": "Kera Sakti",
+        "artist": "Akbar Chalay, Matta",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254f962fc0edce9007ccdfc1b",
+        "url": "https://open.spotify.com/album/5GKaTDVdFAUiT8YVXFvara",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0eZwcNtXmJJ9fthH4TTx6N",
+        "title": "Như Một Người Rưng",
+        "artist": "Osad, Hà An Huy",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bb865e24f53919ebf376279",
+        "url": "https://open.spotify.com/album/0eZwcNtXmJJ9fthH4TTx6N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7fPZ3AWSh85cUW2CzEHuXL",
+        "title": "เมาหรือเหงา? (Drunk or Lonely?)",
+        "artist": "MEYOU",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291be77a7d83188087af40f7d",
+        "url": "https://open.spotify.com/album/7fPZ3AWSh85cUW2CzEHuXL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "55xytAmjtN8tITRBjX6F7P",
+        "title": "Al Chile Pega",
+        "artist": "Luis R Conriquez",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a868af095007326178ab98d5",
+        "url": "https://open.spotify.com/album/55xytAmjtN8tITRBjX6F7P",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2hbBKkFjvCmxVQGdzBzYtT",
+        "title": "Run Away From the Mob",
+        "artist": "Queens of the Stone Age",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a4abad543ac0bc780944f3d",
+        "url": "https://open.spotify.com/album/2hbBKkFjvCmxVQGdzBzYtT",
+        "total_tracks": 4,
+        "genres": []
+      }
+    ],
+    "2026-10-29": [
+      {
+        "id": "7LDkMSKryvFqJbvTh7Ar5D",
+        "title": "Mariposa Tecknicolor (Cafecito Navideño)",
+        "artist": "Fonseca",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4ccb75ff22b621871beed7b",
+        "url": "https://open.spotify.com/album/7LDkMSKryvFqJbvTh7Ar5D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3XsikNMTSZMajYvNj8JS7U",
+        "title": "Lento",
+        "artist": "Køddy G, THE FAVORITES, 1cewayz",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226c35eae0057446c14a4d751",
+        "url": "https://open.spotify.com/album/3XsikNMTSZMajYvNj8JS7U",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Xn7mE2Zfgs9Rj8VZl3glo",
+        "title": "ที่ชอบที่ชอบ (Grief Eaters)",
+        "artist": "Jeff Satur",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a5dbda889a970fed1381aafa",
+        "url": "https://open.spotify.com/album/6Xn7mE2Zfgs9Rj8VZl3glo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3nSlGw0nRjALQMGVrvFxew",
+        "title": "Slidin",
+        "artist": "HANA",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9a7fdd774fd4f2943a9a70b",
+        "url": "https://open.spotify.com/album/3nSlGw0nRjALQMGVrvFxew",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02515ihgwi9Tew7FwsZ2au",
+        "title": "Drunk",
+        "artist": "BE'O",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02337ea63da45013b447256d6a",
+        "url": "https://open.spotify.com/album/02515ihgwi9Tew7FwsZ2au",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6qX9XOi8866xibf8HYWplK",
+        "title": "Mega More Than Yoy Know",
+        "artist": "Rincon, La Nonna Go, DJ Paludo",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eaedc45f45ba58c5dc338575",
+        "url": "https://open.spotify.com/album/6qX9XOi8866xibf8HYWplK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BqiE59Ck4sL8gSBfLdhzd",
+        "title": "İkinci Yüzyıl / 2. Yüzyıl (A Capella & Koro)",
+        "artist": "Kenan Doğulu",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212cbe587d9461758ab7015b4",
+        "url": "https://open.spotify.com/album/4BqiE59Ck4sL8gSBfLdhzd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0gij2bvKa1slrqSzN1EzvB",
+        "title": "Alko i kwiaty",
+        "artist": "Major SPZ, Wojno, Ślimak, Natis",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af495ad57f63559d9131d717",
+        "url": "https://open.spotify.com/album/0gij2bvKa1slrqSzN1EzvB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3h4rFLN4CkcEDhyuVefrrg",
+        "title": "Ya Quiero",
+        "artist": "Lyon la f, Awesome Pierre, Salastkbron",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b0ab3f01cf513132e0276db8",
+        "url": "https://open.spotify.com/album/3h4rFLN4CkcEDhyuVefrrg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5TkObvmvb2KFaRmaQMzxFd",
+        "title": "Ham Ban Gaini Sahib (From \"Laakhan Singh\")",
+        "artist": "Pawan Singh, Madhukar Anand, Satya Savarkar",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a9c7bd3298bcfe97ffeb172",
+        "url": "https://open.spotify.com/album/5TkObvmvb2KFaRmaQMzxFd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0eV4AZDac9bwSW9EBy7orc",
+        "title": "Nave Linda",
+        "artist": "DJ BOY, Mc Kadu, Mc Don Juan, MC Vine7",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0281c5a35bb6808f7fd6ebe781",
+        "url": "https://open.spotify.com/album/0eV4AZDac9bwSW9EBy7orc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3EfdpReRO5HPbtpvctDspq",
+        "title": "Deles",
+        "artist": "Gya, MADATORRICELLI",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e19a71519497f01d71dfe7d6",
+        "url": "https://open.spotify.com/album/3EfdpReRO5HPbtpvctDspq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "08xPQG2wI8FHrvQF71iBRc",
+        "title": "Fura-ma (Mr. Playboy)",
+        "artist": "Bogdan DLP, Kiara",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0217203d2030f5b3fa4d435e88",
+        "url": "https://open.spotify.com/album/08xPQG2wI8FHrvQF71iBRc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6Iutb1rCKCfW6KxD9nK2iE",
+        "title": "Min Bedste Ven (Live Fra Knæk Cancer)",
+        "artist": "URO",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ae7e998cedaf21ee9a4dbe6",
+        "url": "https://open.spotify.com/album/6Iutb1rCKCfW6KxD9nK2iE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1UrsejzBNaJGmoM03cxnAZ",
+        "title": "TEINE VAATUS",
+        "artist": "SADU",
+        "type": "album",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5417998f4e9aa0fb7b3d831",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "5QVZH2fRbt65NInD1wZFMV",
+        "title": "Jauni draugi atnāk vieglāk, kad aizmirstam par vecajiem",
+        "artist": "Jānis Niedra",
+        "type": "album",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b53a98a58829fb997eb1dc39",
+        "url": "https://open.spotify.com/album/5QVZH2fRbt65NInD1wZFMV",
+        "total_tracks": 9,
         "genres": []
       }
     ]
