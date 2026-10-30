@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-29T12:21:35.136Z",
-  "total": 5347,
+  "fetched_at": "2026-10-30T12:12:18.244Z",
+  "total": 5400,
   "by_date": {
     "2026-05-15": [
       {
@@ -58964,6 +58964,61 @@
         "url": "https://open.spotify.com/album/2hbBKkFjvCmxVQGdzBzYtT",
         "total_tracks": 4,
         "genres": []
+      },
+      {
+        "id": "6QgPC0fUK12U1tCHk3vIuS",
+        "title": "מטריקס",
+        "artist": "Mor",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb50041ee67822d3cc895a99",
+        "url": "https://open.spotify.com/album/6QgPC0fUK12U1tCHk3vIuS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DifUQ3LOZIxKlRgR8PvUE",
+        "title": "לא קונה אותי / כל העיר יודעת (Live)",
+        "artist": "Itay Levi, Mor",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e0238f453c0f79870c240155504",
+        "url": "https://open.spotify.com/album/2DifUQ3LOZIxKlRgR8PvUE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1yJBEXK03vX9cWqTcbAS1t",
+        "title": "THE CLASSIC ALBUM",
+        "artist": "Ahmed Saad",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb5cb7904ada5ea73ca37f79",
+        "url": "https://open.spotify.com/album/1yJBEXK03vX9cWqTcbAS1t",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "79uiRUlCjGyuGkqVgsIqwT",
+        "title": "Something Ordinary",
+        "artist": "Livia Hart",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f47f627604cd7a89a4f0a327",
+        "url": "https://open.spotify.com/album/79uiRUlCjGyuGkqVgsIqwT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hYmUGdrWb3u9VqLTzBNmr",
+        "title": "Heavyweight Sound",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-10-28",
+        "image": "https://i.scdn.co/image/ab67616d00001e023aba93479d161a29e1d6a14c",
+        "url": "https://open.spotify.com/album/3hYmUGdrWb3u9VqLTzBNmr",
+        "total_tracks": 2,
+        "genres": []
       }
     ],
     "2026-10-29": [
@@ -59141,6 +59196,536 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02b53a98a58829fb997eb1dc39",
         "url": "https://open.spotify.com/album/5QVZH2fRbt65NInD1wZFMV",
         "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "2Qj0IRHX4YllH22PNlmaBQ",
+        "title": "Here You Come, There You Go",
+        "artist": "Gracie Abrams",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e029937fa4eb69a49681d073c97",
+        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0uZTnJ42SV9huUXG8aasgU",
+        "title": "Fuga Pa San Carlos",
+        "artist": "Chuyin",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5edb5ecd7ccd7ed96620714",
+        "url": "https://open.spotify.com/album/0uZTnJ42SV9huUXG8aasgU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6tchKHgP5p2HT8B50gFAcN",
+        "title": "Vitamina",
+        "artist": "Grupo Marca Registrada",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d28b59e454330fd7a0aa0d13",
+        "url": "https://open.spotify.com/album/6tchKHgP5p2HT8B50gFAcN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0WwODZwr9nuFvSDBGNeMD4",
+        "title": "BRINCAITO",
+        "artist": "Ryan Castro",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e021411eee176b443ae78bd9f87",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2WoUoufyL4ncq4ilxawdnS",
+        "title": "Body (Remix)",
+        "artist": "Eladio Carrion, Rauw Alejandro, De La Rose",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e024da3f40bd063367bb96bb26b",
+        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vdkU4mfPJETaShVL4gFiM",
+        "title": "Nunca",
+        "artist": "Zoé, Adrian Quesada, Angélica Garcia",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267a51339286289548e1ba109",
+        "url": "https://open.spotify.com/album/6vdkU4mfPJETaShVL4gFiM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6lEFtbApJxweBeWGqRR9SM",
+        "title": "She'll Be Coming 'Round The Mountain",
+        "artist": "The Wiggles",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d31cec0ae181e3f811a270f0",
+        "url": "https://open.spotify.com/album/6lEFtbApJxweBeWGqRR9SM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19DNXv2aDjbTGA6LVay047",
+        "title": "Cartier Remix",
+        "artist": "El Americano 4KT, Lil Naay",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d67b42defb2d929e33c535b9",
+        "url": "https://open.spotify.com/album/19DNXv2aDjbTGA6LVay047",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0yQK4WJNTNc0tOpWDWlVlK",
+        "title": "MUITO GOSTOSO",
+        "artist": "Martinwhite, Loyaltty",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02621c1f2acaf5a70bbad5f849",
+        "url": "https://open.spotify.com/album/0yQK4WJNTNc0tOpWDWlVlK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "72Bdjeo0e4oP16P5yMjIAo",
+        "title": "Hello Bebe",
+        "artist": "Pirlo",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e020739246ffa0ece6714f33844",
+        "url": "https://open.spotify.com/album/72Bdjeo0e4oP16P5yMjIAo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0clOOLFqe0MMtzKa7a4qAQ",
+        "title": "Lauta - En Vivo",
+        "artist": "Lauta",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d81f63b07866061dd722fe36",
+        "url": "https://open.spotify.com/album/0clOOLFqe0MMtzKa7a4qAQ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7nxuTcPKonRGjXxUyDPpba",
+        "title": "Abusé",
+        "artist": "Rapson",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e5ac88d1ce41f3a4719dbaa8",
+        "url": "https://open.spotify.com/album/7nxuTcPKonRGjXxUyDPpba",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-30": [
+      {
+        "id": "3mfhO7yPczONj4ymNVWoG1",
+        "title": "LA POSTAL",
+        "artist": "Daddy Yankee",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02798a10777753ec7bcf571e04",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "09VHUtGwNd9PR9eiRAnrDv",
+        "title": "Everything Under The Sun",
+        "artist": "Nickelback",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02245e1ed1baff5362f0f7e2ed",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "0FHvF9pHph0NNZ4FlhFGRU",
+        "title": "Glitter (Deluxe Edition)",
+        "artist": "Mariah Carey",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0272cb6e97026d2838dadfc4e7",
+        "url": "https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU",
+        "total_tracks": 27,
+        "genres": []
+      },
+      {
+        "id": "2odXmoKfI3FRaWeX3XFQOD",
+        "title": "Blue Moon (The Remixes)",
+        "artist": "Zara Larsson",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02564182bcd1ff30bc16c62005",
+        "url": "https://open.spotify.com/album/2odXmoKfI3FRaWeX3XFQOD",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0e1ymao80HGOBHjZ47rUzO",
+        "title": "Lithium (Remastered 2026)",
+        "artist": "Evanescence",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c02604b5ff30d24989ac8822",
+        "url": "https://open.spotify.com/album/0e1ymao80HGOBHjZ47rUzO",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "4JxUxYheA8Xs2dvEZTWsyg",
+        "title": "HOW TO QUIT SMOKING",
+        "artist": "Dominic Fike",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a5456ace4c059df03b973ee",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "62NbAvdDqkkuHff5v9MSBb",
+        "title": "Coming For You (Hometown Remix)",
+        "artist": "The Offspring",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f64db22e6b54266fa5d65f14",
+        "url": "https://open.spotify.com/album/62NbAvdDqkkuHff5v9MSBb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bBcZfSZRRUFVe1zyEZblx",
+        "title": "Show Me What You Got",
+        "artist": "JAŸ-Z",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02880964098afcfeb851576dd8",
+        "url": "https://open.spotify.com/album/3bBcZfSZRRUFVe1zyEZblx",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3EquYPRLoMWqXy12Ad28lR",
+        "title": "INDIAN SUMMER",
+        "artist": "Alan Walker, KIDDO",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cd1acd2353316f3e1caf151c",
+        "url": "https://open.spotify.com/album/3EquYPRLoMWqXy12Ad28lR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ZL09JRhK4OQBVCf9Sr6fi",
+        "title": "La Formula (Deluxe Album)",
+        "artist": "El Rabbanito",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e024910f5e5b2881bc2aa2d667b",
+        "url": "https://open.spotify.com/album/5ZL09JRhK4OQBVCf9Sr6fi",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "1h8gHqZhJrCH07FezHSwjv",
+        "title": "Esfinge",
+        "artist": "Alemán, George Karo",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bf438b5eba5c76577ecbe48b",
+        "url": "https://open.spotify.com/album/1h8gHqZhJrCH07FezHSwjv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5lCe0jblKmRAWUlfCBDdmP",
+        "title": "Rain Rain Go Away",
+        "artist": "Nursery Rhymes 123",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226c1949c4c9526032a4b09d3",
+        "url": "https://open.spotify.com/album/5lCe0jblKmRAWUlfCBDdmP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5AhS6xDA0DseHumcOXK6gs",
+        "title": "Pokémon | Wonder Voyage (Original Soundtrack, Korea)",
+        "artist": "BOYNEXTDOOR",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e4c348c1d31a4947a49f085",
+        "url": "https://open.spotify.com/album/5AhS6xDA0DseHumcOXK6gs",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "14LmaqVA8CrdDejvBCEp3F",
+        "title": "AVIAN FUNK",
+        "artist": "Dj Samir",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8f1a55e057d9782c65883b7",
+        "url": "https://open.spotify.com/album/14LmaqVA8CrdDejvBCEp3F",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7aCojElyfkAhzM1u6q7YO1",
+        "title": "El Recuerdo Que Dejó y Más Nostalgias del Alma",
+        "artist": "Los inquietos del vallenato",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214fe459eb813779451f46ef8",
+        "url": "https://open.spotify.com/album/7aCojElyfkAhzM1u6q7YO1",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "5PiycMwjKYhxSXJaNTICUK",
+        "title": "Maldito Amor",
+        "artist": "J Alvarez",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2d6db4172ccd0af1654fb36",
+        "url": "https://open.spotify.com/album/5PiycMwjKYhxSXJaNTICUK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zTlWZ3PqJuBK774pc5xRw",
+        "title": "banal na aso, santong kabayo (live in concert)",
+        "artist": "Janine Berdin",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02808c441e01f3b8ec0e86ba01",
+        "url": "https://open.spotify.com/album/3zTlWZ3PqJuBK774pc5xRw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "34qPemKXNFzdlBGpSstFgG",
+        "title": "ОНИ ВСЕ ХОТЯТ МЕНЯ",
+        "artist": "урал гайсин",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02717eec2cb67ccb9111910674",
+        "url": "https://open.spotify.com/album/34qPemKXNFzdlBGpSstFgG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xKlxAueeH54uJW3oYJ6Cm",
+        "title": "Live and Brash",
+        "artist": "Sticky Fingers",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211abde1bb833c25cf0e8eedd",
+        "url": "https://open.spotify.com/album/4xKlxAueeH54uJW3oYJ6Cm",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "1uMAH5NwO40rQwTLTMtUg0",
+        "title": "Gracias a Mí",
+        "artist": "Ñejo, Fronti",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1b89360811d7c6709bca189",
+        "url": "https://open.spotify.com/album/1uMAH5NwO40rQwTLTMtUg0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6EA7192nG5dzrraJ2ohXDU",
+        "title": "Merci",
+        "artist": "Tayc",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cb1839cfd9341d685eede0b5",
+        "url": "https://open.spotify.com/album/6EA7192nG5dzrraJ2ohXDU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2DcLNPaQQlUP9OHv6wdyVi",
+        "title": "GENTO (with Kento Nakajima)",
+        "artist": "SB19, 中島健人",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b94dc6c55d68af69c47b84b",
+        "url": "https://open.spotify.com/album/2DcLNPaQQlUP9OHv6wdyVi",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2C4mxUBErpWFrWFJ4002ej",
+        "title": "History",
+        "artist": "CHANMINA",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ddcb785ecc042b998d9afd9",
+        "url": "https://open.spotify.com/album/2C4mxUBErpWFrWFJ4002ej",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5P75S5qM1EX3kUXLLRHzqf",
+        "title": "BAD IDEA",
+        "artist": "DARA",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0212102a9dd420e7b0bdd1fb39",
+        "url": "https://open.spotify.com/album/5P75S5qM1EX3kUXLLRHzqf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7nyPSTcOdcKQvPBOK9nRE6",
+        "title": "101 причина",
+        "artist": "VILLIAN, OG Buda",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251bfb886539748d4cefa6977",
+        "url": "https://open.spotify.com/album/7nyPSTcOdcKQvPBOK9nRE6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7tYWMXrlXtC6Wisy3Q5BXF",
+        "title": "Навар",
+        "artist": "Icegergert",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e024225a2bea79f6c8ec4a4c6bf",
+        "url": "https://open.spotify.com/album/7tYWMXrlXtC6Wisy3Q5BXF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3zEHktq7DPr7FnXMlXt063",
+        "title": "Desafeto",
+        "artist": "Mc Jacaré, MC Ryan SP, Brenninho VJ",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da8ab9314b9092d13fafae11",
+        "url": "https://open.spotify.com/album/3zEHktq7DPr7FnXMlXt063",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5XeT8gZX4zijqaZk1USkYQ",
+        "title": "Paiinted Feeliings",
+        "artist": "Talwiinder",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275eeee436c9a130439707df7",
+        "url": "https://open.spotify.com/album/5XeT8gZX4zijqaZk1USkYQ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "5NI6acRz9JKIOfsxTP5XWp",
+        "title": "похожи",
+        "artist": "lightprey",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc5030b99db1e52e4d7b013c",
+        "url": "https://open.spotify.com/album/5NI6acRz9JKIOfsxTP5XWp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hxEjzM6352Tn4saVl1SaI",
+        "title": "Highway",
+        "artist": "FORTUNA 812",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0256688782e3e9005e5296f96e",
+        "url": "https://open.spotify.com/album/3hxEjzM6352Tn4saVl1SaI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03HYIQ8fLjzvy42qRvNhjS",
+        "title": "Связанный Свет",
+        "artist": "Galaktika",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02def025be65cf0348a60cdd4f",
+        "url": "https://open.spotify.com/album/03HYIQ8fLjzvy42qRvNhjS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2zBZOeoRno9v8Fa4EctEZK",
+        "title": "Tümm Käima",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecaacdb3ed4b084eed8f1ed0",
+        "url": "https://open.spotify.com/album/2zBZOeoRno9v8Fa4EctEZK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2UGLo44vMvlgEM87jVbyMG",
+        "title": "Kui Ma Tahan Siis Ma Lähen",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218b6983f4e878ec2e7c5bfdc",
+        "url": "https://open.spotify.com/album/2UGLo44vMvlgEM87jVbyMG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4K4OCJiUhUmfrnZtdbVZEQ",
+        "title": "Kaugel eemal",
+        "artist": "Meelik",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bac13a56a1f987cee372d535",
+        "url": "https://open.spotify.com/album/4K4OCJiUhUmfrnZtdbVZEQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4O0G00YDjz2lHS9yqIEBTC",
+        "title": "NÝTT SWAG",
+        "artist": "ICY-G",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a19c72fb2659844bcbcb7eeb",
+        "url": "https://open.spotify.com/album/4O0G00YDjz2lHS9yqIEBTC",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4fmlls8V5eWIF8347DazXl",
+        "title": "Malgrado Tutto",
+        "artist": "STURZI",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02109c4843610c71e7a56cd12f",
+        "url": "https://open.spotify.com/album/4fmlls8V5eWIF8347DazXl",
+        "total_tracks": 1,
         "genres": []
       }
     ]
