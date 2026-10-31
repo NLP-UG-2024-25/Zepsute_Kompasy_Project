@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-30T12:12:18.244Z",
-  "total": 5400,
+  "fetched_at": "2026-10-31T11:44:11.360Z",
+  "total": 5427,
   "by_date": {
     "2026-05-15": [
       {
@@ -59329,6 +59329,105 @@
         "url": "https://open.spotify.com/album/7nxuTcPKonRGjXxUyDPpba",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2IDH4yDcAWAUq6JBGZL2XX",
+        "title": "AL ESTILO CHALINON",
+        "artist": "Raúl Beltran",
+        "type": "album",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203cca7a0d545a65f02ab3e69",
+        "url": "https://open.spotify.com/album/2IDH4yDcAWAUq6JBGZL2XX",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "35uGC10SkEyhqqV0q3UrIR",
+        "title": "Nakhrewaalii",
+        "artist": "Tanishk Bagchi, Vayu, Gaurav Chatterji, Vaibhav Pani",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fadd97d1ab6e9b9c55099aa7",
+        "url": "https://open.spotify.com/album/35uGC10SkEyhqqV0q3UrIR",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3CPcoT5fStPR6y7nrIPznu",
+        "title": "Thodi Dhoop Thoda Sukoon",
+        "artist": "Arijit Singh, Asees Kaur, Darshan Raval, Shilpa Rao",
+        "type": "compilation",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a9d474bd27abc270a7d49305",
+        "url": "https://open.spotify.com/album/3CPcoT5fStPR6y7nrIPznu",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6nJJLeJHBmPA5Bo31czMVH",
+        "title": "Verschwommen x Von hier an blind",
+        "artist": "Ski Aggu, Wir sind Helden, Ericson, Philemon",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8531f15061bec37e63cc2f7",
+        "url": "https://open.spotify.com/album/6nJJLeJHBmPA5Bo31czMVH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2JsZzwzJcDxTJIV8hgVKmm",
+        "title": "RIP QUIMICO ULTRA MEGA",
+        "artist": "Kiry Curu",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e027abb6354e321795649ba825f",
+        "url": "https://open.spotify.com/album/2JsZzwzJcDxTJIV8hgVKmm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7hhQBnJU3D70e7uRvQtfCP",
+        "title": "Filmi Fitoor",
+        "artist": "Diljit Dosanjh, Pritam, Raftaar, Arijit Singh",
+        "type": "compilation",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d78a28a5aa07bdfba3613e3c",
+        "url": "https://open.spotify.com/album/7hhQBnJU3D70e7uRvQtfCP",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "66LZiSilczY0ft0oqVlwVZ",
+        "title": "temitas free_master",
+        "artist": "Mauri Sanchex",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c7e061f9f91c1bac4c3a53a2",
+        "url": "https://open.spotify.com/album/66LZiSilczY0ft0oqVlwVZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5StmRKTj82JOZ6EpJMUAGH",
+        "title": "stacy",
+        "artist": "multimahl",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fe715c6e986a7228e41e29df",
+        "url": "https://open.spotify.com/album/5StmRKTj82JOZ6EpJMUAGH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Ac579k5ZenmtnJhcLyIir",
+        "title": "sabadii_master",
+        "artist": "Mauri Sanchex",
+        "type": "single",
+        "release_date": "2026-10-29",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d22dd45e9310569bab513f41",
+        "url": "https://open.spotify.com/album/7Ac579k5ZenmtnJhcLyIir",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-10-30": [
@@ -59725,6 +59824,206 @@
         "release_date": "2026-10-30",
         "image": "https://i.scdn.co/image/ab67616d00001e02109c4843610c71e7a56cd12f",
         "url": "https://open.spotify.com/album/4fmlls8V5eWIF8347DazXl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0XCKnQhtw0K3JUKMNPqlIV",
+        "title": "Unreleased Lost Files",
+        "artist": "The Game",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02915966614601a2066eb75865",
+        "url": "https://open.spotify.com/album/0XCKnQhtw0K3JUKMNPqlIV",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4khdkLUbqwzaRPgih0NUuo",
+        "title": "DELTARUNE Piano Collections, Vol. 2",
+        "artist": "Toby Fox, Trevor Alan Gomes",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e023d724570047fad5a8a971d7f",
+        "url": "https://open.spotify.com/album/4khdkLUbqwzaRPgih0NUuo",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "68GF7IhcZWXqACGr1IIjN1",
+        "title": "How to Fall Asleep with Ocean",
+        "artist": "Slumberjacks",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3d94aa8aaf469b69a80a31e",
+        "url": "https://open.spotify.com/album/68GF7IhcZWXqACGr1IIjN1",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "4GUyvsWXjynz867s6Lww2p",
+        "title": "Perfecth",
+        "artist": "Queens of the Stone Age",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e024d957fefd8e7b61b9fcfc374",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "2J3zhPxCigOnkG09eiZpPX",
+        "title": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd",
+        "artist": "Bob Dylan",
+        "type": "album",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02858013297ce8682a19407657",
+        "url": "https://open.spotify.com/album/2J3zhPxCigOnkG09eiZpPX",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "0efXCUj77m5ZsBxJhSaXWV",
+        "title": "Coqueta",
+        "artist": "Grupo Laberinto",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02631226628169ac3bf0e6da06",
+        "url": "https://open.spotify.com/album/0efXCUj77m5ZsBxJhSaXWV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1SKVlMjPaIVMdcJrjawfqw",
+        "title": "FUNK MISTERIO",
+        "artist": "h6itam, NXDLS",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ace819ba86da91c762e0e36",
+        "url": "https://open.spotify.com/album/1SKVlMjPaIVMdcJrjawfqw",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2LmjkhcMGxEdu0HwwJ9FhH",
+        "title": "Welcome To My Crib",
+        "artist": "Yeyo, SINAKA",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fa14cb048c8eb1d9ff9412a5",
+        "url": "https://open.spotify.com/album/2LmjkhcMGxEdu0HwwJ9FhH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "743D29I9ckxCNTnix3QQvx",
+        "title": "КОГДА ОДНА",
+        "artist": "uniqe, ARTEM SHILOVETS, hurs",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d4946f0264a1f36d44f008de",
+        "url": "https://open.spotify.com/album/743D29I9ckxCNTnix3QQvx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ypVhmrg4Oy9klgUpWATDc",
+        "title": "NO SIGNAL FUNK",
+        "artist": "-Prey, HXI",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d492fe57c7070fa439993cf4",
+        "url": "https://open.spotify.com/album/4ypVhmrg4Oy9klgUpWATDc",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2FYpEra15Wd2gF45KsxhzI",
+        "title": "Sakamoto: Energy Flow",
+        "artist": "Ryuichi Sakamoto, Célimène Daudet",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c412fe36afe069fe091db9f5",
+        "url": "https://open.spotify.com/album/2FYpEra15Wd2gF45KsxhzI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jULN1UF5qQDkpxe0iCyoo",
+        "title": "Collie Herb Man",
+        "artist": "Katchafire, Kaiit",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd80cb404027fd52099c6385",
+        "url": "https://open.spotify.com/album/6jULN1UF5qQDkpxe0iCyoo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yJrX3kfWH1fH3jpQw48ig",
+        "title": "syda tuksub",
+        "artist": "Marke",
+        "type": "single",
+        "release_date": "2026-10-30",
+        "image": "https://i.scdn.co/image/ab67616d00001e0250f2869474438a5d13f0bfa5",
+        "url": "https://open.spotify.com/album/7yJrX3kfWH1fH3jpQw48ig",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-10-31": [
+      {
+        "id": "3p3DuWEoVLbngrMiU5AgZ0",
+        "title": "These Streets",
+        "artist": "Kodak Black",
+        "type": "single",
+        "release_date": "2026-10-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e026dd4b9c672875b4917cadccd",
+        "url": "https://open.spotify.com/album/3p3DuWEoVLbngrMiU5AgZ0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37n8jtvYPjihd3vZJKEhuk",
+        "title": "The Hollow",
+        "artist": "Snoop Dogg, Kurupt",
+        "type": "album",
+        "release_date": "2026-10-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248dbc24700f3410fe8e05524",
+        "url": "https://open.spotify.com/album/37n8jtvYPjihd3vZJKEhuk",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "342p0pbZZVaFf71CJZ4B0J",
+        "title": "Phir Bhi Tumko Chaahunga - Arijit Singh & Shashaa Tirupati Vocals Only",
+        "artist": "Mithoon, Arijit Singh, Shashaa Tirupati",
+        "type": "single",
+        "release_date": "2026-10-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abd847936519ff613f7e12f2",
+        "url": "https://open.spotify.com/album/342p0pbZZVaFf71CJZ4B0J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "30imzNLipM9zReTUULNxSb",
+        "title": "Lit Up & Loud",
+        "artist": "Badshah, Amit Trivedi, Tanishk Bagchi",
+        "type": "compilation",
+        "release_date": "2026-10-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcc49d35f5df400680a1d600",
+        "url": "https://open.spotify.com/album/30imzNLipM9zReTUULNxSb",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7dFFGylwmPpvc95W61xwEW",
+        "title": "Miks Sa Ei Võiks Mind Hoida",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-10-31",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f0d0ce7f7797a7236fec0c5",
+        "url": "https://open.spotify.com/album/7dFFGylwmPpvc95W61xwEW",
         "total_tracks": 1,
         "genres": []
       }
