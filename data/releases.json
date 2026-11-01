@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-31T11:44:11.360Z",
-  "total": 5427,
+  "fetched_at": "2026-11-01T12:43:39.948Z",
+  "total": 5434,
   "by_date": {
     "2026-05-15": [
       {
@@ -60024,6 +60024,85 @@
         "release_date": "2026-10-31",
         "image": "https://i.scdn.co/image/ab67616d00001e027f0d0ce7f7797a7236fec0c5",
         "url": "https://open.spotify.com/album/7dFFGylwmPpvc95W61xwEW",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-01": [
+      {
+        "id": "4d5EPASLYFdoSMQVtZuEVQ",
+        "title": "风和日云和海",
+        "artist": "于冬然",
+        "type": "single",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02288653df0002f3cfe9a27478",
+        "url": "https://open.spotify.com/album/4d5EPASLYFdoSMQVtZuEVQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3hqaGMGiC3EtUVOsi9zHx8",
+        "title": "The Demo (Live Version)",
+        "artist": "Yan Ting",
+        "type": "single",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb8bc168eca116673e9247f4",
+        "url": "https://open.spotify.com/album/3hqaGMGiC3EtUVOsi9zHx8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5SM0fZeu2pR081B0ThpHRm",
+        "title": "Pagode e Churrasco - As Melhores 2026 (Ao Vivo)",
+        "artist": "Turma do Pagode, Vitinho",
+        "type": "album",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ce7f6d3fa979902f44c8e09",
+        "url": "https://open.spotify.com/album/5SM0fZeu2pR081B0ThpHRm",
+        "total_tracks": 52,
+        "genres": []
+      },
+      {
+        "id": "4zky2a6qFY3yzI6ntfTpaA",
+        "title": "רק אל תשבור לי את הלב",
+        "artist": "Elai Botner, עילי בוטנר והלהקה",
+        "type": "single",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb67d09544c409557163ee96",
+        "url": "https://open.spotify.com/album/4zky2a6qFY3yzI6ntfTpaA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0HtlmNpQ068rmYjBnPHI2N",
+        "title": "Pegasus",
+        "artist": "There's No Way Music",
+        "type": "album",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e02557e48d4ab017eea677365ba",
+        "url": "https://open.spotify.com/album/0HtlmNpQ068rmYjBnPHI2N",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "00IbeqnTm5HPkmnnCCGz5z",
+        "title": "My Favourite Songs M G Sreekumar",
+        "artist": "M. G. Sreekumar",
+        "type": "album",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241dcae0b6d6fe648b0bf1580",
+        "url": "https://open.spotify.com/album/00IbeqnTm5HPkmnnCCGz5z",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5HHAyi9wUcLQEa2KWApzP6",
+        "title": "Lumehelves",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-11-01",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e3816782e4ecb9a23610e5d",
+        "url": "https://open.spotify.com/album/5HHAyi9wUcLQEa2KWApzP6",
         "total_tracks": 1,
         "genres": []
       }
