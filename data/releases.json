@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-02T14:51:10.144Z",
-  "total": 5473,
+  "fetched_at": "2026-11-03T13:40:56.182Z",
+  "total": 5494,
   "by_date": {
     "2026-05-15": [
       {
@@ -60534,6 +60534,239 @@
         "release_date": "2026-11-02",
         "image": "https://i.scdn.co/image/ab67616d00001e02337bc42ea7fbaa3cf985eff3",
         "url": "https://open.spotify.com/album/6RKTzWjbkzbheEQ6tKG6Ac",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5YEDDnQxM5ebCTsRotIcoy",
+        "title": "Cuando Yo Me Muera",
+        "artist": "Grupo Firme, El Esparza",
+        "type": "single",
+        "release_date": "2026-11-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02efd92e29af487eeab6c638b6",
+        "url": "https://open.spotify.com/album/5YEDDnQxM5ebCTsRotIcoy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6i1Ea7TXVwxm9XEz5aK4V0",
+        "title": "Cuidalo Bien - En Vivo",
+        "artist": "Lauta",
+        "type": "single",
+        "release_date": "2026-11-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c10defc367a3286be63edf2d",
+        "url": "https://open.spotify.com/album/6i1Ea7TXVwxm9XEz5aK4V0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "35gdrKl5CajqPsMpjo2Q95",
+        "title": "A MILANO",
+        "artist": "Rkomi",
+        "type": "single",
+        "release_date": "2026-11-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e027a867561dea6e3115c48fedf",
+        "url": "https://open.spotify.com/album/35gdrKl5CajqPsMpjo2Q95",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "5YGIvgs7W6H5RvtYAIpxmH",
+        "title": "تليفوني رن فقولت مين ( جرب تبقي لوحدك )",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-11-02",
+        "image": "https://i.scdn.co/image/ab67616d00001e02317fc3bf91d77c68b99f800d",
+        "url": "https://open.spotify.com/album/5YGIvgs7W6H5RvtYAIpxmH",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-03": [
+      {
+        "id": "3QoToFCrafhtghBd3LWeYk",
+        "title": "Kehna Hi Kya (Baile Funk)",
+        "artist": "A.R. Rahman, Chitra, Moin",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc1ea88aef1921b28dff9a5a",
+        "url": "https://open.spotify.com/album/3QoToFCrafhtghBd3LWeYk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2yL7XE1L0yOWDSwISwp7OZ",
+        "title": "TAPA TOMA",
+        "artist": "Dj Samir, DJ David MM",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ff89b0080700c5086cae670d",
+        "url": "https://open.spotify.com/album/2yL7XE1L0yOWDSwISwp7OZ",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "31zG99gXzLghNgJLjgkurF",
+        "title": "You Can’t Always Get What You Want",
+        "artist": "Sam Fender",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b765dc1a44c8c408f5ad108f",
+        "url": "https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OttvVI4SPZ9DbvEmlDceI",
+        "title": "PULSE",
+        "artist": "RESCENE",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c49aa7c420cc427c17714ec2",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2l2YMgKOoTzVZe8zQNMC6K",
+        "title": "Hóa Điên",
+        "artist": "Quân A.P",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b331700fca686cb9ab3724b",
+        "url": "https://open.spotify.com/album/2l2YMgKOoTzVZe8zQNMC6K",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "47VJn8NkNQEnXbg9zBiWDx",
+        "title": "Осіння",
+        "artist": "kavabanga Depo kolibri",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea5d7144ad1dfb9f790a3f3a",
+        "url": "https://open.spotify.com/album/47VJn8NkNQEnXbg9zBiWDx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38DhqY7bhf2gLWF2Ww8IpM",
+        "title": "Dhola Ji (From \"Suryaa\")",
+        "artist": "Shreya Ghoshal, Javed Ali, Swaroop Khan, Madhubanti Bagchi",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b9ee32602f32449cbdf2d7f",
+        "url": "https://open.spotify.com/album/38DhqY7bhf2gLWF2Ww8IpM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "42ZYQpGKQMStoKcAnn6D6T",
+        "title": "My Bad",
+        "artist": "Zpecial",
+        "type": "album",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0251636662b6c62f9745ccad85",
+        "url": "https://open.spotify.com/album/42ZYQpGKQMStoKcAnn6D6T",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "1lOe5Rc4WwPxnV3puNMPkx",
+        "title": "Wingu la Mapenzi",
+        "artist": "Ywaya Tajiri",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02885587facaa717959fd17df6",
+        "url": "https://open.spotify.com/album/1lOe5Rc4WwPxnV3puNMPkx",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4ga6dc3A951GkRqw9rW6mk",
+        "title": "Kamli (\"From Patakka Guddiyan\")",
+        "artist": "Javed Ali, Rahul Bhatt",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e46adf9705a4f0dd52004c4",
+        "url": "https://open.spotify.com/album/4ga6dc3A951GkRqw9rW6mk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7GikXyCIkrHIANRbnjUP4e",
+        "title": "Sparisci",
+        "artist": "Tony Boy",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b9d56c0a93e6bc77a592cb9",
+        "url": "https://open.spotify.com/album/7GikXyCIkrHIANRbnjUP4e",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "65o0ba3V5QCynkjP8YZYrr",
+        "title": "حالي",
+        "artist": "DEE PRODUCTION, Flaan",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289b08e3aed4553658e96cf3b",
+        "url": "https://open.spotify.com/album/65o0ba3V5QCynkjP8YZYrr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3DnsOyrnorO752qwnUqpnw",
+        "title": "ร่างทอง",
+        "artist": "Sexski",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e028859f2670df0e43446e26f3f",
+        "url": "https://open.spotify.com/album/3DnsOyrnorO752qwnUqpnw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0jw5Y8ILN4znjO3dImDgCe",
+        "title": "Coolest in the City",
+        "artist": "Mr JazziQ",
+        "type": "album",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4caaa244f9e0a285648ffe4",
+        "url": "https://open.spotify.com/album/0jw5Y8ILN4znjO3dImDgCe",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "5etpD9LDjp2MgWg1PayD8E",
+        "title": "Medallion",
+        "artist": "Roi 6/12, Lived",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a44fe023632437b58c9d8335",
+        "url": "https://open.spotify.com/album/5etpD9LDjp2MgWg1PayD8E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5mSWNuE0HyX5AqMCaewmo5",
+        "title": "Bakuretsu Aishisugite METSU!(Crazy Mashup by TeddyLoid)",
+        "artist": "M!LK",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aee6e45795adf1bc8f30ad40",
+        "url": "https://open.spotify.com/album/5mSWNuE0HyX5AqMCaewmo5",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "335Iphubze8hOoIBfigoEu",
+        "title": "גולגול מנקות",
+        "artist": "young buta",
+        "type": "single",
+        "release_date": "2026-11-03",
+        "image": "https://i.scdn.co/image/ab67616d00001e024c9f9b72eb149c98dba42ebc",
+        "url": "https://open.spotify.com/album/335Iphubze8hOoIBfigoEu",
         "total_tracks": 1,
         "genres": []
       }
