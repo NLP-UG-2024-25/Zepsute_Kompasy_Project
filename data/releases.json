@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-04T13:49:41.200Z",
-  "total": 5537,
+  "fetched_at": "2026-11-05T14:02:23.413Z",
+  "total": 5558,
   "by_date": {
     "2026-05-15": [
       {
@@ -61243,6 +61243,239 @@
         "image": "https://i.scdn.co/image/ab67616d00001e029331f6b0818bcc6eafff8e18",
         "url": "https://open.spotify.com/album/7DIaMUliV2Ya77YTlnfjbM",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vo7Eg7JCxkOL8pg7EQ0Jz",
+        "title": "EUROPEA",
+        "artist": "CARABIN3, SVNTI",
+        "type": "single",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02322989d53be2ddb1ea390aae",
+        "url": "https://open.spotify.com/album/6vo7Eg7JCxkOL8pg7EQ0Jz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6mrnQgXyHtXQs4kcmNydtw",
+        "title": "Lado Mau",
+        "artist": "Tz da Coronel",
+        "type": "album",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef252d888af9d1aae1056d8f",
+        "url": "https://open.spotify.com/album/6mrnQgXyHtXQs4kcmNydtw",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "5Fwxmn7aUAbbh12gP4ytZ5",
+        "title": "Calle Pública (Acústico)",
+        "artist": "Luister La Voz",
+        "type": "single",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b5288bacae9f9840f3e1be3",
+        "url": "https://open.spotify.com/album/5Fwxmn7aUAbbh12gP4ytZ5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0KhL3hMF9bgPMBkqZK9FPs",
+        "title": "Eshab Kalami",
+        "artist": "Naser Albhar",
+        "type": "single",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f03f726152b7ae78c7d7578",
+        "url": "https://open.spotify.com/album/0KhL3hMF9bgPMBkqZK9FPs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DET7Y1u6ghoWfv7MnfIBs",
+        "title": "UH LA LÁ!",
+        "artist": "Jere Klein, Corredor, Space Records",
+        "type": "single",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e021f43f966914d5dc1837562b4",
+        "url": "https://open.spotify.com/album/6DET7Y1u6ghoWfv7MnfIBs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7KxlDbAnnUdgolWtibdC8d",
+        "title": "I Was the First One to Graduate With a Jack Rathbone Hat",
+        "artist": "Bobin Bruke",
+        "type": "album",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a83a9af0d2f54853274ee4d2",
+        "url": "https://open.spotify.com/album/7KxlDbAnnUdgolWtibdC8d",
+        "total_tracks": 15,
+        "genres": []
+      }
+    ],
+    "2026-11-05": [
+      {
+        "id": "5eADdEnRGT7yJfaQbbLtqe",
+        "title": "Question Mark",
+        "artist": "HANRORO",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022cb19572c2129e8c14cd60eb",
+        "url": "https://open.spotify.com/album/5eADdEnRGT7yJfaQbbLtqe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3pTnKtzh1FbeECOiRkfu1A",
+        "title": "Afghan Jalebi (Multilingual Version)",
+        "artist": "Pritam, Asrar, Arma, Amitabh Bhattacharya",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9ad5d060c0e67713c4be375",
+        "url": "https://open.spotify.com/album/3pTnKtzh1FbeECOiRkfu1A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3eGrATvU4oj35O2iUMIfmz",
+        "title": "A Veces Solo Me Divierto",
+        "artist": "Duki",
+        "type": "album",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de45d42f5c109bb2472074fb",
+        "url": "https://open.spotify.com/album/3eGrATvU4oj35O2iUMIfmz",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "7JcDTvUACK7e7ecBwd12Fj",
+        "title": "Fã do Veigh",
+        "artist": "Aaron Modesto, Marchi, Yuri Redicopa, J. Books",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ae5695aadca1d5337e1bdc54",
+        "url": "https://open.spotify.com/album/7JcDTvUACK7e7ecBwd12Fj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ndEiAxUhF1Q9LXk5dQyMs",
+        "title": "VENDETTA: Veni, Vidi, Vici",
+        "artist": "Plutonio",
+        "type": "album",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fd1f446a9dc36251d971139",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "678FTHMnoKJOwVE1JH56Jw",
+        "title": "Memoria",
+        "artist": "Leiva",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022dd0c5e2310aab61104689c8",
+        "url": "https://open.spotify.com/album/678FTHMnoKJOwVE1JH56Jw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4pAGtdqem8vrvNH6rS23AP",
+        "title": "Acontece",
+        "artist": "Tarcísio do Acordeon",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0a65858a07dd69c2e341a7e",
+        "url": "https://open.spotify.com/album/4pAGtdqem8vrvNH6rS23AP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4y7F2s6ywtjWcjcvG4rics",
+        "title": "Падала",
+        "artist": "SKYLERR",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dcf0108f92e160be10d997c9",
+        "url": "https://open.spotify.com/album/4y7F2s6ywtjWcjcvG4rics",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0fVYbBaVCDBC6qi7mI5oa7",
+        "title": "ชั่ว (SURE)",
+        "artist": "2Ectasy, jeffy, Kakagoesbackhome",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02feb3d835f81bf2a2057f03a5",
+        "url": "https://open.spotify.com/album/0fVYbBaVCDBC6qi7mI5oa7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qcmdJwpBnsO3kisA9Rks7",
+        "title": "Kogersin (Live)",
+        "artist": "Moldanazar",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea5f3cb098d54a4b348be211",
+        "url": "https://open.spotify.com/album/5qcmdJwpBnsO3kisA9Rks7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ZRPWwshOFp0DAnOkZUE0g",
+        "title": "Badmashan",
+        "artist": "Masoom Sharma, Rahul Chhachhia, Swara Verma",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bd2de216d277ddca96620a1",
+        "url": "https://open.spotify.com/album/6ZRPWwshOFp0DAnOkZUE0g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3s9Clp9uXr3iHTOKZTPLvI",
+        "title": "WTF",
+        "artist": "HermesHermes, Kidd, BLVD",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02700d27cbac5f3e325a28667b",
+        "url": "https://open.spotify.com/album/3s9Clp9uXr3iHTOKZTPLvI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6TxHYT71PhNNIUaTjToR62",
+        "title": "Не тръгвай",
+        "artist": "Anelia, Michalis Hatzigiannis",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e021928e095cf918816dd7912ea",
+        "url": "https://open.spotify.com/album/6TxHYT71PhNNIUaTjToR62",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0pI31mLtKgQ5cVcex2qTx6",
+        "title": "Do neznáma",
+        "artist": "DIVOKEJ BILL",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225a0f89fb54d5a93b8329e17",
+        "url": "https://open.spotify.com/album/0pI31mLtKgQ5cVcex2qTx6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7eIRrXyG7V8fr69EVimYYw",
+        "title": "Destiny",
+        "artist": "Stixx",
+        "type": "album",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211740b72be98fa7cafa5ac47",
+        "url": "https://open.spotify.com/album/7eIRrXyG7V8fr69EVimYYw",
+        "total_tracks": 20,
         "genres": []
       }
     ]
