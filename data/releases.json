@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-06T13:47:30.145Z",
-  "total": 5615,
+  "fetched_at": "2026-11-07T12:30:53.206Z",
+  "total": 5623,
   "by_date": {
     "2026-05-15": [
       {
@@ -62104,6 +62104,94 @@
         "release_date": "2026-11-06",
         "image": "https://i.scdn.co/image/ab67616d00001e021253d55b0a500290ca69938c",
         "url": "https://open.spotify.com/album/5RFTmjuG4CRxEIbWcf7vHk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4Oh38cK8SNf6dHaoWT1oe6",
+        "title": "washing skin",
+        "artist": "Alyssa Grace",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6ba08ef6316eee89d293612",
+        "url": "https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6OO1XdSTNROYue0wZ4zpjn",
+        "title": "Rough Boys",
+        "artist": "The Goo Goo Dolls",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d7e3ecccb02f45fa806eb3ba",
+        "url": "https://open.spotify.com/album/6OO1XdSTNROYue0wZ4zpjn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3D1Oaq7DHlYcGYclJJJeMh",
+        "title": "Barely Holding On",
+        "artist": "Buffalo Traffic Jam",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f333c67ce3c9626d3493f1f",
+        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3fgMUdelypSkAQgBhk988F",
+        "title": "Take Me Back (Leave Me There) [Special Edition]",
+        "artist": "Cody Johnson",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02265f2f23cb1397c844e9eb6e",
+        "url": "https://open.spotify.com/album/3fgMUdelypSkAQgBhk988F",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7gjTO1P6jyq0zSInBEVJ1e",
+        "title": "25 Aniversario",
+        "artist": "Juanes",
+        "type": "compilation",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0c68d78ff898303f2be82f8",
+        "url": "https://open.spotify.com/album/7gjTO1P6jyq0zSInBEVJ1e",
+        "total_tracks": 25,
+        "genres": []
+      },
+      {
+        "id": "1kMzAcN9yxMVJbUCpIdfr9",
+        "title": "Me Hice Viral",
+        "artist": "Yiyo Sarante",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c245ead17c986d337a4cae2",
+        "url": "https://open.spotify.com/album/1kMzAcN9yxMVJbUCpIdfr9",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "1PsJN0t9dEd2LYWpEZnkWC",
+        "title": "MONTAGEM LUCHA (Versions)",
+        "artist": "h6itam, Shyron",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b3eb85b19940ee0a3966aeb",
+        "url": "https://open.spotify.com/album/1PsJN0t9dEd2LYWpEZnkWC",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7CoSynF5x8JNkCfLzDnVhO",
+        "title": "Det beste jeg vet",
+        "artist": "Maria Mena",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029505e89b753e9778f1ab6e76",
+        "url": "https://open.spotify.com/album/7CoSynF5x8JNkCfLzDnVhO",
         "total_tracks": 1,
         "genres": []
       }
