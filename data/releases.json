@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-07T12:30:53.206Z",
-  "total": 5623,
+  "fetched_at": "2026-11-08T12:48:59.274Z",
+  "total": 5669,
   "by_date": {
     "2026-05-15": [
       {
@@ -62193,6 +62193,516 @@
         "image": "https://i.scdn.co/image/ab67616d00001e029505e89b753e9778f1ab6e76",
         "url": "https://open.spotify.com/album/7CoSynF5x8JNkCfLzDnVhO",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5KXRJdjRBZMPrmvt4EgXAd",
+        "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "artist": "Future, Drake, Travis Scott, Loe Shimmy",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c4583b1cbf2b51ec79dd66b",
+        "url": "https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2TklEhrQZh4KNFCEC8kcJZ",
+        "title": "Dyin' Times",
+        "artist": "Sam Barber",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f6062b376af72cf90eaf36fc",
+        "url": "https://open.spotify.com/album/2TklEhrQZh4KNFCEC8kcJZ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "3CjRqp7FgqaypGBwqoUXwK",
+        "title": "La Universidad del Perreo (Horario Extendido)",
+        "artist": "Wisin",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bac396c2272e39826fa5f6a8",
+        "url": "https://open.spotify.com/album/3CjRqp7FgqaypGBwqoUXwK",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "2IS3ZEtSLA5OGlmxctUwBq",
+        "title": "Navidad Sin Ti",
+        "artist": "Raulin Rodriguez",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa1f76248dca81fa8ece6586",
+        "url": "https://open.spotify.com/album/2IS3ZEtSLA5OGlmxctUwBq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4it4FK4XSVftQUDYaqZDsW",
+        "title": "Merry Christmas Mr. Lawrence (Arr. by Ken Thomson)",
+        "artist": "Ryuichi Sakamoto, Bang On A Can All-Stars",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b06635be713e0983ee4194ad",
+        "url": "https://open.spotify.com/album/4it4FK4XSVftQUDYaqZDsW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1RijzUXg1jg93ghalGG7TP",
+        "title": "FRESH",
+        "artist": "Lil Baby",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c965434565e419d6d8f7ef3a",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "2pa6Jiy3Gi7T2xPw1Y1aFF",
+        "title": "Suryaa (Original Motion Picture Soundtrack)",
+        "artist": "Shreya Ghoshal, Udit Narayan, Sonu Nigam, Javed Ali",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0211530307890577363908390b",
+        "url": "https://open.spotify.com/album/2pa6Jiy3Gi7T2xPw1Y1aFF",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1RC6tkMjcDybv1fBFPVDDn",
+        "title": "Te Sacaré de Mi Corazón",
+        "artist": "Armonía 10 de Walther Lozada",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a8ef93119ed618f62d598bc1",
+        "url": "https://open.spotify.com/album/1RC6tkMjcDybv1fBFPVDDn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19uL41Tw1NGYu6sz9AlCfL",
+        "title": "Dilemma",
+        "artist": "Dardan",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aeeb1a1bd17639c9c93eec80",
+        "url": "https://open.spotify.com/album/19uL41Tw1NGYu6sz9AlCfL",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "0uAjyaHkdxEDP7tGveZbx1",
+        "title": "NO PANTA",
+        "artist": "Mc Rodrigo do CN, Dj Tchouzen, DG DO BROOKLYN",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206bd9571b755ec17f6cbb2b9",
+        "url": "https://open.spotify.com/album/0uAjyaHkdxEDP7tGveZbx1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "06QmFyLxlx3jC57lYVOjrq",
+        "title": "موال اتعود تبقي لوحدك ( صدمه في صدمه ) [Live]",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e9f3fa9d18de06542998caf",
+        "url": "https://open.spotify.com/album/06QmFyLxlx3jC57lYVOjrq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vPqty50dtT0gZeB1oEUfX",
+        "title": "Someone to Hold (from the Netflix Film \"Steps\")",
+        "artist": "JENNIE",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273a4d892f6a1868f9cabc1ad",
+        "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "06yr5Kd1eIt2A4ukdG96aQ",
+        "title": "Vaaraathu Vantha (From \"America Aavi\")",
+        "artist": "Chinmayi, Harish Ragavendhar, Aadish Uthrian",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218c5ca2fad7541c6d8fd0092",
+        "url": "https://open.spotify.com/album/06yr5Kd1eIt2A4ukdG96aQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4STMg7YWEDvB259RoHfzj1",
+        "title": "MESTANI EH",
+        "artist": "Wezza Montaser",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0216fa753a3d5f2144a5f254a4",
+        "url": "https://open.spotify.com/album/4STMg7YWEDvB259RoHfzj1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1IZrGMJn3CEUr9N3DoewFd",
+        "title": "You're Under Arrest (Remixes)",
+        "artist": "ILLIT",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299a7ddb5c0a4f976b81b481b",
+        "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "06KZJhnHTW2ZSUEn5ggazg",
+        "title": "Sa3eed",
+        "artist": "Abyusif",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c808f1b246f11fc42ffa00b7",
+        "url": "https://open.spotify.com/album/06KZJhnHTW2ZSUEn5ggazg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7r3W6Z0Rw1gmMBFnlAXnGv",
+        "title": "Poala mea",
+        "artist": "MADATORRICELLI, Beach, Please!",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e3ecc442ccc7031cb3cf205",
+        "url": "https://open.spotify.com/album/7r3W6Z0Rw1gmMBFnlAXnGv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3kBkb0psbJKM0ktZUQsLpp",
+        "title": "Soul of Hail Mary (From \"Hail Mary\")",
+        "artist": "Jakes Bejoy",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237dc3786a67f95a2a60a6e8d",
+        "url": "https://open.spotify.com/album/3kBkb0psbJKM0ktZUQsLpp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6TQHCVGPZ502pulL0n56Xy",
+        "title": "Calorzão",
+        "artist": "DJ Gu, MC Vine7, Gudy",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ebc595d77391790a4a3c2b3",
+        "url": "https://open.spotify.com/album/6TQHCVGPZ502pulL0n56Xy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1lQOpuPNAx2BmKG0jGjtLQ",
+        "title": "انا شقيان و باكلها حلال ( حقك تولع من نحيتي )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02480b90d87aaa31af511213d6",
+        "url": "https://open.spotify.com/album/1lQOpuPNAx2BmKG0jGjtLQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1L7TnhjgHRw1KBdovW3fso",
+        "title": "Mamă cum se aude gagică-ta",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c9ef1d6e87ebb2bde349395",
+        "url": "https://open.spotify.com/album/1L7TnhjgHRw1KBdovW3fso",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6RHlCSCD0Ou8opQzuqI0OH",
+        "title": "BUSINESSMAN AMERICAN",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f5cddafdc87314d6ccb437b8",
+        "url": "https://open.spotify.com/album/6RHlCSCD0Ou8opQzuqI0OH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "63Kdf7PKkqpeOLAxQJcfxW",
+        "title": "TAKTI PO TAKTI",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e026731ccf20c927dd67141c6b4",
+        "url": "https://open.spotify.com/album/63Kdf7PKkqpeOLAxQJcfxW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6YNcxahRTXlL9WQgBcjOQ1",
+        "title": "HYSH 2027 (Hjemmesnekk)",
+        "artist": "BORGHINI, HYSH",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b291044677760c2fe972ee2",
+        "url": "https://open.spotify.com/album/6YNcxahRTXlL9WQgBcjOQ1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "38TNmqxrf5bGvaaa5fAOhE",
+        "title": "One Look, One Love",
+        "artist": "Pete Groove",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237204a05acf680db98914986",
+        "url": "https://open.spotify.com/album/38TNmqxrf5bGvaaa5fAOhE",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-07": [
+      {
+        "id": "0aeyjryjfqRR3BatoXjnKG",
+        "title": "Maheya Live Acoustic | Coke Studio Nu.WAV",
+        "artist": "Asim Azhar, AARYAN",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e028bd79c22983447d871a07177",
+        "url": "https://open.spotify.com/album/0aeyjryjfqRR3BatoXjnKG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0SREEtNMWNNk3nMygiobfO",
+        "title": "THE MASKED SINGER VIETNAM 2026, TẬP 6",
+        "artist": "The Masked Singer",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc1b377e7da9aabab17f39c6",
+        "url": "https://open.spotify.com/album/0SREEtNMWNNk3nMygiobfO",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "0kApUrqI6k3O2feWs01gOL",
+        "title": "Алё, дядя",
+        "artist": "KRBK, 4atty Aka Tilla",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e026de3cd7a50fa4a89b55e2a71",
+        "url": "https://open.spotify.com/album/0kApUrqI6k3O2feWs01gOL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23bLdhRCtwSc2JXvrOBuSS",
+        "title": "Timpul trece, devin mai rece",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e023052b9bc0984cffc983e793a",
+        "url": "https://open.spotify.com/album/23bLdhRCtwSc2JXvrOBuSS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6CsiZiMduJ1XNEr63UzUGH",
+        "title": "Pasasalamat",
+        "artist": "Guddhist Gunatita, Baby Blood",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcd93e1843a6470ac073429e",
+        "url": "https://open.spotify.com/album/6CsiZiMduJ1XNEr63UzUGH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6a24o1ti7V3g2aF1Q3F46G",
+        "title": "امخمخـAM5M5",
+        "artist": "DDG'S, DOC, SASY",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e022744dd9d08695a0eabd9df0b",
+        "url": "https://open.spotify.com/album/6a24o1ti7V3g2aF1Q3F46G",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "296EpB7kOxUpTghmjNxqVk",
+        "title": "One More Day",
+        "artist": "MaxMillor",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e021781c676ca2d4c282304e8da",
+        "url": "https://open.spotify.com/album/296EpB7kOxUpTghmjNxqVk",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7oHRbf5x0HAsdquA6yKrhS",
+        "title": "Mary Theme (From \"Hail Mary\")",
+        "artist": "Jakes Bejoy",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b411d08da921a8e65645e81",
+        "url": "https://open.spotify.com/album/7oHRbf5x0HAsdquA6yKrhS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1q75KLlXfoTYNxw8x7dAra",
+        "title": "Dodedo",
+        "artist": "Tanishk Bagchi",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2ecf6cf7c85f74904281f04",
+        "url": "https://open.spotify.com/album/1q75KLlXfoTYNxw8x7dAra",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0lb1GyOJB0xiEM7f3JSoHz",
+        "title": "Fasaana (Lo Fi Version)",
+        "artist": "Tanishk Bagchi",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d5a350c41d267f17d51290d",
+        "url": "https://open.spotify.com/album/0lb1GyOJB0xiEM7f3JSoHz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5T0weSbjSUj3KrWGbJL4H2",
+        "title": "Fasaana (Home Version)",
+        "artist": "Tanishk Bagchi",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02817374767122cbc27bdaa247",
+        "url": "https://open.spotify.com/album/5T0weSbjSUj3KrWGbJL4H2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3l5ewcWyfy9u9z2GhlB727",
+        "title": "Borracha",
+        "artist": "Soy tu Sol",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244c970d819c85ea9a08afffa",
+        "url": "https://open.spotify.com/album/3l5ewcWyfy9u9z2GhlB727",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7EifHWDXR2W0Rgk3PB967l",
+        "title": "قيلونا راكم عيتونا",
+        "artist": "Cheb Amine Tigre",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee3a14c1a234416dcfa5cae2",
+        "url": "https://open.spotify.com/album/7EifHWDXR2W0Rgk3PB967l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0dP1sg2PtVKIJ7baAyZNAM",
+        "title": "Men's Mikoshi Road",
+        "artist": "KK",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e02132dc65f32005a19c82b9953",
+        "url": "https://open.spotify.com/album/0dP1sg2PtVKIJ7baAyZNAM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2xoApvrdTQWdzQFeCJqNPs",
+        "title": "For The Kompos 2",
+        "artist": "Hitboss SA, Ayeeh Beats Babethe, LTD Muzika",
+        "type": "single",
+        "release_date": "2026-11-07",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f6e7c6ce4b8c15529e7734b",
+        "url": "https://open.spotify.com/album/2xoApvrdTQWdzQFeCJqNPs",
+        "total_tracks": 5,
+        "genres": []
+      }
+    ],
+    "2026-11-08": [
+      {
+        "id": "6FL7A9HHRa5lr6LSRDXLsl",
+        "title": "Om Jai Lakshmi Mata",
+        "artist": "Anuradha Paudwal",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc101079d80c2dee8b5ddba5",
+        "url": "https://open.spotify.com/album/6FL7A9HHRa5lr6LSRDXLsl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6KmokbMuq9K3DWotNKN6ko",
+        "title": "Rasta G | Froppi",
+        "artist": "VINI",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205322515cab830bc349ea6e7",
+        "url": "https://open.spotify.com/album/6KmokbMuq9K3DWotNKN6ko",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0BirPWp1daaKWvVS8hbpzP",
+        "title": "Жауың емеспін",
+        "artist": "Duman",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230ff84b00bcf7156df71d601",
+        "url": "https://open.spotify.com/album/0BirPWp1daaKWvVS8hbpzP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7MeEjk6iA95dnYSvgNVOH0",
+        "title": "Le Regretté Hasni",
+        "artist": "Cheb Hasni",
+        "type": "album",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4202588a52c78e4b420058a",
+        "url": "https://open.spotify.com/album/7MeEjk6iA95dnYSvgNVOH0",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "7EPz6vlf0JNLhp8H5oahjU",
+        "title": "Narsimha",
+        "artist": "Masoom Sharma, Rahul Muwana",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0287261c1234f9ee63a8fef5f2",
+        "url": "https://open.spotify.com/album/7EPz6vlf0JNLhp8H5oahjU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0JN2jCexrGwphwIJwH2JX2",
+        "title": "ANGELO EP",
+        "artist": "Amar",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3c77facf02f9cc1f2824db9",
+        "url": "https://open.spotify.com/album/0JN2jCexrGwphwIJwH2JX2",
+        "total_tracks": 10,
         "genres": []
       }
     ]
