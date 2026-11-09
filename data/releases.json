@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-08T12:48:59.274Z",
-  "total": 5669,
+  "fetched_at": "2026-11-09T15:18:07.558Z",
+  "total": 5707,
   "by_date": {
     "2026-05-15": [
       {
@@ -61332,6 +61332,17 @@
         "url": "https://open.spotify.com/album/1TkJqkNSV6YlvEVzXktevF",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2RYvIKnnwUybUvUtj0sQil",
+        "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+        "artist": "Future, Drake, Travis Scott, Loe Shimmy",
+        "type": "single",
+        "release_date": "2026-11-04",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b19b7895a2c82efc66a28397",
+        "url": "https://open.spotify.com/album/2RYvIKnnwUybUvUtj0sQil",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-05": [
@@ -61739,6 +61750,28 @@
         "release_date": "2026-11-05",
         "image": "https://i.scdn.co/image/ab67616d00001e024aecd76c5dabb884ef1e6430",
         "url": "https://open.spotify.com/album/7g3kx4AZiRV7rOFSSlHQpw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "64uMgcHZx05tDaP9UcdvGy",
+        "title": "All My Partnas (feat. Future, Young Thug & Rylo Rodriguez)",
+        "artist": "Lil Baby, Young Thug, Rylo Rodriguez",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d71120b334a7bbe1b0a22ac",
+        "url": "https://open.spotify.com/album/64uMgcHZx05tDaP9UcdvGy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4B70byjrpZCJmvSJpIYtBd",
+        "title": "In Your Head (feat. Rylo Rodriguez)",
+        "artist": "Lil Baby, Rylo Rodriguez",
+        "type": "single",
+        "release_date": "2026-11-05",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f46933a0f2e30b899398d9de",
+        "url": "https://open.spotify.com/album/4B70byjrpZCJmvSJpIYtBd",
         "total_tracks": 1,
         "genres": []
       }
@@ -62703,6 +62736,393 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02d3c77facf02f9cc1f2824db9",
         "url": "https://open.spotify.com/album/0JN2jCexrGwphwIJwH2JX2",
         "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "30lkaS9x4m3Rqip9iXlaU6",
+        "title": "حفله مسقط 2026",
+        "artist": "Ramy Sabry",
+        "type": "album",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b146c6cbf665a1b11fd8d37",
+        "url": "https://open.spotify.com/album/30lkaS9x4m3Rqip9iXlaU6",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "7EBmSaMlgHxQZ6Ovjg11C1",
+        "title": "FA FA FA (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+        "artist": "Sai Abhyankkar, Thamizh Aadhavan",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ebde9d2a1807a3b8f76c985e",
+        "url": "https://open.spotify.com/album/7EBmSaMlgHxQZ6Ovjg11C1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ec9OA9QexMuCjtnB43sRQ",
+        "title": "369 Party Intro (From \"Mela\")",
+        "artist": "Vishnu Vijay, Mammootty, Suhail Koya",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e027be7d46e7107386f6a896f44",
+        "url": "https://open.spotify.com/album/5ec9OA9QexMuCjtnB43sRQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "358i6HL0AOoQbcBXboTUiT",
+        "title": "حد قال انا انا هنا ( اهدو علينا )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d30212fe44f52b1136d123a6",
+        "url": "https://open.spotify.com/album/358i6HL0AOoQbcBXboTUiT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DpF2jnlcouJ9406t5kYer",
+        "title": "Ozono (Acústico)",
+        "artist": "Luister La Voz",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282c9b8b022f3675939a11767",
+        "url": "https://open.spotify.com/album/6DpF2jnlcouJ9406t5kYer",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "64jBQcv8lKY2ZLVV4jOO5R",
+        "title": "Ishq Daa Challa",
+        "artist": "Udit Narayan, Alka Yagnik, Sneha Pant, Sameer Anjaan",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236a7e446afad340736c6c1c8",
+        "url": "https://open.spotify.com/album/64jBQcv8lKY2ZLVV4jOO5R",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2X3C97vJ99UxSKONhvFhAo",
+        "title": "IA DE AICI MACINICI (Live)",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02066d3e33add2d21a7208a7c5",
+        "url": "https://open.spotify.com/album/2X3C97vJ99UxSKONhvFhAo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0QUuqBeYVJrqz4IRaWBPtC",
+        "title": "Sunt cu Tzanca într-un club",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e029464ef8a25293be520ab1da3",
+        "url": "https://open.spotify.com/album/0QUuqBeYVJrqz4IRaWBPtC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3utiEQAyyBAoeaPUQERypl",
+        "title": "GUTICO",
+        "artist": "El Mayor Clasico",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02840f6d78a7a4971fdfd9a841",
+        "url": "https://open.spotify.com/album/3utiEQAyyBAoeaPUQERypl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "45VdmpXyRyegIfLyyFHF0u",
+        "title": "Meenutan",
+        "artist": "Helen Randmets",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02693d59de44d3f74ecbbefc10",
+        "url": "https://open.spotify.com/album/45VdmpXyRyegIfLyyFHF0u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5vuWINoci5xZb9B8yStm2C",
+        "title": "Feel The Rhythm",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cddb4fd5a178d3d00464afb1",
+        "url": "https://open.spotify.com/album/5vuWINoci5xZb9B8yStm2C",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cbeVoFoCko3v9zq8q0kuo",
+        "title": "Crazy Night",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-11-08",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd3404b7c4a31953eceb3589",
+        "url": "https://open.spotify.com/album/7cbeVoFoCko3v9zq8q0kuo",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-09": [
+      {
+        "id": "4ZOny2sfAeGeHixBa8UXcw",
+        "title": "DREAM AFTER DREAM",
+        "artist": "NCT DREAM",
+        "type": "album",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4ed63d770ce49a173ba328d",
+        "url": "https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6JWyZ4DxRGDjcHoLf0K45B",
+        "title": "ไม่อยากจะเลว (Not Bad)",
+        "artist": "Z9",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb64a4bbdc2589ee5fa9dc38",
+        "url": "https://open.spotify.com/album/6JWyZ4DxRGDjcHoLf0K45B",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "385Layo7wg5tHORqg9Ms8t",
+        "title": "Solo Le Pido A Dios en Luján",
+        "artist": "Luciano Pereyra",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dfb0ad991a38484280add014",
+        "url": "https://open.spotify.com/album/385Layo7wg5tHORqg9Ms8t",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "7fclnqIs4EEWpCo2pK1VMI",
+        "title": "Keep Your Head Up",
+        "artist": "Diplo",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a15ddddf655e71d24cf20b99",
+        "url": "https://open.spotify.com/album/7fclnqIs4EEWpCo2pK1VMI",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3ytk8qn9dAnQGlnQ6N4wA2",
+        "title": "無二分 (電影＜大分瓶＞主題曲)",
+        "artist": "Stephy Tang",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236d0b6aa566fca1e6c719e91",
+        "url": "https://open.spotify.com/album/3ytk8qn9dAnQGlnQ6N4wA2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3NMrInL5H9KQFzWGn42oTS",
+        "title": "Berq - Complete",
+        "artist": "Berq",
+        "type": "compilation",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1ee01c330fb325288a5b680",
+        "url": "https://open.spotify.com/album/3NMrInL5H9KQFzWGn42oTS",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "6Sbe6k0GV26EDheUyoVGZ3",
+        "title": "SUIATSU",
+        "artist": "Stray Kids",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0222ab820575ab61f0043ed231",
+        "url": "https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5cuGHkUFzRbqc1XdmrOIGT",
+        "title": "Night Stage",
+        "artist": "LEE MU JIN",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3dd0da14a9636124ee57d99",
+        "url": "https://open.spotify.com/album/5cuGHkUFzRbqc1XdmrOIGT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZPcjHzJlwk5o5JIKeHx99",
+        "title": "Femeia",
+        "artist": "Delia",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231678d8008e57238d73d6bbd",
+        "url": "https://open.spotify.com/album/2ZPcjHzJlwk5o5JIKeHx99",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2KEfGhc6KSyPHEwvaY6kC5",
+        "title": "I Want to Carry the Mikoshi, But...",
+        "artist": "KK",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcd09ef1cda0dc3114da8027",
+        "url": "https://open.spotify.com/album/2KEfGhc6KSyPHEwvaY6kC5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3wYVqnwqsSbJ0sAojr9hUF",
+        "title": "Barat Chhath Kaini",
+        "artist": "Udit Narayan, Kalpana Patowary",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e022cb63c3fe3863a794b75cc86",
+        "url": "https://open.spotify.com/album/3wYVqnwqsSbJ0sAojr9hUF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7y1M2tn8U0y4kvDtXXwkVQ",
+        "title": "SÍROK:SÍRSZ",
+        "artist": "Co Lee, Blaize",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a8e12501baeb8c99e45b36b7",
+        "url": "https://open.spotify.com/album/7y1M2tn8U0y4kvDtXXwkVQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "07RQqurssn4EspwuQ5BPB0",
+        "title": "Bolnavi amândoi (Acustic)",
+        "artist": "Lele, Manele VTM",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db0f504a8625d4faf33c89a2",
+        "url": "https://open.spotify.com/album/07RQqurssn4EspwuQ5BPB0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "53F162sZlBcMX2M9J2q7FY",
+        "title": "Mera Dhol Mahi Mere Man Ka Raja (Live Version / Remastered)",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a34fb385391e72ccafe8ae3f",
+        "url": "https://open.spotify.com/album/53F162sZlBcMX2M9J2q7FY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2p0tpJ7B5zBaqxsaQyW8zr",
+        "title": "X SESSION",
+        "artist": "Jay Elite",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b20cbe1dbd474d2b8a356e3",
+        "url": "https://open.spotify.com/album/2p0tpJ7B5zBaqxsaQyW8zr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "51LWmK68FsLYDoPRGx1cUb",
+        "title": "Focus on the Guitar - An Essential Classical Stopover",
+        "artist": "Wolfgang Amadeus Mozart, Adrian Le Roy, Agustín Barrios Mangoré, Albert Roussel, Alexandre Tansman, Alonso Mudarra, Andrés Segovia, Anonymous, Antonio Lauro, Antonio Vivaldi",
+        "type": "compilation",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f75e7b8b3c7f9e3f8a3bc92a",
+        "url": "https://open.spotify.com/album/51LWmK68FsLYDoPRGx1cUb",
+        "total_tracks": 141,
+        "genres": []
+      },
+      {
+        "id": "19yIz4hGf5cxAXLCZowlER",
+        "title": "LA PLAYA",
+        "artist": "El Mayor Clasico",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5b7a33cb17883cf8d9af732",
+        "url": "https://open.spotify.com/album/19yIz4hGf5cxAXLCZowlER",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3yHdOVyxllp6XUtHa8azi0",
+        "title": "MUJER LO MENEA",
+        "artist": "El Mayor Clasico",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2120c8af0b78fb50a58e4bf",
+        "url": "https://open.spotify.com/album/3yHdOVyxllp6XUtHa8azi0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EyGs4gwQtvRCO7dnJlOPK",
+        "title": "La persona",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bc916377ec7558449a1ffa2c",
+        "url": "https://open.spotify.com/album/1EyGs4gwQtvRCO7dnJlOPK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "05WJMG1G7rn3y8LmivAI49",
+        "title": "Tiraera Pal Genero",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b6f05e13eb7241740dabf042",
+        "url": "https://open.spotify.com/album/05WJMG1G7rn3y8LmivAI49",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6cnxRaNlSLozN8uGgcYutv",
+        "title": "Stelle&Galassie",
+        "artist": "BLANCO",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028dadb74b2abe8da6b0222ffd",
+        "url": "https://open.spotify.com/album/6cnxRaNlSLozN8uGgcYutv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3AyTFnqFrunhUpkkdIL3JR",
+        "title": "Выгода Здесь Одна",
+        "artist": "Galaktika",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb21c370f5cb0600a1ed1994",
+        "url": "https://open.spotify.com/album/3AyTFnqFrunhUpkkdIL3JR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0iYGW3CH6GY6Rz0rvOkKiO",
+        "title": "Mājas",
+        "artist": "DJ Ella",
+        "type": "album",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285e9ac490c307a218131f9ce",
+        "url": "https://open.spotify.com/album/0iYGW3CH6GY6Rz0rvOkKiO",
+        "total_tracks": 12,
         "genres": []
       }
     ]
