@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-09T15:18:07.558Z",
-  "total": 5707,
+  "fetched_at": "2026-11-10T14:24:10.904Z",
+  "total": 5747,
   "by_date": {
     "2026-05-15": [
       {
@@ -63123,6 +63123,448 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0285e9ac490c307a218131f9ce",
         "url": "https://open.spotify.com/album/0iYGW3CH6GY6Rz0rvOkKiO",
         "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "3yEIKngLYRr128NmsjhNCH",
+        "title": "Mi Amiga Mi Esposa Mi Amante (En Vivo Jockey Club Asunción)",
+        "artist": "Lalo Y Los Descalzos",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ad8e9483e1c7afda8e9aa82",
+        "url": "https://open.spotify.com/album/3yEIKngLYRr128NmsjhNCH",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0CuC9nd559Ac3lqbVAzYh0",
+        "title": "Như Trẻ Con",
+        "artist": "Thịnh Suy, Lazii",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026672cea79c0b83fe1e8698af",
+        "url": "https://open.spotify.com/album/0CuC9nd559Ac3lqbVAzYh0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YTYfmtWLpSkV4Cd1Z6yeN",
+        "title": "موال بناقص من اللي يشبهني ( عملت الصح مع اندال ) [Live]",
+        "artist": "Ahmed Moza",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e5d63484a7b5478d6d64085",
+        "url": "https://open.spotify.com/album/3YTYfmtWLpSkV4Cd1Z6yeN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0U0zFJGkOplslVbOCMFN3j",
+        "title": "CIA (Remix)",
+        "artist": "Marics Peti, Bruno X Spacc, szvory, DZSINDZSER",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02021882708da3d9b895e3a149",
+        "url": "https://open.spotify.com/album/0U0zFJGkOplslVbOCMFN3j",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2iTRIjC4ayXyUzpRUxxogN",
+        "title": "عزم السعودي ما يلين",
+        "artist": "Mohammed Abdu, Rabeh Saqer",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02228acaa894d2d81e3fd8d9f2",
+        "url": "https://open.spotify.com/album/2iTRIjC4ayXyUzpRUxxogN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2onZGrbF9i4rwVrlOZf0VM",
+        "title": "Pit Bull",
+        "artist": "NORD DIVISION",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cbb1b8cb3bedbc3309bb0d2c",
+        "url": "https://open.spotify.com/album/2onZGrbF9i4rwVrlOZf0VM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6L38nvBzY3ujLgBUth4mjo",
+        "title": "From The Back (Remix)(feat. Chris Brown)",
+        "artist": "Lil Baby, Chris Brown",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e0246895b27ed2d33d3e5873cc9",
+        "url": "https://open.spotify.com/album/6L38nvBzY3ujLgBUth4mjo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7d9QfjLv3HQyqV0xH2qTst",
+        "title": "Cand ai bani la portofelos",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f0f88f16432eaab282c1cdd",
+        "url": "https://open.spotify.com/album/7d9QfjLv3HQyqV0xH2qTst",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qVd8TfogoQeUH0AaBungo",
+        "title": "Raja Raur System",
+        "artist": "Shilpi Raj, Prakash Barud",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e026917dd172a18c5fbf4ae8358",
+        "url": "https://open.spotify.com/album/2qVd8TfogoQeUH0AaBungo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4dwkeQI9krieCkHNsdiR39",
+        "title": "Mi-am pus inima pe masa",
+        "artist": "Tzanca Uraganu",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8ff41ed054104007ffdf78c",
+        "url": "https://open.spotify.com/album/4dwkeQI9krieCkHNsdiR39",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7bIMsbZ4pSJgWkwyVUKGhM",
+        "title": "Üks Elu",
+        "artist": "RAi Soulmusic",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af0cbba1469ba2a620f8daad",
+        "url": "https://open.spotify.com/album/7bIMsbZ4pSJgWkwyVUKGhM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4aADLryZgyBnOqq5sSTPRm",
+        "title": "Sama Laji",
+        "artist": "RAi Soulmusic",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e6ea158cd79036c05984294",
+        "url": "https://open.spotify.com/album/4aADLryZgyBnOqq5sSTPRm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "17cOhPHofH4T2Wx6Ilm47Z",
+        "title": "You're The Reason I Believe",
+        "artist": "Pete Groove",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a1c806ed649ed6828b7c2f9",
+        "url": "https://open.spotify.com/album/17cOhPHofH4T2Wx6Ilm47Z",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-10": [
+      {
+        "id": "4jSPwznLbj9qC49kjiDmjl",
+        "title": "LAS PIRATIA 2.0",
+        "artist": "El Americano 4KT, THE FAVORITES",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bf94b29816071b308d1af1d",
+        "url": "https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "2J5ttiLhgBPxcLyHlhQVKO",
+        "title": "Blood In Your Eyes (from GTAVI: The Album)",
+        "artist": "Tove Lo, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e025bb7bfb75165688663251cd9",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0Z0rE6YTkqu6yQiTPXVbRv",
+        "title": "Blood On The Dashboard (Tour Version)",
+        "artist": "Giant Rooks",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e025727fa5134f87b8566dd3bfb",
+        "url": "https://open.spotify.com/album/0Z0rE6YTkqu6yQiTPXVbRv",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5dN5ZiJuYwPZEtlm3IN4Dm",
+        "title": "מחרוזת כמו בריו (לייב היכל מנורה)",
+        "artist": "Agam Buhbut",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec35edf2c2d7308bcb594b40",
+        "url": "https://open.spotify.com/album/5dN5ZiJuYwPZEtlm3IN4Dm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03y2IgYbaKIeGF1jHfqd4b",
+        "title": "Ngek'silale (feat. Dlala Thukzin)",
+        "artist": "JAZZWRLD, GL_Ceejay, Zee Nxumalo, Thukuthela",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2dc33fff7c55cb4f840a959",
+        "url": "https://open.spotify.com/album/03y2IgYbaKIeGF1jHfqd4b",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "77n9Cg89dgCouV82Sq55gS",
+        "title": "FIRESTARTER (League of Legends)",
+        "artist": "SB19",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273515fc92d9340eccfb09f2c",
+        "url": "https://open.spotify.com/album/77n9Cg89dgCouV82Sq55gS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2ZacX7NdwRPuCx7rujxO6z",
+        "title": "Estelas",
+        "artist": "Movimiento Original",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262a0ec030470d298707776e4",
+        "url": "https://open.spotify.com/album/2ZacX7NdwRPuCx7rujxO6z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0krMujtk1IHKmwbd9AZbUM",
+        "title": "ใจลอย (Join a line)",
+        "artist": "NONT TANONT",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b86abc4d615300d9315b1be",
+        "url": "https://open.spotify.com/album/0krMujtk1IHKmwbd9AZbUM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1uaqbVhBYrCBKaPCy0SgJN",
+        "title": "Shimle",
+        "artist": "Mohit Chauhan",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0d7e3aa23a3e309e62ddf9e",
+        "url": "https://open.spotify.com/album/1uaqbVhBYrCBKaPCy0SgJN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2suTP4ZT6NX4MFcDrsHqQc",
+        "title": "VIBA",
+        "artist": "VINXEN, Yescoba",
+        "type": "album",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8b40a82b1454a952e365acd",
+        "url": "https://open.spotify.com/album/2suTP4ZT6NX4MFcDrsHqQc",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "5BY3iLvoRiF6N8KPdK6eHP",
+        "title": "SALJJAK Freestyle",
+        "artist": "저스디스 (JUSTHIS)",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225da06b489355f40e4735890",
+        "url": "https://open.spotify.com/album/5BY3iLvoRiF6N8KPdK6eHP",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fQqCjssT6T0PAnKiHNwXR",
+        "title": "הסוד (LIVE פארק הירקון)",
+        "artist": "Sarit Hadad, Subliminal, The Shadow",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029bf70f38c1ee95ddcb8cdac6",
+        "url": "https://open.spotify.com/album/1fQqCjssT6T0PAnKiHNwXR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4OrXO90iLGSblc2jAsEEZh",
+        "title": "Jul i Vargens kula",
+        "artist": "Bamse",
+        "type": "album",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b29d7e23b03b1d93d239a129",
+        "url": "https://open.spotify.com/album/4OrXO90iLGSblc2jAsEEZh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "23TjisvxxfW8EHT7w9U8m0",
+        "title": "ชีวิตคืออะไร? (Winter Is Coming)",
+        "artist": "THE TOYS",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02670e4c527ac93204d8c4db07",
+        "url": "https://open.spotify.com/album/23TjisvxxfW8EHT7w9U8m0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7ETkKMdEkc66huTrJ1b9ym",
+        "title": "เหวี่ยง (Across The Worlds)",
+        "artist": "Tilly Birds, Safeplanet",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02694de311245afd93a3a5c3ce",
+        "url": "https://open.spotify.com/album/7ETkKMdEkc66huTrJ1b9ym",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ugElze10L91CDKxyI47l2",
+        "title": "FRESH (Bonus Track)",
+        "artist": "Lil Baby",
+        "type": "album",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023a1b3fed0be3a6064e980dfc",
+        "url": "https://open.spotify.com/album/5ugElze10L91CDKxyI47l2",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "3clJlQ3v0KfeOul4fVh3mg",
+        "title": "Børnenes Jul",
+        "artist": "Trine Therkelsen",
+        "type": "album",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ffd7cdff04483e44f4a9e1b",
+        "url": "https://open.spotify.com/album/3clJlQ3v0KfeOul4fVh3mg",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "1BE5jg9hzNkQOlvK53KhCb",
+        "title": "Long long time",
+        "artist": "Breizaas, Grøftefyll",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f32cd2bf4773a3e05aa0c7f4",
+        "url": "https://open.spotify.com/album/1BE5jg9hzNkQOlvK53KhCb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "60BGRlXB94jsF85dCZnenF",
+        "title": "Tanto Faz, Tanto Fez",
+        "artist": "DJ Gu, Mc Duzinho SP, Brenninho VJ",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02af7126856b4f5ddb949c2fc9",
+        "url": "https://open.spotify.com/album/60BGRlXB94jsF85dCZnenF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2sDzKyQgqZtWoiP4OlZ0dI",
+        "title": "Saja Hai Maikhana (Oldschool Boombap Mix)",
+        "artist": "Nusrat Fateh Ali Khan, Moin",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f2cd9a74a183be8a89cfae9",
+        "url": "https://open.spotify.com/album/2sDzKyQgqZtWoiP4OlZ0dI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4wPpjhFLBj1Au4J4x6XqTU",
+        "title": "HO YOYO",
+        "artist": "El Mayor Clasico",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d6a2b6de4a8c88582528b876",
+        "url": "https://open.spotify.com/album/4wPpjhFLBj1Au4J4x6XqTU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4zhu4GF9b1N17eJk28ltnM",
+        "title": "Corran Corran",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c9141eeba7dd884e29b95003",
+        "url": "https://open.spotify.com/album/4zhu4GF9b1N17eJk28ltnM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5BVfNsd4ffj368CQbAKX3E",
+        "title": "que sucedio",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282b621933b4395be38b1b244",
+        "url": "https://open.spotify.com/album/5BVfNsd4ffj368CQbAKX3E",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0lBqxBP6lnPblyQEoLldXg",
+        "title": "Lock In: Classical Piano for Study",
+        "artist": "Wolfgang Amadeus Mozart, Ludwig van Beethoven, Franz Schubert, Frédéric Chopin, Robert Schumann, Johann Sebastian Bach, Pyotr Ilyich Tchaikovsky, Franz Liszt, Claude Debussy, Maurice Ravel",
+        "type": "compilation",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdd0cd716997aacff0d14d64",
+        "url": "https://open.spotify.com/album/0lBqxBP6lnPblyQEoLldXg",
+        "total_tracks": 80,
+        "genres": []
+      },
+      {
+        "id": "4YKmLsLUAvEDYNig9Vm7U4",
+        "title": "ยานอนหลับ (overdosed)",
+        "artist": "THE TOYS",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ffee06041b0c56a51e944972",
+        "url": "https://open.spotify.com/album/4YKmLsLUAvEDYNig9Vm7U4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1NaofUNNTDtXCDHQgJwWBS",
+        "title": "Annan veg - HVERFIÐ",
+        "artist": "Hverfið, tatjana",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e023aab3306e35888e4fe60bb76",
+        "url": "https://open.spotify.com/album/1NaofUNNTDtXCDHQgJwWBS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6N6SkspmZTLeJ2hbouRpnN",
+        "title": "Electric Storm",
+        "artist": "The Neon Boy",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ac4b5f4c33fa818f9703c4e",
+        "url": "https://open.spotify.com/album/6N6SkspmZTLeJ2hbouRpnN",
+        "total_tracks": 3,
         "genres": []
       }
     ]
