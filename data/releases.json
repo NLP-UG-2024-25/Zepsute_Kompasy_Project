@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-10T14:24:10.904Z",
-  "total": 5747,
+  "fetched_at": "2026-11-11T13:37:58.175Z",
+  "total": 5778,
   "by_date": {
     "2026-05-15": [
       {
@@ -63565,6 +63565,349 @@
         "image": "https://i.scdn.co/image/ab67616d00001e020ac4b5f4c33fa818f9703c4e",
         "url": "https://open.spotify.com/album/6N6SkspmZTLeJ2hbouRpnN",
         "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "6mXH0rUB9nAxSqvRRlobvj",
+        "title": "Số Không",
+        "artist": "WEAN",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1a7a3a1fb46d319bdf4b515",
+        "url": "https://open.spotify.com/album/6mXH0rUB9nAxSqvRRlobvj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VQ0ykItmYbSy9TPOYIfAt",
+        "title": "A MILANO",
+        "artist": "Rkomi",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f476c0fddb3af58091f74de",
+        "url": "https://open.spotify.com/album/4VQ0ykItmYbSy9TPOYIfAt",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1jDLeeuOMkcCcm6YLhD9ke",
+        "title": "Pasión Intimo - Lauta",
+        "artist": "Lauta, Pasión de Sábado",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e029615d707e3cc5fa8a6a991c0",
+        "url": "https://open.spotify.com/album/1jDLeeuOMkcCcm6YLhD9ke",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "4ZIl7dQcPnPu5z4QrWoSQD",
+        "title": "čím víc toho mám tím dál od domova jsem",
+        "artist": "P T K",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e65af858fea5f2c61b71abc",
+        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "6lVAS7G7NyBdRhTw6D3Dhd",
+        "title": "الدايرة كلها عارفة انا مين ( انا لسة زي مانا يا ابطال )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-11-10",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d6004da710d09904beaf99c",
+        "url": "https://open.spotify.com/album/6lVAS7G7NyBdRhTw6D3Dhd",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-11": [
+      {
+        "id": "2vCZdkjVYlWjg61JjAlkQQ",
+        "title": "Ooh Laka Laka La",
+        "artist": "Enrique Iglesias, Pitbull",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b3b0c0706f5ebbfbeb93b64",
+        "url": "https://open.spotify.com/album/2vCZdkjVYlWjg61JjAlkQQ",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3l863VNzF2HkBXkDfl9R85",
+        "title": "No One",
+        "artist": "Sean Paul, Amanda Reifer",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02641b26c71e064f9c8b58944c",
+        "url": "https://open.spotify.com/album/3l863VNzF2HkBXkDfl9R85",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "67kLj3jphSXfZpTkPL5UsN",
+        "title": "KILLA",
+        "artist": "YOASOBI",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0249e10cb9f2b289afb288180c",
+        "url": "https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1aao8FuXkxeH7xLcGlSmx8",
+        "title": "DRTY",
+        "artist": "Ruger, ODUMODUBLVCK",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e023707488424a0f148720ff494",
+        "url": "https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0YC7qhuvIai8TbYOn3xFCa",
+        "title": "Darling",
+        "artist": "D.O.",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3c5199a8ed0f8143c3eff1a",
+        "url": "https://open.spotify.com/album/0YC7qhuvIai8TbYOn3xFCa",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7bldiRBl0ZqRO2mNMp8ZUL",
+        "title": "Susundan",
+        "artist": "IV OF SPADES",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e023875c6a73176ef0853fd1269",
+        "url": "https://open.spotify.com/album/7bldiRBl0ZqRO2mNMp8ZUL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3TyD8VNfjNrFE5FOR8q4VU",
+        "title": "Sarah (feat. John Roa)",
+        "artist": "Dionela, John Roa",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ecbf66824a896de16c0802b3",
+        "url": "https://open.spotify.com/album/3TyD8VNfjNrFE5FOR8q4VU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0QDc0OqaUrm0GaS85qzcQ8",
+        "title": "漫步 [秋天 (Miku Ver)]",
+        "artist": "Hatsune Miku, Misaka Sarina",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0a07c4e471078948c6fa639",
+        "url": "https://open.spotify.com/album/0QDc0OqaUrm0GaS85qzcQ8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4NV0xZWO9K9iDhgh07eIsG",
+        "title": "LEGEND",
+        "artist": "CHANMINA",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6af8f90bf030101b90d90e7",
+        "url": "https://open.spotify.com/album/4NV0xZWO9K9iDhgh07eIsG",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6CFcc9igziAgtboH7SHFpm",
+        "title": "Злодейка",
+        "artist": "KhaliF, SAMIIYA",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02396f76c1a46754c0c3a3c8d4",
+        "url": "https://open.spotify.com/album/6CFcc9igziAgtboH7SHFpm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2sjNYJII6ihvIeF88Nlwnr",
+        "title": "生きる",
+        "artist": "LANA",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0285657a2a15e366bc9d863a30",
+        "url": "https://open.spotify.com/album/2sjNYJII6ihvIeF88Nlwnr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1vsnvPZOxreTvbdpXDHZEG",
+        "title": "Darasa La Saba (Instrumental)",
+        "artist": "Mbosso",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ebc8bb1768556ed06ae6ed0",
+        "url": "https://open.spotify.com/album/1vsnvPZOxreTvbdpXDHZEG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3oIIsCTPPlK1WllOid73mL",
+        "title": "GEN SAD",
+        "artist": "Lipta",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e92e31e9c53d4b95242c8c1",
+        "url": "https://open.spotify.com/album/3oIIsCTPPlK1WllOid73mL",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "1pmj8vXgZBrGn3YESclYbA",
+        "title": "Armistice",
+        "artist": "Josman",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e022bb9178753541c62be8fb2e8",
+        "url": "https://open.spotify.com/album/1pmj8vXgZBrGn3YESclYbA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "284j3pHnFVrWKvetthnFlG",
+        "title": "جوة سجن اتدفنت",
+        "artist": "Eslam Kabonga",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f11ffdd654043be323a6c79c",
+        "url": "https://open.spotify.com/album/284j3pHnFVrWKvetthnFlG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4KneGAQsRnpBI0JLQFi5hj",
+        "title": "Seara asta",
+        "artist": "Carla's Dreams",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b56681822f7ba2a31e176b",
+        "url": "https://open.spotify.com/album/4KneGAQsRnpBI0JLQFi5hj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5YA6JLlmEI4vg1659i9Nkm",
+        "title": "ラブリーズン",
+        "artist": "原因は自分にある。",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ddf448ad0895f248598f64b9",
+        "url": "https://open.spotify.com/album/5YA6JLlmEI4vg1659i9Nkm",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2lbp1fNrNRwyUK9ns796wB",
+        "title": "Anuragalolamay - Malayalam Album Hits of K J Yesudas",
+        "artist": "K. J. Yesudas",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f903c9edda3fab36b925349e",
+        "url": "https://open.spotify.com/album/2lbp1fNrNRwyUK9ns796wB",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "7KhXIkqDUuvmsIC3cydihh",
+        "title": "Hrem Naassi",
+        "artist": "Cheb Hasni",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e81f3f050329337479aeeb5",
+        "url": "https://open.spotify.com/album/7KhXIkqDUuvmsIC3cydihh",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "27mBOFAYBkxjbc7WkmeN4p",
+        "title": "Bella Ciao - tijd om dag te zeggen",
+        "artist": "Alles Kids, Kinderliedjes Om Mee Te Zingen, Liedjes voor kinderen",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02521b5b01d8cf109e6e70e979",
+        "url": "https://open.spotify.com/album/27mBOFAYBkxjbc7WkmeN4p",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5UMkt34ePqyU6yaOUTdJ5u",
+        "title": "Pi Pa Polonaise",
+        "artist": "Juf Roos",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02664e9e76bd5e6fa3b0f43a8f",
+        "url": "https://open.spotify.com/album/5UMkt34ePqyU6yaOUTdJ5u",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7tbIflYeQxQ0Gdefjakibz",
+        "title": "ดอกไม้",
+        "artist": "DIAMOND MQT",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0273158ac5f8cbab7df84e9896",
+        "url": "https://open.spotify.com/album/7tbIflYeQxQ0Gdefjakibz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2aSwEeXqCCq30IbgcRJJO1",
+        "title": "Greșeală cu greșeală",
+        "artist": "Lele, Narcisa, Manele VTM",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e029721b51c0bbc30f119b67d87",
+        "url": "https://open.spotify.com/album/2aSwEeXqCCq30IbgcRJJO1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6sdcLKccIBiAW8pSk6YA5T",
+        "title": "Ära Murra Väikest Südant",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288c010dec206b5ff04383aef",
+        "url": "https://open.spotify.com/album/6sdcLKccIBiAW8pSk6YA5T",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4srnSmhc3PMSDm1gCqQtKE",
+        "title": "Your Morning Mantras",
+        "artist": "Eve n' Spirit",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e0218c1d58458b43cc646d0b6b4",
+        "url": "https://open.spotify.com/album/4srnSmhc3PMSDm1gCqQtKE",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "5rApJhtlvb9B5F3ZwGHpZb",
+        "title": "Iļģuciema metālists (Mūzika no datorspēles)",
+        "artist": "Dj Krankenwagen",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e020012b4d23f474cda325f3d09",
+        "url": "https://open.spotify.com/album/5rApJhtlvb9B5F3ZwGHpZb",
+        "total_tracks": 7,
         "genres": []
       }
     ]
