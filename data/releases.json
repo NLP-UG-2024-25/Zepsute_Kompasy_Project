@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-12T14:41:30.592Z",
-  "total": 5831,
+  "fetched_at": "2026-11-13T13:58:23.389Z",
+  "total": 5875,
   "by_date": {
     "2026-05-15": [
       {
@@ -64118,6 +64118,28 @@
         "url": "https://open.spotify.com/album/5RaM9FJun8h7XKIRPJ46z3",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "44FWRgTP96E3gMrNhWs6Td",
+        "title": "Заводные шалушайки",
+        "artist": "Андрей Ведерников",
+        "type": "single",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7acedba62817466341f1edc",
+        "url": "https://open.spotify.com/album/44FWRgTP96E3gMrNhWs6Td",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2tzkHmECRayiIaROK5Ltg4",
+        "title": "Beyond the last safe light",
+        "artist": "Андрей Ведерников",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a90e1bb79ae45f99f752d38d",
+        "url": "https://open.spotify.com/album/2tzkHmECRayiIaROK5Ltg4",
+        "total_tracks": 12,
+        "genres": []
       }
     ],
     "2026-11-12": [
@@ -64492,6 +64514,470 @@
         "release_date": "2026-11-12",
         "image": "https://i.scdn.co/image/ab67616d00001e026d6a77f5ce5a4954c79ffcb9",
         "url": "https://open.spotify.com/album/3eaXYEjMjqOXQ0GPCI0x4J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0tm1saZfhOkgkyNXJoGpTg",
+        "title": "FRANCIA",
+        "artist": "Tito Double P",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cd6a127b363cc91245e6bb1",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3fyvfbMSBjVFB5jHq5Dvqb",
+        "title": "Dreamer Hats",
+        "artist": "Omar Camacho",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264ebccc6eeb944a7ee31c734",
+        "url": "https://open.spotify.com/album/3fyvfbMSBjVFB5jHq5Dvqb",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "540pquD3B2fmai9xx25RII",
+        "title": "Departamento",
+        "artist": "LATIN MAFIA",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0253aacb3099fbd3f03f88d6f9",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "02fcFwmPIlN0Bq1P5fWsNs",
+        "title": "MALADIE",
+        "artist": "Mauvais djo, Ryan Castro, Latin Hype",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263b2d6dc0529fc3c7476621e",
+        "url": "https://open.spotify.com/album/02fcFwmPIlN0Bq1P5fWsNs",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "31ofj6LpsDNOPK98Nm5Q22",
+        "title": "Verschwommen Tekk",
+        "artist": "Ski Aggu, DJ TÖRKE, Ericson",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e59fa136a2b7e76e45f1475d",
+        "url": "https://open.spotify.com/album/31ofj6LpsDNOPK98Nm5Q22",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0oqQWJndfgUbwnmlwxXVUW",
+        "title": "No Me Destruyas",
+        "artist": "Zoé, Carlos O’Connell",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029fbe8f1bba2163608c27fd3a",
+        "url": "https://open.spotify.com/album/0oqQWJndfgUbwnmlwxXVUW",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3CspznXa0iCmiQM0xi01e2",
+        "title": "En Mi Cuadra",
+        "artist": "Pirlo, Jaime El King, High Galaxy Music, Mauro Dembow",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec65cc5f37d84f8ed806fa37",
+        "url": "https://open.spotify.com/album/3CspznXa0iCmiQM0xi01e2",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "337NlF1ItBzcf05f1ynkpK",
+        "title": "Chiruza",
+        "artist": "GeezyDee, Topboy TGR",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d289a1d38217c92ff5eb1431",
+        "url": "https://open.spotify.com/album/337NlF1ItBzcf05f1ynkpK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6DRe9NIGQMS5WQtNh84EEp",
+        "title": "Rock Star 1 演唱會精選實錄 (Live)",
+        "artist": "Wu Bai",
+        "type": "album",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e7d0caa8644a77b33245bd30",
+        "url": "https://open.spotify.com/album/6DRe9NIGQMS5WQtNh84EEp",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "72tVc29VkBCmA0BxUngWKC",
+        "title": "Tu Terapia Favorita",
+        "artist": "Luister La Voz",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c448a97cea66ecd39d13aa3",
+        "url": "https://open.spotify.com/album/72tVc29VkBCmA0BxUngWKC",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0x5BZ3gXqmRDyng3XnXMTI",
+        "title": "De Volta Aos Bares II - Vol.2 (Ao Vivo)",
+        "artist": "Bruno & Marrone",
+        "type": "album",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e0203a4ede9b880f78de4ccedbb",
+        "url": "https://open.spotify.com/album/0x5BZ3gXqmRDyng3XnXMTI",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "67MoSOyGELiB6pp4wWb3w8",
+        "title": "Horseman Doesn’t Want to Be Here Anymore",
+        "artist": "Animal Party",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e9c1a53df257c6838afd2d88",
+        "url": "https://open.spotify.com/album/67MoSOyGELiB6pp4wWb3w8",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-13": [
+      {
+        "id": "76tS12f6S9QDPc9x6OxiWG",
+        "title": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "artist": "Laufey, Peanuts",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b97b4cc6539d6be79513a0d",
+        "url": "https://open.spotify.com/album/76tS12f6S9QDPc9x6OxiWG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Ei8O7C8Fa5oXZTNB166Sf",
+        "title": "Party With The Boys",
+        "artist": "Don Toliver",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028bbb613d6a46052d9fc719ff",
+        "url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ggfAMeifoYKG1TOigkAJ4",
+        "title": "backseat",
+        "artist": "Lil Peep, Lil Tracy",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ddee906436563bf4c373e71d",
+        "url": "https://open.spotify.com/album/4ggfAMeifoYKG1TOigkAJ4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1Os8YdtF2auQWkSVflfJZJ",
+        "title": "Fairytale of New York",
+        "artist": "Hozier, Jessie Buckley, Shane MacGowan",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db9b32029dd00c4bf7eafc29",
+        "url": "https://open.spotify.com/album/1Os8YdtF2auQWkSVflfJZJ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0qMYNqlfA6PJktEw7kuXkc",
+        "title": "The Christmas Tracks",
+        "artist": "Bruce Springsteen",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e027774718a8b6c25ba030de74f",
+        "url": "https://open.spotify.com/album/0qMYNqlfA6PJktEw7kuXkc",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "4VkoNmAX7XSAhdLT2wovO3",
+        "title": "See It Coming",
+        "artist": "Bella Kay, The Hunger Games",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d724fe49ccd86c7c6c0a7ad7",
+        "url": "https://open.spotify.com/album/4VkoNmAX7XSAhdLT2wovO3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5VVQMofUHoRZrlidCn99NK",
+        "title": "Santa Baby",
+        "artist": "aespa, Eartha Kitt",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e022d59924984d162e997548ee2",
+        "url": "https://open.spotify.com/album/5VVQMofUHoRZrlidCn99NK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "62vOhQo4OJwUNlEVPQ1owK",
+        "title": "Cool",
+        "artist": "Wiz Khalifa",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ea6d876aa8528f70cb35f699",
+        "url": "https://open.spotify.com/album/62vOhQo4OJwUNlEVPQ1owK",
+        "total_tracks": 14,
+        "genres": []
+      },
+      {
+        "id": "6mKaexnVCCwdcaK2gGRxjX",
+        "title": "Take What You Need",
+        "artist": "The Chainsmokers",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbc059411e5d7e7818c92ce0",
+        "url": "https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4PxamE6YCvrEj2zjAzSYQg",
+        "title": "Delete Me",
+        "artist": "Jason Derulo, LOVIXX, BLANKA",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0215172c92ccfd82e88f477570",
+        "url": "https://open.spotify.com/album/4PxamE6YCvrEj2zjAzSYQg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7um76kaVTA4001Soogzgyv",
+        "title": "Balcony",
+        "artist": "Tyga",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc2d750198e586a54a8487da",
+        "url": "https://open.spotify.com/album/7um76kaVTA4001Soogzgyv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2CNaaADlssuKJb72ijRWJg",
+        "title": "Blue Planet III (Original Television Soundtrack)",
+        "artist": "Hans Zimmer, Thom Lukas, Laurentia Editha",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee6926418cea793f374a0457",
+        "url": "https://open.spotify.com/album/2CNaaADlssuKJb72ijRWJg",
+        "total_tracks": 46,
+        "genres": []
+      },
+      {
+        "id": "16Lq6XsyZNjkMEIgkiQieX",
+        "title": "In My Aura",
+        "artist": "Topic",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f751f8c6f5fee3bec780656",
+        "url": "https://open.spotify.com/album/16Lq6XsyZNjkMEIgkiQieX",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "5vgawNv5SNpnqsLgy1wpdI",
+        "title": "Wait All Night",
+        "artist": "Lost Frequencies, Gryffin, Michael Marcagi",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e027b575f30cfdbd40235b8f453",
+        "url": "https://open.spotify.com/album/5vgawNv5SNpnqsLgy1wpdI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6a1mmQYSbS1L5obRf0Hrqg",
+        "title": "Portfolio (Only Human)",
+        "artist": "Vybz Kartel, Chambah",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0220e7f12bac7f55e0c96f0ca1",
+        "url": "https://open.spotify.com/album/6a1mmQYSbS1L5obRf0Hrqg",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4j9xiFk6li8UzHMkVGjVhB",
+        "title": "NOSTALGIA",
+        "artist": "Alok, Zeeba, Carlo Dall Anese, Tiko's Groove",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e023740f558cd0e558ee8585713",
+        "url": "https://open.spotify.com/album/4j9xiFk6li8UzHMkVGjVhB",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2Uu75DHRs4yiEleO5vt02o",
+        "title": "Weight Of The Feather",
+        "artist": "Kingfishr",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0242fa541a3f62acd22e4bd611",
+        "url": "https://open.spotify.com/album/2Uu75DHRs4yiEleO5vt02o",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7rzw1KQeDPSqu6qpVxFrIT",
+        "title": "NPC",
+        "artist": "ANNA ASTI",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aaa925e88192fd23f5ec91f9",
+        "url": "https://open.spotify.com/album/7rzw1KQeDPSqu6qpVxFrIT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0GHQcRFWJRabw6UEgFn5jy",
+        "title": "Never Left",
+        "artist": "Shubh",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5074aba26568602bd140fcb",
+        "url": "https://open.spotify.com/album/0GHQcRFWJRabw6UEgFn5jy",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "37H5kav5Ds4mtVbyuSlNwY",
+        "title": "一半灵魂",
+        "artist": "Ren Ran, 印子月",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a1e30dcde70f0c10f46dbb8",
+        "url": "https://open.spotify.com/album/37H5kav5Ds4mtVbyuSlNwY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5EHYgkvWi5bg8X78YMKtZj",
+        "title": "AMEN",
+        "artist": "Icegergert",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028117add98059e1075bb730b5",
+        "url": "https://open.spotify.com/album/5EHYgkvWi5bg8X78YMKtZj",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "44y6ANts5tOrHbMfLRPMZD",
+        "title": "Aldrig Igen",
+        "artist": "Christopher",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02784fc01e46558e100cf27870",
+        "url": "https://open.spotify.com/album/44y6ANts5tOrHbMfLRPMZD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6duXPEG4KMMA4hwBAHQyzj",
+        "title": "не святая",
+        "artist": "Zivert",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e021eeff6672be4be90289457b2",
+        "url": "https://open.spotify.com/album/6duXPEG4KMMA4hwBAHQyzj",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1W5KV8ej7eqNU9wGNmR9Tz",
+        "title": "All I Want for Christmas is Peace",
+        "artist": "Rasmus Gozzi, FRÖKEN SNUSK",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e026efd1729f063e82ea8a1247b",
+        "url": "https://open.spotify.com/album/1W5KV8ej7eqNU9wGNmR9Tz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0W8K4zTp23jPtP8F0eTKqX",
+        "title": "Challa (Maati S2)",
+        "artist": "Satinder Sartaaj",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f32c1b0decf06bb94f98c8e5",
+        "url": "https://open.spotify.com/album/0W8K4zTp23jPtP8F0eTKqX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "39kZFXstuN3kDqibD6Ey6l",
+        "title": "фобии",
+        "artist": "greyrock",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e024848fe55831b998b90e6ba70",
+        "url": "https://open.spotify.com/album/39kZFXstuN3kDqibD6Ey6l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yXCrYuVCtQ9lk9SbSpbcR",
+        "title": "AMOR DA MINHA VIDA / ME AMA",
+        "artist": "Julliany Souza, Diante do Trono, Isaque",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e026586694631720f7dae3ddbcb",
+        "url": "https://open.spotify.com/album/7yXCrYuVCtQ9lk9SbSpbcR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2HmQfTZgdTK4FHTguKjcMC",
+        "title": "⁠⁠old hit love songs",
+        "artist": "Udit Narayan",
+        "type": "compilation",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02069c45a8d95ac57f167a44a5",
+        "url": "https://open.spotify.com/album/2HmQfTZgdTK4FHTguKjcMC",
+        "total_tracks": 20,
+        "genres": []
+      },
+      {
+        "id": "7igZFJ3XnnA0u6L5fttA1z",
+        "title": "METAMORFOOS",
+        "artist": "Raimond Lige, 17th wave",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8787fe7a02fb6ab406f2ce2",
+        "url": "https://open.spotify.com/album/7igZFJ3XnnA0u6L5fttA1z",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "47jRLoLgebN07iPeLshD44",
+        "title": "Free Doom",
+        "artist": "Dystopian X Vision",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c33d380fe1eb510fd231ba1e",
+        "url": "https://open.spotify.com/album/47jRLoLgebN07iPeLshD44",
         "total_tracks": 1,
         "genres": []
       }
