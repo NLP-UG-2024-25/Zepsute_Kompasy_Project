@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-13T13:58:23.389Z",
-  "total": 5875,
+  "fetched_at": "2026-11-14T13:00:10.267Z",
+  "total": 5895,
   "by_date": {
     "2026-05-15": [
       {
@@ -64648,6 +64648,83 @@
         "url": "https://open.spotify.com/album/67MoSOyGELiB6pp4wWb3w8",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "3XzHOje6CLY7LuffDppCwq",
+        "title": "concert ng mga tanga",
+        "artist": "Janine Berdin",
+        "type": "album",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce779a924f4f194b45984b54",
+        "url": "https://open.spotify.com/album/3XzHOje6CLY7LuffDppCwq",
+        "total_tracks": 17,
+        "genres": []
+      },
+      {
+        "id": "7kulIuMcghcRL0sfLlR4Rg",
+        "title": "Parivarik ManuRanjan (Original Motion Picture Soundtrack)",
+        "artist": "Vishal Mishra, Shamir Tandon, Jubin Nautiyal, Dhvani Bhanushali",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a739c81fb9779f20cb88b5b1",
+        "url": "https://open.spotify.com/album/7kulIuMcghcRL0sfLlR4Rg",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "6wBiWnStRM8vlxEaofkanf",
+        "title": "Niño Ten Cuidao",
+        "artist": "Kiry Curu, el moyeto produciendo, yokar el troky",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e026fe4579ab5515576c79acb59",
+        "url": "https://open.spotify.com/album/6wBiWnStRM8vlxEaofkanf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3pka1vePTTGRLVctjgqJYM",
+        "title": "Itllu Arjuna",
+        "artist": "Thaman S, Kalyan Chakravarthy, Adviteeya Vojjala, Sreejo",
+        "type": "album",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ed9fc7bafcf2d6d346c76a6",
+        "url": "https://open.spotify.com/album/3pka1vePTTGRLVctjgqJYM",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2UMzdspXLIv5VjJxRUQbeJ",
+        "title": "Live Session #6",
+        "artist": "Los Palmeras",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e021527c98c9d35ad8ece15ea36",
+        "url": "https://open.spotify.com/album/2UMzdspXLIv5VjJxRUQbeJ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "1Dpl40KSRa1jPT84KMUyis",
+        "title": "Festa do Peão",
+        "artist": "Jeninho",
+        "type": "album",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02729bb526d77ab9e8835d81cd",
+        "url": "https://open.spotify.com/album/1Dpl40KSRa1jPT84KMUyis",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "305dE0qtNLtGG8Rpev3mcX",
+        "title": "Before I Lose Myself",
+        "artist": "Pete Groove",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a96b79a5553ecb5e73c985a",
+        "url": "https://open.spotify.com/album/305dE0qtNLtGG8Rpev3mcX",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-13": [
@@ -64978,6 +65055,149 @@
         "release_date": "2026-11-13",
         "image": "https://i.scdn.co/image/ab67616d00001e02c33d380fe1eb510fd231ba1e",
         "url": "https://open.spotify.com/album/47jRLoLgebN07iPeLshD44",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2bQwwMziAxzu7VvsD8nshv",
+        "title": "Something To Lose (Live Acoustic)",
+        "artist": "STELLA LEFTY, Vincent Mason",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fcf17ec3344b54b34a7e9daf",
+        "url": "https://open.spotify.com/album/2bQwwMziAxzu7VvsD8nshv",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "1gl4D55viqfJyaVvjFqQIH",
+        "title": "Horseback (Special Edition)",
+        "artist": "Cody Johnson",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e026138e0057314e74e8c1784b3",
+        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2U94N59iUPCBcaeFFPO1e6",
+        "title": "Here Then We're Gone",
+        "artist": "Ella Langley, The Hunger Games",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e026935e3eba8d17027050b4385",
+        "url": "https://open.spotify.com/album/2U94N59iUPCBcaeFFPO1e6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1tjX40atnkeU5sGrHswDZg",
+        "title": "O Holy Night",
+        "artist": "Nursery Rhymes 123",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0292f7b5c1615e3d1b6392fbd3",
+        "url": "https://open.spotify.com/album/1tjX40atnkeU5sGrHswDZg",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6QVRxNKjqnuHIs1kiCaBQF",
+        "title": "Pacata",
+        "artist": "Yoan Retro, La Creencia Rd, GMBeats Degranalo",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269650b0080289a44f505e352",
+        "url": "https://open.spotify.com/album/6QVRxNKjqnuHIs1kiCaBQF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1DUj8xmwUvuSOtWvpB0fYA",
+        "title": "Playtime (Remix)",
+        "artist": "Shenseea",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d53e975bdf632959e8566b91",
+        "url": "https://open.spotify.com/album/1DUj8xmwUvuSOtWvpB0fYA",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "2OcFf9T49k6w4Hh5VhwjVI",
+        "title": "AXIOTEK",
+        "artist": "h6itam",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e020d17d77fc8b3158e45472338",
+        "url": "https://open.spotify.com/album/2OcFf9T49k6w4Hh5VhwjVI",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "5iBZwiJS2S9s44a1D09ca4",
+        "title": "Очень",
+        "artist": "JONY",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02810dc05e6dc5727f4b6c5349",
+        "url": "https://open.spotify.com/album/5iBZwiJS2S9s44a1D09ca4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5nLvz4ICyKXppqj0zvpq3a",
+        "title": "Phantom Ferrari",
+        "artist": "Sidhu Moose Wala, Intense",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b4845628f5d4d8050fb6d1b0",
+        "url": "https://open.spotify.com/album/5nLvz4ICyKXppqj0zvpq3a",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0aRZJsQxNfoCizGoHEQ0k9",
+        "title": "The Corner House",
+        "artist": "JESSE, Posple",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d14f67c1074c4dd5a11eed35",
+        "url": "https://open.spotify.com/album/0aRZJsQxNfoCizGoHEQ0k9",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "1GnefGQqU6HqFxpGpIf609",
+        "title": "Ke Kareli Chhath Baratiya (Chhath Geet)",
+        "artist": "Palak Muchhal",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ed53cfdc08529d8ee96e588",
+        "url": "https://open.spotify.com/album/1GnefGQqU6HqFxpGpIf609",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3jCztIw5CocFeFIXfnxAT5",
+        "title": "Ужас",
+        "artist": "Voskresenskii",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206f02aae0cd6c6a724842098",
+        "url": "https://open.spotify.com/album/3jCztIw5CocFeFIXfnxAT5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3ACLKANq4mYtPdeCuQN3rG",
+        "title": "Täna Vallutan Su Südame",
+        "artist": "Virge",
+        "type": "single",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e021b02225661faba45be29f539",
+        "url": "https://open.spotify.com/album/3ACLKANq4mYtPdeCuQN3rG",
         "total_tracks": 1,
         "genres": []
       }
