@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-15T13:28:48.685Z",
-  "total": 5939,
+  "fetched_at": "2026-11-16T14:53:44.918Z",
+  "total": 5968,
   "by_date": {
     "2026-05-15": [
       {
@@ -62502,6 +62502,83 @@
         "url": "https://open.spotify.com/album/38TNmqxrf5bGvaaa5fAOhE",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "2RnDoWbeBUohjqVR8CZzQw",
+        "title": "Dying In This House",
+        "artist": "Mack Geiger",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e022b56798ec8fb40cbbfbd7775",
+        "url": "https://open.spotify.com/album/2RnDoWbeBUohjqVR8CZzQw",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "79zGm562qzMTvoxJtoHRn5",
+        "title": "Outlier",
+        "artist": "Sam Barber",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ceb7f7f5118a76fe3f90959",
+        "url": "https://open.spotify.com/album/79zGm562qzMTvoxJtoHRn5",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "3eHX7aYtV7VxxSZmWBEKPA",
+        "title": "Dream Fatigue",
+        "artist": "Rex Orange County",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e029227aad7e74dca81fa9ff0ba",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "37s3KcWi2HUuBOsfhRBXh4",
+        "title": "Sweet Action II",
+        "artist": "Jack Harlow",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e026794e0141586f5d2be573d1b",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "4E6SlpgWPyvKmwYF9sM6x6",
+        "title": "FINAL GIRL",
+        "artist": "Dove Cameron",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0208bc779b23ba9ac74c4bc8ea",
+        "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "0o5QXB6ERxxTMAD2ertsi2",
+        "title": "Made You Look",
+        "artist": "Hudson Westbrook",
+        "type": "album",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0231ac74c474418fb91be84577",
+        "url": "https://open.spotify.com/album/0o5QXB6ERxxTMAD2ertsi2",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "7K9T4t0Oj0Ho8CR6Rq7hga",
+        "title": "hey boyyy",
+        "artist": "Slayyyter",
+        "type": "single",
+        "release_date": "2026-11-06",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207ec39f86659c312c6440b7e",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-07": [
@@ -63265,6 +63342,17 @@
         "release_date": "2026-11-09",
         "image": "https://i.scdn.co/image/ab67616d00001e023a1c806ed649ed6828b7c2f9",
         "url": "https://open.spotify.com/album/17cOhPHofH4T2Wx6Ilm47Z",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6T9ZMACdVbFDmk22nZLpzH",
+        "title": "ACES",
+        "artist": "Fall Out Boy",
+        "type": "single",
+        "release_date": "2026-11-09",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba164a2207400c58899d22c6",
+        "url": "https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH",
         "total_tracks": 1,
         "genres": []
       }
@@ -64140,6 +64228,17 @@
         "url": "https://open.spotify.com/album/2tzkHmECRayiIaROK5Ltg4",
         "total_tracks": 12,
         "genres": []
+      },
+      {
+        "id": "6TnYUZpDRbl6GiREL8Md4F",
+        "title": "Pirouette",
+        "artist": "2hollis",
+        "type": "album",
+        "release_date": "2026-11-11",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db3c4c37735a6bd7fcadbc33",
+        "url": "https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F",
+        "total_tracks": 16,
+        "genres": []
       }
     ],
     "2026-11-12": [
@@ -64723,6 +64822,17 @@
         "release_date": "2026-11-12",
         "image": "https://i.scdn.co/image/ab67616d00001e020a96b79a5553ecb5e73c985a",
         "url": "https://open.spotify.com/album/305dE0qtNLtGG8Rpev3mcX",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1HIb3KEXP8jCvmj4phNgpM",
+        "title": "Party With The Boys",
+        "artist": "Don Toliver",
+        "type": "single",
+        "release_date": "2026-11-12",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdb87fe2c93a0114eefc663a",
+        "url": "https://open.spotify.com/album/1HIb3KEXP8jCvmj4phNgpM",
         "total_tracks": 1,
         "genres": []
       }
@@ -65510,6 +65620,17 @@
         "url": "https://open.spotify.com/album/043W3iX59ijMcj7NM0vjRX",
         "total_tracks": 14,
         "genres": []
+      },
+      {
+        "id": "7fzCDEAxXhOZmNI5zd1rup",
+        "title": "apreibis",
+        "artist": "Robis",
+        "type": "single",
+        "release_date": "2026-11-15",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc5c110d81059a342c15af53",
+        "url": "https://open.spotify.com/album/7fzCDEAxXhOZmNI5zd1rup",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-14": [
@@ -65686,6 +65807,206 @@
         "release_date": "2026-11-14",
         "image": "https://i.scdn.co/image/ab67616d00001e020562c9fa924622bba9a63fc6",
         "url": "https://open.spotify.com/album/33GRv7d9q0nKGa8pgOgHUa",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-16": [
+      {
+        "id": "0GiFQ9l5vsV257q8URl6XJ",
+        "title": "PERFECT STORM",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bd5372d3fd63e9f523113a4",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "0EEXc3X9pPozYwgAdThtHD",
+        "title": "Higher Than Rap",
+        "artist": "Dynamicduo",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201f30610c11040e0892a9e1c",
+        "url": "https://open.spotify.com/album/0EEXc3X9pPozYwgAdThtHD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "71W56gU4QanbU37AhAvz3d",
+        "title": "REMIX TAPES, VOL. 1",
+        "artist": "RAP VIỆT",
+        "type": "album",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a744bacdd059b5e5343f7b1",
+        "url": "https://open.spotify.com/album/71W56gU4QanbU37AhAvz3d",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "7rJlmTKYHXYVtRF0ZnLXBA",
+        "title": "Choti Choti Gaiya",
+        "artist": "Anuradha Paudwal, Sanjeev Chaturvedi",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0204f92a74ff45845a8e3aba06",
+        "url": "https://open.spotify.com/album/7rJlmTKYHXYVtRF0ZnLXBA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1rWGwJuSpJtMEPF4bWLNQr",
+        "title": "70 פנים ללב",
+        "artist": "Noam Bettan",
+        "type": "album",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02316da68f3b20852dd65730c1",
+        "url": "https://open.spotify.com/album/1rWGwJuSpJtMEPF4bWLNQr",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "0hKFEyyNoPd9whakiAMcga",
+        "title": "FRIZBI",
+        "artist": "KSIOR, SISS, Goro",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e024cd57e58f7cafa7058718aed",
+        "url": "https://open.spotify.com/album/0hKFEyyNoPd9whakiAMcga",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4jYeuUVDiTi0tMgLmGRwI4",
+        "title": "Book and Black",
+        "artist": "Polycat",
+        "type": "album",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9a3f8dd1a30dc0510086d67",
+        "url": "https://open.spotify.com/album/4jYeuUVDiTi0tMgLmGRwI4",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "1SpLkHjJHRwyoCZ5UTV22r",
+        "title": "Drip Drop",
+        "artist": "ONE N' ONLY",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276135a76d81618a128ba9458",
+        "url": "https://open.spotify.com/album/1SpLkHjJHRwyoCZ5UTV22r",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4ywJdQrw6417y6tLCpN87g",
+        "title": "לא תנצחו אותי",
+        "artist": "Hop! Channel, Roee Epelbaum",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdd7badf1485591edc9c382f",
+        "url": "https://open.spotify.com/album/4ywJdQrw6417y6tLCpN87g",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "76WxatkFGyv1yCauGOgE5I",
+        "title": "UP (Remix 1)",
+        "artist": "ATEEZ",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e023975619df7ca1a6e57cf6b8e",
+        "url": "https://open.spotify.com/album/76WxatkFGyv1yCauGOgE5I",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2ojbLXeAEMCIdlNIiTxpeS",
+        "title": "Magrão Corolla De Vein",
+        "artist": "Mc Pelourinho, Iraqui ZL, dj eduardo da favela do pó, DJ Secreto",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e027bfe1d26913cc86c83a4db97",
+        "url": "https://open.spotify.com/album/2ojbLXeAEMCIdlNIiTxpeS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7vJTxz3eJcYfMdcXpiOW4u",
+        "title": "Piya Ghar Aaya (Club Mix)",
+        "artist": "Nusrat Fateh Ali Khan, Moin",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d5b56bd85cf5a2e4764d52e6",
+        "url": "https://open.spotify.com/album/7vJTxz3eJcYfMdcXpiOW4u",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6uGTzAtPdnFZygAGE476lM",
+        "title": "INEDITO (Z4N Remix)",
+        "artist": "Curly King, Z4n",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc1f59722a897e653603a499",
+        "url": "https://open.spotify.com/album/6uGTzAtPdnFZygAGE476lM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7L82XfS6eEXRhNLujgPOh6",
+        "title": "Keliauk iš naujo",
+        "artist": "Kamaniu Silelis",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c8315d715fc2c46af4cf50e",
+        "url": "https://open.spotify.com/album/7L82XfS6eEXRhNLujgPOh6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5zl0Rc22qLb4csxusbfAC4",
+        "title": "Korter í jól",
+        "artist": "Bubbi Morthens",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e022da1f7da4d38e8142766e29f",
+        "url": "https://open.spotify.com/album/5zl0Rc22qLb4csxusbfAC4",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fVsV2Q1zsp6bgrGxMqtVI",
+        "title": "Finansiālā Distonija",
+        "artist": "Fiņķis",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f81508e5ccbc555eb777908a",
+        "url": "https://open.spotify.com/album/1fVsV2Q1zsp6bgrGxMqtVI",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3niRNq6YfrP3BsroK3OkUa",
+        "title": "Soft Classical for Studying",
+        "artist": "Wolfgang Amadeus Mozart, Frédéric Chopin, Johann Sebastian Bach, Ludwig van Beethoven, Claude Debussy, Agustín Barrios Mangoré, Antonio Vivaldi, Antonín Dvořák, Arcangelo Corelli, Arvo Pärt",
+        "type": "compilation",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e023e1b5985515eb6b98be335eb",
+        "url": "https://open.spotify.com/album/3niRNq6YfrP3BsroK3OkUa",
+        "total_tracks": 198,
+        "genres": []
+      },
+      {
+        "id": "5NW3cUGVQsEam5r4LrRjkt",
+        "title": "Pigeonwolf Carries a Severed Head Home",
+        "artist": "Animal Party",
+        "type": "single",
+        "release_date": "2026-11-16",
+        "image": "https://i.scdn.co/image/ab67616d00001e02004302da47b236b25f1aa7a6",
+        "url": "https://open.spotify.com/album/5NW3cUGVQsEam5r4LrRjkt",
         "total_tracks": 1,
         "genres": []
       }
