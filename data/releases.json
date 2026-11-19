@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-18T15:09:58.036Z",
-  "total": 6056,
+  "fetched_at": "2026-11-19T15:18:11.538Z",
+  "total": 6096,
   "by_date": {
     "2026-05-15": [
       {
@@ -66980,6 +66980,450 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02647ed255e1e878325208f12f",
         "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3H9WkcBInLFixOcaLN1qG9",
+        "title": "OK Sin Querer",
+        "artist": "Ronny GTA, PJ Prod",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0204711d3bf5e67a5acae8e699",
+        "url": "https://open.spotify.com/album/3H9WkcBInLFixOcaLN1qG9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0wpiajGYvi3JglwadpR9B0",
+        "title": "Kalia Akhiku Chanhibu Nahi",
+        "artist": "Sonu Nigam",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd6d6758fdd4985ae6a5554d",
+        "url": "https://open.spotify.com/album/0wpiajGYvi3JglwadpR9B0",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "744NRXOYrDmtsKGZxjow66",
+        "title": "Vuelve a mí",
+        "artist": "Corazón Serrano",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df217b0e4337b8ffd8811809",
+        "url": "https://open.spotify.com/album/744NRXOYrDmtsKGZxjow66",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "29KUAmAgHcYmkODU4SvBYq",
+        "title": "Festa do Japa NK 1.0",
+        "artist": "DJ Japa NK, Mc WF, MC Aguiar, Mc Jon",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243eee675f43049a7eb452503",
+        "url": "https://open.spotify.com/album/29KUAmAgHcYmkODU4SvBYq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7vU1brjpcsiWNH2x6hQj6d",
+        "title": "RẠNG NGỜI VĂN HOÁ VIỆT NAM",
+        "artist": "Phương Mỹ Chi, DTAP",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b99178390e3f1d66b944e6c",
+        "url": "https://open.spotify.com/album/7vU1brjpcsiWNH2x6hQj6d",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6XTEGLsL583bNjhY1qFZln",
+        "title": "Maarivil Chirake (From \"Hail Mary\")",
+        "artist": "Jakes Bejoy, B.K. Harinarayanan, Seba Moon",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fb482aef21b350cd5359afcc",
+        "url": "https://open.spotify.com/album/6XTEGLsL583bNjhY1qFZln",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Nckr6EdSsxnDXbu2Z5LTt",
+        "title": "Ia-mă-n brațe viața mea (Live)",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c3f1588e688eaf19c5ef7aea",
+        "url": "https://open.spotify.com/album/5Nckr6EdSsxnDXbu2Z5LTt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7yLM4hB6EclSnwIkblyTC9",
+        "title": "Saint Tropez (Live)",
+        "artist": "Florin Salam",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac4b24d5781a1fb784ebabda",
+        "url": "https://open.spotify.com/album/7yLM4hB6EclSnwIkblyTC9",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2mdJU6zhf64Brced5jdDPE",
+        "title": "Are We Still Us?",
+        "artist": "Livia Hart",
+        "type": "single",
+        "release_date": "2026-11-18",
+        "image": "https://i.scdn.co/image/ab67616d00001e02881c75db4e6e6fb0131da1ed",
+        "url": "https://open.spotify.com/album/2mdJU6zhf64Brced5jdDPE",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-19": [
+      {
+        "id": "7zaoZb6AWYfx8XLBWk48Yo",
+        "title": "De Gira",
+        "artist": "Yk It’s Junaa",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e024113fcf5d4f4533122ab40d1",
+        "url": "https://open.spotify.com/album/7zaoZb6AWYfx8XLBWk48Yo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7tn2NCuvtigiytFDsmqoRh",
+        "title": "Sebeeny",
+        "artist": "TUL8TE",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02822019c9b3f5c2e5e8e0ad6b",
+        "url": "https://open.spotify.com/album/7tn2NCuvtigiytFDsmqoRh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2lGuPTbkb7Pb6PPrfCFys4",
+        "title": "深深浅浅",
+        "artist": "Jess Lee",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c5d1cb24b56f584a5d55fed",
+        "url": "https://open.spotify.com/album/2lGuPTbkb7Pb6PPrfCFys4",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "60cWzzrCCBGeOZ57dJK2u1",
+        "title": "Soothing Music Box Lullabies For Baby Sleep",
+        "artist": "The Wiggles, Dorothy the Dinosaur",
+        "type": "album",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ecb414a36b9e950bc0c8e06",
+        "url": "https://open.spotify.com/album/60cWzzrCCBGeOZ57dJK2u1",
+        "total_tracks": 26,
+        "genres": []
+      },
+      {
+        "id": "5mh0ojR9I1XXQuQQ3y4dGd",
+        "title": "Salvame",
+        "artist": "La Juntada De Los Artistas, Elias Tom",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eece42526b81bc14bf9fbb15",
+        "url": "https://open.spotify.com/album/5mh0ojR9I1XXQuQQ3y4dGd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6q9aTVJs02TEZjt9Bkx1Rq",
+        "title": "Hơn Cả Anh",
+        "artist": "VSTRA, Tyronee",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2e893f7cf572de159e9926b",
+        "url": "https://open.spotify.com/album/6q9aTVJs02TEZjt9Bkx1Rq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2aojOg9mS7c1i9HjI8fJCd",
+        "title": "اشوفه بكل مكان",
+        "artist": "Mohamed AlSalim, J Fair",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c17eae4eab04260e95ecde2",
+        "url": "https://open.spotify.com/album/2aojOg9mS7c1i9HjI8fJCd",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4IG69c7nmqVbWisyZYgk9O",
+        "title": "Cego, Surdo e Mudo",
+        "artist": "MC Ryan SP, Mc Neguinho PRT, Oldilla, Gudy",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02674687516646b4d8924a43a0",
+        "url": "https://open.spotify.com/album/4IG69c7nmqVbWisyZYgk9O",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "47DwWJvGkf19FV1AKefdTs",
+        "title": "Industry Chef",
+        "artist": "Abefe",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2d9d40156131627ea053884",
+        "url": "https://open.spotify.com/album/47DwWJvGkf19FV1AKefdTs",
+        "total_tracks": 6,
+        "genres": []
+      },
+      {
+        "id": "20UGlYiITd0FOCQobOuJQI",
+        "title": "รางวัลชนะเลิก (Commentator)",
+        "artist": "PP KRIT",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d65fa0499d50b44aaa2b274",
+        "url": "https://open.spotify.com/album/20UGlYiITd0FOCQobOuJQI",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4xvrPOfNxbMDgwQNAK0C8n",
+        "title": "Verão com Turma do Pagode (Ao Vivo)",
+        "artist": "Turma do Pagode",
+        "type": "compilation",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aac4239a2b409637d78b49bf",
+        "url": "https://open.spotify.com/album/4xvrPOfNxbMDgwQNAK0C8n",
+        "total_tracks": 37,
+        "genres": []
+      },
+      {
+        "id": "3ybh57n5CvagaDSmhNlHC1",
+        "title": "No Hagas Como Si Nada",
+        "artist": "Bayron Fire, El Jordan 23",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed2ed2481576686d13b72c35",
+        "url": "https://open.spotify.com/album/3ybh57n5CvagaDSmhNlHC1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cS3FWaV4rh1GAmJ1bxVHV",
+        "title": "EL LOSARTÁN",
+        "artist": "Juancho De La Espriella, Los de Juancho",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258b4cf64639e5166c9c2d6f4",
+        "url": "https://open.spotify.com/album/7cS3FWaV4rh1GAmJ1bxVHV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5uH96y4S64P66nT9UDcstg",
+        "title": "DADOI",
+        "artist": "Orange",
+        "type": "album",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc8a36639bca623171472d3b",
+        "url": "https://open.spotify.com/album/5uH96y4S64P66nT9UDcstg",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "3E7DOOTJopB3vs8jx9e8ao",
+        "title": "Arapuca",
+        "artist": "Mc Davi, MC Cassiano, Leonne, MC Bruno MS",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c305483fa816b70373235633",
+        "url": "https://open.spotify.com/album/3E7DOOTJopB3vs8jx9e8ao",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7Kp8xa4yzQ9g8tcWrx50Ro",
+        "title": "等無",
+        "artist": "Amazing Show",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293eff69a3373c9ce758155a4",
+        "url": "https://open.spotify.com/album/7Kp8xa4yzQ9g8tcWrx50Ro",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "2m9B4WBHacM8cpeLAiPGo8",
+        "title": "שלום חבר (לייב פארק הירקון 2026)",
+        "artist": "Sarit Hadad, שריף",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214f4f019143f43f2c1b883cb",
+        "url": "https://open.spotify.com/album/2m9B4WBHacM8cpeLAiPGo8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7cqqML08RK63956ltEEvOQ",
+        "title": "Càng Cay Càng Đã",
+        "artist": "BigDaddy",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a301232b24c39ea5b388c3a",
+        "url": "https://open.spotify.com/album/7cqqML08RK63956ltEEvOQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "46NuRMBl6DQgQJD4niSnUn",
+        "title": "Khwaabon Ki Dhoop",
+        "artist": "Vishal Mishra, Sachet Tandon, Stebin Ben, Darshan Raval",
+        "type": "compilation",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e682b26e9f3c23065ca71f7b",
+        "url": "https://open.spotify.com/album/46NuRMBl6DQgQJD4niSnUn",
+        "total_tracks": 15,
+        "genres": []
+      },
+      {
+        "id": "7viSvjUTg4CCNdUlLBXAaE",
+        "title": "Omule, esti muritor",
+        "artist": "MIRA, Vescan",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c750f3d043ad8fd665cfd897",
+        "url": "https://open.spotify.com/album/7viSvjUTg4CCNdUlLBXAaE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4BQQJ2lcTepU2KM4FX9XZq",
+        "title": "大桌子",
+        "artist": "頑童Mj116",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e20f2ee445602335af85375d",
+        "url": "https://open.spotify.com/album/4BQQJ2lcTepU2KM4FX9XZq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1QNijFMCoMizTgWGJdW67s",
+        "title": "Minutite broya",
+        "artist": "Yanitsa, Leo",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025f2c806e058598b48f99d342",
+        "url": "https://open.spotify.com/album/1QNijFMCoMizTgWGJdW67s",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0blLlknyI87bz0nI8kN45X",
+        "title": "FATĂ REA / FATĂ BUNĂ",
+        "artist": "NANE",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e023bfcc0151cc0f7b3514c7cfb",
+        "url": "https://open.spotify.com/album/0blLlknyI87bz0nI8kN45X",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0RO8YXAiKN8kQYsuPJQWNU",
+        "title": "Bohócautó",
+        "artist": "Carson Coma",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a8ecd137ec29e659bab8671",
+        "url": "https://open.spotify.com/album/0RO8YXAiKN8kQYsuPJQWNU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qnADVIsRSYwx843mqcDwD",
+        "title": "虧欠 (Live)",
+        "artist": "Zhang Zhen Yue",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e0275481bc760e7eded7512f875",
+        "url": "https://open.spotify.com/album/5qnADVIsRSYwx843mqcDwD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6eCiypQrOvdTDd8g4nydyh",
+        "title": "Ngokya",
+        "artist": "Emtee, Lowfeye",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b280b3a414dee72ff7dc9b00",
+        "url": "https://open.spotify.com/album/6eCiypQrOvdTDd8g4nydyh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6t13HKaKqgNG6XOlRyV4KB",
+        "title": "媽媽的眼睛 (Live)",
+        "artist": "Zhang Zhen Yue",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e025c6e23767e18b38576ddeed7",
+        "url": "https://open.spotify.com/album/6t13HKaKqgNG6XOlRyV4KB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5toFYoaGqvHKekHAjvL3VY",
+        "title": "Mast Mausam",
+        "artist": "Arijit Singh, Jyotica Tangri, Sachet Tandon",
+        "type": "compilation",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d0aca2a376e83cbcf16c45b",
+        "url": "https://open.spotify.com/album/5toFYoaGqvHKekHAjvL3VY",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "5o0T4QivCQyJaKCJlazmFZ",
+        "title": "答案 (Live)",
+        "artist": "Zhang Zhen Yue",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02492bc0d74d386486615e147c",
+        "url": "https://open.spotify.com/album/5o0T4QivCQyJaKCJlazmFZ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4L5ABDCSx0IssUjZkqph3J",
+        "title": "Scandic",
+        "artist": "Ude Af Kontrol",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bdccedf0faee98b5bea26ede",
+        "url": "https://open.spotify.com/album/4L5ABDCSx0IssUjZkqph3J",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-20": [
+      {
+        "id": "7fCaNxPQDrIPzt7sfXPMZH",
+        "title": "KISS N TELL (☆Taku Takahashi Remix)",
+        "artist": "aespa",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7548cd36852fadbd28b4e24",
+        "url": "https://open.spotify.com/album/7fCaNxPQDrIPzt7sfXPMZH",
+        "total_tracks": 2,
         "genres": []
       }
     ]
