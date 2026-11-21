@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-20T14:56:28.205Z",
-  "total": 6145,
+  "fetched_at": "2026-11-21T14:16:09.745Z",
+  "total": 6187,
   "by_date": {
     "2026-05-15": [
       {
@@ -67643,6 +67643,28 @@
         "url": "https://open.spotify.com/album/4GVJQh9NSGpnngqejntDj8",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "41i4XOUUlwpV6P7kWxnAPc",
+        "title": "Let's Rock (feat. Kodak Black) [from GTAVI: The Album]",
+        "artist": "Don Toliver, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e0f248f0ba28dd8b7079b141",
+        "url": "https://open.spotify.com/album/41i4XOUUlwpV6P7kWxnAPc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2W6l92kY78JzbaUnreRMEp",
+        "title": "TF? (from GTAVI: The Album)",
+        "artist": "Don Toliver, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbc6e8e1ed42734d00e37ac0",
+        "url": "https://open.spotify.com/album/2W6l92kY78JzbaUnreRMEp",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-20": [
@@ -67962,6 +67984,448 @@
         "release_date": "2026-11-20",
         "image": "https://i.scdn.co/image/ab67616d00001e023a7e71169abf9fa3c86112d8",
         "url": "https://open.spotify.com/album/4zjAn8IwtlBNGmsiL17tyV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2J33n3xk9ArHdSdJf09zfR",
+        "title": "Se Toco El T#tito Con Mi Gl*ck",
+        "artist": "Anuel AA",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027cc0a2be75edc67d718db714",
+        "url": "https://open.spotify.com/album/2J33n3xk9ArHdSdJf09zfR",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "0m5mZJLX8YbN0htfkc3F0A",
+        "title": "Albi El Ghali",
+        "artist": "Wael Kfoury",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e022020663ad4edf36580044c0e",
+        "url": "https://open.spotify.com/album/0m5mZJLX8YbN0htfkc3F0A",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0rAr7WEt9yAoQu6Qnpl762",
+        "title": "Waqt (Soul Version) - Vishal Mishra Vocals Only",
+        "artist": "Vishal Mishra, Kaushal Kishore",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0269306c0536da8117c755b502",
+        "url": "https://open.spotify.com/album/0rAr7WEt9yAoQu6Qnpl762",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3dAa5u6SqytGY8Vt525d2D",
+        "title": "Voy Por Ella",
+        "artist": "Rochy RD, Lomy Billones",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e021172b281547b94fe9178f116",
+        "url": "https://open.spotify.com/album/3dAa5u6SqytGY8Vt525d2D",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2PGMlkW8n9yMowZAXvyGP8",
+        "title": "Low Budget Vagina",
+        "artist": "Vybz Kartel, Chambah",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02985ca7d811535de1b6ff1b2c",
+        "url": "https://open.spotify.com/album/2PGMlkW8n9yMowZAXvyGP8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6s6FXsgGlBUwhQILpn1juS",
+        "title": "Saliw Padamdam",
+        "artist": "Adie",
+        "type": "album",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cef7858df2bf9820a0a11e",
+        "url": "https://open.spotify.com/album/6s6FXsgGlBUwhQILpn1juS",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "3URJn5qxTzFLM6EeoHmyW1",
+        "title": "Yaaro Manathile x Vocal Drop",
+        "artist": "Harris Jayaraj, Bombay Jayashri, Krishh, Pa. Vijay",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0207c33e5238785bc4abacfc36",
+        "url": "https://open.spotify.com/album/3URJn5qxTzFLM6EeoHmyW1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3xfSHo9LFtLKJDqT2XWDtq",
+        "title": "PARANOÏAQUE",
+        "artist": "Shaw, Inkonnu",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288c562a9c1da06856c47d863",
+        "url": "https://open.spotify.com/album/3xfSHo9LFtLKJDqT2XWDtq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1EjJHJ7lsnzaOpjHvFhuze",
+        "title": "tình trạng: tình tan",
+        "artist": "ERIK",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f09862c864689fe27dfd194a",
+        "url": "https://open.spotify.com/album/1EjJHJ7lsnzaOpjHvFhuze",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0n9tJlfi5lMJ3arLkipDnO",
+        "title": "TITO 1:15",
+        "artist": "Don Pablo Mures, Yemil",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dbe3ed0a8756805ed9bd38b7",
+        "url": "https://open.spotify.com/album/0n9tJlfi5lMJ3arLkipDnO",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1xZi6vWoP40AzXQAo4UEqR",
+        "title": "Mallorca RMX",
+        "artist": "Hellfield, Sentino, Niko Pandetta, CrackHouse",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027c630f2baf50a7c2dc40ddfa",
+        "url": "https://open.spotify.com/album/1xZi6vWoP40AzXQAo4UEqR",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5GxNxe1N2Adw3t40WKb9sv",
+        "title": "Correteando El Sueño",
+        "artist": "Calibre 50, El Coyote Y Su Banda Tierra Santa",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025fbefd3ff71ea2726606907f",
+        "url": "https://open.spotify.com/album/5GxNxe1N2Adw3t40WKb9sv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "675etKHf25SUcZew2OghSB",
+        "title": "Osey Ramulamma (From \"Mysaa\")",
+        "artist": "Jakes Bejoy, Vandemataram Srinivas, Suddala Ashok Teja",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e023822e8cebcbc5649e37ab727",
+        "url": "https://open.spotify.com/album/675etKHf25SUcZew2OghSB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7IgQz6uqWIalWIxtCnffTE",
+        "title": "Calle Pero Elegante",
+        "artist": "Corona, Luis Vega",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0289d9f0d259f66b0d6ee3e0b3",
+        "url": "https://open.spotify.com/album/7IgQz6uqWIalWIxtCnffTE",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2Gv2qKwrKxUZ025POfeOmT",
+        "title": "THE SIN : PARALLEL WORLD",
+        "artist": "ENHYPEN",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c81f9e70bfc0bd5eff18533",
+        "url": "https://open.spotify.com/album/2Gv2qKwrKxUZ025POfeOmT",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "2AYsMgvFIUXHULXjTOFfuz",
+        "title": "Siempre Para Arriba",
+        "artist": "Los Tigres Del Norte",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0239c822fcb7021ec226c8eeb5",
+        "url": "https://open.spotify.com/album/2AYsMgvFIUXHULXjTOFfuz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4569jF2yYaWMvXuj3dDvFD",
+        "title": "GiiiRIP",
+        "artist": "BIGBANG",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a511ec1def1b2fa7b9681a92",
+        "url": "https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "282f2XTfTIEyP6c1sp2SCG",
+        "title": "Өзге*ер",
+        "artist": "MYNBAY",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b196017b656a2a14e514422",
+        "url": "https://open.spotify.com/album/282f2XTfTIEyP6c1sp2SCG",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7n2ke4T1IbIY73XPWtcKep",
+        "title": "Oke Oka Kala (From \"Aakasamlo Oka Tara\")",
+        "artist": "G. V. Prakash, Sruthy Sivadas, Aswin Sathya, Sreemani",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245b23e3c2430aa6e615473cf",
+        "url": "https://open.spotify.com/album/7n2ke4T1IbIY73XPWtcKep",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0OLyQNshddnQysph4Pfomq",
+        "title": "Praia Partiu",
+        "artist": "DJ Gu, MC Tuto, MC Vine7, MC Joãozinho VT",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d2226a43ffefe5649238cfe2",
+        "url": "https://open.spotify.com/album/0OLyQNshddnQysph4Pfomq",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "22d3Cp1QSE2LgIg8fv3t0p",
+        "title": "小蝴蝶",
+        "artist": "姚晓棠",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279cf6d88493f7f6f7f9cce3b",
+        "url": "https://open.spotify.com/album/22d3Cp1QSE2LgIg8fv3t0p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2qSHP88sh1Ok1uRPwE6MOW",
+        "title": "No Banco do HB20",
+        "artist": "Mc Rodrigo do CN, DJ EB da BS, Game Records, Mc Lira Jhonny",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e020000e87832648b00d8132457",
+        "url": "https://open.spotify.com/album/2qSHP88sh1Ok1uRPwE6MOW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "29mHIdxEDiXPjaBMnbpHCl",
+        "title": "Aaj Se Teri - Arijit Singh Vocals Only",
+        "artist": "Arijit Singh, Amit Trivedi",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa4213260bed9a76438a884d",
+        "url": "https://open.spotify.com/album/29mHIdxEDiXPjaBMnbpHCl",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1u8qBN1uQkVJ0KKQBOElnp",
+        "title": "الصحة حلوة قولت اعيشها صح",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cdec717def66983b7e2fbe59",
+        "url": "https://open.spotify.com/album/1u8qBN1uQkVJ0KKQBOElnp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3w6eeGeDIxMGrTGqwpLtxU",
+        "title": "Paranormal",
+        "artist": "Bo9al",
+        "type": "album",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e75a4a95c5e72a99a8dadd4b",
+        "url": "https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6EwNaHkECmTg7tydqJXCf5",
+        "title": "Prado",
+        "artist": "Bo9al, Mobydick",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f45e483dd35e9cf0798cd7a",
+        "url": "https://open.spotify.com/album/6EwNaHkECmTg7tydqJXCf5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0NGpHNjIrB85u5L2CpefQv",
+        "title": "Sebta",
+        "artist": "Bo9al, ZIAD ZAZA",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e020da80dd2e00a6ffa756078df",
+        "url": "https://open.spotify.com/album/0NGpHNjIrB85u5L2CpefQv",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "14hxlcXOQnq6YUl1wRgmL0",
+        "title": "Ecran Noir",
+        "artist": "Tommy Red",
+        "type": "single",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e020dffe04908495f223b3526f6",
+        "url": "https://open.spotify.com/album/14hxlcXOQnq6YUl1wRgmL0",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-21": [
+      {
+        "id": "22Qy1VURjfGdeJVtaiUshm",
+        "title": "Unfinished Business (From \"Jailer 2\")",
+        "artist": "Anirudh Ravichander, Romy, Ananthakrrishnan, Anand Kashinath",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ddd8cd9447e6ffd2802c8c4f",
+        "url": "https://open.spotify.com/album/22Qy1VURjfGdeJVtaiUshm",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ILEqLdZf1bNU9cbOzVwgF",
+        "title": "Novo Eu",
+        "artist": "NATTAN",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1c6b4eb658b3c4a9d7f91ee",
+        "url": "https://open.spotify.com/album/6ILEqLdZf1bNU9cbOzVwgF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1cck2pYBrU1FoPWQh7DAia",
+        "title": "Foda-se Minha Ex",
+        "artist": "MC Rick, TJorge",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d509bd4166be4e5ae8ac238f",
+        "url": "https://open.spotify.com/album/1cck2pYBrU1FoPWQh7DAia",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7HCR3YLdvwI3deysWsH8BA",
+        "title": "Mashup Biển Trời Hoa Lá",
+        "artist": "Minh Huy",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e7e3f6adfff444b20553b00",
+        "url": "https://open.spotify.com/album/7HCR3YLdvwI3deysWsH8BA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1WXUeyALz2ijictWFnb9xj",
+        "title": "I Want You (ENHYPEN Remix)",
+        "artist": "ENHYPEN",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a00e0b6a190a74fac3a9ffdb",
+        "url": "https://open.spotify.com/album/1WXUeyALz2ijictWFnb9xj",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2hGsVIYosyi9XRFoQygYHc",
+        "title": "Bila Kau Ada",
+        "artist": "Noh Salleh",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e021bddfaa01704607b2ee6219b",
+        "url": "https://open.spotify.com/album/2hGsVIYosyi9XRFoQygYHc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vpbyztCVk2ATjU05m56KT",
+        "title": "Сен",
+        "artist": "Toregali Toreali",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e025931aca8b80e47756848a81e",
+        "url": "https://open.spotify.com/album/2vpbyztCVk2ATjU05m56KT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6NwL1pag9FAvi08OgCmkxB",
+        "title": "Diviki Diviki (From \"January 12 Vidudala\")",
+        "artist": "G. V. Prakash, Madhu Priya, Haripriya, Anantha Sriram",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e0243d4b8ff717e925f8dfbf50c",
+        "url": "https://open.spotify.com/album/6NwL1pag9FAvi08OgCmkxB",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5RHTfL5UAwVCVQnHRiqjmN",
+        "title": "A Place for You at the",
+        "artist": "Favé",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e022984501e499f64b0bb58f0b2",
+        "url": "https://open.spotify.com/album/5RHTfL5UAwVCVQnHRiqjmN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2bXJKKhEa9llq8b5h0G2ZY",
+        "title": "My Favourite Songs Shreya Ghoshal",
+        "artist": "Shreya Ghoshal",
+        "type": "album",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f29e91fadd0aec387240c05",
+        "url": "https://open.spotify.com/album/2bXJKKhEa9llq8b5h0G2ZY",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "18mWjLT9Bfd14bkowUJYIh",
+        "title": "انا جيت",
+        "artist": "Eslam Kabonga",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adfc3ddbdc1f561d7b82f34c",
+        "url": "https://open.spotify.com/album/18mWjLT9Bfd14bkowUJYIh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5DCB78yiIA3RFajj3nmgWI",
+        "title": "WASSUP (Awakening)",
+        "artist": "Benjiz, bruv",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d1e4ef0ddf41e6d137c3ea9e",
+        "url": "https://open.spotify.com/album/5DCB78yiIA3RFajj3nmgWI",
         "total_tracks": 1,
         "genres": []
       }
