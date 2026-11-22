@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-21T14:16:09.745Z",
-  "total": 6187,
+  "fetched_at": "2026-11-22T14:06:41.623Z",
+  "total": 6214,
   "by_date": {
     "2026-05-15": [
       {
@@ -65508,6 +65508,83 @@
         "url": "https://open.spotify.com/album/03IVVGHZkHS8qq8E5SCfM9",
         "total_tracks": 2,
         "genres": []
+      },
+      {
+        "id": "1XVsmx5SwHTXEowtD5T22L",
+        "title": "The Hunger Games: Sunrise on the Reaping - The Album",
+        "artist": "The Hunger Games",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282e578144e25d53f95d2b145",
+        "url": "https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L",
+        "total_tracks": 29,
+        "genres": []
+      },
+      {
+        "id": "0sjhU3kzHU2dfd6SVrzLIp",
+        "title": "GMFU",
+        "artist": "Offset",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02876443a32451cabd25b85c2e",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp",
+        "total_tracks": 18,
+        "genres": []
+      },
+      {
+        "id": "2Viod36wE7KWkL2FME0plW",
+        "title": "STILL SLEEP ??",
+        "artist": "Sleepy Hallow",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ba502832ca41616be7c6f996",
+        "url": "https://open.spotify.com/album/2Viod36wE7KWkL2FME0plW",
+        "total_tracks": 23,
+        "genres": []
+      },
+      {
+        "id": "74ExA1UleSA3kSC0TyNObv",
+        "title": "Legendary Love",
+        "artist": "Snoh Aalegra",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e0276f43fb861247fec28b3d7a9",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6xpcVVjSc8kUuddtdJtiY0",
+        "title": "HEELMATIC",
+        "artist": "Westside Gunn",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e020a52e1f5e6147d83b2e396bf",
+        "url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0",
+        "total_tracks": 16,
+        "genres": []
+      },
+      {
+        "id": "1klnZYqw7rMDLendqpetLm",
+        "title": "GOOD DOPE SELL ITSELF",
+        "artist": "Belly Gang Kushington",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2eb70a7d51106945c7ef530",
+        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm",
+        "total_tracks": 12,
+        "genres": []
+      },
+      {
+        "id": "07Q9bUJarYrFjhxofoenM0",
+        "title": "Carnaval De Luz",
+        "artist": "U2",
+        "type": "album",
+        "release_date": "2026-11-13",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf3b944d0598a49f747b44d5",
+        "url": "https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0",
+        "total_tracks": 12,
+        "genres": []
       }
     ],
     "2026-11-15": [
@@ -68427,6 +68504,228 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02d1e4ef0ddf41e6d137c3ea9e",
         "url": "https://open.spotify.com/album/5DCB78yiIA3RFajj3nmgWI",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2S1FPToDJoC0ewkTcxnflc",
+        "title": "Ela Olele",
+        "artist": "Mohamed Hamaki",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f94b6157e6bc39be3a1dcc03",
+        "url": "https://open.spotify.com/album/2S1FPToDJoC0ewkTcxnflc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5ecJM69u45S5nE8kYsPFB1",
+        "title": "لما كانت كدابة (يوم رجوعك عيد)",
+        "artist": "Essam Sasa",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ece9bfa62bc882b7cc6daa86",
+        "url": "https://open.spotify.com/album/5ecJM69u45S5nE8kYsPFB1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4fRLDTIzeXiFNYNpnYx4DY",
+        "title": "Gặp Anh Giữa Luân Hồi",
+        "artist": "Bon Nghiêm",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02161fc0fd3cf51d3a53ced226",
+        "url": "https://open.spotify.com/album/4fRLDTIzeXiFNYNpnYx4DY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3Om5NJjqwQZrue1Eo489eQ",
+        "title": "Close To You",
+        "artist": "Pete Groove",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02aa730251fe0b3765a5440ee5",
+        "url": "https://open.spotify.com/album/3Om5NJjqwQZrue1Eo489eQ",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6uLjzv8yJDtUaEiG8uO3Ve",
+        "title": "Cause I am just me",
+        "artist": "Ryytel",
+        "type": "single",
+        "release_date": "2026-11-21",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c882fbc7c37eb7864579e2f4",
+        "url": "https://open.spotify.com/album/6uLjzv8yJDtUaEiG8uO3Ve",
+        "total_tracks": 3,
+        "genres": []
+      }
+    ],
+    "2026-11-22": [
+      {
+        "id": "5JBF7YN1oYyGIsCdZs7eYG",
+        "title": "THE MASKED SINGER VIETNAM 2026, TẬP 8",
+        "artist": "The Masked Singer",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0263d8b31d971e649a3e30ac2d",
+        "url": "https://open.spotify.com/album/5JBF7YN1oYyGIsCdZs7eYG",
+        "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "2o6SYsJ251whoSGD8yfstB",
+        "title": "100 Days of Deception, Pt. 6 (Original Soundtrack)",
+        "artist": "Roy Kim",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028ede69f8400e0959b593ee9f",
+        "url": "https://open.spotify.com/album/2o6SYsJ251whoSGD8yfstB",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "3zDgV1A4QsQrlxqnCbzr0p",
+        "title": "Laut Ke Aa",
+        "artist": "Shreya Ghoshal, Javed Akhtar, Mannan Shaah",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244e7ad36282e5f433a21bcdf",
+        "url": "https://open.spotify.com/album/3zDgV1A4QsQrlxqnCbzr0p",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "519ieuTGT9T7rrDF48PLV8",
+        "title": "Aaya (From \"Ganesh : Dust to Stardust\")",
+        "artist": "Sonu Nigam, Savaniee Ravindrra, Ganesh Acharya, Junaid Kumar",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b302ef47c244141d1e3abff9",
+        "url": "https://open.spotify.com/album/519ieuTGT9T7rrDF48PLV8",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Sh59RAKerAXW0FAWeLE24",
+        "title": "ארץ נהדרת Live",
+        "artist": "Bar Tzabary",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e023275eda68fed53da11667904",
+        "url": "https://open.spotify.com/album/5Sh59RAKerAXW0FAWeLE24",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6THXJpdrGIkr2WBYmWLYZL",
+        "title": "Pag-Ibig ay Kanibalismo II (Live at The Cozy Cove)",
+        "artist": "fitterkarma",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0239ad6e1016654e30ba44729c",
+        "url": "https://open.spotify.com/album/6THXJpdrGIkr2WBYmWLYZL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5fXKbe5Jy4FGMNoIIdrIsx",
+        "title": "Sumpa (Live at The Cozy Cove)",
+        "artist": "fitterkarma",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e022c0614907e015164cf2511b4",
+        "url": "https://open.spotify.com/album/5fXKbe5Jy4FGMNoIIdrIsx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "40eAPEVAOKcFgDGvFKhM4x",
+        "title": "Imi E Dor De Noi De Amândoi",
+        "artist": "Nicolae Guta",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e026e20c3b1c41dd5caae0e12a5",
+        "url": "https://open.spotify.com/album/40eAPEVAOKcFgDGvFKhM4x",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4tcg8CAPlnaqEuZTeBA3yh",
+        "title": "أجل الرحلة",
+        "artist": "Oumaima Taleb",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cbef2d7bfa21ce7ec0f0f1c3",
+        "url": "https://open.spotify.com/album/4tcg8CAPlnaqEuZTeBA3yh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3cLacigZs2W0G95B6vq42x",
+        "title": "Classical for Winter: An Evening of Music",
+        "artist": "Wolfgang Amadeus Mozart, Johann Sebastian Bach, Franz Schubert, Frédéric Chopin, Ludwig van Beethoven, Antonio Vivaldi, Johannes Brahms, Franz Liszt, Pyotr Ilyich Tchaikovsky, George Frideric Handel",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b784edc0f097d8953a55b7df",
+        "url": "https://open.spotify.com/album/3cLacigZs2W0G95B6vq42x",
+        "total_tracks": 78,
+        "genres": []
+      },
+      {
+        "id": "1kDGXxZ5kcL5GrwPHYsXIx",
+        "title": "Romperte El Colale",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0224c173288e7966c41ed3aa82",
+        "url": "https://open.spotify.com/album/1kDGXxZ5kcL5GrwPHYsXIx",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5w9ejbYJrsbAqpu8Ynmt5V",
+        "title": "Joe",
+        "artist": "Hatsune Miku, Hana",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254eba841db73b5979ed72606",
+        "url": "https://open.spotify.com/album/5w9ejbYJrsbAqpu8Ynmt5V",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4ACYnc7UtXMDhYvXI8qTFP",
+        "title": "Truth",
+        "artist": "Hatsune Miku, monoko",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a328c76140fbfee8fcc7a339",
+        "url": "https://open.spotify.com/album/4ACYnc7UtXMDhYvXI8qTFP",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4FEl5fDIWfxNAVLKj6ZNx1",
+        "title": "Pink Mode",
+        "artist": "Hatsune Miku, unmia",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed33334a5fceb4cca998627e",
+        "url": "https://open.spotify.com/album/4FEl5fDIWfxNAVLKj6ZNx1",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "6Yv2qB3fAMmerxjhRS2rgW",
+        "title": "Neon",
+        "artist": "Hatsune Miku, 海茶",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d56ce563da4195633835b1e",
+        "url": "https://open.spotify.com/album/6Yv2qB3fAMmerxjhRS2rgW",
+        "total_tracks": 10,
         "genres": []
       }
     ]
