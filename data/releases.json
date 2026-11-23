@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-22T14:06:41.623Z",
-  "total": 6214,
+  "fetched_at": "2026-11-23T17:28:26.340Z",
+  "total": 6247,
   "by_date": {
     "2026-05-15": [
       {
@@ -67742,6 +67742,17 @@
         "url": "https://open.spotify.com/album/2W6l92kY78JzbaUnreRMEp",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "0jgRjaxbK29djrWFc8qcTN",
+        "title": "Burn This Shit Down (from GTAVI: The Album)",
+        "artist": "Travis Scott, Grand Theft Auto VI",
+        "type": "single",
+        "release_date": "2026-11-19",
+        "image": "https://i.scdn.co/image/ab67616d00001e022fa89435dbcfc1d7d4c2e30a",
+        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-20": [
@@ -68726,6 +68737,362 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028d56ce563da4195633835b1e",
         "url": "https://open.spotify.com/album/6Yv2qB3fAMmerxjhRS2rgW",
         "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "4cEpK3R8UXkZDkMQN8gh5N",
+        "title": "O.M: Operation Mole (Original Soundtrack)",
+        "artist": "Sai Abhyankkar",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e024587cf8417107288a9df58c8",
+        "url": "https://open.spotify.com/album/4cEpK3R8UXkZDkMQN8gh5N",
+        "total_tracks": 11,
+        "genres": []
+      },
+      {
+        "id": "3nclAHvS4wQIIwNbiFT4Hi",
+        "title": "Like a Dog",
+        "artist": "Bella Kay",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec4a5b18f2c957b4fa71dd3b",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6jEJyAVEgc5MgasDUi3hgw",
+        "title": "اللي هيطير هقص ريشو ( العيل اللي شوفتيه غلط )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c72b18a6a5336f7ba4bea22c",
+        "url": "https://open.spotify.com/album/6jEJyAVEgc5MgasDUi3hgw",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3iW3iiad0PsCMnLGA4SLI7",
+        "title": "I’m no robot",
+        "artist": "Thịnh Suy",
+        "type": "single",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e028320ddbc26f505cde096b0e8",
+        "url": "https://open.spotify.com/album/3iW3iiad0PsCMnLGA4SLI7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0PVkAQpbqyUx1hgnpTC7S8",
+        "title": "YIN ÉS YANG",
+        "artist": "Grasa",
+        "type": "album",
+        "release_date": "2026-11-22",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ea3dda1d33bd332ba676fe3",
+        "url": "https://open.spotify.com/album/0PVkAQpbqyUx1hgnpTC7S8",
+        "total_tracks": 7,
+        "genres": []
+      }
+    ],
+    "2026-11-23": [
+      {
+        "id": "2O7j5mKjiyJRLNUo4RZKzs",
+        "title": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+        "artist": "Grand Theft Auto VI",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0288b1c0bf4739bee429d6c5bb",
+        "url": "https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs",
+        "total_tracks": 57,
+        "genres": []
+      },
+      {
+        "id": "4BfFjn3XSrWCAQCphLGmzy",
+        "title": "I Want You (Remix)",
+        "artist": "ENHYPEN",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b14efe90a0d41dcfe73f03f",
+        "url": "https://open.spotify.com/album/4BfFjn3XSrWCAQCphLGmzy",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "7glG41WAWuzc6kdm8uBrDt",
+        "title": "WHEREVER YOU ARE",
+        "artist": "Chase Atlantic",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e30b45adea0568cc6604b9b",
+        "url": "https://open.spotify.com/album/7glG41WAWuzc6kdm8uBrDt",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3mmR8quAyEH7yzgJ6OaHbe",
+        "title": "Thodi Der - Synthwave Mix",
+        "artist": "Shreya Ghoshal, VDJ Fly, Amlan Barua",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259b63cfc80a38a80d076a503",
+        "url": "https://open.spotify.com/album/3mmR8quAyEH7yzgJ6OaHbe",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1LG7DdC6Ukc6RZl6rbWkzA",
+        "title": "Фрісон",
+        "artist": "MONATIK, Команда 2026",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02870a663c07e5764b6a707dfb",
+        "url": "https://open.spotify.com/album/1LG7DdC6Ukc6RZl6rbWkzA",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2OGTqJELYTKJiPsNHK6MNr",
+        "title": "Sewa",
+        "artist": "Diljit Dosanjh",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029575ca45967f31901c03bd7e",
+        "url": "https://open.spotify.com/album/2OGTqJELYTKJiPsNHK6MNr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2wAhYbFsdzZZeHxRYFYK0C",
+        "title": "Drip (IÖN Ver.)",
+        "artist": "ATEEZ",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f4686b922cbf7785c006775",
+        "url": "https://open.spotify.com/album/2wAhYbFsdzZZeHxRYFYK0C",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3c4qtgoj71sdb6AYHCcnyS",
+        "title": "Merry Xmas Everybody",
+        "artist": "Bryan Adams, Sarah McLachlan, Blue Rodeo",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0209a288e9369c20ac51b4f7c9",
+        "url": "https://open.spotify.com/album/3c4qtgoj71sdb6AYHCcnyS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2gPgjj5AOZuQ30YU3NfdCV",
+        "title": "بالحب حس",
+        "artist": "DDG'S, DOC, Rocket",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026444d22202512cb889b8ef6c",
+        "url": "https://open.spotify.com/album/2gPgjj5AOZuQ30YU3NfdCV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "52yO0UmmHFTtxvJcz2z7yM",
+        "title": "El Sabor De La Traición (En Vivo)",
+        "artist": "Eugenia Quevedo",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e020895093e9ab4258525580072",
+        "url": "https://open.spotify.com/album/52yO0UmmHFTtxvJcz2z7yM",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0DCiOqwoXi1Ecz70dTw10J",
+        "title": "וביניהם",
+        "artist": "Hop! Channel, Orit Shalom, Roee Epelbaum",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eba7ad1e23e7f2043f2d791f",
+        "url": "https://open.spotify.com/album/0DCiOqwoXi1Ecz70dTw10J",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7wel7L9xv3xXYKGQXes1Pr",
+        "title": "Apna Bana Le - Synthwave Mix",
+        "artist": "Arijit Singh, Sachin-Jigar, VDJ Fly, Amlan Barua",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02997ea2d4d10fe7be9e793107",
+        "url": "https://open.spotify.com/album/7wel7L9xv3xXYKGQXes1Pr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6ulJrHVOImjv5NcY3In9C7",
+        "title": "Arijit Singh Revisited",
+        "artist": "Arijit Singh",
+        "type": "compilation",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b065e2b4e8b5d67aa7c9dffe",
+        "url": "https://open.spotify.com/album/6ulJrHVOImjv5NcY3In9C7",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0ro6EgwMav6MStWI1oi1ZG",
+        "title": "Halo",
+        "artist": "陳卓賢 Ian",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e525b8dc2d92674aa0179cd",
+        "url": "https://open.spotify.com/album/0ro6EgwMav6MStWI1oi1ZG",
+        "total_tracks": 9,
+        "genres": []
+      },
+      {
+        "id": "5wFqYLWR5BCDnEYQRDxiFf",
+        "title": "PERFECT STORM (TAEHYUN Ver.)",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de1cc8616c4c342f8b872424",
+        "url": "https://open.spotify.com/album/5wFqYLWR5BCDnEYQRDxiFf",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "7xUMyAMHJmiMVMHhyO1CZv",
+        "title": "PERFECT STORM (SOOBIN Ver.)",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0267b72d1c87bf48fbad23704b",
+        "url": "https://open.spotify.com/album/7xUMyAMHJmiMVMHhyO1CZv",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "16FFiqNB4HFWPce3bCMlKI",
+        "title": "PERFECT STORM (BEOMGYU Ver.)",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d736aa4ed2c4ee6c8afcbcf",
+        "url": "https://open.spotify.com/album/16FFiqNB4HFWPce3bCMlKI",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "4LQFfyRVeVQaLEysykqnYj",
+        "title": "PERFECT STORM (HUENINGKAI Ver.)",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206edb9d4c91971b94e94e7c2",
+        "url": "https://open.spotify.com/album/4LQFfyRVeVQaLEysykqnYj",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "1N0fswLjXBvNlty4gs7pyi",
+        "title": "Greșeală cu greșeală (Acustic)",
+        "artist": "Lele, Narcisa, Manele VTM",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a0f7dffa57468ab694d21add",
+        "url": "https://open.spotify.com/album/1N0fswLjXBvNlty4gs7pyi",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6vej8EmiUvOi3mLjPmc9hK",
+        "title": "Aisa Banna Sawarna Mubaraq Tumhen",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240c1cf79338decd8705e936f",
+        "url": "https://open.spotify.com/album/6vej8EmiUvOi3mLjPmc9hK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1CebCFAzSD1Kbr4n4dzckN",
+        "title": "Sanson Ki Mala (Sarangi Version)",
+        "artist": "Nusrat Fateh Ali Khan, Moin",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f9f962eea7e9c359c1bc1fa",
+        "url": "https://open.spotify.com/album/1CebCFAzSD1Kbr4n4dzckN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3LazsPiVhROdcN3D4FmjlX",
+        "title": "PERFECT STORM (YEONJUN Ver.)",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e026b3adb365ee7b4c2ab5408ca",
+        "url": "https://open.spotify.com/album/3LazsPiVhROdcN3D4FmjlX",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2L1LCGHntqCKdmKmp9uxBz",
+        "title": "ESTOS DIAS",
+        "artist": "Jay Elite",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f83f9b4212460e4ff4ad9309",
+        "url": "https://open.spotify.com/album/2L1LCGHntqCKdmKmp9uxBz",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3dHWX5z4jQuremJdHTNrfp",
+        "title": "Ellos Tan Diciendo",
+        "artist": "100tifico",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e021c16d69285c0bfe033a0ef7b",
+        "url": "https://open.spotify.com/album/3dHWX5z4jQuremJdHTNrfp",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3GV16uWg711FeZlQmKUyff",
+        "title": "Rostropovich Plays Bach",
+        "artist": "Johann Sebastian Bach, Mstislav Rostropovich",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e029703fbdddb5ddaa08042b4d5",
+        "url": "https://open.spotify.com/album/3GV16uWg711FeZlQmKUyff",
+        "total_tracks": 49,
+        "genres": []
+      },
+      {
+        "id": "0RKJV5o4JYgEFc2MUMHjb9",
+        "title": "TE BUSCO",
+        "artist": "Jay E",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e025203a5b465cbcfaac6e9a135",
+        "url": "https://open.spotify.com/album/0RKJV5o4JYgEFc2MUMHjb9",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-24": [
+      {
+        "id": "2MqdP7TulwlActUiwthIAG",
+        "title": "無人知曉的我",
+        "artist": "Eric Chou",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e025ce92ae1c14223ceef83dc64",
+        "url": "https://open.spotify.com/album/2MqdP7TulwlActUiwthIAG",
+        "total_tracks": 1,
         "genres": []
       }
     ]
