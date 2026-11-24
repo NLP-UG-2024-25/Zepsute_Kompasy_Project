@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-23T17:28:26.340Z",
-  "total": 6247,
+  "fetched_at": "2026-11-24T17:00:09.363Z",
+  "total": 6277,
   "by_date": {
     "2026-05-15": [
       {
@@ -68382,6 +68382,17 @@
         "url": "https://open.spotify.com/album/14hxlcXOQnq6YUl1wRgmL0",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "5BYKG4MHfySZthe2W6r7n4",
+        "title": "Grand Theft Auto VI: The Album",
+        "artist": "Grand Theft Auto VI",
+        "type": "album",
+        "release_date": "2026-11-20",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f62c9c136c0ab9ef78f2d15",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4",
+        "total_tracks": 34,
+        "genres": []
       }
     ],
     "2026-11-21": [
@@ -69081,6 +69092,116 @@
         "url": "https://open.spotify.com/album/0RKJV5o4JYgEFc2MUMHjb9",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "7l3EzPIUl4oaDr77IGQp7T",
+        "title": "O.M: Operation Mole (Original Motion Picture Soundtrack)",
+        "artist": "Sai Abhyankkar",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245fb81a71a4d14daf94751d4",
+        "url": "https://open.spotify.com/album/7l3EzPIUl4oaDr77IGQp7T",
+        "total_tracks": 19,
+        "genres": []
+      },
+      {
+        "id": "5slOiFfxPLYupyrunQuSed",
+        "title": "Prahaar: The Untold Story Of Ujjwal Nikam",
+        "artist": "Pritam, Vishal Mishra, Emiway Bantai, Vaibhav Pani",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b23c64886786e4eded1fb24",
+        "url": "https://open.spotify.com/album/5slOiFfxPLYupyrunQuSed",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "7azH0fdBjB5XyYQZ5eBgRM",
+        "title": "Thành Đô x Một Màu Cô Đơn (Tuấn Smile x HanHan Remix)",
+        "artist": "Quang Đăng Trần, MeMe Media, Hân Hân Remix, Tuấn Smile x HanHan",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db1ba86bdba43747879c63a3",
+        "url": "https://open.spotify.com/album/7azH0fdBjB5XyYQZ5eBgRM",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "7jHnnLVHsw3pH7zCNmD661",
+        "title": "Nee Jathalo (From \"Hey Kannamma\")",
+        "artist": "Karthik, Malavika, Bharadwaj Patrudu",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a66ea9ab3c73e880ad74868",
+        "url": "https://open.spotify.com/album/7jHnnLVHsw3pH7zCNmD661",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Tz6zRhGsLxUyn2Kop7UNE",
+        "title": "Dilwa Ke Dukhwa",
+        "artist": "Pawan Singh, Khushi Kakkar",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f4fc47de0edb6b723bec810",
+        "url": "https://open.spotify.com/album/5Tz6zRhGsLxUyn2Kop7UNE",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5yNVBjJtQuaY9sZzIzC4es",
+        "title": "Hechizo de Amor",
+        "artist": "Alfredo Escudero",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233089ac48b9ef5ff2469c412",
+        "url": "https://open.spotify.com/album/5yNVBjJtQuaY9sZzIzC4es",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3H3WuARguPJI2QR5LDC6qM",
+        "title": "Maari 2 (Original Sountrack)",
+        "artist": "Yuvan Shankar Raja",
+        "type": "album",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e772ca002e49eaa0b173109",
+        "url": "https://open.spotify.com/album/3H3WuARguPJI2QR5LDC6qM",
+        "total_tracks": 21,
+        "genres": []
+      },
+      {
+        "id": "73oDZCRcR3ile4h6GxJoEL",
+        "title": "Ramai Cu Mine (Live)",
+        "artist": "Adrian Minune",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e025905370896f085ca2d04f298",
+        "url": "https://open.spotify.com/album/73oDZCRcR3ile4h6GxJoEL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1i8OT9dZA95SZ6pjkANIPT",
+        "title": "Lubenita (Live)",
+        "artist": "TONI DE LA BRASOV",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e02672af5521ef7c11680bf9b1c",
+        "url": "https://open.spotify.com/album/1i8OT9dZA95SZ6pjkANIPT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2loLvLOG0ZP5dFh42UQTze",
+        "title": "Kooliaeg (Bass Boosted)",
+        "artist": "SFprod",
+        "type": "single",
+        "release_date": "2026-11-23",
+        "image": "https://i.scdn.co/image/ab67616d00001e0232c112d3758bb126f1ce9ad9",
+        "url": "https://open.spotify.com/album/2loLvLOG0ZP5dFh42UQTze",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-24": [
@@ -69093,6 +69214,217 @@
         "image": "https://i.scdn.co/image/ab67616d00001e025ce92ae1c14223ceef83dc64",
         "url": "https://open.spotify.com/album/2MqdP7TulwlActUiwthIAG",
         "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "081pJ4Vo3DFfypvNjLqD46",
+        "title": "Orbiter (Live From New York)",
+        "artist": "Noah Kahan",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e025247b2f08d37093d5ce6896c",
+        "url": "https://open.spotify.com/album/081pJ4Vo3DFfypvNjLqD46",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7epFU2M4r6gD6x0UhmJJMn",
+        "title": "Magic",
+        "artist": "RESCENE",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028901e1e20a8a7f3dbb3762cc",
+        "url": "https://open.spotify.com/album/7epFU2M4r6gD6x0UhmJJMn",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0jL8Bll8p7ysn4KnQIerXh",
+        "title": "Main Character Energy",
+        "artist": "Shashwat Sachdev, Thaman S, Sajid",
+        "type": "compilation",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c06c34f7f33584f6b6cb37a",
+        "url": "https://open.spotify.com/album/0jL8Bll8p7ysn4KnQIerXh",
+        "total_tracks": 10,
+        "genres": []
+      },
+      {
+        "id": "0E3DiKkfDGer6iLjSSbKsa",
+        "title": "Banjaara Mai Tera",
+        "artist": "Banjaare, Roni",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02710fbff8937d12661b594613",
+        "url": "https://open.spotify.com/album/0E3DiKkfDGer6iLjSSbKsa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1oZDIXRPD10zYeEWICEBpc",
+        "title": "Omniscient Reader's Viewpoint OST",
+        "artist": "Younha",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ccbecc93796ac795d1f87fa",
+        "url": "https://open.spotify.com/album/1oZDIXRPD10zYeEWICEBpc",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "4bCz1jTSF9d9TJHBdKHMHU",
+        "title": "เพลงรักที่เธอไม่ฟัง",
+        "artist": "fellow fellow, Kakagoesbackhome",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230f323fdef09cd228188530d",
+        "url": "https://open.spotify.com/album/4bCz1jTSF9d9TJHBdKHMHU",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5mAXg6Zf1K4a6xH5JQFcRc",
+        "title": "So Sexy",
+        "artist": "Eleni Foureira, ARCADE",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0236f8a551768fe391aaa402bd",
+        "url": "https://open.spotify.com/album/5mAXg6Zf1K4a6xH5JQFcRc",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "57bCpcmxoKk08YU3BjlHRY",
+        "title": "Te Secó Mi Sombra",
+        "artist": "Jesús Adrián Romero, Matisse",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02455790651f5d4de49f64cbdb",
+        "url": "https://open.spotify.com/album/57bCpcmxoKk08YU3BjlHRY",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "74n11ZE5sKpmh1qE2890bX",
+        "title": "BABYCORE",
+        "artist": "Мэйби Бэйби",
+        "type": "album",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290f63679da35fa5199df2fd5",
+        "url": "https://open.spotify.com/album/74n11ZE5sKpmh1qE2890bX",
+        "total_tracks": 8,
+        "genres": []
+      },
+      {
+        "id": "2lQ6DkitCCHIYlbwKtn5R6",
+        "title": "Budeia fra heia",
+        "artist": "Breizaas, Skogsramp",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e024b9be18b49fe4b893370152b",
+        "url": "https://open.spotify.com/album/2lQ6DkitCCHIYlbwKtn5R6",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2FXV4auO9kxr3WHC3qVEkV",
+        "title": "Tek sende (Acoustic)",
+        "artist": "akimmmich",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02df11e6bac2f62cfd48550b88",
+        "url": "https://open.spotify.com/album/2FXV4auO9kxr3WHC3qVEkV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "484LprbSEWrxQNuL5B4FHc",
+        "title": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+        "artist": "TOMORROW X TOGETHER",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ea94464fe70629518884165",
+        "url": "https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "52fnnQ6q4Z2OL91rwLEdNo",
+        "title": "Petronella",
+        "artist": "Shandesh, Hitboss SA",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ac90eb705ac5158851f8dacb",
+        "url": "https://open.spotify.com/album/52fnnQ6q4Z2OL91rwLEdNo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4eWzP5afiwdvpqiBQYovBr",
+        "title": "PERDIDO EN TI",
+        "artist": "Jay Elite",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e023f9916b3a80496aeaa673eab",
+        "url": "https://open.spotify.com/album/4eWzP5afiwdvpqiBQYovBr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Z3BGJTNqACQNiOwqlr4cW",
+        "title": "انا ربيت جروايا ( العباية علي البطل حكاية )",
+        "artist": "مصطفي الجن و هادي الصغير - تيم الابداع",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c00a05715c86be5fdd3f13b4",
+        "url": "https://open.spotify.com/album/5Z3BGJTNqACQNiOwqlr4cW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6dBmurqfp4DiuBwniJAklN",
+        "title": "Sanu Ik Pal (Voilin Version)",
+        "artist": "Nusrat Fateh Ali Khan, Moin",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b75a070ac69c409a8c56de6",
+        "url": "https://open.spotify.com/album/6dBmurqfp4DiuBwniJAklN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "03xf0835ZcPDAPFsfXRhex",
+        "title": "Kya Qayamat Yeh Aada",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e029dd1bb5e7ca6fe7521824be1",
+        "url": "https://open.spotify.com/album/03xf0835ZcPDAPFsfXRhex",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2nlIIzE1J7Oc3clKFVvQT7",
+        "title": "Pelēks Nogurums",
+        "artist": "Estere Tauriņa",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b18cf1622c06af86992b6be",
+        "url": "https://open.spotify.com/album/2nlIIzE1J7Oc3clKFVvQT7",
+        "total_tracks": 1,
+        "genres": []
+      }
+    ],
+    "2026-11-25": [
+      {
+        "id": "67DGuV6YAyUMj9JEv2QMIA",
+        "title": "SUIATSU",
+        "artist": "Stray Kids",
+        "type": "album",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed900421feed995f057ef025",
+        "url": "https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA",
+        "total_tracks": 7,
         "genres": []
       }
     ]
