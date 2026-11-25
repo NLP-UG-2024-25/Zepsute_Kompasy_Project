@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-24T17:00:09.363Z",
-  "total": 6277,
+  "fetched_at": "2026-11-25T16:50:44.974Z",
+  "total": 6312,
   "by_date": {
     "2026-05-15": [
       {
@@ -69413,6 +69413,83 @@
         "url": "https://open.spotify.com/album/2nlIIzE1J7Oc3clKFVvQT7",
         "total_tracks": 1,
         "genres": []
+      },
+      {
+        "id": "37s69bZo0PJKx5nIl1fa7i",
+        "title": "Para Todas do Job, Vol. 2",
+        "artist": "Orochi, MC GP",
+        "type": "album",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0264619727eed3a4d4af3cf5d9",
+        "url": "https://open.spotify.com/album/37s69bZo0PJKx5nIl1fa7i",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "6kuQ6VrTK8nU2Y3gF7SJt5",
+        "title": "Diaa Diaa (from Leila Bazet Khales)",
+        "artist": "Wegz",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0298d1e971b4ffc9f9c4214387",
+        "url": "https://open.spotify.com/album/6kuQ6VrTK8nU2Y3gF7SJt5",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5Jzv2xYXy31MuZHb9ILB1l",
+        "title": "Te Felicito",
+        "artist": "Lauta, Nico Valdi, Phontana",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e022920453f26c0eebcc29894a0",
+        "url": "https://open.spotify.com/album/5Jzv2xYXy31MuZHb9ILB1l",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5bae5HSi258hscBP03lqFo",
+        "title": "افتحولو اسوبتيفاي",
+        "artist": "حمو المرشدي",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ef3a87825a28142f729512e8",
+        "url": "https://open.spotify.com/album/5bae5HSi258hscBP03lqFo",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0wmtdlR6RgIICHq7D5HZv4",
+        "title": "Der Teufel und das Licht",
+        "artist": "Kontra K",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a735f63eae9c48bb710697f",
+        "url": "https://open.spotify.com/album/0wmtdlR6RgIICHq7D5HZv4",
+        "total_tracks": 3,
+        "genres": []
+      },
+      {
+        "id": "5nasluoYx3r2973DuKz7hw",
+        "title": "Jul i Dagopagoland",
+        "artist": "Dagopago Barnesanger, Musikk for de minste, Julemusikk For Barn",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e0296e2e8c2086990aee07d06ea",
+        "url": "https://open.spotify.com/album/5nasluoYx3r2973DuKz7hw",
+        "total_tracks": 5,
+        "genres": []
+      },
+      {
+        "id": "3yIwaRdX6o8m4qAKSGNcKC",
+        "title": "Kto z nás?",
+        "artist": "SIMILIVINLIFE, Loudz1",
+        "type": "single",
+        "release_date": "2026-11-24",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da8663b5d06ece2ff0db8028",
+        "url": "https://open.spotify.com/album/3yIwaRdX6o8m4qAKSGNcKC",
+        "total_tracks": 1,
+        "genres": []
       }
     ],
     "2026-11-25": [
@@ -69425,6 +69502,314 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02ed900421feed995f057ef025",
         "url": "https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA",
         "total_tracks": 7,
+        "genres": []
+      },
+      {
+        "id": "1VpWkdQVddOdrd6V4AyxeW",
+        "title": "You're Still The One",
+        "artist": "UB40",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02958f31726d6311ee72ceb803",
+        "url": "https://open.spotify.com/album/1VpWkdQVddOdrd6V4AyxeW",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6wun2ov3Z9XcB7m5QTvtQC",
+        "title": "Intentions",
+        "artist": "Hikaru Utada",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200c3db434cb87002fadcdf86",
+        "url": "https://open.spotify.com/album/6wun2ov3Z9XcB7m5QTvtQC",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3bxt1dDJD8xvNnHNsC0nJB",
+        "title": "Cry to Your Mother (From \"BINIverse and Chorus\")",
+        "artist": "BINI",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f15193df8e50936076e9fae2",
+        "url": "https://open.spotify.com/album/3bxt1dDJD8xvNnHNsC0nJB",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "6vsLgkAFJ9AubnmCyzxvw3",
+        "title": "Lai Ja Lai Ja",
+        "artist": "Amit Trivedi, Asees Kaur, Saaheb",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec389239bf65842679857624",
+        "url": "https://open.spotify.com/album/6vsLgkAFJ9AubnmCyzxvw3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2BcpTCr2IwKzxskp25pgoF",
+        "title": "UN DM",
+        "artist": "Dowba Montana",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270e281e1cdb66be3990efab9",
+        "url": "https://open.spotify.com/album/2BcpTCr2IwKzxskp25pgoF",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1fEy51lmY7SXqeY61EfPsV",
+        "title": "No Bonjour",
+        "artist": "Franglish",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02da717f6949f9e87165363d00",
+        "url": "https://open.spotify.com/album/1fEy51lmY7SXqeY61EfPsV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5qs3gZK8As1w6pCOdC0Mfa",
+        "title": "รักครึ่งนึง อดทนครึ่งนึง",
+        "artist": "Bodyslam",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0240735ffbeb3ec3fb5c0bc417",
+        "url": "https://open.spotify.com/album/5qs3gZK8As1w6pCOdC0Mfa",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "3YmDSpQNZ52vUtQEy4gU8M",
+        "title": "De Dia Ela Toma Toma",
+        "artist": "MC Menor da VG, MC Luana SP, MC MN",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02524084d0fc5d10bc103ecb6b",
+        "url": "https://open.spotify.com/album/3YmDSpQNZ52vUtQEy4gU8M",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2JbMH3DbUbgs9jO8oyJVRr",
+        "title": "Ensani",
+        "artist": "Nabil",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e029c39b93120af41e39e2d543f",
+        "url": "https://open.spotify.com/album/2JbMH3DbUbgs9jO8oyJVRr",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "48OM5ti0F450R3NjLcPbOS",
+        "title": "Аяяй",
+        "artist": "Parfeniuk",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020e8a934fa18c3767f2d99994",
+        "url": "https://open.spotify.com/album/48OM5ti0F450R3NjLcPbOS",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7BgmebGsX4EtbM0rsEnZn3",
+        "title": "HPNY",
+        "artist": "PUN",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fdc5aa2a28b8f66a821b501c",
+        "url": "https://open.spotify.com/album/7BgmebGsX4EtbM0rsEnZn3",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "66bGa9gTJc8PJDBRlRVZsb",
+        "title": "Nine to Six, Pt. 2 (Original Soundtrack)",
+        "artist": "Christopher",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290e165a6fca2d9c5ac71b88d",
+        "url": "https://open.spotify.com/album/66bGa9gTJc8PJDBRlRVZsb",
+        "total_tracks": 2,
+        "genres": []
+      },
+      {
+        "id": "13QEZt1i5PZxtk9yeHKhG7",
+        "title": "Everybody",
+        "artist": "IV OF SPADES",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02198e75a61117aee4487bc645",
+        "url": "https://open.spotify.com/album/13QEZt1i5PZxtk9yeHKhG7",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "1zJE8WH7shOJ2dJkhczMwZ",
+        "title": "White Night",
+        "artist": "Ludovico Einaudi",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0234c37b91236cae23b7ca9ff6",
+        "url": "https://open.spotify.com/album/1zJE8WH7shOJ2dJkhczMwZ",
+        "total_tracks": 4,
+        "genres": []
+      },
+      {
+        "id": "0flv4t88dzWunJLTHkYVze",
+        "title": "rosalinda",
+        "artist": "ByeAlex és a Slepp",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e061347f1add06f5aba0dd47",
+        "url": "https://open.spotify.com/album/0flv4t88dzWunJLTHkYVze",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "5xkkdf61xbh3pbVvZFBQmf",
+        "title": "Sem I Love You",
+        "artist": "MC Leozinho ZS, Eduardinho dos Teclados, DG e Batidão Stronda, Tícia Rebecca",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b2708b62c5c70397ba2205e0",
+        "url": "https://open.spotify.com/album/5xkkdf61xbh3pbVvZFBQmf",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4I0zHfGPj7QmgFhkKvMFC1",
+        "title": "Ciki ciki",
+        "artist": "Lele, Manele VTM",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5a90bbda20988bf500afc87",
+        "url": "https://open.spotify.com/album/4I0zHfGPj7QmgFhkKvMFC1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "4VNEn3gZzMabqeO4ka4PiV",
+        "title": "Hot TopiCC",
+        "artist": "KKevin",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e023ec677d48eeccf29dfe7342d",
+        "url": "https://open.spotify.com/album/4VNEn3gZzMabqeO4ka4PiV",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "49sgOVTYgmaPVkzU8CMLBN",
+        "title": "Солнце",
+        "artist": "KhaliF",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020b8adb31a30394e5caa845a1",
+        "url": "https://open.spotify.com/album/49sgOVTYgmaPVkzU8CMLBN",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "19hzok6u21MlxTR7gKuYIi",
+        "title": "kettle",
+        "artist": "SPITZ",
+        "type": "album",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eb0f5e822e5e17ef9ef6e19",
+        "url": "https://open.spotify.com/album/19hzok6u21MlxTR7gKuYIi",
+        "total_tracks": 13,
+        "genres": []
+      },
+      {
+        "id": "42AcC021Fvsd44jkcVRa2q",
+        "title": "Catalogue*",
+        "artist": "Kabza De Small",
+        "type": "album",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e020f477546c7e2549deb45212b",
+        "url": "https://open.spotify.com/album/42AcC021Fvsd44jkcVRa2q",
+        "total_tracks": 28,
+        "genres": []
+      },
+      {
+        "id": "3JzXVfbwRcTzy8bLra5Lo1",
+        "title": "TETEA",
+        "artist": "Jay Elite",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213588447c48edeebcc799448",
+        "url": "https://open.spotify.com/album/3JzXVfbwRcTzy8bLra5Lo1",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "0nb8Hu9BjNHgLF714Q6bpK",
+        "title": "Sistemul Lui Leo Kuweit",
+        "artist": "Leo de la Kuweit",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f55d4f324a283f1565f3c854",
+        "url": "https://open.spotify.com/album/0nb8Hu9BjNHgLF714Q6bpK",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6LqbXMoM9q4DJmEf1HEUhL",
+        "title": "ALS IK EERDER GA",
+        "artist": "Idaly",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a68458a23cf2cdf0b65ece36",
+        "url": "https://open.spotify.com/album/6LqbXMoM9q4DJmEf1HEUhL",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7DiYUpdmacPDD6M52YI84N",
+        "title": "PEA VASTU!",
+        "artist": "EiK 2509",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9d5207d65d017a0426ba363",
+        "url": "https://open.spotify.com/album/7DiYUpdmacPDD6M52YI84N",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "2vc8smRrHkITrwy5Ij5Xqh",
+        "title": "Puto Prostituto - Capixaba",
+        "artist": "Mc Rodrigo do CN, Prod Lazim, MC Marsha, Santos MC",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7933ae0dc6af4e0c6188a33",
+        "url": "https://open.spotify.com/album/2vc8smRrHkITrwy5Ij5Xqh",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "7iMFUZOOY25niFfkemDAYT",
+        "title": "Unka Banna Sawarna",
+        "artist": "Nusrat Fateh Ali Khan",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed9eb5f65444ccd09eb30605",
+        "url": "https://open.spotify.com/album/7iMFUZOOY25niFfkemDAYT",
+        "total_tracks": 1,
+        "genres": []
+      },
+      {
+        "id": "6s9Zd50e0LGS7qCHTT8XXg",
+        "title": "The Steps of a Genius, Vol. 2",
+        "artist": "Wolfgang Amadeus Mozart, Schola Camerata",
+        "type": "single",
+        "release_date": "2026-11-25",
+        "image": "https://i.scdn.co/image/ab67616d00001e025095b54f30522fb2677b1153",
+        "url": "https://open.spotify.com/album/6s9Zd50e0LGS7qCHTT8XXg",
+        "total_tracks": 3,
         "genres": []
       }
     ]
